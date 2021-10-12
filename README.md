@@ -95,7 +95,7 @@
 |**2021-10-08**|**Stereo Dense Scene Reconstruction and Accurate Laparoscope Localization for Learning-Based Navigation in Robot-Assisted Surgery**|Ruofeng Wei, Bin Li, Hangjie Mo, Bo Lu, Yonghao Long, Bohan Yang, Qi Dou, Yunhui Liu, Dong Sun|[2110.03912v1](http://arxiv.org/abs/2110.03912v1)|null|
 |**2021-10-08**|**Automatic annotation of visual deep neural networks**|Ming Li, ChenHao Guo|[2110.03851v1](http://arxiv.org/abs/2110.03851v1)|null|
 |**2021-10-07**|**Camera Calibration through Camera Projection Loss**|Talha Hanif Butt, Murtaza Taj|[2110.03479v1](http://arxiv.org/abs/2110.03479v1)|null|
-|**2021-10-07**|**TreeGCN-ED: Encoding Point Cloud using a Tree-Structured Graph Network**|Prajwal Singh, Kaustubh Sadekar, Shanmuganathan Raman|[2110.03170v1](http://arxiv.org/abs/2110.03170v1)|**[link](https://github.com/prajwalsingh/TreeGCN-ED)**|
+|**2021-10-07**|**TreeGCN-ED: Encoding Point Cloud using a Tree-Structured Graph Network**|Prajwal Singh, Kaustubh Sadekar, Shanmuganathan Raman|[2110.03170v2](http://arxiv.org/abs/2110.03170v2)|**[link](https://github.com/prajwalsingh/TreeGCN-ED)**|
 |**2021-10-06**|**Topologically Consistent Multi-View Face Inference Using Volumetric Sampling**|Tianye Li, Shichen Liu, Timo Bolkart, Jiayi Liu, Hao Li, Yajie Zhao|[2110.02948v1](http://arxiv.org/abs/2110.02948v1)|null|
 |**2021-10-05**|**Echo-Reconstruction: Audio-Augmented 3D Scene Reconstruction**|Justin Wilson, Nicholas Rewkowski, Ming C. Lin, Henry Fuchs|[2110.02405v1](http://arxiv.org/abs/2110.02405v1)|null|
 |**2021-10-05**|**3D-MOV: Audio-Visual LSTM Autoencoder for 3D Reconstruction of Multiple Objects from Video**|Justin Wilson, Ming C. Lin|[2110.02404v1](http://arxiv.org/abs/2110.02404v1)|null|
