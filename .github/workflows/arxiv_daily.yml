@@ -50,7 +50,7 @@ jobs:
       - name: Push new cv-arxiv-daily.md
         uses: github-actions-x/commit@v2.6
         with:
-          github-token: ${{ secrets.G_T }}
+          github-token: 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
           commit-message: "update today cv arxiv"
           files: README.md cv-arxiv-daily.json
           rebase: 'true'
