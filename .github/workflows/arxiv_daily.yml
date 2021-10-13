@@ -9,15 +9,13 @@ on:
   schedule:
     - cron:  "30 08 * * *"  #'*/60 * * * *'
   # Triggers the workflow on push or pull request events but only for the main branch
-  push:
-     branches:
-     - main
+  #push:
+  #   branches:
+  #   - main
 
 env:
 
-  GITHUB_NAME: min-zou
-  GITHUB_EMAIL: xxiao_l@163.com
-  
+  GITHUB_NAME: min-zou  
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
