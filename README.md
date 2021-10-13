@@ -9,7 +9,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff, Patrik Persson, Zhiyong Sun, Karl Åström, Anders Robertsson|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang, Can Pu, Kasra Khosoussi, David M. Rosen, Dehann Fourie, Jonathan P. How, John J. Leonard|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|null|
 |**2021-10-01**|**ASH: A Modern Framework for Parallel Spatial Hashing in 3D Perception**|Wei Dong, Yixing Lao, Michael Kaess, Vladlen Koltun|[2110.00511v1](http://arxiv.org/abs/2110.00511v1)|null|
-|**2021-10-01**|**From SLAM to Situational Awareness: Challenges and Survey**|Hriday Bavle, Jose Luis Sanchez-Lopez, Eduardo F. Schmidt, Holger Voos|[2110.00273v1](http://arxiv.org/abs/2110.00273v1)|null|
+|**2021-10-01**|**From SLAM to Situational Awareness: Challenges and Survey**|Hriday Bavle, Jose Luis Sanchez-Lopez, Eduardo F. Schmidt, Holger Voos|[2110.00273v2](http://arxiv.org/abs/2110.00273v2)|null|
 |**2021-09-30**|**Uncertainty Estimation of Dense Optical-Flow for Robust Visual Navigation**|Yonhon Ng, Hongdong Li, Jonghyuk Kim|[2109.14828v1](http://arxiv.org/abs/2109.14828v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
