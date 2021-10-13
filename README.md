@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-12**|**Learning Efficient Multi-Agent Cooperative Visual Exploration**|Chao Yu, Xinyi Yang, Jiaxuan Gao, Huazhong Yang, Yu Wang, Yi Wu|[2110.05734v1](http://arxiv.org/abs/2110.05734v1)|null|
 |**2021-10-07**|**Self-Supervised Depth Completion for Active Stereo**|Frederik Warburg, Daniel Hernandez-Juarez, Juan Tarrio, Alexander Vakhitov, Ujwal Bonde, Pablo Alcantarilla|[2110.03234v1](http://arxiv.org/abs/2110.03234v1)|null|
 |**2021-10-06**|**InterpolationSLAM: A Novel Robust Visual SLAM System in Rotating Scenes**|Zhenkun Zhu, Jikai Wang|[2110.02593v1](http://arxiv.org/abs/2110.02593v1)|null|
 |**2021-10-04**|**Fast Uncertainty Quantification for Active Graph SLAM**|Julio A. Placed, José A. Castellanos|[2110.01289v1](http://arxiv.org/abs/2110.01289v1)|**[link](https://github.com/julioplaced/active_graph_slam)**|
@@ -10,7 +11,6 @@
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang, Can Pu, Kasra Khosoussi, David M. Rosen, Dehann Fourie, Jonathan P. How, John J. Leonard|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|null|
 |**2021-10-01**|**ASH: A Modern Framework for Parallel Spatial Hashing in 3D Perception**|Wei Dong, Yixing Lao, Michael Kaess, Vladlen Koltun|[2110.00511v1](http://arxiv.org/abs/2110.00511v1)|null|
 |**2021-10-01**|**From SLAM to Situational Awareness: Challenges and Survey**|Hriday Bavle, Jose Luis Sanchez-Lopez, Eduardo F. Schmidt, Holger Voos|[2110.00273v2](http://arxiv.org/abs/2110.00273v2)|null|
-|**2021-09-30**|**Uncertainty Estimation of Dense Optical-Flow for Robust Visual Navigation**|Yonhon Ng, Hongdong Li, Jonghyuk Kim|[2109.14828v1](http://arxiv.org/abs/2109.14828v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,8 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-12**|**ABO: Dataset and Benchmarks for Real-World 3D Object Understanding**|Jasmine Collins, Shubham Goel, Achleshwar Luthra, Leon Xu, Kenan Deng, Xi Zhang, Tomas F. Yago Vicente, Himanshu Arora, Thomas Dideriksen, Matthieu Guillaumin, Jitendra Malik|[2110.06199v1](http://arxiv.org/abs/2110.06199v1)|null|
+|**2021-10-11**|**Neural Radiance Fields Approach to Deep Multi-View Photometric Stereo**|Berk Kaya, Suryansh Kumar, Francesco Sarno, Vittorio Ferrari, Luc Van Gool|[2110.05594v1](http://arxiv.org/abs/2110.05594v1)|null|
 |**2021-10-08**|**Stereo Dense Scene Reconstruction and Accurate Laparoscope Localization for Learning-Based Navigation in Robot-Assisted Surgery**|Ruofeng Wei, Bin Li, Hangjie Mo, Bo Lu, Yonghao Long, Bohan Yang, Qi Dou, Yunhui Liu, Dong Sun|[2110.03912v1](http://arxiv.org/abs/2110.03912v1)|null|
 |**2021-10-08**|**Automatic annotation of visual deep neural networks**|Ming Li, ChenHao Guo|[2110.03851v1](http://arxiv.org/abs/2110.03851v1)|null|
 |**2021-10-07**|**Camera Calibration through Camera Projection Loss**|Talha Hanif Butt, Murtaza Taj|[2110.03479v1](http://arxiv.org/abs/2110.03479v1)|null|
@@ -100,5 +102,3 @@
 |**2021-10-05**|**Echo-Reconstruction: Audio-Augmented 3D Scene Reconstruction**|Justin Wilson, Nicholas Rewkowski, Ming C. Lin, Henry Fuchs|[2110.02405v1](http://arxiv.org/abs/2110.02405v1)|null|
 |**2021-10-05**|**3D-MOV: Audio-Visual LSTM Autoencoder for 3D Reconstruction of Multiple Objects from Video**|Justin Wilson, Ming C. Lin|[2110.02404v1](http://arxiv.org/abs/2110.02404v1)|null|
 |**2021-10-03**|**Hierarchical Kinematic Probability Distributions for 3D Human Shape and Pose Estimation from Images in the Wild**|Akash Sengupta, Ignas Budvytis, Roberto Cipolla|[2110.00990v1](http://arxiv.org/abs/2110.00990v1)|**[link](https://github.com/akashsengupta1997/hierarchicalprobabilistic3dhuman)**|
-|**2021-09-30**|**Symmetry and planar chirality of a protein measured on an angular basis in a transmission electron microscope**|A. H. Tavabi, P. Rosi, R. B. G. Ravelli, A. Gijsbers, E. Rotunno, T. Guner, Y. Zhang, A. Rocaglia, L. Belsito, G. Pozzi, D. Tibeau, G. Gazzadi, M. Ghosh, S. Frabboni, P. J. Peters, E. Karimi, P. Tiemeijer, R. E. Dunin-Borkowski, V. Grillo|[2110.03391v1](http://arxiv.org/abs/2110.03391v1)|null|
-|**2021-09-29**|**Identity-Expression Ambiguity in 3D Morphable Face Models**|Bernhard Egger, Skylar Sutherland, Safa C. Medin, Joshua Tenenbaum|[2109.14203v1](http://arxiv.org/abs/2109.14203v1)|null|
