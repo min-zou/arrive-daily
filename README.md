@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-13**|**Collaborative Radio SLAM for Multiple Robots based on WiFi Fingerprint Similarity**|Ran Liu, Zhenghong Qin, Hua Zhang, Billy Pik Lik Lau, Khairuldanial Ismail, Achala Athukorala, Chau Yuen, Yong Liang Guan, U-Xuan Tan|[2110.06541v1](http://arxiv.org/abs/2110.06541v1)|null|
 |**2021-10-12**|**Learning Efficient Multi-Agent Cooperative Visual Exploration**|Chao Yu, Xinyi Yang, Jiaxuan Gao, Huazhong Yang, Yu Wang, Yi Wu|[2110.05734v1](http://arxiv.org/abs/2110.05734v1)|null|
 |**2021-10-07**|**Self-Supervised Depth Completion for Active Stereo**|Frederik Warburg, Daniel Hernandez-Juarez, Juan Tarrio, Alexander Vakhitov, Ujwal Bonde, Pablo Alcantarilla|[2110.03234v1](http://arxiv.org/abs/2110.03234v1)|null|
 |**2021-10-06**|**InterpolationSLAM: A Novel Robust Visual SLAM System in Rotating Scenes**|Zhenkun Zhu, Jikai Wang|[2110.02593v1](http://arxiv.org/abs/2110.02593v1)|null|
@@ -10,7 +11,6 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff, Patrik Persson, Zhiyong Sun, Karl Åström, Anders Robertsson|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang, Can Pu, Kasra Khosoussi, David M. Rosen, Dehann Fourie, Jonathan P. How, John J. Leonard|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|null|
 |**2021-10-01**|**ASH: A Modern Framework for Parallel Spatial Hashing in 3D Perception**|Wei Dong, Yixing Lao, Michael Kaess, Vladlen Koltun|[2110.00511v1](http://arxiv.org/abs/2110.00511v1)|null|
-|**2021-10-01**|**From SLAM to Situational Awareness: Challenges and Survey**|Hriday Bavle, Jose Luis Sanchez-Lopez, Eduardo F. Schmidt, Holger Voos|[2110.00273v2](http://arxiv.org/abs/2110.00273v2)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -79,6 +79,7 @@
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-13**|**Hyperspectral 3D Mapping of Underwater Environments**|Maxime Ferrera, Aurélien Arnaubec, Klemen Istenic, Nuno Gracias, Touria Bajjouk|[2110.06571v1](http://arxiv.org/abs/2110.06571v1)|null|
 |**2021-09-24**|**Automatic Map Update Using Dashcam Videos**|Aziza Zhanabatyrova, Clayton Souza Leite, Yu Xiao|[2109.12131v1](http://arxiv.org/abs/2109.12131v1)|null|
 |**2021-09-16**|**Rotation Averaging in a Split Second: A Primal-Dual Method and a Closed-Form for Cycle Graphs**|Gabriel Moreira, Manuel Marques, João Paulo Costeira|[2109.08046v1](http://arxiv.org/abs/2109.08046v1)|**[link](https://github.com/gabmoreira/maks)**|
 |**2021-09-06**|**Single-Camera 3D Head Fitting for Mixed Reality Clinical Applications**|Tejas Mane, Aylar Bayramova, Kostas Daniilidis, Philippos Mordohai, Elena Bernardis|[2109.02740v1](http://arxiv.org/abs/2109.02740v1)|null|
@@ -88,10 +89,10 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri, Reshad Hosseini, Hadi Moradi|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran, Mitch Bryson, Donald G. Dansereau|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 |**2021-08-18**|**Pixel-Perfect Structure-from-Motion with Featuremetric Refinement**|Philipp Lindenberger, Paul-Edouard Sarlin, Viktor Larsson, Marc Pollefeys|[2108.08291v1](http://arxiv.org/abs/2108.08291v1)|**[link](https://github.com/cvg/pixel-perfect-sfm)**|
-|**2021-08-17**|**PR-RRN: Pairwise-Regularized Residual-Recursive Networks for Non-rigid Structure-from-Motion**|Haitian Zeng, Yuchao Dai, Xin Yu, Xiaohan Wang, Yi Yang|[2108.07506v1](http://arxiv.org/abs/2108.07506v1)|null|
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-13**|**Hyperspectral 3D Mapping of Underwater Environments**|Maxime Ferrera, Aurélien Arnaubec, Klemen Istenic, Nuno Gracias, Touria Bajjouk|[2110.06571v1](http://arxiv.org/abs/2110.06571v1)|null|
 |**2021-10-12**|**ABO: Dataset and Benchmarks for Real-World 3D Object Understanding**|Jasmine Collins, Shubham Goel, Achleshwar Luthra, Leon Xu, Kenan Deng, Xi Zhang, Tomas F. Yago Vicente, Himanshu Arora, Thomas Dideriksen, Matthieu Guillaumin, Jitendra Malik|[2110.06199v1](http://arxiv.org/abs/2110.06199v1)|null|
 |**2021-10-11**|**Neural Radiance Fields Approach to Deep Multi-View Photometric Stereo**|Berk Kaya, Suryansh Kumar, Francesco Sarno, Vittorio Ferrari, Luc Van Gool|[2110.05594v1](http://arxiv.org/abs/2110.05594v1)|null|
 |**2021-10-08**|**Stereo Dense Scene Reconstruction and Accurate Laparoscope Localization for Learning-Based Navigation in Robot-Assisted Surgery**|Ruofeng Wei, Bin Li, Hangjie Mo, Bo Lu, Yonghao Long, Bohan Yang, Qi Dou, Yunhui Liu, Dong Sun|[2110.03912v1](http://arxiv.org/abs/2110.03912v1)|null|
@@ -101,4 +102,3 @@
 |**2021-10-06**|**Topologically Consistent Multi-View Face Inference Using Volumetric Sampling**|Tianye Li, Shichen Liu, Timo Bolkart, Jiayi Liu, Hao Li, Yajie Zhao|[2110.02948v1](http://arxiv.org/abs/2110.02948v1)|null|
 |**2021-10-05**|**Echo-Reconstruction: Audio-Augmented 3D Scene Reconstruction**|Justin Wilson, Nicholas Rewkowski, Ming C. Lin, Henry Fuchs|[2110.02405v1](http://arxiv.org/abs/2110.02405v1)|null|
 |**2021-10-05**|**3D-MOV: Audio-Visual LSTM Autoencoder for 3D Reconstruction of Multiple Objects from Video**|Justin Wilson, Ming C. Lin|[2110.02404v1](http://arxiv.org/abs/2110.02404v1)|null|
-|**2021-10-03**|**Hierarchical Kinematic Probability Distributions for 3D Human Shape and Pose Estimation from Images in the Wild**|Akash Sengupta, Ignas Budvytis, Roberto Cipolla|[2110.00990v1](http://arxiv.org/abs/2110.00990v1)|**[link](https://github.com/akashsengupta1997/hierarchicalprobabilistic3dhuman)**|
