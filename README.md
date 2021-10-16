@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-14**|**Active SLAM over Continuous Trajectory and Control: A Covariance-Feedback Approach**|Shumon Koga, Arash Asgharivaskasi, Nikolay Atanasov|[2110.07546v1](http://arxiv.org/abs/2110.07546v1)|null|
 |**2021-10-13**|**Collaborative Radio SLAM for Multiple Robots based on WiFi Fingerprint Similarity**|Ran Liu, Zhenghong Qin, Hua Zhang, Billy Pik Lik Lau, Khairuldanial Ismail, Achala Athukorala, Chau Yuen, Yong Liang Guan, U-Xuan Tan|[2110.06541v1](http://arxiv.org/abs/2110.06541v1)|null|
 |**2021-10-12**|**Learning Efficient Multi-Agent Cooperative Visual Exploration**|Chao Yu, Xinyi Yang, Jiaxuan Gao, Huazhong Yang, Yu Wang, Yi Wu|[2110.05734v1](http://arxiv.org/abs/2110.05734v1)|null|
 |**2021-10-07**|**Self-Supervised Depth Completion for Active Stereo**|Frederik Warburg, Daniel Hernandez-Juarez, Juan Tarrio, Alexander Vakhitov, Ujwal Bonde, Pablo Alcantarilla|[2110.03234v1](http://arxiv.org/abs/2110.03234v1)|null|
@@ -10,7 +11,6 @@
 |**2021-10-03**|**AEROS: Adaptive RObust least-Squares for Graph-Based SLAM**|Milad Ramezani, Matias Mattamala, Maurice Fallon|[2110.02018v1](http://arxiv.org/abs/2110.02018v1)|null|
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff, Patrik Persson, Zhiyong Sun, Karl Åström, Anders Robertsson|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang, Can Pu, Kasra Khosoussi, David M. Rosen, Dehann Fourie, Jonathan P. How, John J. Leonard|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|null|
-|**2021-10-01**|**ASH: A Modern Framework for Parallel Spatial Hashing in 3D Perception**|Wei Dong, Yixing Lao, Michael Kaess, Vladlen Koltun|[2110.00511v1](http://arxiv.org/abs/2110.00511v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -35,7 +35,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh, Manuel Lopez Antequera, Pau Gargallo, Yubin Kuang, Carl Toft, Fredrik Kahl, Torsten Sattler|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth, Timothy D. Barfoot|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|null|
 |**2021-08-20**|**Continual Learning for Image-Based Camera Localization**|Shuzhe Wang, Zakaria Laskar, Iaroslav Melekhov, Xiaotian Li, Juho Kannala|[2108.09112v1](http://arxiv.org/abs/2108.09112v1)|**[link](https://github.com/aaltovision/cl_hscnet)**|
-|**2021-08-14**|**PICCOLO: Point Cloud-Centric Omnidirectional Localization**|Junho Kim, Changwoon Choi, Hojun Jang, Young Min Kim|[2108.06545v1](http://arxiv.org/abs/2108.06545v1)|null|
+|**2021-08-14**|**PICCOLO: Point Cloud-Centric Omnidirectional Localization**|Junho Kim, Changwoon Choi, Hojun Jang, Young Min Kim|[2108.06545v1](http://arxiv.org/abs/2108.06545v1)|**[link](https://github.com/82magnolia/piccolo)**|
 |**2021-07-08**|**4D Attention: Comprehensive Framework for Spatio-Temporal Gaze Mapping**|Shuji Oishi, Kenji Koide, Masashi Yokozuka, Atsuhiko Banno|[2107.03606v1](http://arxiv.org/abs/2107.03606v1)|null|
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
@@ -79,6 +79,7 @@
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-14**|**Modeling dynamic target deformation in camera calibration**|Annika Hagemann, Moritz Knorr, Christoph Stiller|[2110.07322v1](http://arxiv.org/abs/2110.07322v1)|null|
 |**2021-10-13**|**Hyperspectral 3D Mapping of Underwater Environments**|Maxime Ferrera, Aurélien Arnaubec, Klemen Istenic, Nuno Gracias, Touria Bajjouk|[2110.06571v1](http://arxiv.org/abs/2110.06571v1)|null|
 |**2021-09-24**|**Automatic Map Update Using Dashcam Videos**|Aziza Zhanabatyrova, Clayton Souza Leite, Yu Xiao|[2109.12131v1](http://arxiv.org/abs/2109.12131v1)|null|
 |**2021-09-16**|**Rotation Averaging in a Split Second: A Primal-Dual Method and a Closed-Form for Cycle Graphs**|Gabriel Moreira, Manuel Marques, João Paulo Costeira|[2109.08046v1](http://arxiv.org/abs/2109.08046v1)|**[link](https://github.com/gabmoreira/maks)**|
@@ -88,10 +89,10 @@
 |**2021-08-31**|**DensePose 3D: Lifting Canonical Surface Maps of Articulated Objects to the Third Dimension**|Roman Shapovalov, David Novotny, Benjamin Graham, Patrick Labatut, Andrea Vedaldi|[2109.00033v1](http://arxiv.org/abs/2109.00033v1)|null|
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri, Reshad Hosseini, Hadi Moradi|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran, Mitch Bryson, Donald G. Dansereau|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
-|**2021-08-18**|**Pixel-Perfect Structure-from-Motion with Featuremetric Refinement**|Philipp Lindenberger, Paul-Edouard Sarlin, Viktor Larsson, Marc Pollefeys|[2108.08291v1](http://arxiv.org/abs/2108.08291v1)|**[link](https://github.com/cvg/pixel-perfect-sfm)**|
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-14**|**NeRS: Neural Reflectance Surfaces for Sparse-view 3D Reconstruction in the Wild**|Jason Y. Zhang, Gengshan Yang, Shubham Tulsiani, Deva Ramanan|[2110.07604v1](http://arxiv.org/abs/2110.07604v1)|null|
 |**2021-10-13**|**Hyperspectral 3D Mapping of Underwater Environments**|Maxime Ferrera, Aurélien Arnaubec, Klemen Istenic, Nuno Gracias, Touria Bajjouk|[2110.06571v1](http://arxiv.org/abs/2110.06571v1)|null|
 |**2021-10-12**|**ABO: Dataset and Benchmarks for Real-World 3D Object Understanding**|Jasmine Collins, Shubham Goel, Achleshwar Luthra, Leon Xu, Kenan Deng, Xi Zhang, Tomas F. Yago Vicente, Himanshu Arora, Thomas Dideriksen, Matthieu Guillaumin, Jitendra Malik|[2110.06199v1](http://arxiv.org/abs/2110.06199v1)|null|
 |**2021-10-11**|**Neural Radiance Fields Approach to Deep Multi-View Photometric Stereo**|Berk Kaya, Suryansh Kumar, Francesco Sarno, Vittorio Ferrari, Luc Van Gool|[2110.05594v1](http://arxiv.org/abs/2110.05594v1)|null|
@@ -101,4 +102,3 @@
 |**2021-10-07**|**TreeGCN-ED: Encoding Point Cloud using a Tree-Structured Graph Network**|Prajwal Singh, Kaustubh Sadekar, Shanmuganathan Raman|[2110.03170v2](http://arxiv.org/abs/2110.03170v2)|**[link](https://github.com/prajwalsingh/TreeGCN-ED)**|
 |**2021-10-06**|**Topologically Consistent Multi-View Face Inference Using Volumetric Sampling**|Tianye Li, Shichen Liu, Timo Bolkart, Jiayi Liu, Hao Li, Yajie Zhao|[2110.02948v1](http://arxiv.org/abs/2110.02948v1)|null|
 |**2021-10-05**|**Echo-Reconstruction: Audio-Augmented 3D Scene Reconstruction**|Justin Wilson, Nicholas Rewkowski, Ming C. Lin, Henry Fuchs|[2110.02405v1](http://arxiv.org/abs/2110.02405v1)|null|
-|**2021-10-05**|**3D-MOV: Audio-Visual LSTM Autoencoder for 3D Reconstruction of Multiple Objects from Video**|Justin Wilson, Ming C. Lin|[2110.02404v1](http://arxiv.org/abs/2110.02404v1)|null|
