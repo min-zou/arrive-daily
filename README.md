@@ -35,7 +35,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh, Manuel Lopez Antequera, Pau Gargallo, Yubin Kuang, Carl Toft, Fredrik Kahl, Torsten Sattler|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth, Timothy D. Barfoot|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|null|
 |**2021-08-20**|**Continual Learning for Image-Based Camera Localization**|Shuzhe Wang, Zakaria Laskar, Iaroslav Melekhov, Xiaotian Li, Juho Kannala|[2108.09112v1](http://arxiv.org/abs/2108.09112v1)|**[link](https://github.com/aaltovision/cl_hscnet)**|
-|**2021-08-14**|**PICCOLO: Point Cloud-Centric Omnidirectional Localization**|Junho Kim, Changwoon Choi, Hojun Jang, Young Min Kim|[2108.06545v1](http://arxiv.org/abs/2108.06545v1)|**[link](https://github.com/82magnolia/piccolo)**|
+|**2021-08-14**|**PICCOLO: Point Cloud-Centric Omnidirectional Localization**|Junho Kim, Changwoon Choi, Hojun Jang, Young Min Kim|[2108.06545v2](http://arxiv.org/abs/2108.06545v2)|**[link](https://github.com/82magnolia/piccolo)**|
 |**2021-07-08**|**4D Attention: Comprehensive Framework for Spatio-Temporal Gaze Mapping**|Shuji Oishi, Kenji Koide, Masashi Yokozuka, Atsuhiko Banno|[2107.03606v1](http://arxiv.org/abs/2107.03606v1)|null|
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
@@ -68,7 +68,7 @@
 |---|---|---|---|---|
 |**2021-09-24**|**Automatic Map Update Using Dashcam Videos**|Aziza Zhanabatyrova, Clayton Souza Leite, Yu Xiao|[2109.12131v1](http://arxiv.org/abs/2109.12131v1)|null|
 |**2021-09-08**|**Matching in the Dark: A Dataset for Matching Image Pairs of Low-light Scenes**|Wenzheng Song, Masanori Suganuma, Xing Liu, Noriyuki Shimobayashi, Daisuke Maruta, Takayuki Okatani|[2109.03585v2](http://arxiv.org/abs/2109.03585v2)|null|
-|**2021-09-06**|**Critical State Theory For The Magnetic Coupling Between Soft Ferromagnetic Materials And Type-II Superconductors**|M. U. Fareed, H. S. Ruiz|[2109.02604v1](http://arxiv.org/abs/2109.02604v1)|null|
+|**2021-09-06**|**Critical State Theory For The Magnetic Coupling Between Soft Ferromagnetic Materials And Type-II Superconductors**|M. U. Fareed, H. S. Ruiz|[2109.02604v2](http://arxiv.org/abs/2109.02604v2)|null|
 |**2021-09-06**|**Crowd-Aware Robot Navigation for Pedestrians with Multiple Collision Avoidance Strategies via Map-based Deep Reinforcement Learning**|Shunyi Yao1, Guangda Chen, Quecheng Qiu, Jun Ma, Xiaoping Chen, Jianmin Ji|[2109.02541v1](http://arxiv.org/abs/2109.02541v1)|null|
 |**2021-09-02**|**Dynamic Scene Novel View Synthesis via Deferred Spatio-temporal Consistency**|Beatrix-Emőke Fülöp-Balogh, Eleanor Tursman, James Tompkin, Julie Digne, Nicolas Bonneel|[2109.01018v1](http://arxiv.org/abs/2109.01018v1)|null|
 |**2021-09-01**|**On the Limits of Pseudo Ground Truth in Visual Camera Re-localisation**|Eric Brachmann, Martin Humenberger, Carsten Rother, Torsten Sattler|[2109.00524v1](http://arxiv.org/abs/2109.00524v1)|**[link](https://github.com/tsattler/visloc_pseudo_gt_limitations)**|
@@ -92,7 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2021-10-14**|**NeRS: Neural Reflectance Surfaces for Sparse-view 3D Reconstruction in the Wild**|Jason Y. Zhang, Gengshan Yang, Shubham Tulsiani, Deva Ramanan|[2110.07604v1](http://arxiv.org/abs/2110.07604v1)|null|
+|**2021-10-14**|**NeRS: Neural Reflectance Surfaces for Sparse-view 3D Reconstruction in the Wild**|Jason Y. Zhang, Gengshan Yang, Shubham Tulsiani, Deva Ramanan|[2110.07604v2](http://arxiv.org/abs/2110.07604v2)|null|
 |**2021-10-13**|**Hyperspectral 3D Mapping of Underwater Environments**|Maxime Ferrera, Aurélien Arnaubec, Klemen Istenic, Nuno Gracias, Touria Bajjouk|[2110.06571v1](http://arxiv.org/abs/2110.06571v1)|null|
 |**2021-10-12**|**ABO: Dataset and Benchmarks for Real-World 3D Object Understanding**|Jasmine Collins, Shubham Goel, Achleshwar Luthra, Leon Xu, Kenan Deng, Xi Zhang, Tomas F. Yago Vicente, Himanshu Arora, Thomas Dideriksen, Matthieu Guillaumin, Jitendra Malik|[2110.06199v1](http://arxiv.org/abs/2110.06199v1)|null|
 |**2021-10-11**|**Neural Radiance Fields Approach to Deep Multi-View Photometric Stereo**|Berk Kaya, Suryansh Kumar, Francesco Sarno, Vittorio Ferrari, Luc Van Gool|[2110.05594v1](http://arxiv.org/abs/2110.05594v1)|null|
