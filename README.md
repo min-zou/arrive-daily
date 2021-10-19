@@ -92,7 +92,8 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2021-10-14**|**NeRS: Neural Reflectance Surfaces for Sparse-view 3D Reconstruction in the Wild**|Jason Y. Zhang, Gengshan Yang, Shubham Tulsiani, Deva Ramanan|[2110.07604v2](http://arxiv.org/abs/2110.07604v2)|null|
+|**2021-10-14**|**3D Reconstruction of Curvilinear Structures with Stereo Matching DeepConvolutional Neural Networks**|Okan Altingövde, Anastasiia Mishchuk, Gulnaz Ganeeva, Emad Oveisi, Cecile Hebert, Pascal Fua|[2110.07766v1](http://arxiv.org/abs/2110.07766v1)|null|
+|**2021-10-14**|**NeRS: Neural Reflectance Surfaces for Sparse-view 3D Reconstruction in the Wild**|Jason Y. Zhang, Gengshan Yang, Shubham Tulsiani, Deva Ramanan|[2110.07604v3](http://arxiv.org/abs/2110.07604v3)|null|
 |**2021-10-13**|**Hyperspectral 3D Mapping of Underwater Environments**|Maxime Ferrera, Aurélien Arnaubec, Klemen Istenic, Nuno Gracias, Touria Bajjouk|[2110.06571v1](http://arxiv.org/abs/2110.06571v1)|null|
 |**2021-10-12**|**ABO: Dataset and Benchmarks for Real-World 3D Object Understanding**|Jasmine Collins, Shubham Goel, Achleshwar Luthra, Leon Xu, Kenan Deng, Xi Zhang, Tomas F. Yago Vicente, Himanshu Arora, Thomas Dideriksen, Matthieu Guillaumin, Jitendra Malik|[2110.06199v1](http://arxiv.org/abs/2110.06199v1)|null|
 |**2021-10-11**|**Neural Radiance Fields Approach to Deep Multi-View Photometric Stereo**|Berk Kaya, Suryansh Kumar, Francesco Sarno, Vittorio Ferrari, Luc Van Gool|[2110.05594v1](http://arxiv.org/abs/2110.05594v1)|null|
@@ -101,4 +102,3 @@
 |**2021-10-07**|**Camera Calibration through Camera Projection Loss**|Talha Hanif Butt, Murtaza Taj|[2110.03479v1](http://arxiv.org/abs/2110.03479v1)|null|
 |**2021-10-07**|**TreeGCN-ED: Encoding Point Cloud using a Tree-Structured Graph Network**|Prajwal Singh, Kaustubh Sadekar, Shanmuganathan Raman|[2110.03170v2](http://arxiv.org/abs/2110.03170v2)|**[link](https://github.com/prajwalsingh/TreeGCN-ED)**|
 |**2021-10-06**|**Topologically Consistent Multi-View Face Inference Using Volumetric Sampling**|Tianye Li, Shichen Liu, Timo Bolkart, Jiayi Liu, Hao Li, Yajie Zhao|[2110.02948v1](http://arxiv.org/abs/2110.02948v1)|null|
-|**2021-10-05**|**Echo-Reconstruction: Audio-Augmented 3D Scene Reconstruction**|Justin Wilson, Nicholas Rewkowski, Ming C. Lin, Henry Fuchs|[2110.02405v1](http://arxiv.org/abs/2110.02405v1)|null|
