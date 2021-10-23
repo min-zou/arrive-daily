@@ -1,6 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-21**|**InterpolationSLAM: A Novel Robust Visual SLAM System in Rotational Motion**|Zhenkun Zhu, Jikai Wang|[2110.11040v1](http://arxiv.org/abs/2110.11040v1)|null|
+|**2021-10-20**|**SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training**|Ankur Bapna, Yu-an Chung, Nan Wu, Anmol Gulati, Ye Jia, Jonathan H. Clark, Melvin Johnson, Jason Riesa, Alexis Conneau, Yu Zhang|[2110.10329v1](http://arxiv.org/abs/2110.10329v1)|null|
 |**2021-10-18**|**Enhancing exploration algorithms for navigation with visual SLAM**|Kirill Muravyev, Andrey Bokovoy, Konstantin Yakovlev|[2110.09156v1](http://arxiv.org/abs/2110.09156v1)|null|
 |**2021-10-18**|**Accurate and Robust Object-oriented SLAM with 3D Quadric Landmark Construction in Outdoor Environment**|Rui Tian, Yunzhou Zhang, Yonghui Feng, Linghao Yang, Zhenzhong Cao, Sonya Coleman, Dermot Kerr|[2110.08977v1](http://arxiv.org/abs/2110.08977v1)|null|
 |**2021-10-16**|**Partial Hierarchical Pose Graph Optimization for SLAM**|Alexander Korovko, Dmitry Robustov|[2110.08639v1](http://arxiv.org/abs/2110.08639v1)|null|
@@ -9,8 +11,6 @@
 |**2021-10-12**|**Learning Efficient Multi-Agent Cooperative Visual Exploration**|Chao Yu, Xinyi Yang, Jiaxuan Gao, Huazhong Yang, Yu Wang, Yi Wu|[2110.05734v1](http://arxiv.org/abs/2110.05734v1)|null|
 |**2021-10-07**|**Self-Supervised Depth Completion for Active Stereo**|Frederik Warburg, Daniel Hernandez-Juarez, Juan Tarrio, Alexander Vakhitov, Ujwal Bonde, Pablo Alcantarilla|[2110.03234v1](http://arxiv.org/abs/2110.03234v1)|null|
 |**2021-10-06**|**InterpolationSLAM: A Novel Robust Visual SLAM System in Rotating Scenes**|Zhenkun Zhu, Jikai Wang|[2110.02593v1](http://arxiv.org/abs/2110.02593v1)|null|
-|**2021-10-04**|**Fast Uncertainty Quantification for Active Graph SLAM**|Julio A. Placed, José A. Castellanos|[2110.01289v1](http://arxiv.org/abs/2110.01289v1)|**[link](https://github.com/julioplaced/active_graph_slam)**|
-|**2021-10-04**|**Geometry-based Graph Pruning for Lifelong SLAM**|Gerhard Kurz, Matthias Holoch, Peter Biber|[2110.01286v1](http://arxiv.org/abs/2110.01286v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -66,6 +66,8 @@
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-21**|**The black hole-star formation connection over cosmic time**|Chandra B. Singh, Nelitha Kulasiri, Max North, David Garofalo|[2110.10993v1](http://arxiv.org/abs/2110.10993v1)|null|
+|**2021-10-21**|**Deep Image Matting with Flexible Guidance Input**|Hang Cheng, Shugong Xu, Xiufeng Jiang, Rongrong Wang|[2110.10898v1](http://arxiv.org/abs/2110.10898v1)|**[link](https://github.com/charch-630/fgi-matting)**|
 |**2021-09-24**|**Automatic Map Update Using Dashcam Videos**|Aziza Zhanabatyrova, Clayton Souza Leite, Yu Xiao|[2109.12131v1](http://arxiv.org/abs/2109.12131v1)|null|
 |**2021-09-08**|**Matching in the Dark: A Dataset for Matching Image Pairs of Low-light Scenes**|Wenzheng Song, Masanori Suganuma, Xing Liu, Noriyuki Shimobayashi, Daisuke Maruta, Takayuki Okatani|[2109.03585v2](http://arxiv.org/abs/2109.03585v2)|null|
 |**2021-09-06**|**Critical State Theory For The Magnetic Coupling Between Soft Ferromagnetic Materials And Type-II Superconductors**|M. U. Fareed, H. S. Ruiz|[2109.02604v2](http://arxiv.org/abs/2109.02604v2)|null|
@@ -74,8 +76,6 @@
 |**2021-09-01**|**On the Limits of Pseudo Ground Truth in Visual Camera Re-localisation**|Eric Brachmann, Martin Humenberger, Carsten Rother, Torsten Sattler|[2109.00524v1](http://arxiv.org/abs/2109.00524v1)|**[link](https://github.com/tsattler/visloc_pseudo_gt_limitations)**|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran, Mitch Bryson, Donald G. Dansereau|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 |**2021-08-18**|**Pixel-Perfect Structure-from-Motion with Featuremetric Refinement**|Philipp Lindenberger, Paul-Edouard Sarlin, Viktor Larsson, Marc Pollefeys|[2108.08291v1](http://arxiv.org/abs/2108.08291v1)|**[link](https://github.com/cvg/pixel-perfect-sfm)**|
-|**2021-08-04**|**Self-Supervised Learning of Depth and Ego-Motion from Video by Alternative Training and Geometric Constraints from 3D to 2D**|Jiaojiao Fang, Guizhong Liu|[2108.01980v1](http://arxiv.org/abs/2108.01980v1)|null|
-|**2021-07-29**|**Efficient Human Pose Estimation by Maximizing Fusion and High-Level Spatial Attention**|Zhiyuan Ren, Yaohai Zhou, Yizhe Chen, Ruisong Zhou, Yayu Gao|[2107.13693v1](http://arxiv.org/abs/2107.13693v1)|null|
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-20**|**Style Agnostic 3D Reconstruction via Adversarial Style Transfer**|Felix Petersen, Bastian Goldluecke, Oliver Deussen, Hilde Kuehne|[2110.10784v1](http://arxiv.org/abs/2110.10784v1)|null|
 |**2021-10-18**|**NeuralBlox: Real-Time Neural Representation Fusion for Robust Volumetric Mapping**|Stefan Lionar, Lukas Schmid, Cesar Cadena, Roland Siegwart, Andrei Cramariuc|[2110.09415v1](http://arxiv.org/abs/2110.09415v1)|**[link](https://github.com/ethz-asl/neuralblox)**|
 |**2021-10-17**|**3D-RETR: End-to-End Single and Multi-View 3D Reconstruction with Transformers**|Zai Shi, Zhao Meng, Yiran Xing, Yunpu Ma, Roger Wattenhofer|[2110.08861v1](http://arxiv.org/abs/2110.08861v1)|null|
 |**2021-10-14**|**3D Reconstruction of Curvilinear Structures with Stereo Matching DeepConvolutional Neural Networks**|Okan Altingövde, Anastasiia Mishchuk, Gulnaz Ganeeva, Emad Oveisi, Cecile Hebert, Pascal Fua|[2110.07766v1](http://arxiv.org/abs/2110.07766v1)|null|
@@ -101,4 +102,3 @@
 |**2021-10-11**|**Neural Radiance Fields Approach to Deep Multi-View Photometric Stereo**|Berk Kaya, Suryansh Kumar, Francesco Sarno, Vittorio Ferrari, Luc Van Gool|[2110.05594v1](http://arxiv.org/abs/2110.05594v1)|null|
 |**2021-10-08**|**Stereo Dense Scene Reconstruction and Accurate Laparoscope Localization for Learning-Based Navigation in Robot-Assisted Surgery**|Ruofeng Wei, Bin Li, Hangjie Mo, Bo Lu, Yonghao Long, Bohan Yang, Qi Dou, Yunhui Liu, Dong Sun|[2110.03912v1](http://arxiv.org/abs/2110.03912v1)|null|
 |**2021-10-08**|**Automatic annotation of visual deep neural networks**|Ming Li, ChenHao Guo|[2110.03851v1](http://arxiv.org/abs/2110.03851v1)|null|
-|**2021-10-07**|**Camera Calibration through Camera Projection Loss**|Talha Hanif Butt, Murtaza Taj|[2110.03479v1](http://arxiv.org/abs/2110.03479v1)|null|
