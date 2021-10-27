@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-25**|**WOLF: A modular estimation framework for robotics based on factor graphs**|Joan Sola, Joan Vallve-Navarro, Joaquim Casals, Jeremie Deray, Mederic Fourmy, Dinesh Atchuthan, Juan Andrade-Cetto|[2110.12919v1](http://arxiv.org/abs/2110.12919v1)|null|
 |**2021-10-21**|**Real-Time Ground-Plane Refined LiDAR SLAM**|Fan Yang, Mengqing Jiang, Chenxi Xu|[2110.11517v1](http://arxiv.org/abs/2110.11517v1)|null|
 |**2021-10-21**|**SymbioLCD: Ensemble-Based Loop Closure Detection using CNN-Extracted Objects and Visual Bag-of-Words**|Jonathan J. Y. Kim, Martin Urschler, Patricia J. Riddle, Jörg S. Wicker|[2110.11491v1](http://arxiv.org/abs/2110.11491v1)|null|
 |**2021-10-21**|**InterpolationSLAM: A Novel Robust Visual SLAM System in Rotational Motion**|Zhenkun Zhu, Jikai Wang|[2110.11040v2](http://arxiv.org/abs/2110.11040v2)|null|
@@ -10,7 +11,6 @@
 |**2021-10-16**|**Partial Hierarchical Pose Graph Optimization for SLAM**|Alexander Korovko, Dmitry Robustov|[2110.08639v1](http://arxiv.org/abs/2110.08639v1)|null|
 |**2021-10-14**|**Active SLAM over Continuous Trajectory and Control: A Covariance-Feedback Approach**|Shumon Koga, Arash Asgharivaskasi, Nikolay Atanasov|[2110.07546v1](http://arxiv.org/abs/2110.07546v1)|null|
 |**2021-10-13**|**Collaborative Radio SLAM for Multiple Robots based on WiFi Fingerprint Similarity**|Ran Liu, Zhenghong Qin, Hua Zhang, Billy Pik Lik Lau, Khairuldanial Ismail, Achala Athukorala, Chau Yuen, Yong Liang Guan, U-Xuan Tan|[2110.06541v2](http://arxiv.org/abs/2110.06541v2)|null|
-|**2021-10-12**|**Learning Efficient Multi-Agent Cooperative Visual Exploration**|Chao Yu, Xinyi Yang, Jiaxuan Gao, Huazhong Yang, Yu Wang, Yi Wu|[2110.05734v1](http://arxiv.org/abs/2110.05734v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
