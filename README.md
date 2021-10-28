@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-26**|**Robust Multi-view Registration of Point Sets with Laplacian Mixture Model**|Jin Zhang, Mingyang Zhao, Xin Jiang, Dong-Ming Yan|[2110.13744v1](http://arxiv.org/abs/2110.13744v1)|null|
 |**2021-10-25**|**WOLF: A modular estimation framework for robotics based on factor graphs**|Joan Sola, Joan Vallve-Navarro, Joaquim Casals, Jeremie Deray, Mederic Fourmy, Dinesh Atchuthan, Juan Andrade-Cetto|[2110.12919v1](http://arxiv.org/abs/2110.12919v1)|null|
 |**2021-10-21**|**Real-Time Ground-Plane Refined LiDAR SLAM**|Fan Yang, Mengqing Jiang, Chenxi Xu|[2110.11517v1](http://arxiv.org/abs/2110.11517v1)|null|
 |**2021-10-21**|**SymbioLCD: Ensemble-Based Loop Closure Detection using CNN-Extracted Objects and Visual Bag-of-Words**|Jonathan J. Y. Kim, Martin Urschler, Patricia J. Riddle, Jörg S. Wicker|[2110.11491v1](http://arxiv.org/abs/2110.11491v1)|null|
@@ -10,7 +11,6 @@
 |**2021-10-18**|**Accurate and Robust Object-oriented SLAM with 3D Quadric Landmark Construction in Outdoor Environment**|Rui Tian, Yunzhou Zhang, Yonghui Feng, Linghao Yang, Zhenzhong Cao, Sonya Coleman, Dermot Kerr|[2110.08977v1](http://arxiv.org/abs/2110.08977v1)|null|
 |**2021-10-16**|**Partial Hierarchical Pose Graph Optimization for SLAM**|Alexander Korovko, Dmitry Robustov|[2110.08639v1](http://arxiv.org/abs/2110.08639v1)|null|
 |**2021-10-14**|**Active SLAM over Continuous Trajectory and Control: A Covariance-Feedback Approach**|Shumon Koga, Arash Asgharivaskasi, Nikolay Atanasov|[2110.07546v1](http://arxiv.org/abs/2110.07546v1)|null|
-|**2021-10-13**|**Collaborative Radio SLAM for Multiple Robots based on WiFi Fingerprint Similarity**|Ran Liu, Zhenghong Qin, Hua Zhang, Billy Pik Lik Lau, Khairuldanial Ismail, Achala Athukorala, Chau Yuen, Yong Liang Guan, U-Xuan Tan|[2110.06541v2](http://arxiv.org/abs/2110.06541v2)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,13 +92,13 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-26**|**Robust Multi-view Registration of Point Sets with Laplacian Mixture Model**|Jin Zhang, Mingyang Zhao, Xin Jiang, Dong-Ming Yan|[2110.13744v1](http://arxiv.org/abs/2110.13744v1)|null|
 |**2021-10-22**|**AIR-Nets: An Attention-Based Framework for Locally Conditioned Implicit Representations**|Simon Giebenhain, Bastian Goldlücke|[2110.11860v1](http://arxiv.org/abs/2110.11860v1)|**[link](https://github.com/simongiebenhain/air-nets)**|
 |**2021-10-22**|**IVS3D: An Open Source Framework for Intelligent Video Sampling and Preprocessing to Facilitate 3D Reconstruction**|Max Hermann, Thomas Pollok, Daniel Brommer, Dominic Zahn|[2110.11810v1](http://arxiv.org/abs/2110.11810v1)|**[link](https://github.com/ivs3d/ivs3d)**|
 |**2021-10-22**|**High Fidelity 3D Reconstructions with Limited Physical Views**|Mosam Dabhi, Chaoyang Wang, Kunal Saluja, Laszlo Jeni, Ian Fasel, Simon Lucey|[2110.11599v1](http://arxiv.org/abs/2110.11599v1)|null|
 |**2021-10-20**|**Style Agnostic 3D Reconstruction via Adversarial Style Transfer**|Felix Petersen, Bastian Goldluecke, Oliver Deussen, Hilde Kuehne|[2110.10784v1](http://arxiv.org/abs/2110.10784v1)|null|
 |**2021-10-18**|**NeuralBlox: Real-Time Neural Representation Fusion for Robust Volumetric Mapping**|Stefan Lionar, Lukas Schmid, Cesar Cadena, Roland Siegwart, Andrei Cramariuc|[2110.09415v1](http://arxiv.org/abs/2110.09415v1)|**[link](https://github.com/ethz-asl/neuralblox)**|
-|**2021-10-17**|**3D-RETR: End-to-End Single and Multi-View 3D Reconstruction with Transformers**|Zai Shi, Zhao Meng, Yiran Xing, Yunpu Ma, Roger Wattenhofer|[2110.08861v1](http://arxiv.org/abs/2110.08861v1)|null|
+|**2021-10-17**|**3D-RETR: End-to-End Single and Multi-View 3D Reconstruction with Transformers**|Zai Shi, Zhao Meng, Yiran Xing, Yunpu Ma, Roger Wattenhofer|[2110.08861v1](http://arxiv.org/abs/2110.08861v1)|**[link](https://github.com/fomalhautb/3d-retr)**|
 |**2021-10-14**|**3D Reconstruction of Curvilinear Structures with Stereo Matching DeepConvolutional Neural Networks**|Okan Altingövde, Anastasiia Mishchuk, Gulnaz Ganeeva, Emad Oveisi, Cecile Hebert, Pascal Fua|[2110.07766v1](http://arxiv.org/abs/2110.07766v1)|null|
 |**2021-10-14**|**NeRS: Neural Reflectance Surfaces for Sparse-view 3D Reconstruction in the Wild**|Jason Y. Zhang, Gengshan Yang, Shubham Tulsiani, Deva Ramanan|[2110.07604v3](http://arxiv.org/abs/2110.07604v3)|null|
 |**2021-10-13**|**Hyperspectral 3D Mapping of Underwater Environments**|Maxime Ferrera, Aurélien Arnaubec, Klemen Istenic, Nuno Gracias, Touria Bajjouk|[2110.06571v1](http://arxiv.org/abs/2110.06571v1)|null|
-|**2021-10-12**|**ABO: Dataset and Benchmarks for Real-World 3D Object Understanding**|Jasmine Collins, Shubham Goel, Achleshwar Luthra, Leon Xu, Kenan Deng, Xi Zhang, Tomas F. Yago Vicente, Himanshu Arora, Thomas Dideriksen, Matthieu Guillaumin, Jitendra Malik|[2110.06199v1](http://arxiv.org/abs/2110.06199v1)|null|
