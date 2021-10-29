@@ -40,6 +40,7 @@
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-26**|**CoFiNet: Reliable Coarse-to-fine Correspondences for Robust Point Cloud Registration**|Hao Yu, Fu Li, Mahdi Saleh, Benjamin Busam, Slobodan Ilic|[2110.14076v1](http://arxiv.org/abs/2110.14076v1)|**[link](https://github.com/haoyu94/coarse-to-fine-correspondences)**|
 |**2021-10-18**|**Keypoint-Based Bimanual Shaping of Deformable Linear Objects under Environmental Constraints using Hierarchical Action Planning**|Shengzeng Huo, Anqing Duan, Chengxi Li, Peng Zhou, Wanyu Ma, David Navarro-Alarcon|[2110.08962v1](http://arxiv.org/abs/2110.08962v1)|null|
 |**2021-10-04**|**BPFNet: A Unified Framework for Bimodal Palmprint Alignment and Fusion**|Zhaoqun Li, Xu Liang, Dandan Fan, Jinxing Li, David Zhang|[2110.01179v1](http://arxiv.org/abs/2110.01179v1)|**[link](https://github.com/dxbdxx/bpfnet)**|
 |**2021-09-28**|**PDC-Net+: Enhanced Probabilistic Dense Correspondence Network**|Prune Truong, Martin Danelljan, Radu Timofte, Luc Van Gool|[2109.13912v2](http://arxiv.org/abs/2109.13912v2)|**[link](https://github.com/PruneTruong/DenseMatching)**|
@@ -49,7 +50,6 @@
 |**2021-08-26**|**Unsupervised domain adaptation for clinician pose estimation and instance segmentation in the OR**|Vinkle Srivastav, Afshin Gangi, Nicolas Padoy|[2108.11801v2](http://arxiv.org/abs/2108.11801v2)|**[link](https://github.com/camma-public/hpe-adaptor)**|
 |**2021-08-23**|**Lightweight Multi-person Total Motion Capture Using Sparse Multi-view Cameras**|Yuxiang Zhang, Zhe Li, Liang An, Mengcheng Li, Tao Yu, Yebin Liu|[2108.10378v1](http://arxiv.org/abs/2108.10378v1)|null|
 |**2021-08-13**|**EEEA-Net: An Early Exit Evolutionary Neural Architecture Search**|Chakkrit Termritthikun, Yeshi Jamtsho, Jirarat Ieamsaard, Paisarn Muneesawang, Ivan Lee|[2108.06156v1](http://arxiv.org/abs/2108.06156v1)|**[link](https://github.com/chakkritte/eeea-net)**|
-|**2021-08-13**|**Learning Transferable Parameters for Unsupervised Domain Adaptation**|Zhongyi Han, Haoliang Sun, Yilong Yin|[2108.06129v1](http://arxiv.org/abs/2108.06129v1)|**[link](https://github.com/zhyhan/transpar)**|
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-27**|**TMBuD: A dataset for urban scene building detection**|Orhei Ciprian, Vert Silviu, Mocofan Muguras, Vasiu Radu|[2110.14590v1](http://arxiv.org/abs/2110.14590v1)|**[link](https://github.com/cipiorhei/tmbud)**|
 |**2021-10-26**|**Robust Multi-view Registration of Point Sets with Laplacian Mixture Model**|Jin Zhang, Mingyang Zhao, Xin Jiang, Dong-Ming Yan|[2110.13744v1](http://arxiv.org/abs/2110.13744v1)|null|
 |**2021-10-22**|**AIR-Nets: An Attention-Based Framework for Locally Conditioned Implicit Representations**|Simon Giebenhain, Bastian Goldlücke|[2110.11860v1](http://arxiv.org/abs/2110.11860v1)|**[link](https://github.com/simongiebenhain/air-nets)**|
 |**2021-10-22**|**IVS3D: An Open Source Framework for Intelligent Video Sampling and Preprocessing to Facilitate 3D Reconstruction**|Max Hermann, Thomas Pollok, Daniel Brommer, Dominic Zahn|[2110.11810v1](http://arxiv.org/abs/2110.11810v1)|**[link](https://github.com/ivs3d/ivs3d)**|
@@ -101,4 +102,3 @@
 |**2021-10-17**|**3D-RETR: End-to-End Single and Multi-View 3D Reconstruction with Transformers**|Zai Shi, Zhao Meng, Yiran Xing, Yunpu Ma, Roger Wattenhofer|[2110.08861v1](http://arxiv.org/abs/2110.08861v1)|**[link](https://github.com/fomalhautb/3d-retr)**|
 |**2021-10-14**|**3D Reconstruction of Curvilinear Structures with Stereo Matching DeepConvolutional Neural Networks**|Okan Altingövde, Anastasiia Mishchuk, Gulnaz Ganeeva, Emad Oveisi, Cecile Hebert, Pascal Fua|[2110.07766v1](http://arxiv.org/abs/2110.07766v1)|null|
 |**2021-10-14**|**NeRS: Neural Reflectance Surfaces for Sparse-view 3D Reconstruction in the Wild**|Jason Y. Zhang, Gengshan Yang, Shubham Tulsiani, Deva Ramanan|[2110.07604v3](http://arxiv.org/abs/2110.07604v3)|null|
-|**2021-10-13**|**Hyperspectral 3D Mapping of Underwater Environments**|Maxime Ferrera, Aurélien Arnaubec, Klemen Istenic, Nuno Gracias, Touria Bajjouk|[2110.06571v1](http://arxiv.org/abs/2110.06571v1)|null|
