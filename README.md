@@ -1,6 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-27**|**Millimeter Wave Wireless-Assisted Robotic Navigation with Link State Classification**|Mingsheng Yin, Akshaj Veldanda, Amee Trivedi, Jeff Zhang, Kai Pfeiffer, Yaqi Hu, Siddharth Garg, Elza Erkip, Ludovic Righetti, Sundeep Rangan|[2110.14789v1](http://arxiv.org/abs/2110.14789v1)|null|
+|**2021-10-27**|**Efficient Placard Discovery for Semantic Mapping During Frontier Exploration**|David Balaban, Harshavardhan Jagannathan, Henry Liu, Justin Hart|[2110.14742v1](http://arxiv.org/abs/2110.14742v1)|null|
 |**2021-10-26**|**Robust Multi-view Registration of Point Sets with Laplacian Mixture Model**|Jin Zhang, Mingyang Zhao, Xin Jiang, Dong-Ming Yan|[2110.13744v1](http://arxiv.org/abs/2110.13744v1)|null|
 |**2021-10-25**|**WOLF: A modular estimation framework for robotics based on factor graphs**|Joan Sola, Joan Vallve-Navarro, Joaquim Casals, Jeremie Deray, Mederic Fourmy, Dinesh Atchuthan, Juan Andrade-Cetto|[2110.12919v1](http://arxiv.org/abs/2110.12919v1)|null|
 |**2021-10-21**|**Real-Time Ground-Plane Refined LiDAR SLAM**|Fan Yang, Mengqing Jiang, Chenxi Xu|[2110.11517v1](http://arxiv.org/abs/2110.11517v1)|null|
@@ -9,8 +11,6 @@
 |**2021-10-20**|**SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training**|Ankur Bapna, Yu-an Chung, Nan Wu, Anmol Gulati, Ye Jia, Jonathan H. Clark, Melvin Johnson, Jason Riesa, Alexis Conneau, Yu Zhang|[2110.10329v1](http://arxiv.org/abs/2110.10329v1)|null|
 |**2021-10-18**|**Enhancing exploration algorithms for navigation with visual SLAM**|Kirill Muravyev, Andrey Bokovoy, Konstantin Yakovlev|[2110.09156v1](http://arxiv.org/abs/2110.09156v1)|null|
 |**2021-10-18**|**Accurate and Robust Object-oriented SLAM with 3D Quadric Landmark Construction in Outdoor Environment**|Rui Tian, Yunzhou Zhang, Yonghui Feng, Linghao Yang, Zhenzhong Cao, Sonya Coleman, Dermot Kerr|[2110.08977v1](http://arxiv.org/abs/2110.08977v1)|null|
-|**2021-10-16**|**Partial Hierarchical Pose Graph Optimization for SLAM**|Alexander Korovko, Dmitry Robustov|[2110.08639v1](http://arxiv.org/abs/2110.08639v1)|null|
-|**2021-10-14**|**Active SLAM over Continuous Trajectory and Control: A Covariance-Feedback Approach**|Shumon Koga, Arash Asgharivaskasi, Nikolay Atanasov|[2110.07546v1](http://arxiv.org/abs/2110.07546v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,8 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-28**|**UltraPose: Synthesizing Dense Pose with 1 Billion Points by Human-body Decoupling 3D Model**|Haonan Yan, Jiaqi Chen, Xujie Zhang, Shengkai Zhang, Nianhong Jiao, Xiaodan Liang, Tianxiang Zheng|[2110.15267v1](http://arxiv.org/abs/2110.15267v1)|**[link](https://github.com/momoailab/ultrapose)**|
+|**2021-10-28**|**A Comparative Study of Coarse to Dense 3D Indoor Scene Registration Algorithms**|Abdenour Amamra, Khalid Boumaza|[2110.15179v1](http://arxiv.org/abs/2110.15179v1)|null|
 |**2021-10-27**|**TMBuD: A dataset for urban scene building detection**|Orhei Ciprian, Vert Silviu, Mocofan Muguras, Vasiu Radu|[2110.14590v1](http://arxiv.org/abs/2110.14590v1)|**[link](https://github.com/cipiorhei/tmbud)**|
 |**2021-10-26**|**Robust Multi-view Registration of Point Sets with Laplacian Mixture Model**|Jin Zhang, Mingyang Zhao, Xin Jiang, Dong-Ming Yan|[2110.13744v1](http://arxiv.org/abs/2110.13744v1)|null|
 |**2021-10-22**|**AIR-Nets: An Attention-Based Framework for Locally Conditioned Implicit Representations**|Simon Giebenhain, Bastian Goldlücke|[2110.11860v1](http://arxiv.org/abs/2110.11860v1)|**[link](https://github.com/simongiebenhain/air-nets)**|
@@ -100,5 +102,3 @@
 |**2021-10-20**|**Style Agnostic 3D Reconstruction via Adversarial Style Transfer**|Felix Petersen, Bastian Goldluecke, Oliver Deussen, Hilde Kuehne|[2110.10784v1](http://arxiv.org/abs/2110.10784v1)|null|
 |**2021-10-18**|**NeuralBlox: Real-Time Neural Representation Fusion for Robust Volumetric Mapping**|Stefan Lionar, Lukas Schmid, Cesar Cadena, Roland Siegwart, Andrei Cramariuc|[2110.09415v1](http://arxiv.org/abs/2110.09415v1)|**[link](https://github.com/ethz-asl/neuralblox)**|
 |**2021-10-17**|**3D-RETR: End-to-End Single and Multi-View 3D Reconstruction with Transformers**|Zai Shi, Zhao Meng, Yiran Xing, Yunpu Ma, Roger Wattenhofer|[2110.08861v1](http://arxiv.org/abs/2110.08861v1)|**[link](https://github.com/fomalhautb/3d-retr)**|
-|**2021-10-14**|**3D Reconstruction of Curvilinear Structures with Stereo Matching DeepConvolutional Neural Networks**|Okan Altingövde, Anastasiia Mishchuk, Gulnaz Ganeeva, Emad Oveisi, Cecile Hebert, Pascal Fua|[2110.07766v1](http://arxiv.org/abs/2110.07766v1)|null|
-|**2021-10-14**|**NeRS: Neural Reflectance Surfaces for Sparse-view 3D Reconstruction in the Wild**|Jason Y. Zhang, Gengshan Yang, Shubham Tulsiani, Deva Ramanan|[2110.07604v3](http://arxiv.org/abs/2110.07604v3)|null|
