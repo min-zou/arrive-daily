@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-31**|**Loop closure detection using local 3D deep descriptors**|Youjie Zhou, Yiming Wang, Fabio Poiesi, Qi Qin, Yi Wan|[2111.00440v1](http://arxiv.org/abs/2111.00440v1)|null|
 |**2021-10-27**|**Millimeter Wave Wireless-Assisted Robotic Navigation with Link State Classification**|Mingsheng Yin, Akshaj Veldanda, Amee Trivedi, Jeff Zhang, Kai Pfeiffer, Yaqi Hu, Siddharth Garg, Elza Erkip, Ludovic Righetti, Sundeep Rangan|[2110.14789v1](http://arxiv.org/abs/2110.14789v1)|null|
 |**2021-10-27**|**Efficient Placard Discovery for Semantic Mapping During Frontier Exploration**|David Balaban, Harshavardhan Jagannathan, Henry Liu, Justin Hart|[2110.14742v1](http://arxiv.org/abs/2110.14742v1)|null|
 |**2021-10-26**|**Robust Multi-view Registration of Point Sets with Laplacian Mixture Model**|Jin Zhang, Mingyang Zhao, Xin Jiang, Dong-Ming Yan|[2110.13744v1](http://arxiv.org/abs/2110.13744v1)|null|
@@ -10,7 +11,6 @@
 |**2021-10-21**|**InterpolationSLAM: A Novel Robust Visual SLAM System in Rotational Motion**|Zhenkun Zhu, Jikai Wang|[2110.11040v2](http://arxiv.org/abs/2110.11040v2)|null|
 |**2021-10-20**|**SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training**|Ankur Bapna, Yu-an Chung, Nan Wu, Anmol Gulati, Ye Jia, Jonathan H. Clark, Melvin Johnson, Jason Riesa, Alexis Conneau, Yu Zhang|[2110.10329v1](http://arxiv.org/abs/2110.10329v1)|null|
 |**2021-10-18**|**Enhancing exploration algorithms for navigation with visual SLAM**|Kirill Muravyev, Andrey Bokovoy, Konstantin Yakovlev|[2110.09156v1](http://arxiv.org/abs/2110.09156v1)|null|
-|**2021-10-18**|**Accurate and Robust Object-oriented SLAM with 3D Quadric Landmark Construction in Outdoor Environment**|Rui Tian, Yunzhou Zhang, Yonghui Feng, Linghao Yang, Zhenzhong Cao, Sonya Coleman, Dermot Kerr|[2110.08977v1](http://arxiv.org/abs/2110.08977v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -53,6 +53,7 @@
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-30**|**A Deep Search for Faint Chandra X-ray Sources, Radio Sources, and Optical Counterparts in NGC 6752**|Haldan N. Cohn, Phyllis M. Lugger, Yue Zhao, Vlad Tudor, Craig O. Heinke, Adrienne M. Cool, Jay Anderson, Jay Strader, James C. A. Miller-Jones|[2111.00357v1](http://arxiv.org/abs/2111.00357v1)|null|
 |**2021-10-01**|**Robustly Removing Deep Sea Lighting Effects for Visual Mapping of Abyssal Plains**|Kevin Köser, Yifan Song, Lasse Petersen, Emanuel Wenzlaff, Felix Woelk|[2110.00480v1](http://arxiv.org/abs/2110.00480v1)|null|
 |**2021-09-29**|**Visually Grounded Concept Composition**|Bowen Zhang, Hexiang Hu, Linlu Qiu, Peter Shaw, Fei Sha|[2109.14115v1](http://arxiv.org/abs/2109.14115v1)|null|
 |**2021-09-27**|**HarrisZ$^+$: Harris Corner Selection for Next-Gen Image Matching Pipelines**|Fabio Bellavia, Dmytro Mishkin|[2109.12925v3](http://arxiv.org/abs/2109.12925v3)|null|
@@ -62,7 +63,6 @@
 |**2021-09-08**|**Matching in the Dark: A Dataset for Matching Image Pairs of Low-light Scenes**|Wenzheng Song, Masanori Suganuma, Xing Liu, Noriyuki Shimobayashi, Daisuke Maruta, Takayuki Okatani|[2109.03585v2](http://arxiv.org/abs/2109.03585v2)|null|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou, Changli Yu, Xin Yuan, Citong Luo|[2108.12151v1](http://arxiv.org/abs/2108.12151v1)|null|
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou, Changli Yu, Xin Yuan, Citong Luo|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
-|**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa, Aida Khajavirad|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,8 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-01**|**FaceScape: 3D Facial Dataset and Benchmark for Single-View 3D Face Reconstruction**|Hao Zhu, Haotian Yang, Longwei Guo, Yidi Zhang, Yanru Wang, Mingkai Huang, Qiu Shen, Ruigang Yang, Xun Cao|[2111.01082v1](http://arxiv.org/abs/2111.01082v1)|null|
+|**2021-11-01**|**Monocular 3D Reconstruction of Interacting Hands via Collision-Aware Factorized Refinements**|Yu Rong, Jingbo Wang, Ziwei Liu, Chen Change Loy|[2111.00763v1](http://arxiv.org/abs/2111.00763v1)|null|
 |**2021-10-28**|**UltraPose: Synthesizing Dense Pose with 1 Billion Points by Human-body Decoupling 3D Model**|Haonan Yan, Jiaqi Chen, Xujie Zhang, Shengkai Zhang, Nianhong Jiao, Xiaodan Liang, Tianxiang Zheng|[2110.15267v1](http://arxiv.org/abs/2110.15267v1)|**[link](https://github.com/momoailab/ultrapose)**|
 |**2021-10-28**|**A Comparative Study of Coarse to Dense 3D Indoor Scene Registration Algorithms**|Abdenour Amamra, Khalid Boumaza|[2110.15179v1](http://arxiv.org/abs/2110.15179v1)|null|
 |**2021-10-27**|**TMBuD: A dataset for urban scene building detection**|Orhei Ciprian, Vert Silviu, Mocofan Muguras, Vasiu Radu|[2110.14590v1](http://arxiv.org/abs/2110.14590v1)|**[link](https://github.com/cipiorhei/tmbud)**|
@@ -100,5 +102,3 @@
 |**2021-10-22**|**IVS3D: An Open Source Framework for Intelligent Video Sampling and Preprocessing to Facilitate 3D Reconstruction**|Max Hermann, Thomas Pollok, Daniel Brommer, Dominic Zahn|[2110.11810v1](http://arxiv.org/abs/2110.11810v1)|**[link](https://github.com/ivs3d/ivs3d)**|
 |**2021-10-22**|**High Fidelity 3D Reconstructions with Limited Physical Views**|Mosam Dabhi, Chaoyang Wang, Kunal Saluja, Laszlo Jeni, Ian Fasel, Simon Lucey|[2110.11599v1](http://arxiv.org/abs/2110.11599v1)|null|
 |**2021-10-20**|**Style Agnostic 3D Reconstruction via Adversarial Style Transfer**|Felix Petersen, Bastian Goldluecke, Oliver Deussen, Hilde Kuehne|[2110.10784v1](http://arxiv.org/abs/2110.10784v1)|null|
-|**2021-10-18**|**NeuralBlox: Real-Time Neural Representation Fusion for Robust Volumetric Mapping**|Stefan Lionar, Lukas Schmid, Cesar Cadena, Roland Siegwart, Andrei Cramariuc|[2110.09415v1](http://arxiv.org/abs/2110.09415v1)|**[link](https://github.com/ethz-asl/neuralblox)**|
-|**2021-10-17**|**3D-RETR: End-to-End Single and Multi-View 3D Reconstruction with Transformers**|Zai Shi, Zhao Meng, Yiran Xing, Yunpu Ma, Roger Wattenhofer|[2110.08861v1](http://arxiv.org/abs/2110.08861v1)|**[link](https://github.com/fomalhautb/3d-retr)**|
