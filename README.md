@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-04**|**Towards Panoptic 3D Parsing for Single Image in the Wild**|Sainan Liu, Vincent Nguyen, Yuan Gao, Subarna Tripathi, Zhuowen Tu|[2111.03039v1](http://arxiv.org/abs/2111.03039v1)|null|
 |**2021-11-01**|**FaceScape: 3D Facial Dataset and Benchmark for Single-View 3D Face Reconstruction**|Hao Zhu, Haotian Yang, Longwei Guo, Yidi Zhang, Yanru Wang, Mingkai Huang, Qiu Shen, Ruigang Yang, Xun Cao|[2111.01082v1](http://arxiv.org/abs/2111.01082v1)|null|
 |**2021-11-01**|**Monocular 3D Reconstruction of Interacting Hands via Collision-Aware Factorized Refinements**|Yu Rong, Jingbo Wang, Ziwei Liu, Chen Change Loy|[2111.00763v1](http://arxiv.org/abs/2111.00763v1)|null|
 |**2021-10-28**|**UltraPose: Synthesizing Dense Pose with 1 Billion Points by Human-body Decoupling 3D Model**|Haonan Yan, Jiaqi Chen, Xujie Zhang, Shengkai Zhang, Nianhong Jiao, Xiaodan Liang, Tianxiang Zheng|[2110.15267v1](http://arxiv.org/abs/2110.15267v1)|**[link](https://github.com/momoailab/ultrapose)**|
@@ -101,4 +102,3 @@
 |**2021-10-22**|**AIR-Nets: An Attention-Based Framework for Locally Conditioned Implicit Representations**|Simon Giebenhain, Bastian Goldlücke|[2110.11860v1](http://arxiv.org/abs/2110.11860v1)|**[link](https://github.com/simongiebenhain/air-nets)**|
 |**2021-10-22**|**IVS3D: An Open Source Framework for Intelligent Video Sampling and Preprocessing to Facilitate 3D Reconstruction**|Max Hermann, Thomas Pollok, Daniel Brommer, Dominic Zahn|[2110.11810v1](http://arxiv.org/abs/2110.11810v1)|**[link](https://github.com/ivs3d/ivs3d)**|
 |**2021-10-22**|**High Fidelity 3D Reconstructions with Limited Physical Views**|Mosam Dabhi, Chaoyang Wang, Kunal Saluja, Laszlo Jeni, Ian Fasel, Simon Lucey|[2110.11599v1](http://arxiv.org/abs/2110.11599v1)|null|
-|**2021-10-20**|**Style Agnostic 3D Reconstruction via Adversarial Style Transfer**|Felix Petersen, Bastian Goldluecke, Oliver Deussen, Hilde Kuehne|[2110.10784v1](http://arxiv.org/abs/2110.10784v1)|null|
