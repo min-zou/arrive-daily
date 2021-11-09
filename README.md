@@ -1,8 +1,9 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-05**|**MSC-VO: Exploiting Manhattan and Structural Constraints for Visual Odometry**|Joan P. Company-Corcoles, Emilio Garcia-Fidalgo, Alberto Ortiz|[2111.03408v1](http://arxiv.org/abs/2111.03408v1)|null|
 |**2021-10-31**|**Loop closure detection using local 3D deep descriptors**|Youjie Zhou, Yiming Wang, Fabio Poiesi, Qi Qin, Yi Wan|[2111.00440v1](http://arxiv.org/abs/2111.00440v1)|null|
-|**2021-10-27**|**Millimeter Wave Wireless Assisted Robot Navigation with Link State Classification**|Mingsheng Yin, Akshaj Veldanda, Amee Trivedi, Jeff Zhang, Kai Pfeiffer, Yaqi Hu, Siddharth Garg, Elza Erkip, Ludovic Righetti, Sundeep Rangan|[2110.14789v2](http://arxiv.org/abs/2110.14789v2)|null|
+|**2021-10-27**|**Millimeter Wave Wireless Assisted Robot Navigation with Link State Classification**|Mingsheng Yin, Akshaj Veldanda, Amee Trivedi, Jeff Zhang, Kai Pfeiffer, Yaqi Hu, Siddharth Garg, Elza Erkip, Ludovic Righetti, Sundeep Rangan|[2110.14789v2](http://arxiv.org/abs/2110.14789v2)|**[link](https://github.com/nyu-wireless/mmwRobotNav)**|
 |**2021-10-27**|**Efficient Placard Discovery for Semantic Mapping During Frontier Exploration**|David Balaban, Harshavardhan Jagannathan, Henry Liu, Justin Hart|[2110.14742v1](http://arxiv.org/abs/2110.14742v1)|null|
 |**2021-10-26**|**Robust Multi-view Registration of Point Sets with Laplacian Mixture Model**|Jin Zhang, Mingyang Zhao, Xin Jiang, Dong-Ming Yan|[2110.13744v1](http://arxiv.org/abs/2110.13744v1)|null|
 |**2021-10-25**|**WOLF: A modular estimation framework for robotics based on factor graphs**|Joan Sola, Joan Vallve-Navarro, Joaquim Casals, Jeremie Deray, Mederic Fourmy, Dinesh Atchuthan, Juan Andrade-Cetto|[2110.12919v1](http://arxiv.org/abs/2110.12919v1)|null|
@@ -10,7 +11,6 @@
 |**2021-10-21**|**SymbioLCD: Ensemble-Based Loop Closure Detection using CNN-Extracted Objects and Visual Bag-of-Words**|Jonathan J. Y. Kim, Martin Urschler, Patricia J. Riddle, Jörg S. Wicker|[2110.11491v1](http://arxiv.org/abs/2110.11491v1)|null|
 |**2021-10-21**|**InterpolationSLAM: A Novel Robust Visual SLAM System in Rotational Motion**|Zhenkun Zhu, Jikai Wang|[2110.11040v2](http://arxiv.org/abs/2110.11040v2)|null|
 |**2021-10-20**|**SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training**|Ankur Bapna, Yu-an Chung, Nan Wu, Anmol Gulati, Ye Jia, Jonathan H. Clark, Melvin Johnson, Jason Riesa, Alexis Conneau, Yu Zhang|[2110.10329v1](http://arxiv.org/abs/2110.10329v1)|null|
-|**2021-10-18**|**Enhancing exploration algorithms for navigation with visual SLAM**|Kirill Muravyev, Andrey Bokovoy, Konstantin Yakovlev|[2110.09156v1](http://arxiv.org/abs/2110.09156v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -40,6 +40,7 @@
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-04**|**Voxel-based 3D Detection and Reconstruction of Multiple Objects from a Single Image**|Feng Liu, Xiaoming Liu|[2111.03098v1](http://arxiv.org/abs/2111.03098v1)|null|
 |**2021-10-26**|**CoFiNet: Reliable Coarse-to-fine Correspondences for Robust Point Cloud Registration**|Hao Yu, Fu Li, Mahdi Saleh, Benjamin Busam, Slobodan Ilic|[2110.14076v1](http://arxiv.org/abs/2110.14076v1)|**[link](https://github.com/haoyu94/coarse-to-fine-correspondences)**|
 |**2021-10-18**|**Keypoint-Based Bimanual Shaping of Deformable Linear Objects under Environmental Constraints using Hierarchical Action Planning**|Shengzeng Huo, Anqing Duan, Chengxi Li, Peng Zhou, Wanyu Ma, David Navarro-Alarcon|[2110.08962v1](http://arxiv.org/abs/2110.08962v1)|null|
 |**2021-10-04**|**BPFNet: A Unified Framework for Bimodal Palmprint Alignment and Fusion**|Zhaoqun Li, Xu Liang, Dandan Fan, Jinxing Li, David Zhang|[2110.01179v1](http://arxiv.org/abs/2110.01179v1)|**[link](https://github.com/dxbdxx/bpfnet)**|
@@ -49,7 +50,6 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik, Lin Li, Xishuang Dong|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-26**|**Unsupervised domain adaptation for clinician pose estimation and instance segmentation in the OR**|Vinkle Srivastav, Afshin Gangi, Nicolas Padoy|[2108.11801v2](http://arxiv.org/abs/2108.11801v2)|**[link](https://github.com/camma-public/hpe-adaptor)**|
 |**2021-08-23**|**Lightweight Multi-person Total Motion Capture Using Sparse Multi-view Cameras**|Yuxiang Zhang, Zhe Li, Liang An, Mengcheng Li, Tao Yu, Yebin Liu|[2108.10378v1](http://arxiv.org/abs/2108.10378v1)|null|
-|**2021-08-13**|**EEEA-Net: An Early Exit Evolutionary Neural Architecture Search**|Chakkrit Termritthikun, Yeshi Jamtsho, Jirarat Ieamsaard, Paisarn Muneesawang, Ivan Lee|[2108.06156v1](http://arxiv.org/abs/2108.06156v1)|**[link](https://github.com/chakkritte/eeea-net)**|
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-04**|**3D Image Super-Resolution by fluorophore fluctuations and MA-TIRF Microscopy reconstruction (3D-COL0RME)**|Vasiliki Stergiopoulou, Luca Calatroni, Sébastien Schaub, Laure Blanc-Féraud|[2111.03170v1](http://arxiv.org/abs/2111.03170v1)|null|
 |**2021-11-04**|**Towards Panoptic 3D Parsing for Single Image in the Wild**|Sainan Liu, Vincent Nguyen, Yuan Gao, Subarna Tripathi, Zhuowen Tu|[2111.03039v1](http://arxiv.org/abs/2111.03039v1)|null|
 |**2021-11-01**|**FaceScape: 3D Facial Dataset and Benchmark for Single-View 3D Face Reconstruction**|Hao Zhu, Haotian Yang, Longwei Guo, Yidi Zhang, Yanru Wang, Mingkai Huang, Qiu Shen, Ruigang Yang, Xun Cao|[2111.01082v1](http://arxiv.org/abs/2111.01082v1)|null|
 |**2021-11-01**|**Monocular 3D Reconstruction of Interacting Hands via Collision-Aware Factorized Refinements**|Yu Rong, Jingbo Wang, Ziwei Liu, Chen Change Loy|[2111.00763v1](http://arxiv.org/abs/2111.00763v1)|null|
@@ -101,4 +102,3 @@
 |**2021-10-26**|**Robust Multi-view Registration of Point Sets with Laplacian Mixture Model**|Jin Zhang, Mingyang Zhao, Xin Jiang, Dong-Ming Yan|[2110.13744v1](http://arxiv.org/abs/2110.13744v1)|null|
 |**2021-10-22**|**AIR-Nets: An Attention-Based Framework for Locally Conditioned Implicit Representations**|Simon Giebenhain, Bastian Goldlücke|[2110.11860v1](http://arxiv.org/abs/2110.11860v1)|**[link](https://github.com/simongiebenhain/air-nets)**|
 |**2021-10-22**|**IVS3D: An Open Source Framework for Intelligent Video Sampling and Preprocessing to Facilitate 3D Reconstruction**|Max Hermann, Thomas Pollok, Daniel Brommer, Dominic Zahn|[2110.11810v1](http://arxiv.org/abs/2110.11810v1)|**[link](https://github.com/ivs3d/ivs3d)**|
-|**2021-10-22**|**High Fidelity 3D Reconstructions with Limited Physical Views**|Mosam Dabhi, Chaoyang Wang, Kunal Saluja, Laszlo Jeni, Ian Fasel, Simon Lucey|[2110.11599v1](http://arxiv.org/abs/2110.11599v1)|null|
