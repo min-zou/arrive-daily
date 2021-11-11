@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-09**|**3D FRONSAC with PSF reconstruction**|Yanitza Rodriguez, Nahla M. H. Elsaid, Boris Keil, Gigi Galiana|[2111.05143v1](http://arxiv.org/abs/2111.05143v1)|null|
 |**2021-11-04**|**3D Image Super-Resolution by fluorophore fluctuations and MA-TIRF Microscopy reconstruction (3D-COL0RME)**|Vasiliki Stergiopoulou, Luca Calatroni, Sébastien Schaub, Laure Blanc-Féraud|[2111.03170v1](http://arxiv.org/abs/2111.03170v1)|null|
 |**2021-11-04**|**Towards Panoptic 3D Parsing for Single Image in the Wild**|Sainan Liu, Vincent Nguyen, Yuan Gao, Subarna Tripathi, Zhuowen Tu|[2111.03039v1](http://arxiv.org/abs/2111.03039v1)|null|
 |**2021-11-01**|**FaceScape: 3D Facial Dataset and Benchmark for Single-View 3D Face Reconstruction**|Hao Zhu, Haotian Yang, Longwei Guo, Yidi Zhang, Yanru Wang, Mingkai Huang, Qiu Shen, Ruigang Yang, Xun Cao|[2111.01082v1](http://arxiv.org/abs/2111.01082v1)|null|
@@ -101,4 +102,3 @@
 |**2021-10-27**|**TMBuD: A dataset for urban scene building detection**|Orhei Ciprian, Vert Silviu, Mocofan Muguras, Vasiu Radu|[2110.14590v1](http://arxiv.org/abs/2110.14590v1)|**[link](https://github.com/cipiorhei/tmbud)**|
 |**2021-10-26**|**Robust Multi-view Registration of Point Sets with Laplacian Mixture Model**|Jin Zhang, Mingyang Zhao, Xin Jiang, Dong-Ming Yan|[2110.13744v1](http://arxiv.org/abs/2110.13744v1)|null|
 |**2021-10-22**|**AIR-Nets: An Attention-Based Framework for Locally Conditioned Implicit Representations**|Simon Giebenhain, Bastian Goldlücke|[2110.11860v1](http://arxiv.org/abs/2110.11860v1)|**[link](https://github.com/simongiebenhain/air-nets)**|
-|**2021-10-22**|**IVS3D: An Open Source Framework for Intelligent Video Sampling and Preprocessing to Facilitate 3D Reconstruction**|Max Hermann, Thomas Pollok, Daniel Brommer, Dominic Zahn|[2110.11810v1](http://arxiv.org/abs/2110.11810v1)|**[link](https://github.com/ivs3d/ivs3d)**|
