@@ -1,6 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-10**|**Comparing dominance of tennis' big three via multiple-output Bayesian quantile regression models**|Bruno Santos|[2111.05631v1](http://arxiv.org/abs/2111.05631v1)|null|
+|**2021-11-10**|**TomoSLAM: factor graph optimization for rotation angle refinement in microtomography**|Mark Griguletskii, Mikhail Chekanov, Oleg Shipitko|[2111.05562v1](http://arxiv.org/abs/2111.05562v1)|null|
 |**2021-11-07**|**Hierarchical Segment-based Optimization for SLAM**|Yuxin Tian, Yujie Wang, Ming Ouyang, Xuesong Shi|[2111.04101v1](http://arxiv.org/abs/2111.04101v1)|null|
 |**2021-11-07**|**Online Adaptation of Monocular Depth Prediction with Visual SLAM**|Shing Yan Loo, Moein Shakeri, Sai Hong Tang, Syamsiah Mashohor, Hong Zhang|[2111.04096v1](http://arxiv.org/abs/2111.04096v1)|null|
 |**2021-11-05**|**MSC-VO: Exploiting Manhattan and Structural Constraints for Visual Odometry**|Joan P. Company-Corcoles, Emilio Garcia-Fidalgo, Alberto Ortiz|[2111.03408v1](http://arxiv.org/abs/2111.03408v1)|null|
@@ -9,8 +11,6 @@
 |**2021-10-27**|**Efficient Placard Discovery for Semantic Mapping During Frontier Exploration**|David Balaban, Harshavardhan Jagannathan, Henry Liu, Justin Hart|[2110.14742v1](http://arxiv.org/abs/2110.14742v1)|null|
 |**2021-10-26**|**Robust Multi-view Registration of Point Sets with Laplacian Mixture Model**|Jin Zhang, Mingyang Zhao, Xin Jiang, Dong-Ming Yan|[2110.13744v1](http://arxiv.org/abs/2110.13744v1)|null|
 |**2021-10-25**|**WOLF: A modular estimation framework for robotics based on factor graphs**|Joan Sola, Joan Vallve-Navarro, Joaquim Casals, Jeremie Deray, Mederic Fourmy, Dinesh Atchuthan, Juan Andrade-Cetto|[2110.12919v1](http://arxiv.org/abs/2110.12919v1)|null|
-|**2021-10-21**|**Real-Time Ground-Plane Refined LiDAR SLAM**|Fan Yang, Mengqing Jiang, Chenxi Xu|[2110.11517v1](http://arxiv.org/abs/2110.11517v1)|null|
-|**2021-10-21**|**SymbioLCD: Ensemble-Based Loop Closure Detection using CNN-Extracted Objects and Visual Bag-of-Words**|Jonathan J. Y. Kim, Martin Urschler, Patricia J. Riddle, Jörg S. Wicker|[2110.11491v1](http://arxiv.org/abs/2110.11491v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -79,7 +79,7 @@
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2021-11-05**|**Damage Estimation and Localization from Sparse Aerial Imagery**|Rene Garcia Franceschini, Jeffrey Liu, Saurabh Amin|[2111.03708v1](http://arxiv.org/abs/2111.03708v1)|null|
+|**2021-11-05**|**Damage Estimation and Localization from Sparse Aerial Imagery**|Rene Garcia Franceschini, Jeffrey Liu, Saurabh Amin|[2111.03708v2](http://arxiv.org/abs/2111.03708v2)|null|
 |**2021-11-03**|**Event and Activity Recognition in Video Surveillance for Cyber-Physical Systems**|Swarnabja Bhaumik, Prithwish Jana, Partha Pratim Mohanta|[2111.02064v1](http://arxiv.org/abs/2111.02064v1)|null|
 |**2021-10-14**|**Modeling dynamic target deformation in camera calibration**|Annika Hagemann, Moritz Knorr, Christoph Stiller|[2110.07322v1](http://arxiv.org/abs/2110.07322v1)|null|
 |**2021-10-13**|**Hyperspectral 3D Mapping of Underwater Environments**|Maxime Ferrera, Aurélien Arnaubec, Klemen Istenic, Nuno Gracias, Touria Bajjouk|[2110.06571v1](http://arxiv.org/abs/2110.06571v1)|null|
@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-09**|**Pipeline for 3D reconstruction of the human body from AR/VR headset mounted egocentric cameras**|Shivam Grover, Kshitij Sidana, Vanita Jain|[2111.05409v1](http://arxiv.org/abs/2111.05409v1)|null|
 |**2021-11-09**|**3D FRONSAC with PSF reconstruction**|Yanitza Rodriguez, Nahla M. H. Elsaid, Boris Keil, Gigi Galiana|[2111.05143v1](http://arxiv.org/abs/2111.05143v1)|null|
 |**2021-11-04**|**3D Image Super-Resolution by fluorophore fluctuations and MA-TIRF Microscopy reconstruction (3D-COL0RME)**|Vasiliki Stergiopoulou, Luca Calatroni, Sébastien Schaub, Laure Blanc-Féraud|[2111.03170v1](http://arxiv.org/abs/2111.03170v1)|null|
 |**2021-11-04**|**Towards Panoptic 3D Parsing for Single Image in the Wild**|Sainan Liu, Vincent Nguyen, Yuan Gao, Subarna Tripathi, Zhuowen Tu|[2111.03039v1](http://arxiv.org/abs/2111.03039v1)|null|
@@ -101,4 +102,3 @@
 |**2021-10-28**|**A Comparative Study of Coarse to Dense 3D Indoor Scene Registration Algorithms**|Abdenour Amamra, Khalid Boumaza|[2110.15179v1](http://arxiv.org/abs/2110.15179v1)|null|
 |**2021-10-27**|**TMBuD: A dataset for urban scene building detection**|Orhei Ciprian, Vert Silviu, Mocofan Muguras, Vasiu Radu|[2110.14590v1](http://arxiv.org/abs/2110.14590v1)|**[link](https://github.com/cipiorhei/tmbud)**|
 |**2021-10-26**|**Robust Multi-view Registration of Point Sets with Laplacian Mixture Model**|Jin Zhang, Mingyang Zhao, Xin Jiang, Dong-Ming Yan|[2110.13744v1](http://arxiv.org/abs/2110.13744v1)|null|
-|**2021-10-22**|**AIR-Nets: An Attention-Based Framework for Locally Conditioned Implicit Representations**|Simon Giebenhain, Bastian Goldlücke|[2110.11860v1](http://arxiv.org/abs/2110.11860v1)|**[link](https://github.com/simongiebenhain/air-nets)**|
