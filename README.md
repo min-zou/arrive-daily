@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-12**|**Three-dimensional dust density structure of the Orion, Cygnus X,Taurus, and Perseus star-forming regions**|T. E. Dharmawardena, C. A. L. Bailer-Jones, M. Fouesneau, D. Foreman-Mackey|[2111.06672v1](http://arxiv.org/abs/2111.06672v1)|**[link](https://github.com/thavisha/dustribution)**|
 |**2021-11-09**|**Pipeline for 3D reconstruction of the human body from AR/VR headset mounted egocentric cameras**|Shivam Grover, Kshitij Sidana, Vanita Jain|[2111.05409v1](http://arxiv.org/abs/2111.05409v1)|null|
 |**2021-11-09**|**3D FRONSAC with PSF reconstruction**|Yanitza Rodriguez, Nahla M. H. Elsaid, Boris Keil, Gigi Galiana|[2111.05143v1](http://arxiv.org/abs/2111.05143v1)|null|
 |**2021-11-04**|**3D Image Super-Resolution by fluorophore fluctuations and MA-TIRF Microscopy reconstruction (3D-COL0RME)**|Vasiliki Stergiopoulou, Luca Calatroni, Sébastien Schaub, Laure Blanc-Féraud|[2111.03170v1](http://arxiv.org/abs/2111.03170v1)|null|
@@ -101,4 +102,3 @@
 |**2021-10-28**|**UltraPose: Synthesizing Dense Pose with 1 Billion Points by Human-body Decoupling 3D Model**|Haonan Yan, Jiaqi Chen, Xujie Zhang, Shengkai Zhang, Nianhong Jiao, Xiaodan Liang, Tianxiang Zheng|[2110.15267v1](http://arxiv.org/abs/2110.15267v1)|**[link](https://github.com/momoailab/ultrapose)**|
 |**2021-10-28**|**A Comparative Study of Coarse to Dense 3D Indoor Scene Registration Algorithms**|Abdenour Amamra, Khalid Boumaza|[2110.15179v1](http://arxiv.org/abs/2110.15179v1)|null|
 |**2021-10-27**|**TMBuD: A dataset for urban scene building detection**|Orhei Ciprian, Vert Silviu, Mocofan Muguras, Vasiu Radu|[2110.14590v1](http://arxiv.org/abs/2110.14590v1)|**[link](https://github.com/cipiorhei/tmbud)**|
-|**2021-10-26**|**Robust Multi-view Registration of Point Sets with Laplacian Mixture Model**|Jin Zhang, Mingyang Zhao, Xin Jiang, Dong-Ming Yan|[2110.13744v1](http://arxiv.org/abs/2110.13744v1)|null|
