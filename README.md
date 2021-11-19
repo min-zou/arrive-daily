@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-17**|**Probabilistic Spatial Distribution Prior Based Attentional Keypoints Matching Network**|Xiaoming Zhao, Jingmeng Liu, Xingming Wu, Weihai Chen, Fanghong Guo, Zhengguo Li|[2111.09006v1](http://arxiv.org/abs/2111.09006v1)|null|
 |**2021-11-10**|**Comparing dominance of tennis' big three via multiple-output Bayesian quantile regression models**|Bruno Santos|[2111.05631v1](http://arxiv.org/abs/2111.05631v1)|null|
 |**2021-11-10**|**TomoSLAM: factor graph optimization for rotation angle refinement in microtomography**|Mark Griguletskii, Mikhail Chekanov, Oleg Shipitko|[2111.05562v1](http://arxiv.org/abs/2111.05562v1)|null|
 |**2021-11-07**|**Hierarchical Segment-based Optimization for SLAM**|Yuxin Tian, Yujie Wang, Ming Ouyang, Xuesong Shi|[2111.04101v1](http://arxiv.org/abs/2111.04101v1)|null|
@@ -10,7 +11,6 @@
 |**2021-10-27**|**Millimeter Wave Wireless Assisted Robot Navigation with Link State Classification**|Mingsheng Yin, Akshaj Veldanda, Amee Trivedi, Jeff Zhang, Kai Pfeiffer, Yaqi Hu, Siddharth Garg, Elza Erkip, Ludovic Righetti, Sundeep Rangan|[2110.14789v2](http://arxiv.org/abs/2110.14789v2)|**[link](https://github.com/nyu-wireless/mmwRobotNav)**|
 |**2021-10-27**|**Efficient Placard Discovery for Semantic Mapping During Frontier Exploration**|David Balaban, Harshavardhan Jagannathan, Henry Liu, Justin Hart|[2110.14742v1](http://arxiv.org/abs/2110.14742v1)|null|
 |**2021-10-26**|**Robust Multi-view Registration of Point Sets with Laplacian Mixture Model**|Jin Zhang, Mingyang Zhao, Xin Jiang, Dong-Ming Yan|[2110.13744v1](http://arxiv.org/abs/2110.13744v1)|null|
-|**2021-10-25**|**WOLF: A modular estimation framework for robotics based on factor graphs**|Joan Sola, Joan Vallve-Navarro, Joaquim Casals, Jeremie Deray, Mederic Fourmy, Dinesh Atchuthan, Juan Andrade-Cetto|[2110.12919v1](http://arxiv.org/abs/2110.12919v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -53,6 +53,8 @@
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-17**|**Probabilistic Spatial Distribution Prior Based Attentional Keypoints Matching Network**|Xiaoming Zhao, Jingmeng Liu, Xingming Wu, Weihai Chen, Fanghong Guo, Zhengguo Li|[2111.09006v1](http://arxiv.org/abs/2111.09006v1)|null|
+|**2021-11-17**|**Nonlinear Intensity Sonar Image Matching based on Deep Convolution Features**|Xiaoteng Zhou, Changli Yu, Xin Yuan, Yi Wu, Haijun Feng, Citong Luo|[2111.08994v1](http://arxiv.org/abs/2111.08994v1)|null|
 |**2021-10-30**|**A Deep Search for Faint Chandra X-ray Sources, Radio Sources, and Optical Counterparts in NGC 6752**|Haldan N. Cohn, Phyllis M. Lugger, Yue Zhao, Vlad Tudor, Craig O. Heinke, Adrienne M. Cool, Jay Anderson, Jay Strader, James C. A. Miller-Jones|[2111.00357v1](http://arxiv.org/abs/2111.00357v1)|null|
 |**2021-10-01**|**Robustly Removing Deep Sea Lighting Effects for Visual Mapping of Abyssal Plains**|Kevin Köser, Yifan Song, Lasse Petersen, Emanuel Wenzlaff, Felix Woelk|[2110.00480v1](http://arxiv.org/abs/2110.00480v1)|null|
 |**2021-09-29**|**Visually Grounded Concept Composition**|Bowen Zhang, Hexiang Hu, Linlu Qiu, Peter Shaw, Fei Sha|[2109.14115v1](http://arxiv.org/abs/2109.14115v1)|null|
@@ -61,11 +63,10 @@
 |**2021-09-20**|**Image Subtraction in Fourier Space**|Lei Hu, Lifan Wang, Xingzhuo Chen|[2109.09334v1](http://arxiv.org/abs/2109.09334v1)|null|
 |**2021-09-10**|**Line as a Visual Sentence: Context-aware Line Descriptor for Visual Localization**|Sungho Yoon, Ayoung Kim|[2109.04753v1](http://arxiv.org/abs/2109.04753v1)|**[link](https://github.com/yosungho/LineTR)**|
 |**2021-09-08**|**Matching in the Dark: A Dataset for Matching Image Pairs of Low-light Scenes**|Wenzheng Song, Masanori Suganuma, Xing Liu, Noriyuki Shimobayashi, Daisuke Maruta, Takayuki Okatani|[2109.03585v2](http://arxiv.org/abs/2109.03585v2)|null|
-|**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou, Changli Yu, Xin Yuan, Citong Luo|[2108.12151v1](http://arxiv.org/abs/2108.12151v1)|null|
-|**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou, Changli Yu, Xin Yuan, Citong Luo|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-16**|**MASCOT -- An ESO-ARO legacy survey of molecular gas in nearby SDSS-MaNGA galaxies: I. first data release, and global and resolved relations between H_2 and stellar content**|D. Wylezalek, C. Cicone, F. Belfiore, C. Bertemes, S. Cazzoli, J. Wagg, W. Wang, M. Aravena, R. Maiolino, S. Martin, M. S. Bothwell, J. R. Brownstein, K. Bundy, C. De Breuck|[2111.08719v1](http://arxiv.org/abs/2111.08719v1)|null|
 |**2021-11-14**|**A Polynomial Lower Bound on the Number of Rounds for Parallel Submodular Function Minimization and Matroid Intersection**|Deeparnab Chakrabarty, Yu Chen, Sanjeev Khanna|[2111.07474v1](http://arxiv.org/abs/2111.07474v1)|null|
 |**2021-11-03**|**Event and Activity Recognition in Video Surveillance for Cyber-Physical Systems**|Swarnabja Bhaumik, Prithwish Jana, Partha Pratim Mohanta|[2111.02064v1](http://arxiv.org/abs/2111.02064v1)|null|
 |**2021-10-21**|**The black hole-star formation connection over cosmic time**|Chandra B. Singh, Nelitha Kulasiri, Max North, David Garofalo|[2110.10993v1](http://arxiv.org/abs/2110.10993v1)|null|
@@ -75,7 +76,6 @@
 |**2021-09-06**|**Critical State Theory For The Magnetic Coupling Between Soft Ferromagnetic Materials And Type-II Superconductors**|M. U. Fareed, H. S. Ruiz|[2109.02604v2](http://arxiv.org/abs/2109.02604v2)|null|
 |**2021-09-06**|**Crowd-Aware Robot Navigation for Pedestrians with Multiple Collision Avoidance Strategies via Map-based Deep Reinforcement Learning**|Shunyi Yao1, Guangda Chen, Quecheng Qiu, Jun Ma, Xiaoping Chen, Jianmin Ji|[2109.02541v1](http://arxiv.org/abs/2109.02541v1)|null|
 |**2021-09-02**|**Dynamic Scene Novel View Synthesis via Deferred Spatio-temporal Consistency**|Beatrix-Emőke Fülöp-Balogh, Eleanor Tursman, James Tompkin, Julie Digne, Nicolas Bonneel|[2109.01018v1](http://arxiv.org/abs/2109.01018v1)|null|
-|**2021-09-01**|**On the Limits of Pseudo Ground Truth in Visual Camera Re-localisation**|Eric Brachmann, Martin Humenberger, Carsten Rother, Torsten Sattler|[2109.00524v1](http://arxiv.org/abs/2109.00524v1)|**[link](https://github.com/tsattler/visloc_pseudo_gt_limitations)**|
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
