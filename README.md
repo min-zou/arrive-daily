@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-19**|**Varifocal Multiview Images: Capturing and Visual Tasks**|Kejun Wu, Qiong Liu, Guoan Li, Gangyi Jiang, You Yang|[2111.10099v1](http://arxiv.org/abs/2111.10099v1)|null|
 |**2021-11-14**|**TANDEM: Tracking and Dense Mapping in Real-time using Deep Multi-view Stereo**|Lukas Koestler, Nan Yang, Niclas Zeller, Daniel Cremers|[2111.07418v1](http://arxiv.org/abs/2111.07418v1)|null|
 |**2021-11-12**|**Three-dimensional dust density structure of the Orion, Cygnus X,Taurus, and Perseus star-forming regions**|T. E. Dharmawardena, C. A. L. Bailer-Jones, M. Fouesneau, D. Foreman-Mackey|[2111.06672v1](http://arxiv.org/abs/2111.06672v1)|**[link](https://github.com/thavisha/dustribution)**|
 |**2021-11-09**|**Pipeline for 3D reconstruction of the human body from AR/VR headset mounted egocentric cameras**|Shivam Grover, Kshitij Sidana, Vanita Jain|[2111.05409v1](http://arxiv.org/abs/2111.05409v1)|null|
@@ -101,4 +102,3 @@
 |**2021-11-01**|**FaceScape: 3D Facial Dataset and Benchmark for Single-View 3D Face Reconstruction**|Hao Zhu, Haotian Yang, Longwei Guo, Yidi Zhang, Yanru Wang, Mingkai Huang, Qiu Shen, Ruigang Yang, Xun Cao|[2111.01082v1](http://arxiv.org/abs/2111.01082v1)|null|
 |**2021-11-01**|**Monocular 3D Reconstruction of Interacting Hands via Collision-Aware Factorized Refinements**|Yu Rong, Jingbo Wang, Ziwei Liu, Chen Change Loy|[2111.00763v1](http://arxiv.org/abs/2111.00763v1)|null|
 |**2021-10-28**|**UltraPose: Synthesizing Dense Pose with 1 Billion Points by Human-body Decoupling 3D Model**|Haonan Yan, Jiaqi Chen, Xujie Zhang, Shengkai Zhang, Nianhong Jiao, Xiaodan Liang, Tianxiang Zheng|[2110.15267v1](http://arxiv.org/abs/2110.15267v1)|**[link](https://github.com/momoailab/ultrapose)**|
-|**2021-10-28**|**A Comparative Study of Coarse to Dense 3D Indoor Scene Registration Algorithms**|Abdenour Amamra, Khalid Boumaza|[2110.15179v1](http://arxiv.org/abs/2110.15179v1)|null|
