@@ -1,7 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2021-11-17**|**Probabilistic Spatial Distribution Prior Based Attentional Keypoints Matching Network**|Xiaoming Zhao, Jingmeng Liu, Xingming Wu, Weihai Chen, Fanghong Guo, Zhengguo Li|[2111.09006v1](http://arxiv.org/abs/2111.09006v1)|null|
+|**2021-11-22**|**A General Framework for Lifelong Localization and Mapping in Changing Environment**|Min Zhao, Xin Guo, Le Song, Baoxing Qin, Xuesong Shi, Gim Hee Lee, Guanghui Sun|[2111.10946v1](http://arxiv.org/abs/2111.10946v1)|null|
+|**2021-11-17**|**Probabilistic Spatial Distribution Prior Based Attentional Keypoints Matching Network**|Xiaoming Zhao, Jingmeng Liu, Xingming Wu, Weihai Chen, Fanghong Guo, Zhengguo Li|[2111.09006v2](http://arxiv.org/abs/2111.09006v2)|null|
 |**2021-11-10**|**Comparing dominance of tennis' big three via multiple-output Bayesian quantile regression models**|Bruno Santos|[2111.05631v1](http://arxiv.org/abs/2111.05631v1)|null|
 |**2021-11-10**|**TomoSLAM: factor graph optimization for rotation angle refinement in microtomography**|Mark Griguletskii, Mikhail Chekanov, Oleg Shipitko|[2111.05562v1](http://arxiv.org/abs/2111.05562v1)|null|
 |**2021-11-07**|**Hierarchical Segment-based Optimization for SLAM**|Yuxin Tian, Yujie Wang, Ming Ouyang, Xuesong Shi|[2111.04101v1](http://arxiv.org/abs/2111.04101v1)|null|
@@ -10,7 +11,6 @@
 |**2021-10-31**|**Loop closure detection using local 3D deep descriptors**|Youjie Zhou, Yiming Wang, Fabio Poiesi, Qi Qin, Yi Wan|[2111.00440v1](http://arxiv.org/abs/2111.00440v1)|null|
 |**2021-10-27**|**Millimeter Wave Wireless Assisted Robot Navigation with Link State Classification**|Mingsheng Yin, Akshaj Veldanda, Amee Trivedi, Jeff Zhang, Kai Pfeiffer, Yaqi Hu, Siddharth Garg, Elza Erkip, Ludovic Righetti, Sundeep Rangan|[2110.14789v2](http://arxiv.org/abs/2110.14789v2)|**[link](https://github.com/nyu-wireless/mmwRobotNav)**|
 |**2021-10-27**|**Efficient Placard Discovery for Semantic Mapping During Frontier Exploration**|David Balaban, Harshavardhan Jagannathan, Henry Liu, Justin Hart|[2110.14742v1](http://arxiv.org/abs/2110.14742v1)|null|
-|**2021-10-26**|**Robust Multi-view Registration of Point Sets with Laplacian Mixture Model**|Jin Zhang, Mingyang Zhao, Xin Jiang, Dong-Ming Yan|[2110.13744v1](http://arxiv.org/abs/2110.13744v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -53,7 +53,7 @@
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2021-11-17**|**Probabilistic Spatial Distribution Prior Based Attentional Keypoints Matching Network**|Xiaoming Zhao, Jingmeng Liu, Xingming Wu, Weihai Chen, Fanghong Guo, Zhengguo Li|[2111.09006v1](http://arxiv.org/abs/2111.09006v1)|null|
+|**2021-11-17**|**Probabilistic Spatial Distribution Prior Based Attentional Keypoints Matching Network**|Xiaoming Zhao, Jingmeng Liu, Xingming Wu, Weihai Chen, Fanghong Guo, Zhengguo Li|[2111.09006v2](http://arxiv.org/abs/2111.09006v2)|null|
 |**2021-11-17**|**Nonlinear Intensity Sonar Image Matching based on Deep Convolution Features**|Xiaoteng Zhou, Changli Yu, Xin Yuan, Yi Wu, Haijun Feng, Citong Luo|[2111.08994v1](http://arxiv.org/abs/2111.08994v1)|null|
 |**2021-10-30**|**A Deep Search for Faint Chandra X-ray Sources, Radio Sources, and Optical Counterparts in NGC 6752**|Haldan N. Cohn, Phyllis M. Lugger, Yue Zhao, Vlad Tudor, Craig O. Heinke, Adrienne M. Cool, Jay Anderson, Jay Strader, James C. A. Miller-Jones|[2111.00357v1](http://arxiv.org/abs/2111.00357v1)|null|
 |**2021-10-01**|**Robustly Removing Deep Sea Lighting Effects for Visual Mapping of Abyssal Plains**|Kevin Köser, Yifan Song, Lasse Petersen, Emanuel Wenzlaff, Felix Woelk|[2110.00480v1](http://arxiv.org/abs/2110.00480v1)|null|
@@ -92,13 +92,13 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2021-11-19**|**Varifocal Multiview Images: Capturing and Visual Tasks**|Kejun Wu, Qiong Liu, Guoan Li, Gangyi Jiang, You Yang|[2111.10099v1](http://arxiv.org/abs/2111.10099v1)|null|
+|**2021-11-22**|**Neural Fields in Visual Computing and Beyond**|Yiheng Xie, Towaki Takikawa, Shunsuke Saito, Or Litany, Shiqin Yan, Numair Khan, Federico Tombari, James Tompkin, Vincent Sitzmann, Srinath Sridhar|[2111.11426v1](http://arxiv.org/abs/2111.11426v1)|null|
+|**2021-11-22**|**Monocular Road Planar Parallax Estimation**|Haobo Yuan, Teng Chen, Wei Sui, Jiafeng Xie, Lefei Zhang, Yuan Li, Qian Zhang|[2111.11089v1](http://arxiv.org/abs/2111.11089v1)|null|
+|**2021-11-19**|**Varifocal Multiview Images: Capturing and Visual Tasks**|Kejun Wu, Qiong Liu, Guoan Li, Gangyi Jiang, You Yang|[2111.10099v1](http://arxiv.org/abs/2111.10099v1)|**[link](https://github.com/yihui-he/3d-reconstruction)**|
+|**2021-11-19**|**ColDE: A Depth Estimation Framework for Colonoscopy Reconstruction**|Yubo Zhang, Jan-Michael Frahm, Samuel Ehrenstein, Sarah K. McGill, Julian G. Rosenman, Shuxian Wang, Stephen M. Pizer|[2111.10371v1](http://arxiv.org/abs/2111.10371v1)|null|
 |**2021-11-14**|**TANDEM: Tracking and Dense Mapping in Real-time using Deep Multi-view Stereo**|Lukas Koestler, Nan Yang, Niclas Zeller, Daniel Cremers|[2111.07418v1](http://arxiv.org/abs/2111.07418v1)|null|
 |**2021-11-12**|**Three-dimensional dust density structure of the Orion, Cygnus X,Taurus, and Perseus star-forming regions**|T. E. Dharmawardena, C. A. L. Bailer-Jones, M. Fouesneau, D. Foreman-Mackey|[2111.06672v1](http://arxiv.org/abs/2111.06672v1)|**[link](https://github.com/thavisha/dustribution)**|
 |**2021-11-09**|**Pipeline for 3D reconstruction of the human body from AR/VR headset mounted egocentric cameras**|Shivam Grover, Kshitij Sidana, Vanita Jain|[2111.05409v1](http://arxiv.org/abs/2111.05409v1)|null|
 |**2021-11-09**|**3D FRONSAC with PSF reconstruction**|Yanitza Rodriguez, Nahla M. H. Elsaid, Boris Keil, Gigi Galiana|[2111.05143v1](http://arxiv.org/abs/2111.05143v1)|null|
 |**2021-11-04**|**3D Image Super-Resolution by fluorophore fluctuations and MA-TIRF Microscopy reconstruction (3D-COL0RME)**|Vasiliki Stergiopoulou, Luca Calatroni, Sébastien Schaub, Laure Blanc-Féraud|[2111.03170v1](http://arxiv.org/abs/2111.03170v1)|null|
 |**2021-11-04**|**Towards Panoptic 3D Parsing for Single Image in the Wild**|Sainan Liu, Vincent Nguyen, Yuan Gao, Subarna Tripathi, Zhuowen Tu|[2111.03039v1](http://arxiv.org/abs/2111.03039v1)|null|
-|**2021-11-01**|**FaceScape: 3D Facial Dataset and Benchmark for Single-View 3D Face Reconstruction**|Hao Zhu, Haotian Yang, Longwei Guo, Yidi Zhang, Yanru Wang, Mingkai Huang, Qiu Shen, Ruigang Yang, Xun Cao|[2111.01082v1](http://arxiv.org/abs/2111.01082v1)|null|
-|**2021-11-01**|**Monocular 3D Reconstruction of Interacting Hands via Collision-Aware Factorized Refinements**|Yu Rong, Jingbo Wang, Ziwei Liu, Chen Change Loy|[2111.00763v1](http://arxiv.org/abs/2111.00763v1)|null|
-|**2021-10-28**|**UltraPose: Synthesizing Dense Pose with 1 Billion Points by Human-body Decoupling 3D Model**|Haonan Yan, Jiaqi Chen, Xujie Zhang, Shengkai Zhang, Nianhong Jiao, Xiaodan Liang, Tianxiang Zheng|[2110.15267v1](http://arxiv.org/abs/2110.15267v1)|**[link](https://github.com/momoailab/ultrapose)**|
