@@ -1,7 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2021-11-22**|**A General Framework for Lifelong Localization and Mapping in Changing Environment**|Min Zhao, Xin Guo, Le Song, Baoxing Qin, Xuesong Shi, Gim Hee Lee, Guanghui Sun|[2111.10946v1](http://arxiv.org/abs/2111.10946v1)|null|
+|**2021-11-22**|**A General Framework for Lifelong Localization and Mapping in Changing Environment**|Min Zhao, Xin Guo, Le Song, Baoxing Qin, Xuesong Shi, Gim Hee Lee, Guanghui Sun|[2111.10946v1](http://arxiv.org/abs/2111.10946v1)|**[link](https://github.com/sanduan168/lifelong-slam-dataset)**|
 |**2021-11-17**|**Probabilistic Spatial Distribution Prior Based Attentional Keypoints Matching Network**|Xiaoming Zhao, Jingmeng Liu, Xingming Wu, Weihai Chen, Fanghong Guo, Zhengguo Li|[2111.09006v2](http://arxiv.org/abs/2111.09006v2)|null|
 |**2021-11-10**|**Comparing dominance of tennis' big three via multiple-output Bayesian quantile regression models**|Bruno Santos|[2111.05631v1](http://arxiv.org/abs/2111.05631v1)|null|
 |**2021-11-10**|**TomoSLAM: factor graph optimization for rotation angle refinement in microtomography**|Mark Griguletskii, Mikhail Chekanov, Oleg Shipitko|[2111.05562v1](http://arxiv.org/abs/2111.05562v1)|null|
@@ -92,7 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2021-11-22**|**Neural Fields in Visual Computing and Beyond**|Yiheng Xie, Towaki Takikawa, Shunsuke Saito, Or Litany, Shiqin Yan, Numair Khan, Federico Tombari, James Tompkin, Vincent Sitzmann, Srinath Sridhar|[2111.11426v1](http://arxiv.org/abs/2111.11426v1)|null|
+|**2021-11-22**|**Neural Fields in Visual Computing and Beyond**|Yiheng Xie, Towaki Takikawa, Shunsuke Saito, Or Litany, Shiqin Yan, Numair Khan, Federico Tombari, James Tompkin, Vincent Sitzmann, Srinath Sridhar|[2111.11426v2](http://arxiv.org/abs/2111.11426v2)|null|
 |**2021-11-22**|**Monocular Road Planar Parallax Estimation**|Haobo Yuan, Teng Chen, Wei Sui, Jiafeng Xie, Lefei Zhang, Yuan Li, Qian Zhang|[2111.11089v1](http://arxiv.org/abs/2111.11089v1)|null|
 |**2021-11-19**|**Varifocal Multiview Images: Capturing and Visual Tasks**|Kejun Wu, Qiong Liu, Guoan Li, Gangyi Jiang, You Yang|[2111.10099v1](http://arxiv.org/abs/2111.10099v1)|**[link](https://github.com/yihui-he/3d-reconstruction)**|
 |**2021-11-19**|**ColDE: A Depth Estimation Framework for Colonoscopy Reconstruction**|Yubo Zhang, Jan-Michael Frahm, Samuel Ehrenstein, Sarah K. McGill, Julian G. Rosenman, Shuxian Wang, Stephen M. Pizer|[2111.10371v1](http://arxiv.org/abs/2111.10371v1)|null|
