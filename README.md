@@ -8,7 +8,7 @@
 |**2021-11-10**|**Comparing dominance of tennis' big three via multiple-output Bayesian quantile regression models**|Bruno Santos|[2111.05631v1](http://arxiv.org/abs/2111.05631v1)|null|
 |**2021-11-10**|**TomoSLAM: factor graph optimization for rotation angle refinement in microtomography**|Mark Griguletskii, Mikhail Chekanov, Oleg Shipitko|[2111.05562v1](http://arxiv.org/abs/2111.05562v1)|null|
 |**2021-11-07**|**Hierarchical Segment-based Optimization for SLAM**|Yuxin Tian, Yujie Wang, Ming Ouyang, Xuesong Shi|[2111.04101v1](http://arxiv.org/abs/2111.04101v1)|null|
-|**2021-11-07**|**Online Adaptation of Monocular Depth Prediction with Visual SLAM**|Shing Yan Loo, Moein Shakeri, Sai Hong Tang, Syamsiah Mashohor, Hong Zhang|[2111.04096v1](http://arxiv.org/abs/2111.04096v1)|null|
+|**2021-11-07**|**Online Mutual Adaptation of Deep Depth Prediction and Visual SLAM**|Shing Yan Loo, Moein Shakeri, Sai Hong Tang, Syamsiah Mashohor, Hong Zhang|[2111.04096v2](http://arxiv.org/abs/2111.04096v2)|null|
 |**2021-11-05**|**MSC-VO: Exploiting Manhattan and Structural Constraints for Visual Odometry**|Joan P. Company-Corcoles, Emilio Garcia-Fidalgo, Alberto Ortiz|[2111.03408v1](http://arxiv.org/abs/2111.03408v1)|null|
 |**2021-10-31**|**Loop closure detection using local 3D deep descriptors**|Youjie Zhou, Yiming Wang, Fabio Poiesi, Qi Qin, Yi Wan|[2111.00440v1](http://arxiv.org/abs/2111.00440v1)|null|
 ## Camera Localization
@@ -27,6 +27,7 @@
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-25**|**MegLoc: A Robust and Accurate Visual Localization Pipeline**|Shuxue Peng, Zihang He, Haotian Zhang, Ran Yan, Chuting Wang, Qingtian Zhu, Xiao Liu|[2111.13063v1](http://arxiv.org/abs/2111.13063v1)|null|
 |**2021-10-08**|**Semantic Image Alignment for Vehicle Localization**|Markus Herb, Matthias Lemberger, Marcel M. Schmitt, Alexander Kurz, Tobias Weiherer, Nassir Navab, Federico Tombari|[2110.04162v1](http://arxiv.org/abs/2110.04162v1)|null|
 |**2021-10-05**|**Season-invariant GNSS-denied visual localization for UAVs**|Jouko Kinnari, Francesco Verdoja, Ville Kyrki|[2110.01967v1](http://arxiv.org/abs/2110.01967v1)|**[link](https://github.com/aalto-intelligent-robotics/sivl)**|
 |**2021-09-30**|**Forming a sparse representation for visual place recognition using a neurorobotic approach**|Sylvain Colomer, Nicolas Cuperlier, Guillaume Bresson, Olivier Romain|[2109.14916v1](http://arxiv.org/abs/2109.14916v1)|null|
@@ -36,10 +37,10 @@
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth, Timothy D. Barfoot|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|null|
 |**2021-08-20**|**Continual Learning for Image-Based Camera Localization**|Shuzhe Wang, Zakaria Laskar, Iaroslav Melekhov, Xiaotian Li, Juho Kannala|[2108.09112v1](http://arxiv.org/abs/2108.09112v1)|**[link](https://github.com/aaltovision/cl_hscnet)**|
 |**2021-08-14**|**PICCOLO: Point Cloud-Centric Omnidirectional Localization**|Junho Kim, Changwoon Choi, Hojun Jang, Young Min Kim|[2108.06545v2](http://arxiv.org/abs/2108.06545v2)|**[link](https://github.com/82magnolia/piccolo)**|
-|**2021-07-08**|**4D Attention: Comprehensive Framework for Spatio-Temporal Gaze Mapping**|Shuji Oishi, Kenji Koide, Masashi Yokozuka, Atsuhiko Banno|[2107.03606v1](http://arxiv.org/abs/2107.03606v1)|null|
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-25**|**Attend to Who You Are: Supervising Self-Attention for Keypoint Detection and Instance-Aware Association**|Sen Yang, Zhicheng Wang, Ze Chen, Yanjie Li, Shoukui Zhang, Zhibin Quan, Shu-Tao Xia, Yiping Bao, Erjin Zhou, Wankou Yang|[2111.12892v1](http://arxiv.org/abs/2111.12892v1)|null|
 |**2021-11-08**|**Template NeRF: Towards Modeling Dense Shape Correspondences from Category-Specific Object Images**|Jianfei Guo, Zhiyuan Yang, Xi Lin, Qingfu Zhang|[2111.04237v1](http://arxiv.org/abs/2111.04237v1)|null|
 |**2021-11-04**|**Voxel-based 3D Detection and Reconstruction of Multiple Objects from a Single Image**|Feng Liu, Xiaoming Liu|[2111.03098v1](http://arxiv.org/abs/2111.03098v1)|null|
 |**2021-10-26**|**CoFiNet: Reliable Coarse-to-fine Correspondences for Robust Point Cloud Registration**|Hao Yu, Fu Li, Mahdi Saleh, Benjamin Busam, Slobodan Ilic|[2110.14076v1](http://arxiv.org/abs/2110.14076v1)|**[link](https://github.com/haoyu94/coarse-to-fine-correspondences)**|
@@ -49,12 +50,11 @@
 |**2021-09-24**|**Catadioptric Stereo on a Smartphone**|Kristijan Bartol, David Bojanić, Tomislav Petković, Tomislav Pribanić|[2109.11872v1](http://arxiv.org/abs/2109.11872v1)|null|
 |**2021-09-20**|**Semi-supervised Dense Keypointsusing Unlabeled Multiview Images**|Zhixuan Yu, Haozheng Yu, Long Sha, Sujoy Ganguly, Hyun Soo Park|[2109.09299v1](http://arxiv.org/abs/2109.09299v1)|null|
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik, Lin Li, Xishuang Dong|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
-|**2021-08-26**|**Unsupervised domain adaptation for clinician pose estimation and instance segmentation in the OR**|Vinkle Srivastav, Afshin Gangi, Nicolas Padoy|[2108.11801v2](http://arxiv.org/abs/2108.11801v2)|**[link](https://github.com/camma-public/hpe-adaptor)**|
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2021-11-17**|**Probabilistic Spatial Distribution Prior Based Attentional Keypoints Matching Network**|Xiaoming Zhao, Jingmeng Liu, Xingming Wu, Weihai Chen, Fanghong Guo, Zhengguo Li|[2111.09006v2](http://arxiv.org/abs/2111.09006v2)|null|
-|**2021-11-17**|**Nonlinear Intensity Sonar Image Matching based on Deep Convolution Features**|Xiaoteng Zhou, Changli Yu, Xin Yuan, Yi Wu, Haijun Feng, Citong Luo|[2111.08994v1](http://arxiv.org/abs/2111.08994v1)|null|
+|**2021-11-17**|**Nonlinear Intensity Sonar Image Matching based on Deep Convolution Features**|Xiaoteng Zhou, Changli Yu, Xin Yuan, Yi Wu, Haijun Feng, Citong Luo|[2111.08994v2](http://arxiv.org/abs/2111.08994v2)|null|
 |**2021-10-30**|**A Deep Search for Faint Chandra X-ray Sources, Radio Sources, and Optical Counterparts in NGC 6752**|Haldan N. Cohn, Phyllis M. Lugger, Yue Zhao, Vlad Tudor, Craig O. Heinke, Adrienne M. Cool, Jay Anderson, Jay Strader, James C. A. Miller-Jones|[2111.00357v1](http://arxiv.org/abs/2111.00357v1)|null|
 |**2021-10-01**|**Robustly Removing Deep Sea Lighting Effects for Visual Mapping of Abyssal Plains**|Kevin Köser, Yifan Song, Lasse Petersen, Emanuel Wenzlaff, Felix Woelk|[2110.00480v1](http://arxiv.org/abs/2110.00480v1)|null|
 |**2021-09-29**|**Visually Grounded Concept Composition**|Bowen Zhang, Hexiang Hu, Linlu Qiu, Peter Shaw, Fei Sha|[2109.14115v1](http://arxiv.org/abs/2109.14115v1)|null|
@@ -92,13 +92,13 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-26**|**Neural Fields as Learnable Kernels for 3D Reconstruction**|Francis Williams, Zan Gojcic, Sameh Khamis, Denis Zorin, Joan Bruna, Sanja Fidler, Or Litany|[2111.13674v1](http://arxiv.org/abs/2111.13674v1)|null|
+|**2021-11-26**|**Gradient-SDF: A Semi-Implicit Surface Representation for 3D Reconstruction**|Christiane Sommer, Lu Sang, David Schubert, Daniel Cremers|[2111.13652v1](http://arxiv.org/abs/2111.13652v1)|null|
+|**2021-11-26**|**Exploiting full Resolution Feature Context for Liver Tumor and Vessel Segmentation via Fusion Encoder: Application to Liver Tumor and Vessel 3D reconstruction**|Xiangyu Meng, Xudong Zhang, Gan Wang, Ying Zhang, Xin Shi, Huanhuan Dai, Zixuan Wang, Xun Wang|[2111.13299v1](http://arxiv.org/abs/2111.13299v1)|null|
+|**2021-11-25**|**VaxNeRF: Revisiting the Classic for Voxel-Accelerated Neural Radiance Field**|Naruya Kondo, Yuya Ikeda, Andrea Tagliasacchi, Yutaka Matsuo, Yoichi Ochiai, Shixiang Shane Gu|[2111.13112v1](http://arxiv.org/abs/2111.13112v1)|**[link](https://github.com/naruya/vaxnerf)**|
 |**2021-11-22**|**Neural Fields in Visual Computing and Beyond**|Yiheng Xie, Towaki Takikawa, Shunsuke Saito, Or Litany, Shiqin Yan, Numair Khan, Federico Tombari, James Tompkin, Vincent Sitzmann, Srinath Sridhar|[2111.11426v2](http://arxiv.org/abs/2111.11426v2)|null|
 |**2021-11-22**|**Monocular Road Planar Parallax Estimation**|Haobo Yuan, Teng Chen, Wei Sui, Jiafeng Xie, Lefei Zhang, Yuan Li, Qian Zhang|[2111.11089v1](http://arxiv.org/abs/2111.11089v1)|null|
 |**2021-11-19**|**Varifocal Multiview Images: Capturing and Visual Tasks**|Kejun Wu, Qiong Liu, Guoan Li, Gangyi Jiang, You Yang|[2111.10099v1](http://arxiv.org/abs/2111.10099v1)|**[link](https://github.com/yihui-he/3d-reconstruction)**|
 |**2021-11-19**|**ColDE: A Depth Estimation Framework for Colonoscopy Reconstruction**|Yubo Zhang, Jan-Michael Frahm, Samuel Ehrenstein, Sarah K. McGill, Julian G. Rosenman, Shuxian Wang, Stephen M. Pizer|[2111.10371v1](http://arxiv.org/abs/2111.10371v1)|null|
 |**2021-11-14**|**TANDEM: Tracking and Dense Mapping in Real-time using Deep Multi-view Stereo**|Lukas Koestler, Nan Yang, Niclas Zeller, Daniel Cremers|[2111.07418v1](http://arxiv.org/abs/2111.07418v1)|null|
 |**2021-11-12**|**Three-dimensional dust density structure of the Orion, Cygnus X,Taurus, and Perseus star-forming regions**|T. E. Dharmawardena, C. A. L. Bailer-Jones, M. Fouesneau, D. Foreman-Mackey|[2111.06672v1](http://arxiv.org/abs/2111.06672v1)|**[link](https://github.com/thavisha/dustribution)**|
-|**2021-11-09**|**Pipeline for 3D reconstruction of the human body from AR/VR headset mounted egocentric cameras**|Shivam Grover, Kshitij Sidana, Vanita Jain|[2111.05409v1](http://arxiv.org/abs/2111.05409v1)|null|
-|**2021-11-09**|**3D FRONSAC with PSF reconstruction**|Yanitza Rodriguez, Nahla M. H. Elsaid, Boris Keil, Gigi Galiana|[2111.05143v1](http://arxiv.org/abs/2111.05143v1)|null|
-|**2021-11-04**|**3D Image Super-Resolution by fluorophore fluctuations and MA-TIRF Microscopy reconstruction (3D-COL0RME)**|Vasiliki Stergiopoulou, Luca Calatroni, Sébastien Schaub, Laure Blanc-Féraud|[2111.03170v1](http://arxiv.org/abs/2111.03170v1)|null|
-|**2021-11-04**|**Towards Panoptic 3D Parsing for Single Image in the Wild**|Sainan Liu, Vincent Nguyen, Yuan Gao, Subarna Tripathi, Zhuowen Tu|[2111.03039v1](http://arxiv.org/abs/2111.03039v1)|null|
