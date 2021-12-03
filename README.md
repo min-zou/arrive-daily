@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-01**|**Research on Event Accumulator Settings for Event-Based SLAM**|Kun Xiao, Guohui Wang, Yi Chen, Yongfeng Xie, Hong Li|[2112.00427v1](http://arxiv.org/abs/2112.00427v1)|**[link](https://github.com/robin-shaun/event-slam-accumulator-settings)**|
 |**2021-11-29**|**An in-depth experimental study of sensor usage and visual reasoning of robots navigating in real environments**|Assem Sadek, Guillaume Bono, Boris Chidlovskii, Christian Wolf|[2111.14666v1](http://arxiv.org/abs/2111.14666v1)|null|
 |**2021-11-29**|**Deployment of Aerial Robots after a major fire of an industrial hall with hazardous substances, a report**|Hartmut Surmann, Dominik Slomma, Stefan Grobelny, Robert Grafe|[2111.14542v1](http://arxiv.org/abs/2111.14542v1)|null|
 |**2021-11-24**|**Automatic Mapping with Obstacle Identification for Indoor Human Mobility Assessment**|V. Ayala-Alfaro, J. A. Vilchis-Mar, F. E. Correa-Tome, J. P. Ramirez-Paredes|[2111.12690v1](http://arxiv.org/abs/2111.12690v1)|null|
@@ -10,7 +11,6 @@
 |**2021-11-10**|**Comparing dominance of tennis' big three via multiple-output Bayesian quantile regression models**|Bruno Santos|[2111.05631v1](http://arxiv.org/abs/2111.05631v1)|null|
 |**2021-11-10**|**TomoSLAM: factor graph optimization for rotation angle refinement in microtomography**|Mark Griguletskii, Mikhail Chekanov, Oleg Shipitko|[2111.05562v1](http://arxiv.org/abs/2111.05562v1)|null|
 |**2021-11-07**|**Hierarchical Segment-based Optimization for SLAM**|Yuxin Tian, Yujie Wang, Ming Ouyang, Xuesong Shi|[2111.04101v1](http://arxiv.org/abs/2111.04101v1)|null|
-|**2021-11-07**|**Online Mutual Adaptation of Deep Depth Prediction and Visual SLAM**|Shing Yan Loo, Moein Shakeri, Sai Hong Tang, Syamsiah Mashohor, Hong Zhang|[2111.04096v2](http://arxiv.org/abs/2111.04096v2)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -53,6 +53,7 @@
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-01**|**CLIPstyler: Image Style Transfer with a Single Text Condition**|Gihyun Kwon, Jong Chul Ye|[2112.00374v1](http://arxiv.org/abs/2112.00374v1)|**[link](https://github.com/paper11667/clipstyler)**|
 |**2021-11-29**|**Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**|Yoad Tewel, Yoav Shalev, Idan Schwartz, Lior Wolf|[2111.14447v1](http://arxiv.org/abs/2111.14447v1)|**[link](https://github.com/yoadtew/zero-shot-image-to-text)**|
 |**2021-11-29**|**Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**|Usman Cheema, Mobeen Ahmad, Dongil Han, Seungbin Moon|[2111.14339v1](http://arxiv.org/abs/2111.14339v1)|null|
 |**2021-11-29**|**Nonlinear Intensity Underwater Sonar Image Matching Method Based on Phase Information and Deep Convolution Features**|Xiaoteng Zhou, Changli Yu, Xin Yuan, Haijun Feng, Yang Xu|[2111.15514v1](http://arxiv.org/abs/2111.15514v1)|null|
@@ -62,7 +63,6 @@
 |**2021-10-01**|**Robustly Removing Deep Sea Lighting Effects for Visual Mapping of Abyssal Plains**|Kevin Köser, Yifan Song, Lasse Petersen, Emanuel Wenzlaff, Felix Woelk|[2110.00480v1](http://arxiv.org/abs/2110.00480v1)|null|
 |**2021-09-29**|**Visually Grounded Concept Composition**|Bowen Zhang, Hexiang Hu, Linlu Qiu, Peter Shaw, Fei Sha|[2109.14115v1](http://arxiv.org/abs/2109.14115v1)|null|
 |**2021-09-27**|**HarrisZ$^+$: Harris Corner Selection for Next-Gen Image Matching Pipelines**|Fabio Bellavia, Dmytro Mishkin|[2109.12925v3](http://arxiv.org/abs/2109.12925v3)|null|
-|**2021-09-20**|**Viewpoint Invariant Dense Matching for Visual Geolocalization**|Gabriele Berton, Carlo Masone, Valerio Paolicelli, Barbara Caputo|[2109.09827v1](http://arxiv.org/abs/2109.09827v1)|**[link](https://github.com/gmberton/geo_warp)**|
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,9 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-01**|**3D Reconstruction Using a Linear Laser Scanner and a Camera**|Rui Wang|[2112.00557v1](http://arxiv.org/abs/2112.00557v1)|**[link](https://github.com/RainWang6188/Monovision-3D-Reconstruction-System)**|
+|**2021-12-01**|**VoRTX: Volumetric 3D Reconstruction With Transformers for Voxelwise View Selection and Fusion**|Noah Stier, Alexander Rich, Pradeep Sen, Tobias Höllerer|[2112.00236v1](http://arxiv.org/abs/2112.00236v1)|null|
+|**2021-12-01**|**3DVNet: Multi-View Depth Prediction and Volumetric Refinement**|Alexander Rich, Noah Stier, Pradeep Sen, Tobias Höllerer|[2112.00202v1](http://arxiv.org/abs/2112.00202v1)|**[link](https://github.com/alexrich021/3dvnet)**|
 |**2021-11-30**|**ESL: Event-based Structured Light**|Manasi Muglikar, Guillermo Gallego, Davide Scaramuzza|[2111.15510v1](http://arxiv.org/abs/2111.15510v1)|null|
 |**2021-11-30**|**Probabilistic Estimation of 3D Human Shape and Pose with a Semantic Local Parametric Model**|Akash Sengupta, Ignas Budvytis, Roberto Cipolla|[2111.15404v1](http://arxiv.org/abs/2111.15404v1)|null|
 |**2021-11-30**|**A Dataset-Dispersion Perspective on Reconstruction Versus Recognition in Single-View 3D Reconstruction Networks**|Yefan Zhou, Yiru Shen, Yujun Yan, Chen Feng, Yaoqing Yang|[2111.15158v1](http://arxiv.org/abs/2111.15158v1)|**[link](https://github.com/yefanzhou/dispersion-score)**|
@@ -99,6 +102,3 @@
 |**2021-11-29**|**Urban Radiance Fields**|Konstantinos Rematas, Andrew Liu, Pratul P. Srinivasan, Jonathan T. Barron, Andrea Tagliasacchi, Thomas Funkhouser, Vittorio Ferrari|[2111.14643v1](http://arxiv.org/abs/2111.14643v1)|null|
 |**2021-11-29**|**Motion-from-Blur: 3D Shape and Motion Estimation of Motion-blurred Objects in Videos**|Denys Rozumnyi, Martin R. Oswald, Vittorio Ferrari, Marc Pollefeys|[2111.14465v1](http://arxiv.org/abs/2111.14465v1)|null|
 |**2021-11-26**|**Neural Fields as Learnable Kernels for 3D Reconstruction**|Francis Williams, Zan Gojcic, Sameh Khamis, Denis Zorin, Joan Bruna, Sanja Fidler, Or Litany|[2111.13674v1](http://arxiv.org/abs/2111.13674v1)|null|
-|**2021-11-26**|**Gradient-SDF: A Semi-Implicit Surface Representation for 3D Reconstruction**|Christiane Sommer, Lu Sang, David Schubert, Daniel Cremers|[2111.13652v1](http://arxiv.org/abs/2111.13652v1)|null|
-|**2021-11-26**|**Exploiting full Resolution Feature Context for Liver Tumor and Vessel Segmentation via Fusion Encoder: Application to Liver Tumor and Vessel 3D reconstruction**|Xiangyu Meng, Xudong Zhang, Gan Wang, Ying Zhang, Xin Shi, Huanhuan Dai, Zixuan Wang, Xun Wang|[2111.13299v1](http://arxiv.org/abs/2111.13299v1)|null|
-|**2021-11-25**|**VaxNeRF: Revisiting the Classic for Voxel-Accelerated Neural Radiance Field**|Naruya Kondo, Yuya Ikeda, Andrea Tagliasacchi, Yutaka Matsuo, Yoichi Ochiai, Shixiang Shane Gu|[2111.13112v1](http://arxiv.org/abs/2111.13112v1)|**[link](https://github.com/naruya/vaxnerf)**|
