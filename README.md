@@ -1,7 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2021-12-03**|**Fast Direct Stereo Visual SLAM**|Jiawei Mo, Md Jahidul Islam, Junaed Sattar|[2112.01890v1](http://arxiv.org/abs/2112.01890v1)|null|
+|**2021-12-05**|**Iterated Posterior Linearization PMB Filter for 5G SLAM**|Yu Ge, Yibo Wu, Fan Jiang, Ossi Kaltiokallio, Jukka Talvitie, Mikko Valkama, Lennart Svensson, Henk Wymeersch|[2112.02575v1](http://arxiv.org/abs/2112.02575v1)|null|
+|**2021-12-03**|**Fast Direct Stereo Visual SLAM**|Jiawei Mo, Md Jahidul Islam, Junaed Sattar|[2112.01890v1](http://arxiv.org/abs/2112.01890v1)|**[link](https://github.com/irvlab/direct_stereo_slam)**|
 |**2021-12-02**|**MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**|Jie Ren, Wenteng Liang, Ran Yan, Luo Mai, Shiwen Liu, Xiao Liu|[2112.01349v1](http://arxiv.org/abs/2112.01349v1)|**[link](https://github.com/megviirobot/megba)**|
 |**2021-12-01**|**Research on Event Accumulator Settings for Event-Based SLAM**|Kun Xiao, Guohui Wang, Yi Chen, Yongfeng Xie, Hong Li|[2112.00427v1](http://arxiv.org/abs/2112.00427v1)|**[link](https://github.com/robin-shaun/event-slam-accumulator-settings)**|
 |**2021-11-29**|**An in-depth experimental study of sensor usage and visual reasoning of robots navigating in real environments**|Assem Sadek, Guillaume Bono, Boris Chidlovskii, Christian Wolf|[2111.14666v1](http://arxiv.org/abs/2111.14666v1)|null|
@@ -10,10 +11,10 @@
 |**2021-11-24**|**Autonomous bot with ML-based reactive navigation for indoor environment**|Yash Srivastava, Saumya Singh, S. P. Syed Ibrahim|[2111.12542v1](http://arxiv.org/abs/2111.12542v1)|null|
 |**2021-11-22**|**A General Framework for Lifelong Localization and Mapping in Changing Environment**|Min Zhao, Xin Guo, Le Song, Baoxing Qin, Xuesong Shi, Gim Hee Lee, Guanghui Sun|[2111.10946v1](http://arxiv.org/abs/2111.10946v1)|**[link](https://github.com/sanduan168/lifelong-slam-dataset)**|
 |**2021-11-17**|**Probabilistic Spatial Distribution Prior Based Attentional Keypoints Matching Network**|Xiaoming Zhao, Jingmeng Liu, Xingming Wu, Weihai Chen, Fanghong Guo, Zhengguo Li|[2111.09006v2](http://arxiv.org/abs/2111.09006v2)|null|
-|**2021-11-10**|**Comparing dominance of tennis' big three via multiple-output Bayesian quantile regression models**|Bruno Santos|[2111.05631v1](http://arxiv.org/abs/2111.05631v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-05**|**RADA: Robust Adversarial Data Augmentation for Camera Localization in Challenging Weather**|Jialu Wang, Muhamad Risqi U. Saputra, Chris Xiaoxuan Lu, Niki Trigon, Andrew Markham|[2112.02469v1](http://arxiv.org/abs/2112.02469v1)|null|
 |**2021-09-20**|**Efficient shape mapping through dense touch and vision**|Sudharshan Suresh, Zilin Si, Joshua G. Mangelson, Wenzhen Yuan, Michael Kaess|[2109.09884v1](http://arxiv.org/abs/2109.09884v1)|null|
 |**2021-09-15**|**S3LAM: Structured Scene SLAM**|Mathieu Gonzalez, Eric Marchand, Amine Kacete, Jérôme Royan|[2109.07339v1](http://arxiv.org/abs/2109.07339v1)|null|
 |**2021-09-13**|**Monocular Camera Localization for Automated Vehicles Using Image Retrieval**|Eunhyek Joa, Francesco Borrelli|[2109.06296v1](http://arxiv.org/abs/2109.06296v1)|null|
@@ -23,7 +24,6 @@
 |**2021-07-07**|**Video-Based Camera Localization Using Anchor View Detection and Recursive 3D Reconstruction**|Hajime Taira, Koki Onbe, Naoyuki Miyashita, Masatoshi Okutomi|[2107.03068v1](http://arxiv.org/abs/2107.03068v1)|null|
 |**2021-07-01**|**Deep auxiliary learning for visual localization using colorization task**|Mi Tian, Qiong Nie, Hao Shen, Xiahua Xia|[2107.00222v1](http://arxiv.org/abs/2107.00222v1)|null|
 |**2021-04-02**|**End-to-end learning of keypoint detection and matching for relative pose estimation**|Antoine Fond, Luca Del Pero, Nikola Sivacki, Marco Paladini|[2104.01085v1](http://arxiv.org/abs/2104.01085v1)|null|
-|**2021-03-31**|**Learning Camera Localization via Dense Scene Matching**|Shitao Tang, Chengzhou Tang, Rui Huang, Siyu Zhu, Ping Tan|[2103.16792v1](http://arxiv.org/abs/2103.16792v1)|**[link](https://github.com/Tangshitao/Dense-Scene-Matching)**|
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -40,6 +40,7 @@
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-06**|**ALIKE: Accurate and Lightweight Keypoint Detection and Descriptor Extraction**|Xiaoming Zhao, Xingming Wu, Jinyu Miao, Weihai Chen, Peter C. Y. Chen, Zhengguo Li|[2112.02906v1](http://arxiv.org/abs/2112.02906v1)|**[link](https://github.com/Shiaoming/ALIKE)**|
 |**2021-11-25**|**Attend to Who You Are: Supervising Self-Attention for Keypoint Detection and Instance-Aware Association**|Sen Yang, Zhicheng Wang, Ze Chen, Yanjie Li, Shoukui Zhang, Zhibin Quan, Shu-Tao Xia, Yiping Bao, Erjin Zhou, Wankou Yang|[2111.12892v1](http://arxiv.org/abs/2111.12892v1)|null|
 |**2021-11-08**|**Template NeRF: Towards Modeling Dense Shape Correspondences from Category-Specific Object Images**|Jianfei Guo, Zhiyuan Yang, Xi Lin, Qingfu Zhang|[2111.04237v1](http://arxiv.org/abs/2111.04237v1)|null|
 |**2021-11-04**|**Voxel-based 3D Detection and Reconstruction of Multiple Objects from a Single Image**|Feng Liu, Xiaoming Liu|[2111.03098v1](http://arxiv.org/abs/2111.03098v1)|null|
@@ -49,7 +50,6 @@
 |**2021-09-28**|**PDC-Net+: Enhanced Probabilistic Dense Correspondence Network**|Prune Truong, Martin Danelljan, Radu Timofte, Luc Van Gool|[2109.13912v2](http://arxiv.org/abs/2109.13912v2)|**[link](https://github.com/PruneTruong/DenseMatching)**|
 |**2021-09-24**|**Catadioptric Stereo on a Smartphone**|Kristijan Bartol, David Bojanić, Tomislav Petković, Tomislav Pribanić|[2109.11872v1](http://arxiv.org/abs/2109.11872v1)|null|
 |**2021-09-20**|**Semi-supervised Dense Keypointsusing Unlabeled Multiview Images**|Zhixuan Yu, Haozheng Yu, Long Sha, Sujoy Ganguly, Hyun Soo Park|[2109.09299v1](http://arxiv.org/abs/2109.09299v1)|null|
-|**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik, Lin Li, Xishuang Dong|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -66,6 +66,7 @@
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-04**|**Sphere Face Model:A 3D Morphable Model with Hypersphere Manifold Latent Space**|Diqiong Jiang, Yiwei Jin, Fanglue Zhang, Zhe Zhu, Yun Zhang, Ruofeng Tong, Min Tang|[2112.02238v1](http://arxiv.org/abs/2112.02238v1)|null|
 |**2021-12-01**|**Damped Ly-alpha Absorbers in Star-forming Galaxies at z < 0.15 Detected with the Hubble Space Telescope and Implications for Galaxy Evolution**|Varsha P. Kulkarni, David V. Bowen, Lorrie A. Straka, Donald G. York, Neeraj Gupta, Pasquier Noterdaeme, Raghunathan Srianand|[2112.00870v1](http://arxiv.org/abs/2112.00870v1)|null|
 |**2021-11-16**|**MASCOT -- An ESO-ARO legacy survey of molecular gas in nearby SDSS-MaNGA galaxies: I. first data release, and global and resolved relations between H_2 and stellar content**|D. Wylezalek, C. Cicone, F. Belfiore, C. Bertemes, S. Cazzoli, J. Wagg, W. Wang, M. Aravena, R. Maiolino, S. Martin, M. S. Bothwell, J. R. Brownstein, K. Bundy, C. De Breuck|[2111.08719v1](http://arxiv.org/abs/2111.08719v1)|null|
 |**2021-11-14**|**A Polynomial Lower Bound on the Number of Rounds for Parallel Submodular Function Minimization and Matroid Intersection**|Deeparnab Chakrabarty, Yu Chen, Sanjeev Khanna|[2111.07474v1](http://arxiv.org/abs/2111.07474v1)|null|
@@ -75,7 +76,6 @@
 |**2021-09-24**|**Automatic Map Update Using Dashcam Videos**|Aziza Zhanabatyrova, Clayton Souza Leite, Yu Xiao|[2109.12131v1](http://arxiv.org/abs/2109.12131v1)|null|
 |**2021-09-08**|**Matching in the Dark: A Dataset for Matching Image Pairs of Low-light Scenes**|Wenzheng Song, Masanori Suganuma, Xing Liu, Noriyuki Shimobayashi, Daisuke Maruta, Takayuki Okatani|[2109.03585v2](http://arxiv.org/abs/2109.03585v2)|null|
 |**2021-09-06**|**Critical State Theory For The Magnetic Coupling Between Soft Ferromagnetic Materials And Type-II Superconductors**|M. U. Fareed, H. S. Ruiz|[2109.02604v2](http://arxiv.org/abs/2109.02604v2)|null|
-|**2021-09-06**|**Crowd-Aware Robot Navigation for Pedestrians with Multiple Collision Avoidance Strategies via Map-based Deep Reinforcement Learning**|Shunyi Yao1, Guangda Chen, Quecheng Qiu, Jun Ma, Xiaoping Chen, Jianmin Ji|[2109.02541v1](http://arxiv.org/abs/2109.02541v1)|null|
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-06**|**Input-level Inductive Biases for 3D Reconstruction**|Wang Yifan, Carl Doersch, Relja Arandjelović, João Carreira, Andrew Zisserman|[2112.03243v1](http://arxiv.org/abs/2112.03243v1)|null|
 |**2021-12-01**|**Generating Diverse 3D Reconstructions from a Single Occluded Face Image**|Rahul Dey, Vishnu Naresh Boddeti|[2112.00879v1](http://arxiv.org/abs/2112.00879v1)|null|
 |**2021-12-01**|**3D Reconstruction Using a Linear Laser Scanner and a Camera**|Rui Wang|[2112.00557v1](http://arxiv.org/abs/2112.00557v1)|**[link](https://github.com/RainWang6188/Monovision-3D-Reconstruction-System)**|
 |**2021-12-01**|**VoRTX: Volumetric 3D Reconstruction With Transformers for Voxelwise View Selection and Fusion**|Noah Stier, Alexander Rich, Pradeep Sen, Tobias Höllerer|[2112.00236v1](http://arxiv.org/abs/2112.00236v1)|null|
@@ -101,4 +102,3 @@
 |**2021-11-30**|**A Dataset-Dispersion Perspective on Reconstruction Versus Recognition in Single-View 3D Reconstruction Networks**|Yefan Zhou, Yiru Shen, Yujun Yan, Chen Feng, Yaoqing Yang|[2111.15158v1](http://arxiv.org/abs/2111.15158v1)|**[link](https://github.com/yefanzhou/dispersion-score)**|
 |**2021-11-30**|**LatentHuman: Shape-and-Pose Disentangled Latent Representation for Human Bodies**|Sandro Lombardi, Bangbang Yang, Tianxing Fan, Hujun Bao, Guofeng Zhang, Marc Pollefeys, Zhaopeng Cui|[2111.15113v1](http://arxiv.org/abs/2111.15113v1)|null|
 |**2021-11-29**|**Urban Radiance Fields**|Konstantinos Rematas, Andrew Liu, Pratul P. Srinivasan, Jonathan T. Barron, Andrea Tagliasacchi, Thomas Funkhouser, Vittorio Ferrari|[2111.14643v1](http://arxiv.org/abs/2111.14643v1)|null|
-|**2021-11-29**|**Motion-from-Blur: 3D Shape and Motion Estimation of Motion-blurred Objects in Videos**|Denys Rozumnyi, Martin R. Oswald, Vittorio Ferrari, Marc Pollefeys|[2111.14465v1](http://arxiv.org/abs/2111.14465v1)|null|
