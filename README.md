@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-07**|**Hybrid Visual SLAM for Underwater Vehicle Manipulator Systems**|Gideon Billings, Richard Camilli, Matthew Johnson-Roberson|[2112.03826v1](http://arxiv.org/abs/2112.03826v1)|null|
 |**2021-12-05**|**Iterated Posterior Linearization PMB Filter for 5G SLAM**|Yu Ge, Yibo Wu, Fan Jiang, Ossi Kaltiokallio, Jukka Talvitie, Mikko Valkama, Lennart Svensson, Henk Wymeersch|[2112.02575v1](http://arxiv.org/abs/2112.02575v1)|null|
 |**2021-12-03**|**Fast Direct Stereo Visual SLAM**|Jiawei Mo, Md Jahidul Islam, Junaed Sattar|[2112.01890v1](http://arxiv.org/abs/2112.01890v1)|**[link](https://github.com/irvlab/direct_stereo_slam)**|
 |**2021-12-02**|**MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**|Jie Ren, Wenteng Liang, Ran Yan, Luo Mai, Shiwen Liu, Xiao Liu|[2112.01349v1](http://arxiv.org/abs/2112.01349v1)|**[link](https://github.com/megviirobot/megba)**|
@@ -10,7 +11,6 @@
 |**2021-11-24**|**Automatic Mapping with Obstacle Identification for Indoor Human Mobility Assessment**|V. Ayala-Alfaro, J. A. Vilchis-Mar, F. E. Correa-Tome, J. P. Ramirez-Paredes|[2111.12690v1](http://arxiv.org/abs/2111.12690v1)|null|
 |**2021-11-24**|**Autonomous bot with ML-based reactive navigation for indoor environment**|Yash Srivastava, Saumya Singh, S. P. Syed Ibrahim|[2111.12542v1](http://arxiv.org/abs/2111.12542v1)|null|
 |**2021-11-22**|**A General Framework for Lifelong Localization and Mapping in Changing Environment**|Min Zhao, Xin Guo, Le Song, Baoxing Qin, Xuesong Shi, Gim Hee Lee, Guanghui Sun|[2111.10946v1](http://arxiv.org/abs/2111.10946v1)|**[link](https://github.com/sanduan168/lifelong-slam-dataset)**|
-|**2021-11-17**|**Probabilistic Spatial Distribution Prior Based Attentional Keypoints Matching Network**|Xiaoming Zhao, Jingmeng Liu, Xingming Wu, Weihai Chen, Fanghong Guo, Zhengguo Li|[2111.09006v2](http://arxiv.org/abs/2111.09006v2)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -66,6 +66,7 @@
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-06**|**Dense Depth Priors for Neural Radiance Fields from Sparse Input Views**|Barbara Roessle, Jonathan T. Barron, Ben Mildenhall, Pratul P. Srinivasan, Matthias Nießner|[2112.03288v1](http://arxiv.org/abs/2112.03288v1)|null|
 |**2021-12-04**|**Sphere Face Model:A 3D Morphable Model with Hypersphere Manifold Latent Space**|Diqiong Jiang, Yiwei Jin, Fanglue Zhang, Zhe Zhu, Yun Zhang, Ruofeng Tong, Min Tang|[2112.02238v1](http://arxiv.org/abs/2112.02238v1)|null|
 |**2021-12-01**|**Damped Ly-alpha Absorbers in Star-forming Galaxies at z < 0.15 Detected with the Hubble Space Telescope and Implications for Galaxy Evolution**|Varsha P. Kulkarni, David V. Bowen, Lorrie A. Straka, Donald G. York, Neeraj Gupta, Pasquier Noterdaeme, Raghunathan Srianand|[2112.00870v1](http://arxiv.org/abs/2112.00870v1)|null|
 |**2021-11-16**|**MASCOT -- An ESO-ARO legacy survey of molecular gas in nearby SDSS-MaNGA galaxies: I. first data release, and global and resolved relations between H_2 and stellar content**|D. Wylezalek, C. Cicone, F. Belfiore, C. Bertemes, S. Cazzoli, J. Wagg, W. Wang, M. Aravena, R. Maiolino, S. Martin, M. S. Bothwell, J. R. Brownstein, K. Bundy, C. De Breuck|[2111.08719v1](http://arxiv.org/abs/2111.08719v1)|null|
@@ -75,10 +76,10 @@
 |**2021-10-21**|**Deep Image Matting with Flexible Guidance Input**|Hang Cheng, Shugong Xu, Xiufeng Jiang, Rongrong Wang|[2110.10898v1](http://arxiv.org/abs/2110.10898v1)|**[link](https://github.com/charch-630/fgi-matting)**|
 |**2021-09-24**|**Automatic Map Update Using Dashcam Videos**|Aziza Zhanabatyrova, Clayton Souza Leite, Yu Xiao|[2109.12131v1](http://arxiv.org/abs/2109.12131v1)|null|
 |**2021-09-08**|**Matching in the Dark: A Dataset for Matching Image Pairs of Low-light Scenes**|Wenzheng Song, Masanori Suganuma, Xing Liu, Noriyuki Shimobayashi, Daisuke Maruta, Takayuki Okatani|[2109.03585v2](http://arxiv.org/abs/2109.03585v2)|null|
-|**2021-09-06**|**Critical State Theory For The Magnetic Coupling Between Soft Ferromagnetic Materials And Type-II Superconductors**|M. U. Fareed, H. S. Ruiz|[2109.02604v2](http://arxiv.org/abs/2109.02604v2)|null|
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-06**|**Dense Depth Priors for Neural Radiance Fields from Sparse Input Views**|Barbara Roessle, Jonathan T. Barron, Ben Mildenhall, Pratul P. Srinivasan, Matthias Nießner|[2112.03288v1](http://arxiv.org/abs/2112.03288v1)|null|
 |**2021-12-02**|**MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**|Jie Ren, Wenteng Liang, Ran Yan, Luo Mai, Shiwen Liu, Xiao Liu|[2112.01349v1](http://arxiv.org/abs/2112.01349v1)|**[link](https://github.com/megviirobot/megba)**|
 |**2021-11-11**|**Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**|Pascal Schoppmann, Pedro F. Proença, Jeff Delaune, Michael Pantic, Timo Hinzmann, Larry Matthies, Roland Siegwart, Roland Brockers|[2111.06271v1](http://arxiv.org/abs/2111.06271v1)|null|
 |**2021-11-05**|**Damage Estimation and Localization from Sparse Aerial Imagery**|Rene Garcia Franceschini, Jeffrey Liu, Saurabh Amin|[2111.03708v2](http://arxiv.org/abs/2111.03708v2)|null|
@@ -88,7 +89,6 @@
 |**2021-09-24**|**Automatic Map Update Using Dashcam Videos**|Aziza Zhanabatyrova, Clayton Souza Leite, Yu Xiao|[2109.12131v1](http://arxiv.org/abs/2109.12131v1)|null|
 |**2021-09-16**|**Rotation Averaging in a Split Second: A Primal-Dual Method and a Closed-Form for Cycle Graphs**|Gabriel Moreira, Manuel Marques, João Paulo Costeira|[2109.08046v1](http://arxiv.org/abs/2109.08046v1)|**[link](https://github.com/gabmoreira/maks)**|
 |**2021-09-06**|**Single-Camera 3D Head Fitting for Mixed Reality Clinical Applications**|Tejas Mane, Aylar Bayramova, Kostas Daniilidis, Philippos Mordohai, Elena Bernardis|[2109.02740v1](http://arxiv.org/abs/2109.02740v1)|null|
-|**2021-09-02**|**Dynamic Scene Novel View Synthesis via Deferred Spatio-temporal Consistency**|Beatrix-Emőke Fülöp-Balogh, Eleanor Tursman, James Tompkin, Julie Digne, Nicolas Bonneel|[2109.01018v1](http://arxiv.org/abs/2109.01018v1)|null|
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
