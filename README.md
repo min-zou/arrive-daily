@@ -92,6 +92,8 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-08**|**What's Behind the Couch? Directed Ray Distance Functions (DRDF) for 3D Scene Reconstruction**|Nilesh Kulkarni, Justin Johnson, David F. Fouhey|[2112.04481v1](http://arxiv.org/abs/2112.04481v1)|null|
+|**2021-12-08**|**Adversarial Parametric Pose Prior**|Andrey Davydov, Anastasia Remizova, Victor Constantin, Sina Honari, Mathieu Salzmann, Pascal Fua|[2112.04203v1](http://arxiv.org/abs/2112.04203v1)|null|
 |**2021-12-06**|**Input-level Inductive Biases for 3D Reconstruction**|Wang Yifan, Carl Doersch, Relja Arandjelović, João Carreira, Andrew Zisserman|[2112.03243v1](http://arxiv.org/abs/2112.03243v1)|null|
 |**2021-12-01**|**Generating Diverse 3D Reconstructions from a Single Occluded Face Image**|Rahul Dey, Vishnu Naresh Boddeti|[2112.00879v1](http://arxiv.org/abs/2112.00879v1)|null|
 |**2021-12-01**|**3D Reconstruction Using a Linear Laser Scanner and a Camera**|Rui Wang|[2112.00557v1](http://arxiv.org/abs/2112.00557v1)|**[link](https://github.com/RainWang6188/Monovision-3D-Reconstruction-System)**|
@@ -100,5 +102,3 @@
 |**2021-11-30**|**ESL: Event-based Structured Light**|Manasi Muglikar, Guillermo Gallego, Davide Scaramuzza|[2111.15510v1](http://arxiv.org/abs/2111.15510v1)|null|
 |**2021-11-30**|**Probabilistic Estimation of 3D Human Shape and Pose with a Semantic Local Parametric Model**|Akash Sengupta, Ignas Budvytis, Roberto Cipolla|[2111.15404v1](http://arxiv.org/abs/2111.15404v1)|null|
 |**2021-11-30**|**A Dataset-Dispersion Perspective on Reconstruction Versus Recognition in Single-View 3D Reconstruction Networks**|Yefan Zhou, Yiru Shen, Yujun Yan, Chen Feng, Yaoqing Yang|[2111.15158v1](http://arxiv.org/abs/2111.15158v1)|**[link](https://github.com/yefanzhou/dispersion-score)**|
-|**2021-11-30**|**LatentHuman: Shape-and-Pose Disentangled Latent Representation for Human Bodies**|Sandro Lombardi, Bangbang Yang, Tianxing Fan, Hujun Bao, Guofeng Zhang, Marc Pollefeys, Zhaopeng Cui|[2111.15113v1](http://arxiv.org/abs/2111.15113v1)|null|
-|**2021-11-29**|**Urban Radiance Fields**|Konstantinos Rematas, Andrew Liu, Pratul P. Srinivasan, Jonathan T. Barron, Andrea Tagliasacchi, Thomas Funkhouser, Vittorio Ferrari|[2111.14643v1](http://arxiv.org/abs/2111.14643v1)|null|
