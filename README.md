@@ -40,8 +40,9 @@
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-09**|**Few-Shot Keypoint Detection as Task Adaptation via Latent Embeddings**|Mel Vecerik, Jackie Kay, Raia Hadsell, Lourdes Agapito, Jon Scholz|[2112.04910v1](http://arxiv.org/abs/2112.04910v1)|null|
 |**2021-12-06**|**ALIKE: Accurate and Lightweight Keypoint Detection and Descriptor Extraction**|Xiaoming Zhao, Xingming Wu, Jinyu Miao, Weihai Chen, Peter C. Y. Chen, Zhengguo Li|[2112.02906v1](http://arxiv.org/abs/2112.02906v1)|**[link](https://github.com/Shiaoming/ALIKE)**|
-|**2021-11-25**|**Attend to Who You Are: Supervising Self-Attention for Keypoint Detection and Instance-Aware Association**|Sen Yang, Zhicheng Wang, Ze Chen, Yanjie Li, Shoukui Zhang, Zhibin Quan, Shu-Tao Xia, Yiping Bao, Erjin Zhou, Wankou Yang|[2111.12892v1](http://arxiv.org/abs/2111.12892v1)|null|
+|**2021-11-25**|**Attend to Who You Are: Supervising Self-Attention for Keypoint Detection and Instance-Aware Association**|Sen Yang, Zhicheng Wang, Ze Chen, Yanjie Li, Shoukui Zhang, Zhibin Quan, Shu-Tao Xia, Yiping Bao, Erjin Zhou, Wankou Yang|[2111.12892v1](http://arxiv.org/abs/2111.12892v1)|**[link](https://github.com/yangsenius/ssa)**|
 |**2021-11-08**|**Template NeRF: Towards Modeling Dense Shape Correspondences from Category-Specific Object Images**|Jianfei Guo, Zhiyuan Yang, Xi Lin, Qingfu Zhang|[2111.04237v1](http://arxiv.org/abs/2111.04237v1)|null|
 |**2021-11-04**|**Voxel-based 3D Detection and Reconstruction of Multiple Objects from a Single Image**|Feng Liu, Xiaoming Liu|[2111.03098v1](http://arxiv.org/abs/2111.03098v1)|null|
 |**2021-10-26**|**CoFiNet: Reliable Coarse-to-fine Correspondences for Robust Point Cloud Registration**|Hao Yu, Fu Li, Mahdi Saleh, Benjamin Busam, Slobodan Ilic|[2110.14076v1](http://arxiv.org/abs/2110.14076v1)|**[link](https://github.com/haoyu94/coarse-to-fine-correspondences)**|
@@ -49,7 +50,6 @@
 |**2021-10-04**|**BPFNet: A Unified Framework for Bimodal Palmprint Alignment and Fusion**|Zhaoqun Li, Xu Liang, Dandan Fan, Jinxing Li, David Zhang|[2110.01179v1](http://arxiv.org/abs/2110.01179v1)|**[link](https://github.com/dxbdxx/bpfnet)**|
 |**2021-09-28**|**PDC-Net+: Enhanced Probabilistic Dense Correspondence Network**|Prune Truong, Martin Danelljan, Radu Timofte, Luc Van Gool|[2109.13912v2](http://arxiv.org/abs/2109.13912v2)|**[link](https://github.com/PruneTruong/DenseMatching)**|
 |**2021-09-24**|**Catadioptric Stereo on a Smartphone**|Kristijan Bartol, David Bojanić, Tomislav Petković, Tomislav Pribanić|[2109.11872v1](http://arxiv.org/abs/2109.11872v1)|null|
-|**2021-09-20**|**Semi-supervised Dense Keypointsusing Unlabeled Multiview Images**|Zhixuan Yu, Haozheng Yu, Long Sha, Sujoy Ganguly, Hyun Soo Park|[2109.09299v1](http://arxiv.org/abs/2109.09299v1)|null|
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -79,6 +79,7 @@
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-09**|**Critical configurations for two projective views, a new approach**|Martin Bråtelund|[2112.05074v1](http://arxiv.org/abs/2112.05074v1)|null|
 |**2021-12-06**|**Dense Depth Priors for Neural Radiance Fields from Sparse Input Views**|Barbara Roessle, Jonathan T. Barron, Ben Mildenhall, Pratul P. Srinivasan, Matthias Nießner|[2112.03288v1](http://arxiv.org/abs/2112.03288v1)|null|
 |**2021-12-02**|**MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**|Jie Ren, Wenteng Liang, Ran Yan, Luo Mai, Shiwen Liu, Xiao Liu|[2112.01349v1](http://arxiv.org/abs/2112.01349v1)|**[link](https://github.com/megviirobot/megba)**|
 |**2021-11-11**|**Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**|Pascal Schoppmann, Pedro F. Proença, Jeff Delaune, Michael Pantic, Timo Hinzmann, Larry Matthies, Roland Siegwart, Roland Brockers|[2111.06271v1](http://arxiv.org/abs/2111.06271v1)|null|
@@ -88,10 +89,10 @@
 |**2021-10-13**|**Hyperspectral 3D Mapping of Underwater Environments**|Maxime Ferrera, Aurélien Arnaubec, Klemen Istenic, Nuno Gracias, Touria Bajjouk|[2110.06571v1](http://arxiv.org/abs/2110.06571v1)|null|
 |**2021-09-24**|**Automatic Map Update Using Dashcam Videos**|Aziza Zhanabatyrova, Clayton Souza Leite, Yu Xiao|[2109.12131v1](http://arxiv.org/abs/2109.12131v1)|null|
 |**2021-09-16**|**Rotation Averaging in a Split Second: A Primal-Dual Method and a Closed-Form for Cycle Graphs**|Gabriel Moreira, Manuel Marques, João Paulo Costeira|[2109.08046v1](http://arxiv.org/abs/2109.08046v1)|**[link](https://github.com/gabmoreira/maks)**|
-|**2021-09-06**|**Single-Camera 3D Head Fitting for Mixed Reality Clinical Applications**|Tejas Mane, Aylar Bayramova, Kostas Daniilidis, Philippos Mordohai, Elena Bernardis|[2109.02740v1](http://arxiv.org/abs/2109.02740v1)|null|
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-09**|**ScaleNet: A Shallow Architecture for Scale Estimation**|Axel Barroso-Laguna, Yurun Tian, Krystian Mikolajczyk|[2112.04846v1](http://arxiv.org/abs/2112.04846v1)|**[link](https://github.com/axelbarroso/scalenet)**|
 |**2021-12-08**|**What's Behind the Couch? Directed Ray Distance Functions (DRDF) for 3D Scene Reconstruction**|Nilesh Kulkarni, Justin Johnson, David F. Fouhey|[2112.04481v1](http://arxiv.org/abs/2112.04481v1)|null|
 |**2021-12-08**|**Adversarial Parametric Pose Prior**|Andrey Davydov, Anastasia Remizova, Victor Constantin, Sina Honari, Mathieu Salzmann, Pascal Fua|[2112.04203v1](http://arxiv.org/abs/2112.04203v1)|null|
 |**2021-12-06**|**Input-level Inductive Biases for 3D Reconstruction**|Wang Yifan, Carl Doersch, Relja Arandjelović, João Carreira, Andrew Zisserman|[2112.03243v1](http://arxiv.org/abs/2112.03243v1)|null|
@@ -101,4 +102,3 @@
 |**2021-12-01**|**3DVNet: Multi-View Depth Prediction and Volumetric Refinement**|Alexander Rich, Noah Stier, Pradeep Sen, Tobias Höllerer|[2112.00202v1](http://arxiv.org/abs/2112.00202v1)|**[link](https://github.com/alexrich021/3dvnet)**|
 |**2021-11-30**|**ESL: Event-based Structured Light**|Manasi Muglikar, Guillermo Gallego, Davide Scaramuzza|[2111.15510v1](http://arxiv.org/abs/2111.15510v1)|null|
 |**2021-11-30**|**Probabilistic Estimation of 3D Human Shape and Pose with a Semantic Local Parametric Model**|Akash Sengupta, Ignas Budvytis, Roberto Cipolla|[2111.15404v1](http://arxiv.org/abs/2111.15404v1)|null|
-|**2021-11-30**|**A Dataset-Dispersion Perspective on Reconstruction Versus Recognition in Single-View 3D Reconstruction Networks**|Yefan Zhou, Yiru Shen, Yujun Yan, Chen Feng, Yaoqing Yang|[2111.15158v1](http://arxiv.org/abs/2111.15158v1)|**[link](https://github.com/yefanzhou/dispersion-score)**|
