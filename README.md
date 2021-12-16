@@ -53,7 +53,7 @@
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2021-12-10**|**More Control for Free! Image Synthesis with Semantic Diffusion Guidance**|Xihui Liu, Dong Huk Park, Samaneh Azadi, Gong Zhang, Arman Chopikyan, Yuxiao Hu, Humphrey Shi, Anna Rohrbach, Trevor Darrell|[2112.05744v1](http://arxiv.org/abs/2112.05744v1)|null|
+|**2021-12-10**|**More Control for Free! Image Synthesis with Semantic Diffusion Guidance**|Xihui Liu, Dong Huk Park, Samaneh Azadi, Gong Zhang, Arman Chopikyan, Yuxiao Hu, Humphrey Shi, Anna Rohrbach, Trevor Darrell|[2112.05744v2](http://arxiv.org/abs/2112.05744v2)|null|
 |**2021-12-08**|**Label-free virtual HER2 immunohistochemical staining of breast tissue using deep learning**|Bijie Bai, Hongda Wang, Yuzhu Li, Kevin de Haan, Francesco Colonnese, Yujie Wan, Jingyi Zuo, Ngan B. Doan, Xiaoran Zhang, Yijie Zhang, Jingxi Li, Wenjie Dong, Morgan Angus Darrow, Elham Kamangar, Han Sung Lee, Yair Rivenson, Aydogan Ozcan|[2112.05240v1](http://arxiv.org/abs/2112.05240v1)|null|
 |**2021-12-01**|**FaSS-MVS -- Fast Multi-View Stereo with Surface-Aware Semi-Global Matching from UAV-borne Monocular Imagery**|Boitumelo Ruf, Martin Weinmann, Stefan Hinz|[2112.00821v1](http://arxiv.org/abs/2112.00821v1)|null|
 |**2021-12-01**|**CLIPstyler: Image Style Transfer with a Single Text Condition**|Gihyun Kwon, Jong Chul Ye|[2112.00374v1](http://arxiv.org/abs/2112.00374v1)|**[link](https://github.com/paper11667/clipstyler)**|
@@ -61,7 +61,7 @@
 |**2021-11-29**|**Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**|Usman Cheema, Mobeen Ahmad, Dongil Han, Seungbin Moon|[2111.14339v1](http://arxiv.org/abs/2111.14339v1)|null|
 |**2021-11-29**|**Nonlinear Intensity Underwater Sonar Image Matching Method Based on Phase Information and Deep Convolution Features**|Xiaoteng Zhou, Changli Yu, Xin Yuan, Haijun Feng, Yang Xu|[2111.15514v1](http://arxiv.org/abs/2111.15514v1)|null|
 |**2021-11-17**|**Probabilistic Spatial Distribution Prior Based Attentional Keypoints Matching Network**|Xiaoming Zhao, Jingmeng Liu, Xingming Wu, Weihai Chen, Fanghong Guo, Zhengguo Li|[2111.09006v2](http://arxiv.org/abs/2111.09006v2)|null|
-|**2021-11-17**|**Nonlinear Intensity Sonar Image Matching based on Deep Convolution Features**|Xiaoteng Zhou, Changli Yu, Xin Yuan, Yi Wu, Haijun Feng, Citong Luo|[2111.08994v2](http://arxiv.org/abs/2111.08994v2)|null|
+|**2021-11-17**|**Nonlinear Intensity Sonar Image Matching based on Deep Convolution Features**|Xiaoteng Zhou, Changli Yu, Xin Yuan, Yi Wu, Haijun Feng, Citong Luo|[2111.08994v3](http://arxiv.org/abs/2111.08994v3)|null|
 |**2021-10-30**|**A Deep Search for Faint Chandra X-ray Sources, Radio Sources, and Optical Counterparts in NGC 6752**|Haldan N. Cohn, Phyllis M. Lugger, Yue Zhao, Vlad Tudor, Craig O. Heinke, Adrienne M. Cool, Jay Anderson, Jay Strader, James C. A. Miller-Jones|[2111.00357v1](http://arxiv.org/abs/2111.00357v1)|null|
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
@@ -94,7 +94,7 @@
 |---|---|---|---|---|
 |**2021-12-13**|**GCNDepth: Self-supervised Monocular Depth Estimation based on Graph Convolutional Network**|Armin Masoumian, Hatem A. Rashwan, Saddam Abdulwahab, Julian Cristiano, Domenec Puig|[2112.06782v1](http://arxiv.org/abs/2112.06782v1)|**[link](https://github.com/arminmasoumian/gcndepth)**|
 |**2021-12-12**|**MVLayoutNet:3D layout reconstruction with multi-view panoramas**|Zhihua Hu, Bo Duan, Yanfeng Zhang, Mingwei Sun, Jingwei Huang|[2112.06133v1](http://arxiv.org/abs/2112.06133v1)|null|
-|**2021-12-11**|**Curvature-guided dynamic scale networks for Multi-view Stereo**|Khang Truong Giang, Soohwan Song, Sungho Jo|[2112.05999v1](http://arxiv.org/abs/2112.05999v1)|null|
+|**2021-12-11**|**Curvature-guided dynamic scale networks for Multi-view Stereo**|Khang Truong Giang, Soohwan Song, Sungho Jo|[2112.05999v1](http://arxiv.org/abs/2112.05999v1)|**[link](https://github.com/truongkhang/cds-mvsnet)**|
 |**2021-12-10**|**Roominoes: Generating Novel 3D Floor Plans From Existing 3D Rooms**|Kai Wang, Xianghao Xu, Leon Lei, Selena Ling, Natalie Lindsay, Angel X. Chang, Manolis Savva, Daniel Ritchie|[2112.05644v1](http://arxiv.org/abs/2112.05644v1)|null|
 |**2021-12-10**|**PERF: Performant, Explicit Radiance Fields**|Sverker Rasmuson, Erik Sintorn, Ulf Assarsson|[2112.05598v1](http://arxiv.org/abs/2112.05598v1)|null|
 |**2021-12-10**|**Sparse Depth Completion with Semantic Mesh Deformation Optimization**|Bing Zhou, Matias Aiskovich, Sinem Guven|[2112.05498v1](http://arxiv.org/abs/2112.05498v1)|null|
