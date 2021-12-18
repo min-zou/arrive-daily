@@ -27,6 +27,7 @@
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-16**|**CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**|Qi Yan, Jianhao Zheng, Simon Reding, Shanci Li, Iordan Doytchinov|[2112.09081v1](http://arxiv.org/abs/2112.09081v1)|null|
 |**2021-11-25**|**MegLoc: A Robust and Accurate Visual Localization Pipeline**|Shuxue Peng, Zihang He, Haotian Zhang, Ran Yan, Chuting Wang, Qingtian Zhu, Xiao Liu|[2111.13063v1](http://arxiv.org/abs/2111.13063v1)|null|
 |**2021-10-08**|**Semantic Image Alignment for Vehicle Localization**|Markus Herb, Matthias Lemberger, Marcel M. Schmitt, Alexander Kurz, Tobias Weiherer, Nassir Navab, Federico Tombari|[2110.04162v1](http://arxiv.org/abs/2110.04162v1)|null|
 |**2021-10-05**|**Season-invariant GNSS-denied visual localization for UAVs**|Jouko Kinnari, Francesco Verdoja, Ville Kyrki|[2110.01967v1](http://arxiv.org/abs/2110.01967v1)|**[link](https://github.com/aalto-intelligent-robotics/sivl)**|
@@ -36,7 +37,6 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh, Manuel Lopez Antequera, Pau Gargallo, Yubin Kuang, Carl Toft, Fredrik Kahl, Torsten Sattler|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth, Timothy D. Barfoot|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|null|
 |**2021-08-20**|**Continual Learning for Image-Based Camera Localization**|Shuzhe Wang, Zakaria Laskar, Iaroslav Melekhov, Xiaotian Li, Juho Kannala|[2108.09112v1](http://arxiv.org/abs/2108.09112v1)|**[link](https://github.com/aaltovision/cl_hscnet)**|
-|**2021-08-14**|**PICCOLO: Point Cloud-Centric Omnidirectional Localization**|Junho Kim, Changwoon Choi, Hojun Jang, Young Min Kim|[2108.06545v2](http://arxiv.org/abs/2108.06545v2)|**[link](https://github.com/82magnolia/piccolo)**|
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -66,6 +66,7 @@
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-16**|**Road-aware Monocular Structure from Motion and Homography Estimation**|Wei Sui, Teng Chen, Jiaxin Zhang, Jiao Lu, Qian Zhang|[2112.08635v1](http://arxiv.org/abs/2112.08635v1)|null|
 |**2021-12-13**|**Text Gestalt: Stroke-Aware Scene Text Image Super-Resolution**|Jingye Chen, Haiyang Yu, Jianqi Ma, Bin Li, Xiangyang Xue|[2112.08171v1](http://arxiv.org/abs/2112.08171v1)|null|
 |**2021-12-06**|**Dense Depth Priors for Neural Radiance Fields from Sparse Input Views**|Barbara Roessle, Jonathan T. Barron, Ben Mildenhall, Pratul P. Srinivasan, Matthias Nießner|[2112.03288v1](http://arxiv.org/abs/2112.03288v1)|null|
 |**2021-12-04**|**Sphere Face Model:A 3D Morphable Model with Hypersphere Manifold Latent Space**|Diqiong Jiang, Yiwei Jin, Fanglue Zhang, Zhe Zhu, Yun Zhang, Ruofeng Tong, Min Tang|[2112.02238v1](http://arxiv.org/abs/2112.02238v1)|null|
@@ -75,10 +76,10 @@
 |**2021-11-03**|**Event and Activity Recognition in Video Surveillance for Cyber-Physical Systems**|Swarnabja Bhaumik, Prithwish Jana, Partha Pratim Mohanta|[2111.02064v1](http://arxiv.org/abs/2111.02064v1)|null|
 |**2021-10-21**|**The black hole-star formation connection over cosmic time**|Chandra B. Singh, Nelitha Kulasiri, Max North, David Garofalo|[2110.10993v1](http://arxiv.org/abs/2110.10993v1)|null|
 |**2021-10-21**|**Deep Image Matting with Flexible Guidance Input**|Hang Cheng, Shugong Xu, Xiufeng Jiang, Rongrong Wang|[2110.10898v1](http://arxiv.org/abs/2110.10898v1)|**[link](https://github.com/charch-630/fgi-matting)**|
-|**2021-09-24**|**Automatic Map Update Using Dashcam Videos**|Aziza Zhanabatyrova, Clayton Souza Leite, Yu Xiao|[2109.12131v1](http://arxiv.org/abs/2109.12131v1)|null|
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-16**|**Road-aware Monocular Structure from Motion and Homography Estimation**|Wei Sui, Teng Chen, Jiaxin Zhang, Jiao Lu, Qian Zhang|[2112.08635v1](http://arxiv.org/abs/2112.08635v1)|null|
 |**2021-12-10**|**Critical configurations for three projective views**|Martin Bråtelund|[2112.05478v1](http://arxiv.org/abs/2112.05478v1)|null|
 |**2021-12-09**|**Critical configurations for two projective views, a new approach**|Martin Bråtelund|[2112.05074v1](http://arxiv.org/abs/2112.05074v1)|null|
 |**2021-12-06**|**Dense Depth Priors for Neural Radiance Fields from Sparse Input Views**|Barbara Roessle, Jonathan T. Barron, Ben Mildenhall, Pratul P. Srinivasan, Matthias Nießner|[2112.03288v1](http://arxiv.org/abs/2112.03288v1)|null|
@@ -88,7 +89,6 @@
 |**2021-11-03**|**Event and Activity Recognition in Video Surveillance for Cyber-Physical Systems**|Swarnabja Bhaumik, Prithwish Jana, Partha Pratim Mohanta|[2111.02064v1](http://arxiv.org/abs/2111.02064v1)|null|
 |**2021-10-14**|**Modeling dynamic target deformation in camera calibration**|Annika Hagemann, Moritz Knorr, Christoph Stiller|[2110.07322v1](http://arxiv.org/abs/2110.07322v1)|null|
 |**2021-10-13**|**Hyperspectral 3D Mapping of Underwater Environments**|Maxime Ferrera, Aurélien Arnaubec, Klemen Istenic, Nuno Gracias, Touria Bajjouk|[2110.06571v1](http://arxiv.org/abs/2110.06571v1)|null|
-|**2021-09-24**|**Automatic Map Update Using Dashcam Videos**|Aziza Zhanabatyrova, Clayton Souza Leite, Yu Xiao|[2109.12131v1](http://arxiv.org/abs/2109.12131v1)|null|
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
