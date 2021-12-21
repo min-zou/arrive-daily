@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-17**|**Symmetry-aware Neural Architecture for Embodied Visual Navigation**|Shuang Liu, Takayuki Okatani|[2112.09515v1](http://arxiv.org/abs/2112.09515v1)|null|
 |**2021-12-15**|**Homography Decomposition Networks for Planar Object Tracking**|Xinrui Zhan, Yueran Liu, Jianke Zhu, Yang Li|[2112.07909v2](http://arxiv.org/abs/2112.07909v2)|null|
 |**2021-12-14**|**Autonomous Navigation System from Simultaneous Localization and Mapping**|Micheal Caracciolo, Owen Casciotti, Christopher Lloyd, Ernesto Sola-Thomas, Matthew Weaver, Kyle Bielby, Md Abdul Baset Sarker, Masudul H. Imtiaz|[2112.07723v1](http://arxiv.org/abs/2112.07723v1)|**[link](https://github.com/michealcarac/VSLAM-Mapping)**|
 |**2021-12-12**|**360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation**|Bolivar Solarte, Yueh-Cheng Liu, Chin-Hsuan Wu, Yi-Hsuan Tsai, Min Sun|[2112.06180v1](http://arxiv.org/abs/2112.06180v1)|null|
@@ -10,7 +11,6 @@
 |**2021-12-03**|**Fast Direct Stereo Visual SLAM**|Jiawei Mo, Md Jahidul Islam, Junaed Sattar|[2112.01890v1](http://arxiv.org/abs/2112.01890v1)|**[link](https://github.com/irvlab/direct_stereo_slam)**|
 |**2021-12-02**|**MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**|Jie Ren, Wenteng Liang, Ran Yan, Luo Mai, Shiwen Liu, Xiao Liu|[2112.01349v2](http://arxiv.org/abs/2112.01349v2)|**[link](https://github.com/megviirobot/megba)**|
 |**2021-12-01**|**Research on Event Accumulator Settings for Event-Based SLAM**|Kun Xiao, Guohui Wang, Yi Chen, Yongfeng Xie, Hong Li|[2112.00427v1](http://arxiv.org/abs/2112.00427v1)|**[link](https://github.com/robin-shaun/event-slam-accumulator-settings)**|
-|**2021-11-29**|**An in-depth experimental study of sensor usage and visual reasoning of robots navigating in real environments**|Assem Sadek, Guillaume Bono, Boris Chidlovskii, Christian Wolf|[2111.14666v1](http://arxiv.org/abs/2111.14666v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-17**|**Improving neural implicit surfaces geometry with patch warping**|François Darmon, Bénédicte Bascle, Jean-Clément Devaux, Pascal Monasse, Mathieu Aubry|[2112.09648v1](http://arxiv.org/abs/2112.09648v1)|null|
 |**2021-12-13**|**GCNDepth: Self-supervised Monocular Depth Estimation based on Graph Convolutional Network**|Armin Masoumian, Hatem A. Rashwan, Saddam Abdulwahab, Julian Cristiano, Domenec Puig|[2112.06782v1](http://arxiv.org/abs/2112.06782v1)|**[link](https://github.com/arminmasoumian/gcndepth)**|
 |**2021-12-12**|**MVLayoutNet:3D layout reconstruction with multi-view panoramas**|Zhihua Hu, Bo Duan, Yanfeng Zhang, Mingwei Sun, Jingwei Huang|[2112.06133v1](http://arxiv.org/abs/2112.06133v1)|null|
 |**2021-12-11**|**Curvature-guided dynamic scale networks for Multi-view Stereo**|Khang Truong Giang, Soohwan Song, Sungho Jo|[2112.05999v1](http://arxiv.org/abs/2112.05999v1)|**[link](https://github.com/truongkhang/cds-mvsnet)**|
@@ -101,4 +102,3 @@
 |**2021-12-10**|**Representing 3D Shapes with Probabilistic Directed Distance Fields**|Tristan Aumentado-Armstrong, Stavros Tsogkas, Sven Dickinson, Allan Jepson|[2112.05300v1](http://arxiv.org/abs/2112.05300v1)|null|
 |**2021-12-09**|**ScaleNet: A Shallow Architecture for Scale Estimation**|Axel Barroso-Laguna, Yurun Tian, Krystian Mikolajczyk|[2112.04846v1](http://arxiv.org/abs/2112.04846v1)|**[link](https://github.com/axelbarroso/scalenet)**|
 |**2021-12-08**|**What's Behind the Couch? Directed Ray Distance Functions (DRDF) for 3D Scene Reconstruction**|Nilesh Kulkarni, Justin Johnson, David F. Fouhey|[2112.04481v1](http://arxiv.org/abs/2112.04481v1)|null|
-|**2021-12-08**|**Adversarial Parametric Pose Prior**|Andrey Davydov, Anastasia Remizova, Victor Constantin, Sina Honari, Mathieu Salzmann, Pascal Fua|[2112.04203v1](http://arxiv.org/abs/2112.04203v1)|null|
