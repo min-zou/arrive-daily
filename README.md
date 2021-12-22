@@ -1,16 +1,16 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-18**|**Fast and Robust Registration of Partially Overlapping Point Clouds**|Eduardo Arnold, Sajjad Mozaffari, Mehrdad Dianati|[2112.09922v1](http://arxiv.org/abs/2112.09922v1)|null|
 |**2021-12-17**|**Symmetry-aware Neural Architecture for Embodied Visual Navigation**|Shuang Liu, Takayuki Okatani|[2112.09515v1](http://arxiv.org/abs/2112.09515v1)|null|
 |**2021-12-15**|**Homography Decomposition Networks for Planar Object Tracking**|Xinrui Zhan, Yueran Liu, Jianke Zhu, Yang Li|[2112.07909v2](http://arxiv.org/abs/2112.07909v2)|null|
 |**2021-12-14**|**Autonomous Navigation System from Simultaneous Localization and Mapping**|Micheal Caracciolo, Owen Casciotti, Christopher Lloyd, Ernesto Sola-Thomas, Matthew Weaver, Kyle Bielby, Md Abdul Baset Sarker, Masudul H. Imtiaz|[2112.07723v1](http://arxiv.org/abs/2112.07723v1)|**[link](https://github.com/michealcarac/VSLAM-Mapping)**|
-|**2021-12-12**|**360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation**|Bolivar Solarte, Yueh-Cheng Liu, Chin-Hsuan Wu, Yi-Hsuan Tsai, Min Sun|[2112.06180v1](http://arxiv.org/abs/2112.06180v1)|null|
+|**2021-12-12**|**360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation**|Bolivar Solarte, Yueh-Cheng Liu, Chin-Hsuan Wu, Yi-Hsuan Tsai, Min Sun|[2112.06180v2](http://arxiv.org/abs/2112.06180v2)|null|
 |**2021-12-11**|**Simultaneous Localization and Mapping: Through the Lens of Nonlinear Optimization**|Amay Saxena, Chih-Yuan Chiu, Joseph Menke, Ritika Shrivastava, Shankar Sastry|[2112.05921v1](http://arxiv.org/abs/2112.05921v1)|null|
 |**2021-12-07**|**Hybrid Visual SLAM for Underwater Vehicle Manipulator Systems**|Gideon Billings, Richard Camilli, Matthew Johnson-Roberson|[2112.03826v1](http://arxiv.org/abs/2112.03826v1)|null|
 |**2021-12-05**|**Iterated Posterior Linearization PMB Filter for 5G SLAM**|Yu Ge, Yibo Wu, Fan Jiang, Ossi Kaltiokallio, Jukka Talvitie, Mikko Valkama, Lennart Svensson, Henk Wymeersch|[2112.02575v1](http://arxiv.org/abs/2112.02575v1)|null|
 |**2021-12-03**|**Fast Direct Stereo Visual SLAM**|Jiawei Mo, Md Jahidul Islam, Junaed Sattar|[2112.01890v1](http://arxiv.org/abs/2112.01890v1)|**[link](https://github.com/irvlab/direct_stereo_slam)**|
 |**2021-12-02**|**MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**|Jie Ren, Wenteng Liang, Ran Yan, Luo Mai, Shiwen Liu, Xiao Liu|[2112.01349v2](http://arxiv.org/abs/2112.01349v2)|**[link](https://github.com/megviirobot/megba)**|
-|**2021-12-01**|**Research on Event Accumulator Settings for Event-Based SLAM**|Kun Xiao, Guohui Wang, Yi Chen, Yongfeng Xie, Hong Li|[2112.00427v1](http://arxiv.org/abs/2112.00427v1)|**[link](https://github.com/robin-shaun/event-slam-accumulator-settings)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -40,6 +40,8 @@
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-19**|**Parallel Multi-Scale Networks with Deep Supervision for Hand Keypoint Detection**|Renjie Li, Son Tran, Saurabh Garg, Katherine Lawler, Jane Alty, Quan Bai|[2112.10275v1](http://arxiv.org/abs/2112.10275v1)|null|
+|**2021-12-19**|**GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**|Jean-Baptiste Carluer, Laurent Chauvin, Jie Luo, William M. Wells III, Ines Machado, Rola Harmouche, Matthew Toews|[2112.10258v1](http://arxiv.org/abs/2112.10258v1)|null|
 |**2021-12-12**|**Few-shot Keypoint Detection with Uncertainty Learning for Unseen Species**|Changsheng Lu, Piotr Koniusz|[2112.06183v1](http://arxiv.org/abs/2112.06183v1)|null|
 |**2021-12-09**|**Few-Shot Keypoint Detection as Task Adaptation via Latent Embeddings**|Mel Vecerik, Jackie Kay, Raia Hadsell, Lourdes Agapito, Jon Scholz|[2112.04910v2](http://arxiv.org/abs/2112.04910v2)|null|
 |**2021-12-06**|**ALIKE: Accurate and Lightweight Keypoint Detection and Descriptor Extraction**|Xiaoming Zhao, Xingming Wu, Jinyu Miao, Weihai Chen, Peter C. Y. Chen, Zhengguo Li|[2112.02906v1](http://arxiv.org/abs/2112.02906v1)|**[link](https://github.com/Shiaoming/ALIKE)**|
@@ -48,11 +50,11 @@
 |**2021-11-04**|**Voxel-based 3D Detection and Reconstruction of Multiple Objects from a Single Image**|Feng Liu, Xiaoming Liu|[2111.03098v1](http://arxiv.org/abs/2111.03098v1)|null|
 |**2021-10-26**|**CoFiNet: Reliable Coarse-to-fine Correspondences for Robust Point Cloud Registration**|Hao Yu, Fu Li, Mahdi Saleh, Benjamin Busam, Slobodan Ilic|[2110.14076v1](http://arxiv.org/abs/2110.14076v1)|**[link](https://github.com/haoyu94/coarse-to-fine-correspondences)**|
 |**2021-10-18**|**Keypoint-Based Bimanual Shaping of Deformable Linear Objects under Environmental Constraints using Hierarchical Action Planning**|Shengzeng Huo, Anqing Duan, Chengxi Li, Peng Zhou, Wanyu Ma, David Navarro-Alarcon|[2110.08962v1](http://arxiv.org/abs/2110.08962v1)|null|
-|**2021-10-04**|**BPFNet: A Unified Framework for Bimodal Palmprint Alignment and Fusion**|Zhaoqun Li, Xu Liang, Dandan Fan, Jinxing Li, David Zhang|[2110.01179v2](http://arxiv.org/abs/2110.01179v2)|**[link](https://github.com/dxbdxx/bpfnet)**|
-|**2021-09-28**|**PDC-Net+: Enhanced Probabilistic Dense Correspondence Network**|Prune Truong, Martin Danelljan, Radu Timofte, Luc Van Gool|[2109.13912v2](http://arxiv.org/abs/2109.13912v2)|**[link](https://github.com/PruneTruong/DenseMatching)**|
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-20**|**Scale-Net: Learning to Reduce Scale Differences for Large-Scale Invariant Image Matching**|Yujie Fu, Yihong Wu|[2112.10485v1](http://arxiv.org/abs/2112.10485v1)|null|
+|**2021-12-19**|**GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**|Jean-Baptiste Carluer, Laurent Chauvin, Jie Luo, William M. Wells III, Ines Machado, Rola Harmouche, Matthew Toews|[2112.10258v1](http://arxiv.org/abs/2112.10258v1)|null|
 |**2021-12-10**|**More Control for Free! Image Synthesis with Semantic Diffusion Guidance**|Xihui Liu, Dong Huk Park, Samaneh Azadi, Gong Zhang, Arman Chopikyan, Yuxiao Hu, Humphrey Shi, Anna Rohrbach, Trevor Darrell|[2112.05744v2](http://arxiv.org/abs/2112.05744v2)|null|
 |**2021-12-08**|**Label-free virtual HER2 immunohistochemical staining of breast tissue using deep learning**|Bijie Bai, Hongda Wang, Yuzhu Li, Kevin de Haan, Francesco Colonnese, Yujie Wan, Jingyi Zuo, Ngan B. Doan, Xiaoran Zhang, Yijie Zhang, Jingxi Li, Wenjie Dong, Morgan Angus Darrow, Elham Kamangar, Han Sung Lee, Yair Rivenson, Aydogan Ozcan|[2112.05240v1](http://arxiv.org/abs/2112.05240v1)|null|
 |**2021-12-01**|**FaSS-MVS -- Fast Multi-View Stereo with Surface-Aware Semi-Global Matching from UAV-borne Monocular Imagery**|Boitumelo Ruf, Martin Weinmann, Stefan Hinz|[2112.00821v1](http://arxiv.org/abs/2112.00821v1)|null|
@@ -61,8 +63,6 @@
 |**2021-11-29**|**Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**|Usman Cheema, Mobeen Ahmad, Dongil Han, Seungbin Moon|[2111.14339v1](http://arxiv.org/abs/2111.14339v1)|null|
 |**2021-11-29**|**Nonlinear Intensity Underwater Sonar Image Matching Method Based on Phase Information and Deep Convolution Features**|Xiaoteng Zhou, Changli Yu, Xin Yuan, Haijun Feng, Yang Xu|[2111.15514v1](http://arxiv.org/abs/2111.15514v1)|null|
 |**2021-11-17**|**Probabilistic Spatial Distribution Prior Based Attentional Keypoints Matching Network**|Xiaoming Zhao, Jingmeng Liu, Xingming Wu, Weihai Chen, Fanghong Guo, Zhengguo Li|[2111.09006v2](http://arxiv.org/abs/2111.09006v2)|null|
-|**2021-11-17**|**Nonlinear Intensity Sonar Image Matching based on Deep Convolution Features**|Xiaoteng Zhou, Changli Yu, Xin Yuan, Yi Wu, Haijun Feng, Citong Luo|[2111.08994v3](http://arxiv.org/abs/2111.08994v3)|null|
-|**2021-10-30**|**A Deep Search for Faint Chandra X-ray Sources, Radio Sources, and Optical Counterparts in NGC 6752**|Haldan N. Cohn, Phyllis M. Lugger, Yue Zhao, Vlad Tudor, Craig O. Heinke, Adrienne M. Cool, Jay Anderson, Jay Strader, James C. A. Miller-Jones|[2111.00357v1](http://arxiv.org/abs/2111.00357v1)|null|
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-19**|**MoCaNet: Motion Retargeting in-the-wild via Canonicalization Networks**|Wentao Zhu, Zhuoqian Yang, Ziang Di, Wayne Wu, Yizhou Wang, Chen Change Loy|[2112.10082v2](http://arxiv.org/abs/2112.10082v2)|null|
 |**2021-12-17**|**Improving neural implicit surfaces geometry with patch warping**|François Darmon, Bénédicte Bascle, Jean-Clément Devaux, Pascal Monasse, Mathieu Aubry|[2112.09648v1](http://arxiv.org/abs/2112.09648v1)|null|
 |**2021-12-13**|**GCNDepth: Self-supervised Monocular Depth Estimation based on Graph Convolutional Network**|Armin Masoumian, Hatem A. Rashwan, Saddam Abdulwahab, Julian Cristiano, Domenec Puig|[2112.06782v1](http://arxiv.org/abs/2112.06782v1)|**[link](https://github.com/arminmasoumian/gcndepth)**|
 |**2021-12-12**|**MVLayoutNet:3D layout reconstruction with multi-view panoramas**|Zhihua Hu, Bo Duan, Yanfeng Zhang, Mingwei Sun, Jingwei Huang|[2112.06133v1](http://arxiv.org/abs/2112.06133v1)|null|
@@ -101,4 +102,3 @@
 |**2021-12-10**|**Sparse Depth Completion with Semantic Mesh Deformation Optimization**|Bing Zhou, Matias Aiskovich, Sinem Guven|[2112.05498v1](http://arxiv.org/abs/2112.05498v1)|null|
 |**2021-12-10**|**Representing 3D Shapes with Probabilistic Directed Distance Fields**|Tristan Aumentado-Armstrong, Stavros Tsogkas, Sven Dickinson, Allan Jepson|[2112.05300v1](http://arxiv.org/abs/2112.05300v1)|null|
 |**2021-12-09**|**ScaleNet: A Shallow Architecture for Scale Estimation**|Axel Barroso-Laguna, Yurun Tian, Krystian Mikolajczyk|[2112.04846v1](http://arxiv.org/abs/2112.04846v1)|**[link](https://github.com/axelbarroso/scalenet)**|
-|**2021-12-08**|**What's Behind the Couch? Directed Ray Distance Functions (DRDF) for 3D Scene Reconstruction**|Nilesh Kulkarni, Justin Johnson, David F. Fouhey|[2112.04481v1](http://arxiv.org/abs/2112.04481v1)|null|
