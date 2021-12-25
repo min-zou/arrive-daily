@@ -14,6 +14,7 @@
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-23**|**NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning**|Tony Ng, Hyo Jin Kim, Vincent Lee, Daniel Detone, Tsun-Yi Yang, Tianwei Shen, Eddy Ilg, Vassileios Balntas, Krystian Mikolajczyk, Chris Sweeney|[2112.12785v1](http://arxiv.org/abs/2112.12785v1)|null|
 |**2021-12-05**|**RADA: Robust Adversarial Data Augmentation for Camera Localization in Challenging Weather**|Jialu Wang, Muhamad Risqi U. Saputra, Chris Xiaoxuan Lu, Niki Trigon, Andrew Markham|[2112.02469v1](http://arxiv.org/abs/2112.02469v1)|null|
 |**2021-09-20**|**Efficient shape mapping through dense touch and vision**|Sudharshan Suresh, Zilin Si, Joshua G. Mangelson, Wenzhen Yuan, Michael Kaess|[2109.09884v1](http://arxiv.org/abs/2109.09884v1)|null|
 |**2021-09-15**|**S3LAM: Structured Scene SLAM**|Mathieu Gonzalez, Eric Marchand, Amine Kacete, Jérôme Royan|[2109.07339v1](http://arxiv.org/abs/2109.07339v1)|null|
@@ -23,7 +24,6 @@
 |**2021-07-08**|**Uncertainty-Aware Camera Pose Estimation from Points and Lines**|Alexander Vakhitov, Luis Ferraz Colomina, Antonio Agudo, Francesc Moreno-Noguer|[2107.03890v1](http://arxiv.org/abs/2107.03890v1)|null|
 |**2021-07-07**|**Video-Based Camera Localization Using Anchor View Detection and Recursive 3D Reconstruction**|Hajime Taira, Koki Onbe, Naoyuki Miyashita, Masatoshi Okutomi|[2107.03068v1](http://arxiv.org/abs/2107.03068v1)|null|
 |**2021-07-01**|**Deep auxiliary learning for visual localization using colorization task**|Mi Tian, Qiong Nie, Hao Shen, Xiahua Xia|[2107.00222v1](http://arxiv.org/abs/2107.00222v1)|null|
-|**2021-04-02**|**End-to-end learning of keypoint detection and matching for relative pose estimation**|Antoine Fond, Luca Del Pero, Nikola Sivacki, Marco Paladini|[2104.01085v1](http://arxiv.org/abs/2104.01085v1)|null|
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -40,6 +40,7 @@
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-22**|**Improved 2D Keypoint Detection in Out-of-Balance and Fall Situations -- combining input rotations and a kinematic model**|Michael Zwölfer, Dieter Heinrich, Kurt Schindelwig, Bastian Wandt, Helge Rhodin, Joerg Spoerri, Werner Nachbauer|[2112.12193v1](http://arxiv.org/abs/2112.12193v1)|null|
 |**2021-12-22**|**Looking Beyond Corners: Contrastive Learning of Visual Representations for Keypoint Detection and Description Extraction**|Henrique Siqueira, Patrick Ruhkamp, Ibrahim Halfaoui, Markus Karmann, Onay Urfalioglu|[2112.12002v1](http://arxiv.org/abs/2112.12002v1)|null|
 |**2021-12-19**|**Parallel Multi-Scale Networks with Deep Supervision for Hand Keypoint Detection**|Renjie Li, Son Tran, Saurabh Garg, Katherine Lawler, Jane Alty, Quan Bai|[2112.10275v1](http://arxiv.org/abs/2112.10275v1)|null|
 |**2021-12-19**|**GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**|Jean-Baptiste Carluer, Laurent Chauvin, Jie Luo, William M. Wells III, Ines Machado, Rola Harmouche, Matthew Toews|[2112.10258v1](http://arxiv.org/abs/2112.10258v1)|**[link](https://github.com/carluerjb/3d_sift_cuda)**|
@@ -49,7 +50,6 @@
 |**2021-11-25**|**Attend to Who You Are: Supervising Self-Attention for Keypoint Detection and Instance-Aware Association**|Sen Yang, Zhicheng Wang, Ze Chen, Yanjie Li, Shoukui Zhang, Zhibin Quan, Shu-Tao Xia, Yiping Bao, Erjin Zhou, Wankou Yang|[2111.12892v1](http://arxiv.org/abs/2111.12892v1)|**[link](https://github.com/yangsenius/ssa)**|
 |**2021-11-08**|**Template NeRF: Towards Modeling Dense Shape Correspondences from Category-Specific Object Images**|Jianfei Guo, Zhiyuan Yang, Xi Lin, Qingfu Zhang|[2111.04237v1](http://arxiv.org/abs/2111.04237v1)|null|
 |**2021-11-04**|**Voxel-based 3D Detection and Reconstruction of Multiple Objects from a Single Image**|Feng Liu, Xiaoming Liu|[2111.03098v1](http://arxiv.org/abs/2111.03098v1)|null|
-|**2021-10-26**|**CoFiNet: Reliable Coarse-to-fine Correspondences for Robust Point Cloud Registration**|Hao Yu, Fu Li, Mahdi Saleh, Benjamin Busam, Slobodan Ilic|[2110.14076v1](http://arxiv.org/abs/2110.14076v1)|**[link](https://github.com/haoyu94/coarse-to-fine-correspondences)**|
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,8 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-23**|**BANMo: Building Animatable 3D Neural Models from Many Casual Videos**|Gengshan Yang, Minh Vo, Natalia Neverova, Deva Ramanan, Andrea Vedaldi, Hanbyul Joo|[2112.12761v1](http://arxiv.org/abs/2112.12761v1)|null|
+|**2021-12-23**|**Pose Adaptive Dual Mixup for Few-Shot Single-View 3D Reconstruction**|Ta-Ying Cheng, Hsuan-Ru Yang, Niki Trigoni, Hwann-Tzong Chen, Tyng-Luh Liu|[2112.12484v1](http://arxiv.org/abs/2112.12484v1)|null|
 |**2021-12-22**|**Multi-View Partial (MVP) Point Cloud Challenge 2021 on Completion and Registration: Methods and Results**|Liang Pan, Tong Wu, Zhongang Cai, Ziwei Liu, Xumin Yu, Yongming Rao, Jiwen Lu, Jie Zhou, Mingye Xu, Xiaoyuan Luo, Kexue Fu, Peng Gao, Manning Wang, Yali Wang, Yu Qiao, Junsheng Zhou, Xin Wen, Peng Xiang, Yu-Shen Liu, Zhizhong Han, Yuanjie Yan, Junyi An, Lifa Zhu, Changwei Lin, Dongrui Liu, Xin Li, Francisco Gómez-Fernández, Qinlong Wang, Yang Yang|[2112.12053v1](http://arxiv.org/abs/2112.12053v1)|null|
 |**2021-12-19**|**MoCaNet: Motion Retargeting in-the-wild via Canonicalization Networks**|Wentao Zhu, Zhuoqian Yang, Ziang Di, Wayne Wu, Yizhou Wang, Chen Change Loy|[2112.10082v2](http://arxiv.org/abs/2112.10082v2)|null|
 |**2021-12-17**|**Improving neural implicit surfaces geometry with patch warping**|François Darmon, Bénédicte Bascle, Jean-Clément Devaux, Pascal Monasse, Mathieu Aubry|[2112.09648v1](http://arxiv.org/abs/2112.09648v1)|null|
@@ -100,5 +102,3 @@
 |**2021-12-11**|**Curvature-guided dynamic scale networks for Multi-view Stereo**|Khang Truong Giang, Soohwan Song, Sungho Jo|[2112.05999v1](http://arxiv.org/abs/2112.05999v1)|**[link](https://github.com/truongkhang/cds-mvsnet)**|
 |**2021-12-10**|**Roominoes: Generating Novel 3D Floor Plans From Existing 3D Rooms**|Kai Wang, Xianghao Xu, Leon Lei, Selena Ling, Natalie Lindsay, Angel X. Chang, Manolis Savva, Daniel Ritchie|[2112.05644v1](http://arxiv.org/abs/2112.05644v1)|null|
 |**2021-12-10**|**PERF: Performant, Explicit Radiance Fields**|Sverker Rasmuson, Erik Sintorn, Ulf Assarsson|[2112.05598v1](http://arxiv.org/abs/2112.05598v1)|null|
-|**2021-12-10**|**Sparse Depth Completion with Semantic Mesh Deformation Optimization**|Bing Zhou, Matias Aiskovich, Sinem Guven|[2112.05498v1](http://arxiv.org/abs/2112.05498v1)|null|
-|**2021-12-10**|**Representing 3D Shapes with Probabilistic Directed Distance Fields**|Tristan Aumentado-Armstrong, Stavros Tsogkas, Sven Dickinson, Allan Jepson|[2112.05300v1](http://arxiv.org/abs/2112.05300v1)|null|
