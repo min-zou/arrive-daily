@@ -4,7 +4,7 @@
 |**2021-12-22**|**NICE-SLAM: Neural Implicit Scalable Encoding for SLAM**|Zihan Zhu, Songyou Peng, Viktor Larsson, Weiwei Xu, Hujun Bao, Zhaopeng Cui, Martin R. Oswald, Marc Pollefeys|[2112.12130v1](http://arxiv.org/abs/2112.12130v1)|null|
 |**2021-12-18**|**Fast and Robust Registration of Partially Overlapping Point Clouds**|Eduardo Arnold, Sajjad Mozaffari, Mehrdad Dianati|[2112.09922v1](http://arxiv.org/abs/2112.09922v1)|**[link](https://github.com/eduardohenriquearnold/fastreg)**|
 |**2021-12-17**|**Symmetry-aware Neural Architecture for Embodied Visual Navigation**|Shuang Liu, Takayuki Okatani|[2112.09515v1](http://arxiv.org/abs/2112.09515v1)|null|
-|**2021-12-15**|**Homography Decomposition Networks for Planar Object Tracking**|Xinrui Zhan, Yueran Liu, Jianke Zhu, Yang Li|[2112.07909v2](http://arxiv.org/abs/2112.07909v2)|**[link](https://github.com/zhanxinrui/hdn)**|
+|**2021-12-15**|**Homography Decomposition Networks for Planar Object Tracking**|Xinrui Zhan, Yueran Liu, Jianke Zhu, Yang Li|[2112.07909v3](http://arxiv.org/abs/2112.07909v3)|**[link](https://github.com/zhanxinrui/hdn)**|
 |**2021-12-14**|**Autonomous Navigation System from Simultaneous Localization and Mapping**|Micheal Caracciolo, Owen Casciotti, Christopher Lloyd, Ernesto Sola-Thomas, Matthew Weaver, Kyle Bielby, Md Abdul Baset Sarker, Masudul H. Imtiaz|[2112.07723v1](http://arxiv.org/abs/2112.07723v1)|**[link](https://github.com/michealcarac/VSLAM-Mapping)**|
 |**2021-12-12**|**360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation**|Bolivar Solarte, Yueh-Cheng Liu, Chin-Hsuan Wu, Yi-Hsuan Tsai, Min Sun|[2112.06180v2](http://arxiv.org/abs/2112.06180v2)|null|
 |**2021-12-11**|**Simultaneous Localization and Mapping: Through the Lens of Nonlinear Optimization**|Amay Saxena, Chih-Yuan Chiu, Joseph Menke, Ritika Shrivastava, Shankar Sastry|[2112.05921v1](http://arxiv.org/abs/2112.05921v1)|null|
@@ -92,7 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2021-12-23**|**BANMo: Building Animatable 3D Neural Models from Many Casual Videos**|Gengshan Yang, Minh Vo, Natalia Neverova, Deva Ramanan, Andrea Vedaldi, Hanbyul Joo|[2112.12761v1](http://arxiv.org/abs/2112.12761v1)|null|
+|**2021-12-23**|**BANMo: Building Animatable 3D Neural Models from Many Casual Videos**|Gengshan Yang, Minh Vo, Natalia Neverova, Deva Ramanan, Andrea Vedaldi, Hanbyul Joo|[2112.12761v2](http://arxiv.org/abs/2112.12761v2)|null|
 |**2021-12-23**|**Pose Adaptive Dual Mixup for Few-Shot Single-View 3D Reconstruction**|Ta-Ying Cheng, Hsuan-Ru Yang, Niki Trigoni, Hwann-Tzong Chen, Tyng-Luh Liu|[2112.12484v1](http://arxiv.org/abs/2112.12484v1)|null|
 |**2021-12-22**|**Multi-View Partial (MVP) Point Cloud Challenge 2021 on Completion and Registration: Methods and Results**|Liang Pan, Tong Wu, Zhongang Cai, Ziwei Liu, Xumin Yu, Yongming Rao, Jiwen Lu, Jie Zhou, Mingye Xu, Xiaoyuan Luo, Kexue Fu, Peng Gao, Manning Wang, Yali Wang, Yu Qiao, Junsheng Zhou, Xin Wen, Peng Xiang, Yu-Shen Liu, Zhizhong Han, Yuanjie Yan, Junyi An, Lifa Zhu, Changwei Lin, Dongrui Liu, Xin Li, Francisco Gómez-Fernández, Qinlong Wang, Yang Yang|[2112.12053v1](http://arxiv.org/abs/2112.12053v1)|null|
 |**2021-12-19**|**MoCaNet: Motion Retargeting in-the-wild via Canonicalization Networks**|Wentao Zhu, Zhuoqian Yang, Ziang Di, Wayne Wu, Yizhou Wang, Chen Change Loy|[2112.10082v2](http://arxiv.org/abs/2112.10082v2)|null|
