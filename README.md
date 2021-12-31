@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-29**|**Efficient Belief Space Planning in High-Dimensional State Spaces using PIVOT: Predictive Incremental Variable Ordering Tactic**|Khen Elimelech, Vadim Indelman|[2112.14428v1](http://arxiv.org/abs/2112.14428v1)|null|
 |**2021-12-27**|**UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping**|Hyunjun Lim, Jinwoo Jeon, Hyun Myung|[2112.13515v1](http://arxiv.org/abs/2112.13515v1)|null|
 |**2021-12-25**|**Simultaneous Location of Rail Vehicles and Mapping of Environment with Multiple LiDARs**|Yusheng Wang, Weiwei Song, Yidong Lou, Fei Huang, Zhiyong Tu, Shimin Zhang|[2112.13224v1](http://arxiv.org/abs/2112.13224v1)|null|
 |**2021-12-25**|**Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**|Peng Huang, Liekang Zeng, Xu Chen, Ke Luo, Zhi Zhou, Shuai Yu|[2112.13222v1](http://arxiv.org/abs/2112.13222v1)|null|
@@ -10,7 +11,6 @@
 |**2021-12-18**|**Fast and Robust Registration of Partially Overlapping Point Clouds**|Eduardo Arnold, Sajjad Mozaffari, Mehrdad Dianati|[2112.09922v1](http://arxiv.org/abs/2112.09922v1)|**[link](https://github.com/eduardohenriquearnold/fastreg)**|
 |**2021-12-17**|**Symmetry-aware Neural Architecture for Embodied Visual Navigation**|Shuang Liu, Takayuki Okatani|[2112.09515v1](http://arxiv.org/abs/2112.09515v1)|null|
 |**2021-12-15**|**Homography Decomposition Networks for Planar Object Tracking**|Xinrui Zhan, Yueran Liu, Jianke Zhu, Yang Li|[2112.07909v3](http://arxiv.org/abs/2112.07909v3)|**[link](https://github.com/zhanxinrui/hdn)**|
-|**2021-12-14**|**Autonomous Navigation System from Simultaneous Localization and Mapping**|Micheal Caracciolo, Owen Casciotti, Christopher Lloyd, Ernesto Sola-Thomas, Matthew Weaver, Kyle Bielby, Md Abdul Baset Sarker, Masudul H. Imtiaz|[2112.07723v1](http://arxiv.org/abs/2112.07723v1)|**[link](https://github.com/michealcarac/VSLAM-Mapping)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -66,6 +66,7 @@
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-29**|**On the Instability of Relative Pose Estimation and RANSAC's Role**|Hongyi Fan, Joe Kileel, Benjamin Kimia|[2112.14651v1](http://arxiv.org/abs/2112.14651v1)|null|
 |**2021-12-16**|**Road-aware Monocular Structure from Motion and Homography Estimation**|Wei Sui, Teng Chen, Jiaxin Zhang, Jiao Lu, Qian Zhang|[2112.08635v1](http://arxiv.org/abs/2112.08635v1)|null|
 |**2021-12-13**|**Text Gestalt: Stroke-Aware Scene Text Image Super-Resolution**|Jingye Chen, Haiyang Yu, Jianqi Ma, Bin Li, Xiangyang Xue|[2112.08171v1](http://arxiv.org/abs/2112.08171v1)|null|
 |**2021-12-06**|**Dense Depth Priors for Neural Radiance Fields from Sparse Input Views**|Barbara Roessle, Jonathan T. Barron, Ben Mildenhall, Pratul P. Srinivasan, Matthias Nießner|[2112.03288v1](http://arxiv.org/abs/2112.03288v1)|null|
@@ -75,10 +76,10 @@
 |**2021-11-14**|**A Polynomial Lower Bound on the Number of Rounds for Parallel Submodular Function Minimization and Matroid Intersection**|Deeparnab Chakrabarty, Yu Chen, Sanjeev Khanna|[2111.07474v1](http://arxiv.org/abs/2111.07474v1)|null|
 |**2021-11-03**|**Event and Activity Recognition in Video Surveillance for Cyber-Physical Systems**|Swarnabja Bhaumik, Prithwish Jana, Partha Pratim Mohanta|[2111.02064v1](http://arxiv.org/abs/2111.02064v1)|null|
 |**2021-10-21**|**The black hole-star formation connection over cosmic time**|Chandra B. Singh, Nelitha Kulasiri, Max North, David Garofalo|[2110.10993v1](http://arxiv.org/abs/2110.10993v1)|null|
-|**2021-10-21**|**Deep Image Matting with Flexible Guidance Input**|Hang Cheng, Shugong Xu, Xiufeng Jiang, Rongrong Wang|[2110.10898v1](http://arxiv.org/abs/2110.10898v1)|**[link](https://github.com/charch-630/fgi-matting)**|
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-29**|**On the Instability of Relative Pose Estimation and RANSAC's Role**|Hongyi Fan, Joe Kileel, Benjamin Kimia|[2112.14651v1](http://arxiv.org/abs/2112.14651v1)|null|
 |**2021-12-16**|**Road-aware Monocular Structure from Motion and Homography Estimation**|Wei Sui, Teng Chen, Jiaxin Zhang, Jiao Lu, Qian Zhang|[2112.08635v1](http://arxiv.org/abs/2112.08635v1)|null|
 |**2021-12-10**|**Critical configurations for three projective views**|Martin Bråtelund|[2112.05478v1](http://arxiv.org/abs/2112.05478v1)|null|
 |**2021-12-09**|**Critical configurations for two projective views, a new approach**|Martin Bråtelund|[2112.05074v1](http://arxiv.org/abs/2112.05074v1)|null|
@@ -88,10 +89,11 @@
 |**2021-11-05**|**Damage Estimation and Localization from Sparse Aerial Imagery**|Rene Garcia Franceschini, Jeffrey Liu, Saurabh Amin|[2111.03708v2](http://arxiv.org/abs/2111.03708v2)|null|
 |**2021-11-03**|**Event and Activity Recognition in Video Surveillance for Cyber-Physical Systems**|Swarnabja Bhaumik, Prithwish Jana, Partha Pratim Mohanta|[2111.02064v1](http://arxiv.org/abs/2111.02064v1)|null|
 |**2021-10-14**|**Modeling dynamic target deformation in camera calibration**|Annika Hagemann, Moritz Knorr, Christoph Stiller|[2110.07322v1](http://arxiv.org/abs/2110.07322v1)|null|
-|**2021-10-13**|**Hyperspectral 3D Mapping of Underwater Environments**|Maxime Ferrera, Aurélien Arnaubec, Klemen Istenic, Nuno Gracias, Touria Bajjouk|[2110.06571v1](http://arxiv.org/abs/2110.06571v1)|null|
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-29**|**ACDNet: Adaptively Combined Dilated Convolution for Monocular Panorama Depth Estimation**|Chuanqing Zhuang, Zhengda Lu, Yiqun Wang, Jun Xiao, Ying Wang|[2112.14440v1](http://arxiv.org/abs/2112.14440v1)|null|
+|**2021-12-28**|**Multimodal perception for dexterous manipulation**|Guanqun Cao, Shan Luo|[2112.14298v1](http://arxiv.org/abs/2112.14298v1)|null|
 |**2021-12-24**|**Multi-initialization Optimization Network for Accurate 3D Human Pose and Shape Estimation**|Zhiwei Liu, Xiangyu Zhu, Lu Yang, Xiang Yan, Ming Tang, Zhen Lei, Guibo Zhu, Xuetao Feng, Yan Wang, Jinqiao Wang|[2112.12917v1](http://arxiv.org/abs/2112.12917v1)|null|
 |**2021-12-23**|**BANMo: Building Animatable 3D Neural Models from Many Casual Videos**|Gengshan Yang, Minh Vo, Natalia Neverova, Deva Ramanan, Andrea Vedaldi, Hanbyul Joo|[2112.12761v2](http://arxiv.org/abs/2112.12761v2)|null|
 |**2021-12-23**|**Pose Adaptive Dual Mixup for Few-Shot Single-View 3D Reconstruction**|Ta-Ying Cheng, Hsuan-Ru Yang, Niki Trigoni, Hwann-Tzong Chen, Tyng-Luh Liu|[2112.12484v1](http://arxiv.org/abs/2112.12484v1)|null|
@@ -100,11 +102,11 @@
 |**2021-12-17**|**Improving neural implicit surfaces geometry with patch warping**|François Darmon, Bénédicte Bascle, Jean-Clément Devaux, Pascal Monasse, Mathieu Aubry|[2112.09648v1](http://arxiv.org/abs/2112.09648v1)|null|
 |**2021-12-13**|**GCNDepth: Self-supervised Monocular Depth Estimation based on Graph Convolutional Network**|Armin Masoumian, Hatem A. Rashwan, Saddam Abdulwahab, Julian Cristiano, Domenec Puig|[2112.06782v1](http://arxiv.org/abs/2112.06782v1)|**[link](https://github.com/arminmasoumian/gcndepth)**|
 |**2021-12-12**|**MVLayoutNet:3D layout reconstruction with multi-view panoramas**|Zhihua Hu, Bo Duan, Yanfeng Zhang, Mingwei Sun, Jingwei Huang|[2112.06133v1](http://arxiv.org/abs/2112.06133v1)|null|
-|**2021-12-11**|**Curvature-guided dynamic scale networks for Multi-view Stereo**|Khang Truong Giang, Soohwan Song, Sungho Jo|[2112.05999v1](http://arxiv.org/abs/2112.05999v1)|**[link](https://github.com/truongkhang/cds-mvsnet)**|
-|**2021-12-10**|**Roominoes: Generating Novel 3D Floor Plans From Existing 3D Rooms**|Kai Wang, Xianghao Xu, Leon Lei, Selena Ling, Natalie Lindsay, Angel X. Chang, Manolis Savva, Daniel Ritchie|[2112.05644v1](http://arxiv.org/abs/2112.05644v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-29**|**ACDNet: Adaptively Combined Dilated Convolution for Monocular Panorama Depth Estimation**|Chuanqing Zhuang, Zhengda Lu, Yiqun Wang, Jun Xiao, Ying Wang|[2112.14440v1](http://arxiv.org/abs/2112.14440v1)|null|
+|**2021-12-27**|**Improving Depth Estimation using Location Information**|Ahmed Zaitoon, Hossam El Din Abd El Munim, Hazem Abbas|[2112.13925v1](http://arxiv.org/abs/2112.13925v1)|null|
 |**2021-12-27**|**Depth estimation of endoscopy using sim-to-real transfer**|Bong Hyuk Jeong, Hang Keun Kim, Young Don Son|[2112.13595v1](http://arxiv.org/abs/2112.13595v1)|null|
 |**2021-12-24**|**Channel-Wise Attention-Based Network for Self-Supervised Monocular Depth Estimation**|Jiaxing Yan, Hong Zhao, Penghui Bu, YuSheng Jin|[2112.13047v1](http://arxiv.org/abs/2112.13047v1)|null|
 |**2021-12-22**|**NVS-MonoDepth: Improving Monocular Depth Prediction with Novel View Synthesis**|Zuria Bauer, Zuoyue Li, Sergio Orts-Escolano, Miguel Cazorla, Marc Pollefeys, Martin R. Oswald|[2112.12577v1](http://arxiv.org/abs/2112.12577v1)|null|
@@ -113,8 +115,6 @@
 |**2021-12-20**|**Towards Computational Awareness in Autonomous Robots: An Empirical Study of Computational Kernels**|Ashrarul H. Sifat, Burhanuddin Bharmal, Haibo Zeng, Jia-Bin Huang, Changhee Jung, Ryan K. Williams|[2112.10303v1](http://arxiv.org/abs/2112.10303v1)|null|
 |**2021-12-16**|**On the Uncertain Single-View Depths in Endoscopies**|Javier Rodríguez-Puigvert, David Recasens, Javier Civera, Rubén Martínez-Cantín|[2112.08906v1](http://arxiv.org/abs/2112.08906v1)|null|
 |**2021-12-15**|**Multi-View Depth Estimation by Fusing Single-View Depth Probability with Multi-View Geometry**|Gwangbin Bae, Ignas Budvytis, Roberto Cipolla|[2112.08177v1](http://arxiv.org/abs/2112.08177v1)|null|
-|**2021-12-15**|**Depth Refinement for Improved Stereo Reconstruction**|Amit Bracha, Noam Rotstein, David Bensaïd, Ron Slossberg, Ron Kimmel|[2112.08070v1](http://arxiv.org/abs/2112.08070v1)|null|
-|**2021-12-15**|**Towards General and Efficient Active Learning**|Yichen Xie, Masayoshi Tomizuka, Wei Zhan|[2112.07963v1](http://arxiv.org/abs/2112.07963v1)|**[link](https://github.com/yichen928/geal_active_learning)**|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
