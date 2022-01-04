@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-30**|**Visual and Object Geo-localization: A Comprehensive Survey**|Daniel Wilson, Xiaohan Zhang, Waqas Sultani, Safwan Wshah|[2112.15202v1](http://arxiv.org/abs/2112.15202v1)|null|
 |**2021-12-29**|**ACDNet: Adaptively Combined Dilated Convolution for Monocular Panorama Depth Estimation**|Chuanqing Zhuang, Zhengda Lu, Yiqun Wang, Jun Xiao, Ying Wang|[2112.14440v1](http://arxiv.org/abs/2112.14440v1)|null|
 |**2021-12-28**|**Multimodal perception for dexterous manipulation**|Guanqun Cao, Shan Luo|[2112.14298v1](http://arxiv.org/abs/2112.14298v1)|null|
 |**2021-12-24**|**Multi-initialization Optimization Network for Accurate 3D Human Pose and Shape Estimation**|Zhiwei Liu, Xiangyu Zhu, Lu Yang, Xiang Yan, Ming Tang, Zhen Lei, Guibo Zhu, Xuetao Feng, Yan Wang, Jinqiao Wang|[2112.12917v1](http://arxiv.org/abs/2112.12917v1)|null|
@@ -101,20 +102,19 @@
 |**2021-12-19**|**MoCaNet: Motion Retargeting in-the-wild via Canonicalization Networks**|Wentao Zhu, Zhuoqian Yang, Ziang Di, Wayne Wu, Yizhou Wang, Chen Change Loy|[2112.10082v2](http://arxiv.org/abs/2112.10082v2)|null|
 |**2021-12-17**|**Improving neural implicit surfaces geometry with patch warping**|François Darmon, Bénédicte Bascle, Jean-Clément Devaux, Pascal Monasse, Mathieu Aubry|[2112.09648v1](http://arxiv.org/abs/2112.09648v1)|**[link](https://github.com/fdarmon/neuralwarp)**|
 |**2021-12-13**|**GCNDepth: Self-supervised Monocular Depth Estimation based on Graph Convolutional Network**|Armin Masoumian, Hatem A. Rashwan, Saddam Abdulwahab, Julian Cristiano, Domenec Puig|[2112.06782v1](http://arxiv.org/abs/2112.06782v1)|**[link](https://github.com/arminmasoumian/gcndepth)**|
-|**2021-12-12**|**MVLayoutNet:3D layout reconstruction with multi-view panoramas**|Zhihua Hu, Bo Duan, Yanfeng Zhang, Mingwei Sun, Jingwei Huang|[2112.06133v1](http://arxiv.org/abs/2112.06133v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-30**|**Dense Depth Estimation from Multiple 360-degree Images Using Virtual Depth**|Seongyeop Yang, Kunhee Kim, Yeejin Lee|[2112.14931v1](http://arxiv.org/abs/2112.14931v1)|null|
 |**2021-12-29**|**ACDNet: Adaptively Combined Dilated Convolution for Monocular Panorama Depth Estimation**|Chuanqing Zhuang, Zhengda Lu, Yiqun Wang, Jun Xiao, Ying Wang|[2112.14440v1](http://arxiv.org/abs/2112.14440v1)|null|
 |**2021-12-27**|**Improving Depth Estimation using Location Information**|Ahmed Zaitoon, Hossam El Din Abd El Munim, Hazem Abbas|[2112.13925v1](http://arxiv.org/abs/2112.13925v1)|null|
 |**2021-12-27**|**Depth estimation of endoscopy using sim-to-real transfer**|Bong Hyuk Jeong, Hang Keun Kim, Young Don Son|[2112.13595v1](http://arxiv.org/abs/2112.13595v1)|null|
-|**2021-12-24**|**Channel-Wise Attention-Based Network for Self-Supervised Monocular Depth Estimation**|Jiaxing Yan, Hong Zhao, Penghui Bu, YuSheng Jin|[2112.13047v1](http://arxiv.org/abs/2112.13047v1)|null|
+|**2021-12-24**|**Channel-Wise Attention-Based Network for Self-Supervised Monocular Depth Estimation**|Jiaxing Yan, Hong Zhao, Penghui Bu, YuSheng Jin|[2112.13047v1](http://arxiv.org/abs/2112.13047v1)|**[link](https://github.com/kamiLight/CADepth-master)**|
 |**2021-12-22**|**NVS-MonoDepth: Improving Monocular Depth Prediction with Novel View Synthesis**|Zuria Bauer, Zuoyue Li, Sergio Orts-Escolano, Miguel Cazorla, Marc Pollefeys, Martin R. Oswald|[2112.12577v1](http://arxiv.org/abs/2112.12577v1)|null|
 |**2021-12-22**|**High-Accuracy RGB-D Face Recognition via Segmentation-Aware Face Depth Estimation and Mask-Guided Attention Network**|Meng-Tzu Chiu, Hsun-Ying Cheng, Chien-Yi Wang, Shang-Hong Lai|[2112.11713v1](http://arxiv.org/abs/2112.11713v1)|null|
 |**2021-12-21**|**Generalizing Interactive Backpropagating Refinement for Dense Prediction**|Fanqing Lin, Brian Price, Tony Martinez|[2112.10969v2](http://arxiv.org/abs/2112.10969v2)|null|
 |**2021-12-20**|**Towards Computational Awareness in Autonomous Robots: An Empirical Study of Computational Kernels**|Ashrarul H. Sifat, Burhanuddin Bharmal, Haibo Zeng, Jia-Bin Huang, Changhee Jung, Ryan K. Williams|[2112.10303v1](http://arxiv.org/abs/2112.10303v1)|null|
 |**2021-12-16**|**On the Uncertain Single-View Depths in Endoscopies**|Javier Rodríguez-Puigvert, David Recasens, Javier Civera, Rubén Martínez-Cantín|[2112.08906v1](http://arxiv.org/abs/2112.08906v1)|null|
-|**2021-12-15**|**Multi-View Depth Estimation by Fusing Single-View Depth Probability with Multi-View Geometry**|Gwangbin Bae, Ignas Budvytis, Roberto Cipolla|[2112.08177v1](http://arxiv.org/abs/2112.08177v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-30**|**SFU-HW-Tracks-v1: Object Tracking Dataset on Raw Video Sequences**|Takehiro Tanaka, Hyomin Choi, Ivan V. Bajić|[2112.14934v1](http://arxiv.org/abs/2112.14934v1)|null|
 |**2021-12-22**|**A Discriminative Single-Shot Segmentation Network for Visual Object Tracking**|Alan Lukežič, Jiří Matas, Matej Kristan|[2112.11846v2](http://arxiv.org/abs/2112.11846v2)|null|
 |**2021-12-20**|**A New Adaptive Noise Covariance Matrices Estimation and Filtering Method: Application to Multi-Object Tracking**|Chao Jiang, Zhiling Wang, Shuhang Tan, Huawei Liang|[2112.12082v1](http://arxiv.org/abs/2112.12082v1)|null|
 |**2021-12-18**|**Does Explainable Machine Learning Uncover the Black Box in Vision Applications?**|Manish Narwaria|[2112.09898v1](http://arxiv.org/abs/2112.09898v1)|null|
@@ -140,7 +141,6 @@
 |**2021-12-15**|**Homography Decomposition Networks for Planar Object Tracking**|Xinrui Zhan, Yueran Liu, Jianke Zhu, Yang Li|[2112.07909v3](http://arxiv.org/abs/2112.07909v3)|**[link](https://github.com/zhanxinrui/hdn)**|
 |**2021-12-10**|**On the Dilution of Precision for Time Difference of Arrival with Station Deployment**|Fengyun Zhang, Hao Li, Yulong Ding, Shuang-Hua Yang, Li Yang|[2112.05296v1](http://arxiv.org/abs/2112.05296v1)|null|
 |**2021-12-09**|**Contextualized Spatio-Temporal Contrastive Learning with Self-Supervision**|Liangzhe Yuan, Rui Qian, Yin Cui, Boqing Gong, Florian Schroff, Ming-Hsuan Yang, Hartwig Adam, Ting Liu|[2112.05181v1](http://arxiv.org/abs/2112.05181v1)|null|
-|**2021-12-09**|**Few-Shot Keypoint Detection as Task Adaptation via Latent Embeddings**|Mel Vecerik, Jackie Kay, Raia Hadsell, Lourdes Agapito, Jon Scholz|[2112.04910v2](http://arxiv.org/abs/2112.04910v2)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
