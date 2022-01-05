@@ -105,6 +105,7 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-01**|**Boosting RGB-D Saliency Detection by Leveraging Unlabeled RGB Images**|Xiaoqiang Wang, Lei Zhu, Siliang Tang, Huazhu Fu, Ping Li, Fei Wu, Yi Yang, Yueting Zhuang|[2201.00100v1](http://arxiv.org/abs/2201.00100v1)|**[link](https://github.com/robert-xiaoqiang/ds-net)**|
 |**2021-12-30**|**Dense Depth Estimation from Multiple 360-degree Images Using Virtual Depth**|Seongyeop Yang, Kunhee Kim, Yeejin Lee|[2112.14931v1](http://arxiv.org/abs/2112.14931v1)|null|
 |**2021-12-29**|**ACDNet: Adaptively Combined Dilated Convolution for Monocular Panorama Depth Estimation**|Chuanqing Zhuang, Zhengda Lu, Yiqun Wang, Jun Xiao, Ying Wang|[2112.14440v1](http://arxiv.org/abs/2112.14440v1)|null|
 |**2021-12-27**|**Improving Depth Estimation using Location Information**|Ahmed Zaitoon, Hossam El Din Abd El Munim, Hazem Abbas|[2112.13925v1](http://arxiv.org/abs/2112.13925v1)|null|
@@ -114,7 +115,6 @@
 |**2021-12-22**|**High-Accuracy RGB-D Face Recognition via Segmentation-Aware Face Depth Estimation and Mask-Guided Attention Network**|Meng-Tzu Chiu, Hsun-Ying Cheng, Chien-Yi Wang, Shang-Hong Lai|[2112.11713v1](http://arxiv.org/abs/2112.11713v1)|null|
 |**2021-12-21**|**Generalizing Interactive Backpropagating Refinement for Dense Prediction**|Fanqing Lin, Brian Price, Tony Martinez|[2112.10969v2](http://arxiv.org/abs/2112.10969v2)|null|
 |**2021-12-20**|**Towards Computational Awareness in Autonomous Robots: An Empirical Study of Computational Kernels**|Ashrarul H. Sifat, Burhanuddin Bharmal, Haibo Zeng, Jia-Bin Huang, Changhee Jung, Ryan K. Williams|[2112.10303v1](http://arxiv.org/abs/2112.10303v1)|null|
-|**2021-12-16**|**On the Uncertain Single-View Depths in Endoscopies**|Javier Rodríguez-Puigvert, David Recasens, Javier Civera, Rubén Martínez-Cantín|[2112.08906v1](http://arxiv.org/abs/2112.08906v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,9 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-03**|**Language as Queries for Referring Video Object Segmentation**|Jiannan Wu, Yi Jiang, Peize Sun, Zehuan Yuan, Ping Luo|[2201.00487v1](http://arxiv.org/abs/2201.00487v1)|null|
+|**2022-01-03**|**maskGRU: Tracking Small Objects in the Presence of Large Background Motions**|Constantine J. Roros, Avinash C. Kak|[2201.00467v1](http://arxiv.org/abs/2201.00467v1)|null|
+|**2022-01-01**|**PatchTrack: Multiple Object Tracking Using Frame Patches**|Xiaotong Chen, Seyed Mehdi Iranmanesh, Kuo-Chin Lien|[2201.00080v1](http://arxiv.org/abs/2201.00080v1)|null|
 |**2021-12-30**|**SFU-HW-Tracks-v1: Object Tracking Dataset on Raw Video Sequences**|Takehiro Tanaka, Hyomin Choi, Ivan V. Bajić|[2112.14934v1](http://arxiv.org/abs/2112.14934v1)|null|
 |**2021-12-22**|**A Discriminative Single-Shot Segmentation Network for Visual Object Tracking**|Alan Lukežič, Jiří Matas, Matej Kristan|[2112.11846v2](http://arxiv.org/abs/2112.11846v2)|null|
 |**2021-12-20**|**A New Adaptive Noise Covariance Matrices Estimation and Filtering Method: Application to Multi-Object Tracking**|Chao Jiang, Zhiling Wang, Shuhang Tan, Huawei Liang|[2112.12082v1](http://arxiv.org/abs/2112.12082v1)|null|
@@ -138,9 +141,6 @@
 |**2021-12-17**|**Adaptive Subsampling for ROI-based Visual Tracking: Algorithms and FPGA Implementation**|Odrika Iqbal, Victor Isaac Torres Muro, Sameeksha Katoch, Andreas Spanias, Suren Jayasuriya|[2112.09775v1](http://arxiv.org/abs/2112.09775v1)|null|
 |**2021-12-17**|**Efficient Visual Tracking with Exemplar Transformers**|Philippe Blatter, Menelaos Kanakis, Martin Danelljan, Luc Van Gool|[2112.09686v1](http://arxiv.org/abs/2112.09686v1)|**[link](https://github.com/visionml/pytracking)**|
 |**2021-12-15**|**Reliable Multi-Object Tracking in the Presence of Unreliable Detections**|Travis Mandel, Mark Jimenez, Emily Risley, Taishi Nammoto, Rebekka Williams, Max Panoff, Meynard Ballesteros, Bobbie Suarez|[2112.08345v1](http://arxiv.org/abs/2112.08345v1)|null|
-|**2021-12-15**|**Homography Decomposition Networks for Planar Object Tracking**|Xinrui Zhan, Yueran Liu, Jianke Zhu, Yang Li|[2112.07909v3](http://arxiv.org/abs/2112.07909v3)|**[link](https://github.com/zhanxinrui/hdn)**|
-|**2021-12-10**|**On the Dilution of Precision for Time Difference of Arrival with Station Deployment**|Fengyun Zhang, Hao Li, Yulong Ding, Shuang-Hua Yang, Li Yang|[2112.05296v1](http://arxiv.org/abs/2112.05296v1)|null|
-|**2021-12-09**|**Contextualized Spatio-Temporal Contrastive Learning with Self-Supervision**|Liangzhe Yuan, Rui Qian, Yin Cui, Boqing Gong, Florian Schroff, Ming-Hsuan Yang, Hartwig Adam, Ting Liu|[2112.05181v1](http://arxiv.org/abs/2112.05181v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
