@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-04**|**Formulations of Hydrodynamic Force in the Transition Stage of the Water Entry of Linear Wedges with Constant and Varying Speeds**|Xueliang Wen, Peiqing Liu, Alessandro Del Buono, Qiulin Qu, Alessandro Iafrati|[2201.00959v1](http://arxiv.org/abs/2201.00959v1)|null|
 |**2021-12-29**|**Efficient Belief Space Planning in High-Dimensional State Spaces using PIVOT: Predictive Incremental Variable Ordering Tactic**|Khen Elimelech, Vadim Indelman|[2112.14428v1](http://arxiv.org/abs/2112.14428v1)|null|
 |**2021-12-27**|**UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping**|Hyunjun Lim, Jinwoo Jeon, Hyun Myung|[2112.13515v1](http://arxiv.org/abs/2112.13515v1)|**[link](https://github.com/url-kaist/uv-slam)**|
 |**2021-12-25**|**Simultaneous Location of Rail Vehicles and Mapping of Environment with Multiple LiDARs**|Yusheng Wang, Weiwei Song, Yidong Lou, Fei Huang, Zhiyong Tu, Shimin Zhang|[2112.13224v1](http://arxiv.org/abs/2112.13224v1)|null|
@@ -10,7 +11,6 @@
 |**2021-12-19**|**M2DGR: A Multi-sensor and Multi-scenario SLAM Dataset for Ground Robots**|Jie Yin, Ang Li, Tao Li, Wenxian Yu, Danping Zou|[2112.13659v1](http://arxiv.org/abs/2112.13659v1)|**[link](https://github.com/SJTU-ViSYS/M2DGR)**|
 |**2021-12-18**|**Fast and Robust Registration of Partially Overlapping Point Clouds**|Eduardo Arnold, Sajjad Mozaffari, Mehrdad Dianati|[2112.09922v1](http://arxiv.org/abs/2112.09922v1)|**[link](https://github.com/eduardohenriquearnold/fastreg)**|
 |**2021-12-17**|**Symmetry-aware Neural Architecture for Embodied Visual Navigation**|Shuang Liu, Takayuki Okatani|[2112.09515v1](http://arxiv.org/abs/2112.09515v1)|null|
-|**2021-12-15**|**Homography Decomposition Networks for Planar Object Tracking**|Xinrui Zhan, Yueran Liu, Jianke Zhu, Yang Li|[2112.07909v3](http://arxiv.org/abs/2112.07909v3)|**[link](https://github.com/zhanxinrui/hdn)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -93,7 +93,8 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2021-12-30**|**Visual and Object Geo-localization: A Comprehensive Survey**|Daniel Wilson, Xiaohan Zhang, Waqas Sultani, Safwan Wshah|[2112.15202v1](http://arxiv.org/abs/2112.15202v1)|null|
-|**2021-12-29**|**ACDNet: Adaptively Combined Dilated Convolution for Monocular Panorama Depth Estimation**|Chuanqing Zhuang, Zhengda Lu, Yiqun Wang, Jun Xiao, Ying Wang|[2112.14440v1](http://arxiv.org/abs/2112.14440v1)|null|
+|**2021-12-30**|**Automated 3D reconstruction of LoD2 and LoD1 models for all 10 million buildings of the Netherlands**|Ravi Peters, Balázs Dukai, Stelios Vitalis, Jordi van Liempt, Jantien Stoter|[2201.01191v1](http://arxiv.org/abs/2201.01191v1)|null|
+|**2021-12-29**|**ACDNet: Adaptively Combined Dilated Convolution for Monocular Panorama Depth Estimation**|Chuanqing Zhuang, Zhengda Lu, Yiqun Wang, Jun Xiao, Ying Wang|[2112.14440v1](http://arxiv.org/abs/2112.14440v1)|**[link](https://github.com/zcq15/acdnet)**|
 |**2021-12-28**|**Multimodal perception for dexterous manipulation**|Guanqun Cao, Shan Luo|[2112.14298v1](http://arxiv.org/abs/2112.14298v1)|null|
 |**2021-12-24**|**Multi-initialization Optimization Network for Accurate 3D Human Pose and Shape Estimation**|Zhiwei Liu, Xiangyu Zhu, Lu Yang, Xiang Yan, Ming Tang, Zhen Lei, Guibo Zhu, Xuetao Feng, Yan Wang, Jinqiao Wang|[2112.12917v1](http://arxiv.org/abs/2112.12917v1)|null|
 |**2021-12-23**|**BANMo: Building Animatable 3D Neural Models from Many Casual Videos**|Gengshan Yang, Minh Vo, Natalia Neverova, Deva Ramanan, Andrea Vedaldi, Hanbyul Joo|[2112.12761v2](http://arxiv.org/abs/2112.12761v2)|null|
@@ -101,13 +102,12 @@
 |**2021-12-22**|**Multi-View Partial (MVP) Point Cloud Challenge 2021 on Completion and Registration: Methods and Results**|Liang Pan, Tong Wu, Zhongang Cai, Ziwei Liu, Xumin Yu, Yongming Rao, Jiwen Lu, Jie Zhou, Mingye Xu, Xiaoyuan Luo, Kexue Fu, Peng Gao, Manning Wang, Yali Wang, Yu Qiao, Junsheng Zhou, Xin Wen, Peng Xiang, Yu-Shen Liu, Zhizhong Han, Yuanjie Yan, Junyi An, Lifa Zhu, Changwei Lin, Dongrui Liu, Xin Li, Francisco Gómez-Fernández, Qinlong Wang, Yang Yang|[2112.12053v1](http://arxiv.org/abs/2112.12053v1)|**[link](https://github.com/paul007pl/MVP_Benchmark)**|
 |**2021-12-19**|**MoCaNet: Motion Retargeting in-the-wild via Canonicalization Networks**|Wentao Zhu, Zhuoqian Yang, Ziang Di, Wayne Wu, Yizhou Wang, Chen Change Loy|[2112.10082v2](http://arxiv.org/abs/2112.10082v2)|null|
 |**2021-12-17**|**Improving neural implicit surfaces geometry with patch warping**|François Darmon, Bénédicte Bascle, Jean-Clément Devaux, Pascal Monasse, Mathieu Aubry|[2112.09648v1](http://arxiv.org/abs/2112.09648v1)|**[link](https://github.com/fdarmon/neuralwarp)**|
-|**2021-12-13**|**GCNDepth: Self-supervised Monocular Depth Estimation based on Graph Convolutional Network**|Armin Masoumian, Hatem A. Rashwan, Saddam Abdulwahab, Julian Cristiano, Domenec Puig|[2112.06782v1](http://arxiv.org/abs/2112.06782v1)|**[link](https://github.com/arminmasoumian/gcndepth)**|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-01-01**|**Boosting RGB-D Saliency Detection by Leveraging Unlabeled RGB Images**|Xiaoqiang Wang, Lei Zhu, Siliang Tang, Huazhu Fu, Ping Li, Fei Wu, Yi Yang, Yueting Zhuang|[2201.00100v1](http://arxiv.org/abs/2201.00100v1)|**[link](https://github.com/robert-xiaoqiang/ds-net)**|
 |**2021-12-30**|**Dense Depth Estimation from Multiple 360-degree Images Using Virtual Depth**|Seongyeop Yang, Kunhee Kim, Yeejin Lee|[2112.14931v1](http://arxiv.org/abs/2112.14931v1)|null|
-|**2021-12-29**|**ACDNet: Adaptively Combined Dilated Convolution for Monocular Panorama Depth Estimation**|Chuanqing Zhuang, Zhengda Lu, Yiqun Wang, Jun Xiao, Ying Wang|[2112.14440v1](http://arxiv.org/abs/2112.14440v1)|null|
+|**2021-12-29**|**ACDNet: Adaptively Combined Dilated Convolution for Monocular Panorama Depth Estimation**|Chuanqing Zhuang, Zhengda Lu, Yiqun Wang, Jun Xiao, Ying Wang|[2112.14440v1](http://arxiv.org/abs/2112.14440v1)|**[link](https://github.com/zcq15/acdnet)**|
 |**2021-12-27**|**Improving Depth Estimation using Location Information**|Ahmed Zaitoon, Hossam El Din Abd El Munim, Hazem Abbas|[2112.13925v1](http://arxiv.org/abs/2112.13925v1)|null|
 |**2021-12-27**|**Depth estimation of endoscopy using sim-to-real transfer**|Bong Hyuk Jeong, Hang Keun Kim, Young Don Son|[2112.13595v1](http://arxiv.org/abs/2112.13595v1)|null|
 |**2021-12-24**|**Channel-Wise Attention-Based Network for Self-Supervised Monocular Depth Estimation**|Jiaxing Yan, Hong Zhao, Penghui Bu, YuSheng Jin|[2112.13047v1](http://arxiv.org/abs/2112.13047v1)|**[link](https://github.com/kamiLight/CADepth-master)**|
@@ -131,7 +131,8 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-01-03**|**Language as Queries for Referring Video Object Segmentation**|Jiannan Wu, Yi Jiang, Peize Sun, Zehuan Yuan, Ping Luo|[2201.00487v1](http://arxiv.org/abs/2201.00487v1)|null|
+|**2022-01-04**|**Online Multi-Object Tracking with Unsupervised Re-Identification Learning and Occlusion Estimation**|Qiankun Liu, Dongdong Chen, Qi Chu, Lu Yuan, Bin Liu, Lei Zhang, Nenghai Yu|[2201.01297v1](http://arxiv.org/abs/2201.01297v1)|null|
+|**2022-01-03**|**Language as Queries for Referring Video Object Segmentation**|Jiannan Wu, Yi Jiang, Peize Sun, Zehuan Yuan, Ping Luo|[2201.00487v1](http://arxiv.org/abs/2201.00487v1)|**[link](https://github.com/wjn922/referformer)**|
 |**2022-01-03**|**maskGRU: Tracking Small Objects in the Presence of Large Background Motions**|Constantine J. Roros, Avinash C. Kak|[2201.00467v1](http://arxiv.org/abs/2201.00467v1)|null|
 |**2022-01-01**|**PatchTrack: Multiple Object Tracking Using Frame Patches**|Xiaotong Chen, Seyed Mehdi Iranmanesh, Kuo-Chin Lien|[2201.00080v1](http://arxiv.org/abs/2201.00080v1)|null|
 |**2021-12-30**|**SFU-HW-Tracks-v1: Object Tracking Dataset on Raw Video Sequences**|Takehiro Tanaka, Hyomin Choi, Ivan V. Bajić|[2112.14934v1](http://arxiv.org/abs/2112.14934v1)|null|
@@ -140,7 +141,6 @@
 |**2021-12-18**|**Does Explainable Machine Learning Uncover the Black Box in Vision Applications?**|Manish Narwaria|[2112.09898v1](http://arxiv.org/abs/2112.09898v1)|null|
 |**2021-12-17**|**Adaptive Subsampling for ROI-based Visual Tracking: Algorithms and FPGA Implementation**|Odrika Iqbal, Victor Isaac Torres Muro, Sameeksha Katoch, Andreas Spanias, Suren Jayasuriya|[2112.09775v1](http://arxiv.org/abs/2112.09775v1)|null|
 |**2021-12-17**|**Efficient Visual Tracking with Exemplar Transformers**|Philippe Blatter, Menelaos Kanakis, Martin Danelljan, Luc Van Gool|[2112.09686v1](http://arxiv.org/abs/2112.09686v1)|**[link](https://github.com/visionml/pytracking)**|
-|**2021-12-15**|**Reliable Multi-Object Tracking in the Presence of Unreliable Detections**|Travis Mandel, Mark Jimenez, Emily Risley, Taishi Nammoto, Rebekka Williams, Max Panoff, Meynard Ballesteros, Bobbie Suarez|[2112.08345v1](http://arxiv.org/abs/2112.08345v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
