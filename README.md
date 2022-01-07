@@ -105,6 +105,9 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-05**|**Multi-Robot Collaborative Perception with Graph Neural Networks**|Yang Zhou, Jiuhong Xiao, Yue Zhou, Giuseppe Loianno|[2201.01760v1](http://arxiv.org/abs/2201.01760v1)|null|
+|**2022-01-05**|**Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation and Focal Loss**|Rui Peng, Rongjie Wang, Zhenyu Wang, Yawen Lai, Ronggang Wang|[2201.01501v1](http://arxiv.org/abs/2201.01501v1)|**[link](https://github.com/prstrive/unimvsnet)**|
+|**2022-01-05**|**Robust photon-efficient imaging using a pixel-wise residual shrinkage network**|Gongxin Yao, Yiwei Chen, Yong Liu, Xiaomin Hu, Yu Pan|[2201.01453v1](http://arxiv.org/abs/2201.01453v1)|**[link](https://github.com/gongxinyao/robust-photon-efficient-imaging-using-prsnet)**|
 |**2022-01-01**|**Boosting RGB-D Saliency Detection by Leveraging Unlabeled RGB Images**|Xiaoqiang Wang, Lei Zhu, Siliang Tang, Huazhu Fu, Ping Li, Fei Wu, Yi Yang, Yueting Zhuang|[2201.00100v1](http://arxiv.org/abs/2201.00100v1)|**[link](https://github.com/robert-xiaoqiang/ds-net)**|
 |**2021-12-30**|**Dense Depth Estimation from Multiple 360-degree Images Using Virtual Depth**|Seongyeop Yang, Kunhee Kim, Yeejin Lee|[2112.14931v1](http://arxiv.org/abs/2112.14931v1)|null|
 |**2021-12-29**|**ACDNet: Adaptively Combined Dilated Convolution for Monocular Panorama Depth Estimation**|Chuanqing Zhuang, Zhengda Lu, Yiqun Wang, Jun Xiao, Ying Wang|[2112.14440v1](http://arxiv.org/abs/2112.14440v1)|**[link](https://github.com/zcq15/acdnet)**|
@@ -112,9 +115,6 @@
 |**2021-12-27**|**Depth estimation of endoscopy using sim-to-real transfer**|Bong Hyuk Jeong, Hang Keun Kim, Young Don Son|[2112.13595v1](http://arxiv.org/abs/2112.13595v1)|null|
 |**2021-12-24**|**Channel-Wise Attention-Based Network for Self-Supervised Monocular Depth Estimation**|Jiaxing Yan, Hong Zhao, Penghui Bu, YuSheng Jin|[2112.13047v1](http://arxiv.org/abs/2112.13047v1)|**[link](https://github.com/kamiLight/CADepth-master)**|
 |**2021-12-22**|**NVS-MonoDepth: Improving Monocular Depth Prediction with Novel View Synthesis**|Zuria Bauer, Zuoyue Li, Sergio Orts-Escolano, Miguel Cazorla, Marc Pollefeys, Martin R. Oswald|[2112.12577v1](http://arxiv.org/abs/2112.12577v1)|null|
-|**2021-12-22**|**High-Accuracy RGB-D Face Recognition via Segmentation-Aware Face Depth Estimation and Mask-Guided Attention Network**|Meng-Tzu Chiu, Hsun-Ying Cheng, Chien-Yi Wang, Shang-Hong Lai|[2112.11713v1](http://arxiv.org/abs/2112.11713v1)|null|
-|**2021-12-21**|**Generalizing Interactive Backpropagating Refinement for Dense Prediction**|Fanqing Lin, Brian Price, Tony Martinez|[2112.10969v2](http://arxiv.org/abs/2112.10969v2)|null|
-|**2021-12-20**|**Towards Computational Awareness in Autonomous Robots: An Empirical Study of Computational Kernels**|Ashrarul H. Sifat, Burhanuddin Bharmal, Haibo Zeng, Jia-Bin Huang, Changhee Jung, Ryan K. Williams|[2112.10303v1](http://arxiv.org/abs/2112.10303v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-05**|**Improving Object Detection, Multi-object Tracking, and Re-Identification for Disaster Response Drones**|Chongkeun Paik, Hyunwoo J. Kim|[2201.01494v1](http://arxiv.org/abs/2201.01494v1)|**[link](https://github.com/mlvlab/drone_task4)**|
 |**2022-01-04**|**Online Multi-Object Tracking with Unsupervised Re-Identification Learning and Occlusion Estimation**|Qiankun Liu, Dongdong Chen, Qi Chu, Lu Yuan, Bin Liu, Lei Zhang, Nenghai Yu|[2201.01297v1](http://arxiv.org/abs/2201.01297v1)|null|
 |**2022-01-03**|**Language as Queries for Referring Video Object Segmentation**|Jiannan Wu, Yi Jiang, Peize Sun, Zehuan Yuan, Ping Luo|[2201.00487v1](http://arxiv.org/abs/2201.00487v1)|**[link](https://github.com/wjn922/referformer)**|
 |**2022-01-03**|**maskGRU: Tracking Small Objects in the Presence of Large Background Motions**|Constantine J. Roros, Avinash C. Kak|[2201.00467v1](http://arxiv.org/abs/2201.00467v1)|null|
@@ -140,7 +141,6 @@
 |**2021-12-20**|**A New Adaptive Noise Covariance Matrices Estimation and Filtering Method: Application to Multi-Object Tracking**|Chao Jiang, Zhiling Wang, Shuhang Tan, Huawei Liang|[2112.12082v1](http://arxiv.org/abs/2112.12082v1)|null|
 |**2021-12-18**|**Does Explainable Machine Learning Uncover the Black Box in Vision Applications?**|Manish Narwaria|[2112.09898v1](http://arxiv.org/abs/2112.09898v1)|null|
 |**2021-12-17**|**Adaptive Subsampling for ROI-based Visual Tracking: Algorithms and FPGA Implementation**|Odrika Iqbal, Victor Isaac Torres Muro, Sameeksha Katoch, Andreas Spanias, Suren Jayasuriya|[2112.09775v1](http://arxiv.org/abs/2112.09775v1)|null|
-|**2021-12-17**|**Efficient Visual Tracking with Exemplar Transformers**|Philippe Blatter, Menelaos Kanakis, Martin Danelljan, Luc Van Gool|[2112.09686v1](http://arxiv.org/abs/2112.09686v1)|**[link](https://github.com/visionml/pytracking)**|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
