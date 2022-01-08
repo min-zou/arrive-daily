@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-05**|**GLAN: A Graph-based Linear Assignment Network**|He Liu, Tao Wang, Congyan Lang, Songhe Feng, Yi Jin, Yidong Li|[2201.02057v1](http://arxiv.org/abs/2201.02057v1)|null|
 |**2022-01-05**|**Improving Object Detection, Multi-object Tracking, and Re-Identification for Disaster Response Drones**|Chongkeun Paik, Hyunwoo J. Kim|[2201.01494v1](http://arxiv.org/abs/2201.01494v1)|**[link](https://github.com/mlvlab/drone_task4)**|
 |**2022-01-04**|**Online Multi-Object Tracking with Unsupervised Re-Identification Learning and Occlusion Estimation**|Qiankun Liu, Dongdong Chen, Qi Chu, Lu Yuan, Bin Liu, Lei Zhang, Nenghai Yu|[2201.01297v1](http://arxiv.org/abs/2201.01297v1)|null|
 |**2022-01-03**|**Language as Queries for Referring Video Object Segmentation**|Jiannan Wu, Yi Jiang, Peize Sun, Zehuan Yuan, Ping Luo|[2201.00487v1](http://arxiv.org/abs/2201.00487v1)|**[link](https://github.com/wjn922/referformer)**|
@@ -140,7 +141,6 @@
 |**2021-12-22**|**A Discriminative Single-Shot Segmentation Network for Visual Object Tracking**|Alan Lukežič, Jiří Matas, Matej Kristan|[2112.11846v2](http://arxiv.org/abs/2112.11846v2)|null|
 |**2021-12-20**|**A New Adaptive Noise Covariance Matrices Estimation and Filtering Method: Application to Multi-Object Tracking**|Chao Jiang, Zhiling Wang, Shuhang Tan, Huawei Liang|[2112.12082v1](http://arxiv.org/abs/2112.12082v1)|null|
 |**2021-12-18**|**Does Explainable Machine Learning Uncover the Black Box in Vision Applications?**|Manish Narwaria|[2112.09898v1](http://arxiv.org/abs/2112.09898v1)|null|
-|**2021-12-17**|**Adaptive Subsampling for ROI-based Visual Tracking: Algorithms and FPGA Implementation**|Odrika Iqbal, Victor Isaac Torres Muro, Sameeksha Katoch, Andreas Spanias, Suren Jayasuriya|[2112.09775v1](http://arxiv.org/abs/2112.09775v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
