@@ -40,6 +40,7 @@
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-06**|**A Keypoint Detection and Description Network Based on the Vessel Structure for Multi-Modal Retinal Image Registration**|Aline Sindel, Bettina Hohberger, Sebastian Fassihi Dehcordi, Christian Mardin, Robert Lämmer, Andreas Maier, Vincent Christlein|[2201.02242v1](http://arxiv.org/abs/2201.02242v1)|null|
 |**2021-12-22**|**Improved 2D Keypoint Detection in Out-of-Balance and Fall Situations -- combining input rotations and a kinematic model**|Michael Zwölfer, Dieter Heinrich, Kurt Schindelwig, Bastian Wandt, Helge Rhodin, Joerg Spoerri, Werner Nachbauer|[2112.12193v1](http://arxiv.org/abs/2112.12193v1)|null|
 |**2021-12-22**|**Looking Beyond Corners: Contrastive Learning of Visual Representations for Keypoint Detection and Description Extraction**|Henrique Siqueira, Patrick Ruhkamp, Ibrahim Halfaoui, Markus Karmann, Onay Urfalioglu|[2112.12002v1](http://arxiv.org/abs/2112.12002v1)|null|
 |**2021-12-19**|**Parallel Multi-Scale Networks with Deep Supervision for Hand Keypoint Detection**|Renjie Li, Son Tran, Saurabh Garg, Katherine Lawler, Jane Alty, Quan Bai|[2112.10275v1](http://arxiv.org/abs/2112.10275v1)|null|
@@ -49,7 +50,6 @@
 |**2021-12-06**|**ALIKE: Accurate and Lightweight Keypoint Detection and Descriptor Extraction**|Xiaoming Zhao, Xingming Wu, Jinyu Miao, Weihai Chen, Peter C. Y. Chen, Zhengguo Li|[2112.02906v1](http://arxiv.org/abs/2112.02906v1)|**[link](https://github.com/Shiaoming/ALIKE)**|
 |**2021-11-25**|**Attend to Who You Are: Supervising Self-Attention for Keypoint Detection and Instance-Aware Association**|Sen Yang, Zhicheng Wang, Ze Chen, Yanjie Li, Shoukui Zhang, Zhibin Quan, Shu-Tao Xia, Yiping Bao, Erjin Zhou, Wankou Yang|[2111.12892v1](http://arxiv.org/abs/2111.12892v1)|**[link](https://github.com/yangsenius/ssa)**|
 |**2021-11-08**|**Template NeRF: Towards Modeling Dense Shape Correspondences from Category-Specific Object Images**|Jianfei Guo, Zhiyuan Yang, Xi Lin, Qingfu Zhang|[2111.04237v1](http://arxiv.org/abs/2111.04237v1)|null|
-|**2021-11-04**|**Voxel-based 3D Detection and Reconstruction of Multiple Objects from a Single Image**|Feng Liu, Xiaoming Liu|[2111.03098v1](http://arxiv.org/abs/2111.03098v1)|null|
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -79,6 +79,7 @@
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-06**|**De-rendering 3D Objects in the Wild**|Felix Wimbauer, Shangzhe Wu, Christian Rupprecht|[2201.02279v1](http://arxiv.org/abs/2201.02279v1)|null|
 |**2021-12-29**|**On the Instability of Relative Pose Estimation and RANSAC's Role**|Hongyi Fan, Joe Kileel, Benjamin Kimia|[2112.14651v1](http://arxiv.org/abs/2112.14651v1)|null|
 |**2021-12-16**|**Road-aware Monocular Structure from Motion and Homography Estimation**|Wei Sui, Teng Chen, Jiaxin Zhang, Jiao Lu, Qian Zhang|[2112.08635v1](http://arxiv.org/abs/2112.08635v1)|null|
 |**2021-12-10**|**Critical configurations for three projective views**|Martin Bråtelund|[2112.05478v1](http://arxiv.org/abs/2112.05478v1)|null|
@@ -88,7 +89,6 @@
 |**2021-11-11**|**Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**|Pascal Schoppmann, Pedro F. Proença, Jeff Delaune, Michael Pantic, Timo Hinzmann, Larry Matthies, Roland Siegwart, Roland Brockers|[2111.06271v1](http://arxiv.org/abs/2111.06271v1)|null|
 |**2021-11-05**|**Damage Estimation and Localization from Sparse Aerial Imagery**|Rene Garcia Franceschini, Jeffrey Liu, Saurabh Amin|[2111.03708v2](http://arxiv.org/abs/2111.03708v2)|null|
 |**2021-11-03**|**Event and Activity Recognition in Video Surveillance for Cyber-Physical Systems**|Swarnabja Bhaumik, Prithwish Jana, Partha Pratim Mohanta|[2111.02064v1](http://arxiv.org/abs/2111.02064v1)|null|
-|**2021-10-14**|**Modeling dynamic target deformation in camera calibration**|Annika Hagemann, Moritz Knorr, Christoph Stiller|[2110.07322v1](http://arxiv.org/abs/2110.07322v1)|null|
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
