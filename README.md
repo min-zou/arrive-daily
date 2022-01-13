@@ -1,6 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-11**|**Multi-Hypothesis Scan Matching through Clustering**|Giorgio Iavicoli, Claudio Zito|[2201.03814v1](http://arxiv.org/abs/2201.03814v1)|null|
+|**2022-01-11**|**Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM**|Kevin J. Doherty, David M. Rosen, John J. Leonard|[2201.03773v1](http://arxiv.org/abs/2201.03773v1)|null|
 |**2022-01-10**|**High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**|Brian M. Hopkinson, Suchendra M. Bhandarkar|[2201.03364v1](http://arxiv.org/abs/2201.03364v1)|**[link](https://github.com/bmhopkinson/hyslam)**|
 |**2022-01-10**|**Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition**|M. Usman Maqbool Bhutta, Yuxiang Sun, Darwin Lau, Ming Liu|[2201.03212v1](http://arxiv.org/abs/2201.03212v1)|null|
 |**2022-01-04**|**Formulations of Hydrodynamic Force in the Transition Stage of the Water Entry of Linear Wedges with Constant and Varying Speeds**|Xueliang Wen, Peiqing Liu, Alessandro Del Buono, Qiulin Qu, Alessandro Iafrati|[2201.00959v1](http://arxiv.org/abs/2201.00959v1)|null|
@@ -9,8 +11,6 @@
 |**2021-12-25**|**Simultaneous Location of Rail Vehicles and Mapping of Environment with Multiple LiDARs**|Yusheng Wang, Weiwei Song, Yidong Lou, Fei Huang, Zhiyong Tu, Shimin Zhang|[2112.13224v1](http://arxiv.org/abs/2112.13224v1)|null|
 |**2021-12-25**|**Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**|Peng Huang, Liekang Zeng, Xu Chen, Ke Luo, Zhi Zhou, Shuai Yu|[2112.13222v1](http://arxiv.org/abs/2112.13222v1)|null|
 |**2021-12-24**|**3D Point Cloud Reconstruction and SLAM as an Input**|Ziyu Li, Fangyang Ye, Xinran Guan|[2112.12907v1](http://arxiv.org/abs/2112.12907v1)|null|
-|**2021-12-22**|**NICE-SLAM: Neural Implicit Scalable Encoding for SLAM**|Zihan Zhu, Songyou Peng, Viktor Larsson, Weiwei Xu, Hujun Bao, Zhaopeng Cui, Martin R. Oswald, Marc Pollefeys|[2112.12130v1](http://arxiv.org/abs/2112.12130v1)|null|
-|**2021-12-19**|**M2DGR: A Multi-sensor and Multi-scenario SLAM Dataset for Ground Robots**|Jie Yin, Ang Li, Tao Li, Wenxian Yu, Danping Zou|[2112.13659v1](http://arxiv.org/abs/2112.13659v1)|**[link](https://github.com/SJTU-ViSYS/M2DGR)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -66,6 +66,7 @@
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-10**|**The variation of the gas content of galaxy groups and pairs compared to isolated galaxies**|Sambit Roychowdhury, Martin J. Meyer, Jonghwan Rhee, Martin A. Zwaan, Garima Chauhan, Luke J. M. Davies, Sabine Bellstedt, Simon P. Driver, Claudia del P. Lagos, Aaron S. G. Robotham, Joss Bland-Hawthorn, Richard Dodson, Benne W. Holwerda, Andrew M. Hopkins, Maritza A. Lara-Lopez, Angel R. Lopez-Sanchez, Danail Obreschkow, Kristof Rozgonyi, Matthew T. Whiting, Angus H. Wright|[2201.03575v1](http://arxiv.org/abs/2201.03575v1)|null|
 |**2022-01-10**|**High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**|Brian M. Hopkinson, Suchendra M. Bhandarkar|[2201.03364v1](http://arxiv.org/abs/2201.03364v1)|**[link](https://github.com/bmhopkinson/hyslam)**|
 |**2021-12-29**|**On the Instability of Relative Pose Estimation and RANSAC's Role**|Hongyi Fan, Joe Kileel, Benjamin Kimia|[2112.14651v1](http://arxiv.org/abs/2112.14651v1)|null|
 |**2021-12-16**|**Road-aware Monocular Structure from Motion and Homography Estimation**|Wei Sui, Teng Chen, Jiaxin Zhang, Jiao Lu, Qian Zhang|[2112.08635v1](http://arxiv.org/abs/2112.08635v1)|null|
@@ -75,7 +76,6 @@
 |**2021-12-01**|**Damped Ly-alpha Absorbers in Star-forming Galaxies at z < 0.15 Detected with the Hubble Space Telescope and Implications for Galaxy Evolution**|Varsha P. Kulkarni, David V. Bowen, Lorrie A. Straka, Donald G. York, Neeraj Gupta, Pasquier Noterdaeme, Raghunathan Srianand|[2112.00870v1](http://arxiv.org/abs/2112.00870v1)|null|
 |**2021-11-16**|**MASCOT -- An ESO-ARO legacy survey of molecular gas in nearby SDSS-MaNGA galaxies: I. first data release, and global and resolved relations between H_2 and stellar content**|D. Wylezalek, C. Cicone, F. Belfiore, C. Bertemes, S. Cazzoli, J. Wagg, W. Wang, M. Aravena, R. Maiolino, S. Martin, M. S. Bothwell, J. R. Brownstein, K. Bundy, C. De Breuck|[2111.08719v1](http://arxiv.org/abs/2111.08719v1)|null|
 |**2021-11-14**|**A Polynomial Lower Bound on the Number of Rounds for Parallel Submodular Function Minimization and Matroid Intersection**|Deeparnab Chakrabarty, Yu Chen, Sanjeev Khanna|[2111.07474v1](http://arxiv.org/abs/2111.07474v1)|null|
-|**2021-11-03**|**Event and Activity Recognition in Video Surveillance for Cyber-Physical Systems**|Swarnabja Bhaumik, Prithwish Jana, Partha Pratim Mohanta|[2111.02064v1](http://arxiv.org/abs/2111.02064v1)|null|
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
