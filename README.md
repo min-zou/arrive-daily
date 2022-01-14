@@ -105,6 +105,7 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-12**|**Depth Estimation from Single-shot Monocular Endoscope Image Using Image Domain Adaptation And Edge-Aware Depth Estimation**|Masahiro Oda, Hayato Itoh, Kiyohito Tanaka, Hirotsugu Takabatake, Masaki Mori, Hiroshi Natori, Kensaku Mori|[2201.04485v1](http://arxiv.org/abs/2201.04485v1)|null|
 |**2022-01-05**|**Multi-Robot Collaborative Perception with Graph Neural Networks**|Yang Zhou, Jiuhong Xiao, Yue Zhou, Giuseppe Loianno|[2201.01760v1](http://arxiv.org/abs/2201.01760v1)|null|
 |**2022-01-05**|**Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation and Focal Loss**|Rui Peng, Rongjie Wang, Zhenyu Wang, Yawen Lai, Ronggang Wang|[2201.01501v1](http://arxiv.org/abs/2201.01501v1)|**[link](https://github.com/prstrive/unimvsnet)**|
 |**2022-01-05**|**Robust photon-efficient imaging using a pixel-wise residual shrinkage network**|Gongxin Yao, Yiwei Chen, Yong Liu, Xiaomin Hu, Yu Pan|[2201.01453v1](http://arxiv.org/abs/2201.01453v1)|**[link](https://github.com/gongxinyao/robust-photon-efficient-imaging-using-prsnet)**|
@@ -114,7 +115,6 @@
 |**2021-12-27**|**Improving Depth Estimation using Location Information**|Ahmed Zaitoon, Hossam El Din Abd El Munim, Hazem Abbas|[2112.13925v1](http://arxiv.org/abs/2112.13925v1)|null|
 |**2021-12-27**|**Depth estimation of endoscopy using sim-to-real transfer**|Bong Hyuk Jeong, Hang Keun Kim, Young Don Son|[2112.13595v1](http://arxiv.org/abs/2112.13595v1)|null|
 |**2021-12-24**|**Channel-Wise Attention-Based Network for Self-Supervised Monocular Depth Estimation**|Jiaxing Yan, Hong Zhao, Penghui Bu, YuSheng Jin|[2112.13047v1](http://arxiv.org/abs/2112.13047v1)|**[link](https://github.com/kamiLight/CADepth-master)**|
-|**2021-12-22**|**NVS-MonoDepth: Improving Monocular Depth Prediction with Novel View Synthesis**|Zuria Bauer, Zuoyue Li, Sergio Orts-Escolano, Miguel Cazorla, Marc Pollefeys, Martin R. Oswald|[2112.12577v1](http://arxiv.org/abs/2112.12577v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-11**|**SmartDet: Context-Aware Dynamic Control of Edge Task Offloading for Mobile Object Detection**|Davide Callegaro, Francesco Restuccia, Marco Levorato|[2201.04235v1](http://arxiv.org/abs/2201.04235v1)|null|
 |**2022-01-10**|**Pedestrian Detection: Domain Generalization, CNNs, Transformers and Beyond**|Irtiza Hasan, Shengcai Liao, Jinpeng Li, Saad Ullah Akram, Ling Shao|[2201.03176v1](http://arxiv.org/abs/2201.03176v1)|**[link](https://github.com/hasanirtiza/Pedestron)**|
 |**2022-01-05**|**GLAN: A Graph-based Linear Assignment Network**|He Liu, Tao Wang, Congyan Lang, Songhe Feng, Yi Jin, Yidong Li|[2201.02057v1](http://arxiv.org/abs/2201.02057v1)|null|
 |**2022-01-05**|**Improving Object Detection, Multi-object Tracking, and Re-Identification for Disaster Response Drones**|Chongkeun Paik, Hyunwoo J. Kim|[2201.01494v1](http://arxiv.org/abs/2201.01494v1)|**[link](https://github.com/mlvlab/drone_task4)**|
@@ -140,7 +141,6 @@
 |**2022-01-01**|**PatchTrack: Multiple Object Tracking Using Frame Patches**|Xiaotong Chen, Seyed Mehdi Iranmanesh, Kuo-Chin Lien|[2201.00080v1](http://arxiv.org/abs/2201.00080v1)|null|
 |**2021-12-30**|**SFU-HW-Tracks-v1: Object Tracking Dataset on Raw Video Sequences**|Takehiro Tanaka, Hyomin Choi, Ivan V. Bajić|[2112.14934v1](http://arxiv.org/abs/2112.14934v1)|null|
 |**2021-12-22**|**A Discriminative Single-Shot Segmentation Network for Visual Object Tracking**|Alan Lukežič, Jiří Matas, Matej Kristan|[2112.11846v2](http://arxiv.org/abs/2112.11846v2)|null|
-|**2021-12-20**|**A New Adaptive Noise Covariance Matrices Estimation and Filtering Method: Application to Multi-Object Tracking**|Chao Jiang, Zhiling Wang, Shuhang Tan, Huawei Liang|[2112.12082v1](http://arxiv.org/abs/2112.12082v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
