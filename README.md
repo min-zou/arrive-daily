@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh, Ahmad Nickabadi|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|**[link](https://github.com/aa-samad/srvio)**|
 |**2022-01-11**|**Multi-Hypothesis Scan Matching through Clustering**|Giorgio Iavicoli, Claudio Zito|[2201.03814v1](http://arxiv.org/abs/2201.03814v1)|null|
 |**2022-01-11**|**Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM**|Kevin J. Doherty, David M. Rosen, John J. Leonard|[2201.03773v1](http://arxiv.org/abs/2201.03773v1)|null|
 |**2022-01-10**|**High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**|Brian M. Hopkinson, Suchendra M. Bhandarkar|[2201.03364v1](http://arxiv.org/abs/2201.03364v1)|**[link](https://github.com/bmhopkinson/hyslam)**|
@@ -10,7 +11,6 @@
 |**2021-12-27**|**UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping**|Hyunjun Lim, Jinwoo Jeon, Hyun Myung|[2112.13515v1](http://arxiv.org/abs/2112.13515v1)|**[link](https://github.com/url-kaist/uv-slam)**|
 |**2021-12-25**|**Simultaneous Location of Rail Vehicles and Mapping of Environment with Multiple LiDARs**|Yusheng Wang, Weiwei Song, Yidong Lou, Fei Huang, Zhiyong Tu, Shimin Zhang|[2112.13224v1](http://arxiv.org/abs/2112.13224v1)|null|
 |**2021-12-25**|**Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**|Peng Huang, Liekang Zeng, Xu Chen, Ke Luo, Zhi Zhou, Shuai Yu|[2112.13222v1](http://arxiv.org/abs/2112.13222v1)|null|
-|**2021-12-24**|**3D Point Cloud Reconstruction and SLAM as an Input**|Ziyu Li, Fangyang Ye, Xinran Guan|[2112.12907v1](http://arxiv.org/abs/2112.12907v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -27,6 +27,7 @@
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh, Ahmad Nickabadi|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|**[link](https://github.com/aa-samad/srvio)**|
 |**2021-12-16**|**CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**|Qi Yan, Jianhao Zheng, Simon Reding, Shanci Li, Iordan Doytchinov|[2112.09081v1](http://arxiv.org/abs/2112.09081v1)|null|
 |**2021-11-25**|**MegLoc: A Robust and Accurate Visual Localization Pipeline**|Shuxue Peng, Zihang He, Haotian Zhang, Ran Yan, Chuting Wang, Qingtian Zhu, Xiao Liu|[2111.13063v1](http://arxiv.org/abs/2111.13063v1)|null|
 |**2021-10-08**|**Semantic Image Alignment for Vehicle Localization**|Markus Herb, Matthias Lemberger, Marcel M. Schmitt, Alexander Kurz, Tobias Weiherer, Nassir Navab, Federico Tombari|[2110.04162v1](http://arxiv.org/abs/2110.04162v1)|null|
@@ -36,7 +37,6 @@
 |**2021-09-10**|**Line as a Visual Sentence: Context-aware Line Descriptor for Visual Localization**|Sungho Yoon, Ayoung Kim|[2109.04753v1](http://arxiv.org/abs/2109.04753v1)|**[link](https://github.com/yosungho/LineTR)**|
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh, Manuel Lopez Antequera, Pau Gargallo, Yubin Kuang, Carl Toft, Fredrik Kahl, Torsten Sattler|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth, Timothy D. Barfoot|[2109.04041v2](http://arxiv.org/abs/2109.04041v2)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
-|**2021-08-20**|**Continual Learning for Image-Based Camera Localization**|Shuzhe Wang, Zakaria Laskar, Iaroslav Melekhov, Xiaotian Li, Juho Kannala|[2108.09112v1](http://arxiv.org/abs/2108.09112v1)|**[link](https://github.com/aaltovision/cl_hscnet)**|
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -66,6 +66,7 @@
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-13**|**NLP in Human Rights Research -- Extracting Knowledge Graphs About Police and Army Units and Their Commanders**|Daniel Bauer, Tom Longley, Yueen Ma, Tony Wilson|[2201.05230v1](http://arxiv.org/abs/2201.05230v1)|null|
 |**2022-01-13**|**Strong [OIII]λ5007 emission line compact galaxies in LAMOST DR9: Blueberries, Green Peas and Purple Grapes**|Siqi Liu, A-Li Luo, Huan Yang, Shi-Yin Shen, Jun-Xian Wang, Hao-Tong Zhang, Zhenya Zheng, Yi-Han Song, Xiao Kong, Jian-Ling Wang, Jian-Jun Chen|[2201.04911v1](http://arxiv.org/abs/2201.04911v1)|null|
 |**2022-01-10**|**The variation of the gas content of galaxy groups and pairs compared to isolated galaxies**|Sambit Roychowdhury, Martin J. Meyer, Jonghwan Rhee, Martin A. Zwaan, Garima Chauhan, Luke J. M. Davies, Sabine Bellstedt, Simon P. Driver, Claudia del P. Lagos, Aaron S. G. Robotham, Joss Bland-Hawthorn, Richard Dodson, Benne W. Holwerda, Andrew M. Hopkins, Maritza A. Lara-Lopez, Angel R. Lopez-Sanchez, Danail Obreschkow, Kristof Rozgonyi, Matthew T. Whiting, Angus H. Wright|[2201.03575v1](http://arxiv.org/abs/2201.03575v1)|null|
 |**2022-01-10**|**High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**|Brian M. Hopkinson, Suchendra M. Bhandarkar|[2201.03364v1](http://arxiv.org/abs/2201.03364v1)|**[link](https://github.com/bmhopkinson/hyslam)**|
@@ -75,7 +76,6 @@
 |**2021-12-06**|**Dense Depth Priors for Neural Radiance Fields from Sparse Input Views**|Barbara Roessle, Jonathan T. Barron, Ben Mildenhall, Pratul P. Srinivasan, Matthias Nießner|[2112.03288v1](http://arxiv.org/abs/2112.03288v1)|null|
 |**2021-12-04**|**Sphere Face Model:A 3D Morphable Model with Hypersphere Manifold Latent Space**|Diqiong Jiang, Yiwei Jin, Fanglue Zhang, Zhe Zhu, Yun Zhang, Ruofeng Tong, Min Tang|[2112.02238v1](http://arxiv.org/abs/2112.02238v1)|null|
 |**2021-12-01**|**Damped Ly-alpha Absorbers in Star-forming Galaxies at z < 0.15 Detected with the Hubble Space Telescope and Implications for Galaxy Evolution**|Varsha P. Kulkarni, David V. Bowen, Lorrie A. Straka, Donald G. York, Neeraj Gupta, Pasquier Noterdaeme, Raghunathan Srianand|[2112.00870v1](http://arxiv.org/abs/2112.00870v1)|null|
-|**2021-11-16**|**MASCOT -- An ESO-ARO legacy survey of molecular gas in nearby SDSS-MaNGA galaxies: I. first data release, and global and resolved relations between H_2 and stellar content**|D. Wylezalek, C. Cicone, F. Belfiore, C. Bertemes, S. Cazzoli, J. Wagg, W. Wang, M. Aravena, R. Maiolino, S. Martin, M. S. Bothwell, J. R. Brownstein, K. Bundy, C. De Breuck|[2111.08719v1](http://arxiv.org/abs/2111.08719v1)|null|
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
