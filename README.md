@@ -105,6 +105,8 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-19**|**A Confidence-based Iterative Solver of Depths and Surface Normals for Deep Multi-view Stereo**|Wang Zhao, Shaohui Liu, Yi Wei, Hengkai Guo, Yong-Jin Liu|[2201.07609v1](http://arxiv.org/abs/2201.07609v1)|**[link](https://github.com/thuzhaowang/idn-solver)**|
+|**2022-01-19**|**Global-Local Path Networks for Monocular Depth Estimation with Vertical CutDepth**|Doyeon Kim, Woonghyun Ga, Pyungwhan Ahn, Donggyu Joo, Sehwan Chun, Junmo Kim|[2201.07436v1](http://arxiv.org/abs/2201.07436v1)|**[link](https://github.com/vinvino02/GLPDepth)**|
 |**2022-01-15**|**A Survey on RGB-D Datasets**|Alexandre Lopes, Roberto Souza, Helio Pedrini|[2201.05761v1](http://arxiv.org/abs/2201.05761v1)|null|
 |**2022-01-12**|**Depth Estimation from Single-shot Monocular Endoscope Image Using Image Domain Adaptation And Edge-Aware Depth Estimation**|Masahiro Oda, Hayato Itoh, Kiyohito Tanaka, Hirotsugu Takabatake, Masaki Mori, Hiroshi Natori, Kensaku Mori|[2201.04485v1](http://arxiv.org/abs/2201.04485v1)|null|
 |**2022-01-05**|**Multi-Robot Collaborative Perception with Graph Neural Networks**|Yang Zhou, Jiuhong Xiao, Yue Zhou, Giuseppe Loianno|[2201.01760v1](http://arxiv.org/abs/2201.01760v1)|null|
@@ -113,8 +115,6 @@
 |**2022-01-01**|**Boosting RGB-D Saliency Detection by Leveraging Unlabeled RGB Images**|Xiaoqiang Wang, Lei Zhu, Siliang Tang, Huazhu Fu, Ping Li, Fei Wu, Yi Yang, Yueting Zhuang|[2201.00100v1](http://arxiv.org/abs/2201.00100v1)|**[link](https://github.com/robert-xiaoqiang/ds-net)**|
 |**2021-12-30**|**Dense Depth Estimation from Multiple 360-degree Images Using Virtual Depth**|Seongyeop Yang, Kunhee Kim, Yeejin Lee|[2112.14931v1](http://arxiv.org/abs/2112.14931v1)|null|
 |**2021-12-29**|**ACDNet: Adaptively Combined Dilated Convolution for Monocular Panorama Depth Estimation**|Chuanqing Zhuang, Zhengda Lu, Yiqun Wang, Jun Xiao, Ying Wang|[2112.14440v1](http://arxiv.org/abs/2112.14440v1)|**[link](https://github.com/zcq15/acdnet)**|
-|**2021-12-27**|**Improving Depth Estimation using Location Information**|Ahmed Zaitoon, Hossam El Din Abd El Munim, Hazem Abbas|[2112.13925v1](http://arxiv.org/abs/2112.13925v1)|null|
-|**2021-12-27**|**Depth estimation of endoscopy using sim-to-real transfer**|Bong Hyuk Jeong, Hang Keun Kim, Young Don Son|[2112.13595v1](http://arxiv.org/abs/2112.13595v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,8 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-19**|**Semi-automatic 3D Object Keypoint Annotation and Detection for the Masses**|Kenneth Blomqvist, Jen Jen Chung, Lionel Ott, Roland Siegwart|[2201.07665v1](http://arxiv.org/abs/2201.07665v1)|**[link](https://github.com/ethz-asl/object_keypoints)**|
+|**2022-01-19**|**CAST: Character labeling in Animation using Self-supervision by Tracking**|Oron Nir, Gal Rapoport, Ariel Shamir|[2201.07619v1](http://arxiv.org/abs/2201.07619v1)|**[link](https://github.com/oronnir/cast)**|
 |**2022-01-18**|**STURE: Spatial-Temporal Mutual Representation Learning for Robust Data Association in Online Multi-Object Tracking**|Haidong Wang, Zhiyong Li, Yaping Li, Ke Nai, Ming Wen|[2201.06824v2](http://arxiv.org/abs/2201.06824v2)|null|
 |**2022-01-11**|**SmartDet: Context-Aware Dynamic Control of Edge Task Offloading for Mobile Object Detection**|Davide Callegaro, Francesco Restuccia, Marco Levorato|[2201.04235v1](http://arxiv.org/abs/2201.04235v1)|null|
 |**2022-01-10**|**Pedestrian Detection: Domain Generalization, CNNs, Transformers and Beyond**|Irtiza Hasan, Shengcai Liao, Jinpeng Li, Saad Ullah Akram, Ling Shao|[2201.03176v1](http://arxiv.org/abs/2201.03176v1)|**[link](https://github.com/hasanirtiza/Pedestron)**|
@@ -139,8 +141,6 @@
 |**2022-01-04**|**Online Multi-Object Tracking with Unsupervised Re-Identification Learning and Occlusion Estimation**|Qiankun Liu, Dongdong Chen, Qi Chu, Lu Yuan, Bin Liu, Lei Zhang, Nenghai Yu|[2201.01297v1](http://arxiv.org/abs/2201.01297v1)|null|
 |**2022-01-03**|**Language as Queries for Referring Video Object Segmentation**|Jiannan Wu, Yi Jiang, Peize Sun, Zehuan Yuan, Ping Luo|[2201.00487v1](http://arxiv.org/abs/2201.00487v1)|**[link](https://github.com/wjn922/referformer)**|
 |**2022-01-03**|**maskGRU: Tracking Small Objects in the Presence of Large Background Motions**|Constantine J. Roros, Avinash C. Kak|[2201.00467v1](http://arxiv.org/abs/2201.00467v1)|null|
-|**2022-01-01**|**PatchTrack: Multiple Object Tracking Using Frame Patches**|Xiaotong Chen, Seyed Mehdi Iranmanesh, Kuo-Chin Lien|[2201.00080v1](http://arxiv.org/abs/2201.00080v1)|null|
-|**2021-12-30**|**SFU-HW-Tracks-v1: Object Tracking Dataset on Raw Video Sequences**|Takehiro Tanaka, Hyomin Choi, Ivan V. Bajić|[2112.14934v1](http://arxiv.org/abs/2112.14934v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
