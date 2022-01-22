@@ -79,6 +79,7 @@
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-20**|**GeoFill: Reference-Based Image Inpainting of Scenes with Complex Geometry**|Yunhan Zhao, Connelly Barnes, Yuqian Zhou, Eli Shechtman, Sohrab Amirghodsi, Charless Fowlkes|[2201.08131v1](http://arxiv.org/abs/2201.08131v1)|null|
 |**2022-01-13**|**Scalable Cluster-Consistency Statistics for Robust Multi-Object Matching**|Yunpeng Shi, Shaohan Li, Tyler Maunu, Gilad Lerman|[2201.04797v1](http://arxiv.org/abs/2201.04797v1)|**[link](https://github.com/yunpeng-shi/fcc)**|
 |**2022-01-10**|**High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**|Brian M. Hopkinson, Suchendra M. Bhandarkar|[2201.03364v1](http://arxiv.org/abs/2201.03364v1)|**[link](https://github.com/bmhopkinson/hyslam)**|
 |**2022-01-06**|**De-rendering 3D Objects in the Wild**|Felix Wimbauer, Shangzhe Wu, Christian Rupprecht|[2201.02279v1](http://arxiv.org/abs/2201.02279v1)|null|
@@ -88,10 +89,10 @@
 |**2021-12-09**|**Critical configurations for two projective views, a new approach**|Martin Bråtelund|[2112.05074v1](http://arxiv.org/abs/2112.05074v1)|null|
 |**2021-12-06**|**Dense Depth Priors for Neural Radiance Fields from Sparse Input Views**|Barbara Roessle, Jonathan T. Barron, Ben Mildenhall, Pratul P. Srinivasan, Matthias Nießner|[2112.03288v1](http://arxiv.org/abs/2112.03288v1)|null|
 |**2021-12-02**|**MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**|Jie Ren, Wenteng Liang, Ran Yan, Luo Mai, Shiwen Liu, Xiao Liu|[2112.01349v2](http://arxiv.org/abs/2112.01349v2)|**[link](https://github.com/megviirobot/megba)**|
-|**2021-11-11**|**Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**|Pascal Schoppmann, Pedro F. Proença, Jeff Delaune, Michael Pantic, Timo Hinzmann, Larry Matthies, Roland Siegwart, Roland Brockers|[2111.06271v1](http://arxiv.org/abs/2111.06271v1)|null|
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-20**|**Three-dimensional analyses of an aspherical coronal mass ejection and its driven shock**|Beili Ying, Li Feng, Bernd Inhester, Marilena Mierla, Weiqun Gan, Lei Lu, Shuting Li|[2201.08019v1](http://arxiv.org/abs/2201.08019v1)|null|
 |**2021-12-30**|**Visual and Object Geo-localization: A Comprehensive Survey**|Daniel Wilson, Xiaohan Zhang, Waqas Sultani, Safwan Wshah|[2112.15202v1](http://arxiv.org/abs/2112.15202v1)|null|
 |**2021-12-30**|**Automated 3D reconstruction of LoD2 and LoD1 models for all 10 million buildings of the Netherlands**|Ravi Peters, Balázs Dukai, Stelios Vitalis, Jordi van Liempt, Jantien Stoter|[2201.01191v1](http://arxiv.org/abs/2201.01191v1)|null|
 |**2021-12-29**|**ACDNet: Adaptively Combined Dilated Convolution for Monocular Panorama Depth Estimation**|Chuanqing Zhuang, Zhengda Lu, Yiqun Wang, Jun Xiao, Ying Wang|[2112.14440v1](http://arxiv.org/abs/2112.14440v1)|**[link](https://github.com/zcq15/acdnet)**|
@@ -101,10 +102,10 @@
 |**2021-12-23**|**Pose Adaptive Dual Mixup for Few-Shot Single-View 3D Reconstruction**|Ta-Ying Cheng, Hsuan-Ru Yang, Niki Trigoni, Hwann-Tzong Chen, Tyng-Luh Liu|[2112.12484v1](http://arxiv.org/abs/2112.12484v1)|null|
 |**2021-12-22**|**Multi-View Partial (MVP) Point Cloud Challenge 2021 on Completion and Registration: Methods and Results**|Liang Pan, Tong Wu, Zhongang Cai, Ziwei Liu, Xumin Yu, Yongming Rao, Jiwen Lu, Jie Zhou, Mingye Xu, Xiaoyuan Luo, Kexue Fu, Peng Gao, Manning Wang, Yali Wang, Yu Qiao, Junsheng Zhou, Xin Wen, Peng Xiang, Yu-Shen Liu, Zhizhong Han, Yuanjie Yan, Junyi An, Lifa Zhu, Changwei Lin, Dongrui Liu, Xin Li, Francisco Gómez-Fernández, Qinlong Wang, Yang Yang|[2112.12053v1](http://arxiv.org/abs/2112.12053v1)|**[link](https://github.com/paul007pl/MVP_Benchmark)**|
 |**2021-12-19**|**MoCaNet: Motion Retargeting in-the-wild via Canonicalization Networks**|Wentao Zhu, Zhuoqian Yang, Ziang Di, Wayne Wu, Yizhou Wang, Chen Change Loy|[2112.10082v2](http://arxiv.org/abs/2112.10082v2)|null|
-|**2021-12-17**|**Improving neural implicit surfaces geometry with patch warping**|François Darmon, Bénédicte Bascle, Jean-Clément Devaux, Pascal Monasse, Mathieu Aubry|[2112.09648v1](http://arxiv.org/abs/2112.09648v1)|**[link](https://github.com/fdarmon/neuralwarp)**|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-20**|**GeoFill: Reference-Based Image Inpainting of Scenes with Complex Geometry**|Yunhan Zhao, Connelly Barnes, Yuqian Zhou, Eli Shechtman, Sohrab Amirghodsi, Charless Fowlkes|[2201.08131v1](http://arxiv.org/abs/2201.08131v1)|null|
 |**2022-01-19**|**A Confidence-based Iterative Solver of Depths and Surface Normals for Deep Multi-view Stereo**|Wang Zhao, Shaohui Liu, Yi Wei, Hengkai Guo, Yong-Jin Liu|[2201.07609v1](http://arxiv.org/abs/2201.07609v1)|**[link](https://github.com/thuzhaowang/idn-solver)**|
 |**2022-01-19**|**Global-Local Path Networks for Monocular Depth Estimation with Vertical CutDepth**|Doyeon Kim, Woonghyun Ga, Pyungwhan Ahn, Donggyu Joo, Sehwan Chun, Junmo Kim|[2201.07436v1](http://arxiv.org/abs/2201.07436v1)|**[link](https://github.com/vinvino02/GLPDepth)**|
 |**2022-01-15**|**A Survey on RGB-D Datasets**|Alexandre Lopes, Roberto Souza, Helio Pedrini|[2201.05761v1](http://arxiv.org/abs/2201.05761v1)|null|
@@ -114,7 +115,6 @@
 |**2022-01-05**|**Robust photon-efficient imaging using a pixel-wise residual shrinkage network**|Gongxin Yao, Yiwei Chen, Yong Liu, Xiaomin Hu, Yu Pan|[2201.01453v1](http://arxiv.org/abs/2201.01453v1)|**[link](https://github.com/gongxinyao/robust-photon-efficient-imaging-using-prsnet)**|
 |**2022-01-01**|**Boosting RGB-D Saliency Detection by Leveraging Unlabeled RGB Images**|Xiaoqiang Wang, Lei Zhu, Siliang Tang, Huazhu Fu, Ping Li, Fei Wu, Yi Yang, Yueting Zhuang|[2201.00100v1](http://arxiv.org/abs/2201.00100v1)|**[link](https://github.com/robert-xiaoqiang/ds-net)**|
 |**2021-12-30**|**Dense Depth Estimation from Multiple 360-degree Images Using Virtual Depth**|Seongyeop Yang, Kunhee Kim, Yeejin Lee|[2112.14931v1](http://arxiv.org/abs/2112.14931v1)|null|
-|**2021-12-29**|**ACDNet: Adaptively Combined Dilated Convolution for Monocular Panorama Depth Estimation**|Chuanqing Zhuang, Zhengda Lu, Yiqun Wang, Jun Xiao, Ying Wang|[2112.14440v1](http://arxiv.org/abs/2112.14440v1)|**[link](https://github.com/zcq15/acdnet)**|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-20**|**Learning Pixel Trajectories with Multiscale Contrastive Random Walks**|Zhangxing Bian, Allan Jabri, Alexei A. Efros, Andrew Owens|[2201.08379v1](http://arxiv.org/abs/2201.08379v1)|null|
 |**2022-01-19**|**Semi-automatic 3D Object Keypoint Annotation and Detection for the Masses**|Kenneth Blomqvist, Jen Jen Chung, Lionel Ott, Roland Siegwart|[2201.07665v1](http://arxiv.org/abs/2201.07665v1)|**[link](https://github.com/ethz-asl/object_keypoints)**|
 |**2022-01-19**|**CAST: Character labeling in Animation using Self-supervision by Tracking**|Oron Nir, Gal Rapoport, Ariel Shamir|[2201.07619v1](http://arxiv.org/abs/2201.07619v1)|**[link](https://github.com/oronnir/cast)**|
 |**2022-01-18**|**STURE: Spatial-Temporal Mutual Representation Learning for Robust Data Association in Online Multi-Object Tracking**|Haidong Wang, Zhiyong Li, Yaping Li, Ke Nai, Ming Wen|[2201.06824v2](http://arxiv.org/abs/2201.06824v2)|null|
@@ -140,7 +141,6 @@
 |**2022-01-05**|**Improving Object Detection, Multi-object Tracking, and Re-Identification for Disaster Response Drones**|Chongkeun Paik, Hyunwoo J. Kim|[2201.01494v1](http://arxiv.org/abs/2201.01494v1)|**[link](https://github.com/mlvlab/drone_task4)**|
 |**2022-01-04**|**Online Multi-Object Tracking with Unsupervised Re-Identification Learning and Occlusion Estimation**|Qiankun Liu, Dongdong Chen, Qi Chu, Lu Yuan, Bin Liu, Lei Zhang, Nenghai Yu|[2201.01297v1](http://arxiv.org/abs/2201.01297v1)|null|
 |**2022-01-03**|**Language as Queries for Referring Video Object Segmentation**|Jiannan Wu, Yi Jiang, Peize Sun, Zehuan Yuan, Ping Luo|[2201.00487v1](http://arxiv.org/abs/2201.00487v1)|**[link](https://github.com/wjn922/referformer)**|
-|**2022-01-03**|**maskGRU: Tracking Small Objects in the Presence of Large Background Motions**|Constantine J. Roros, Avinash C. Kak|[2201.00467v1](http://arxiv.org/abs/2201.00467v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
