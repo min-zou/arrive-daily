@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-26**|**On the Issues of TrueDepth Sensor Data for Computer Vision Tasks Across Different iPad Generations**|Steffen Urban, Thomas Lindemeier, David Dobbelstein, Matthias Haenel|[2201.10865v1](http://arxiv.org/abs/2201.10865v1)|null|
 |**2022-01-24**|**Cyber Mobility Mirror for Enabling Cooperative Driving Automation: A Co-Simulation Platform**|Zhengwei Bai, Guoyuan Wu, Xuewei Qi, Kentaro Oguchi, Matthew J. Barth|[2201.09463v1](http://arxiv.org/abs/2201.09463v1)|null|
 |**2022-01-23**|**Unsupervised Severely Deformed Mesh Reconstruction (DMR) from a Single-View Image**|Jie Mei, Jingxi Yu, Suzanne Romain, Craig Rose, Kelsey Magrane, Graeme LeeSon, Jenq-Neng Hwang|[2201.09373v1](http://arxiv.org/abs/2201.09373v1)|null|
 |**2022-01-23**|**Sparse-view Cone Beam CT Reconstruction using Data-consistent Supervised and Adversarial Learning from Scarce Training Data**|Anish Lahiri, Marc Klasky, Jeffrey A. Fessler, Saiprasad Ravishankar|[2201.09318v1](http://arxiv.org/abs/2201.09318v1)|null|
@@ -101,10 +102,10 @@
 |**2022-01-20**|**FaceOcc: A Diverse, High-quality Face Occlusion Dataset for Human Face Extraction**|Xiangnan Yin, Liming Chen|[2201.08425v1](http://arxiv.org/abs/2201.08425v1)|**[link](https://github.com/face3d0725/FaceExtraction)**|
 |**2022-01-20**|**Three-dimensional analyses of an aspherical coronal mass ejection and its driven shock**|Beili Ying, Li Feng, Bernd Inhester, Marilena Mierla, Weiqun Gan, Lei Lu, Shuting Li|[2201.08019v1](http://arxiv.org/abs/2201.08019v1)|null|
 |**2021-12-30**|**Visual and Object Geo-localization: A Comprehensive Survey**|Daniel Wilson, Xiaohan Zhang, Waqas Sultani, Safwan Wshah|[2112.15202v1](http://arxiv.org/abs/2112.15202v1)|null|
-|**2021-12-30**|**Automated 3D reconstruction of LoD2 and LoD1 models for all 10 million buildings of the Netherlands**|Ravi Peters, Balázs Dukai, Stelios Vitalis, Jordi van Liempt, Jantien Stoter|[2201.01191v1](http://arxiv.org/abs/2201.01191v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-26**|**Comparison of Depth Estimation Setups from Stereo Endoscopy and Optical Tracking for Point Measurements**|Lukas Burger, Lalith Sharan, Samantha Fischer, Julian Brand, Maximillian Hehl, Gabriele Romano, Matthias Karck, Raffaele De Simone, Ivo Wolf, Sandy Engelhardt|[2201.10848v1](http://arxiv.org/abs/2201.10848v1)|null|
 |**2022-01-20**|**GeoFill: Reference-Based Image Inpainting of Scenes with Complex Geometry**|Yunhan Zhao, Connelly Barnes, Yuqian Zhou, Eli Shechtman, Sohrab Amirghodsi, Charless Fowlkes|[2201.08131v1](http://arxiv.org/abs/2201.08131v1)|null|
 |**2022-01-19**|**A Confidence-based Iterative Solver of Depths and Surface Normals for Deep Multi-view Stereo**|Wang Zhao, Shaohui Liu, Yi Wei, Hengkai Guo, Yong-Jin Liu|[2201.07609v1](http://arxiv.org/abs/2201.07609v1)|**[link](https://github.com/thuzhaowang/idn-solver)**|
 |**2022-01-19**|**Global-Local Path Networks for Monocular Depth Estimation with Vertical CutDepth**|Doyeon Kim, Woonghyun Ga, Pyungwhan Ahn, Donggyu Joo, Sehwan Chun, Junmo Kim|[2201.07436v2](http://arxiv.org/abs/2201.07436v2)|**[link](https://github.com/vinvino02/GLPDepth)**|
@@ -114,7 +115,6 @@
 |**2022-01-05**|**Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation and Focal Loss**|Rui Peng, Rongjie Wang, Zhenyu Wang, Yawen Lai, Ronggang Wang|[2201.01501v1](http://arxiv.org/abs/2201.01501v1)|**[link](https://github.com/prstrive/unimvsnet)**|
 |**2022-01-05**|**Robust photon-efficient imaging using a pixel-wise residual shrinkage network**|Gongxin Yao, Yiwei Chen, Yong Liu, Xiaomin Hu, Yu Pan|[2201.01453v1](http://arxiv.org/abs/2201.01453v1)|**[link](https://github.com/gongxinyao/robust-photon-efficient-imaging-using-prsnet)**|
 |**2022-01-01**|**Boosting RGB-D Saliency Detection by Leveraging Unlabeled RGB Images**|Xiaoqiang Wang, Lei Zhu, Siliang Tang, Huazhu Fu, Ping Li, Fei Wu, Yi Yang, Yueting Zhuang|[2201.00100v1](http://arxiv.org/abs/2201.00100v1)|**[link](https://github.com/robert-xiaoqiang/ds-net)**|
-|**2021-12-30**|**Dense Depth Estimation from Multiple 360-degree Images Using Virtual Depth**|Seongyeop Yang, Kunhee Kim, Yeejin Lee|[2112.14931v1](http://arxiv.org/abs/2112.14931v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-25**|**Jacobian Computation for Cumulative B-splines on SE(3) and Application to Continuous-Time Object Tracking**|Javier Tirado, Javier Civera|[2201.10602v1](http://arxiv.org/abs/2201.10602v1)|null|
 |**2022-01-23**|**A Survey for Deep RGBT Tracking**|Zhangyong Tang, Tianyang Xu, Xiao-Jun Wu|[2201.09296v1](http://arxiv.org/abs/2201.09296v1)|null|
 |**2022-01-23**|**Visual Object Tracking on Multi-modal RGB-D Videos: A Review**|Xue-Feng Zhu, Tianyang Xu, Xiao-Jun Wu|[2201.09207v1](http://arxiv.org/abs/2201.09207v1)|null|
 |**2022-01-22**|**Temporal Aggregation for Adaptive RGBT Tracking**|Zhangyong Tang, Tianyang Xu, Xiao-Jun Wu|[2201.08949v1](http://arxiv.org/abs/2201.08949v1)|**[link](https://github.com/zhangyong-tang/taat)**|
@@ -140,7 +141,6 @@
 |**2022-01-19**|**CAST: Character labeling in Animation using Self-supervision by Tracking**|Oron Nir, Gal Rapoport, Ariel Shamir|[2201.07619v1](http://arxiv.org/abs/2201.07619v1)|**[link](https://github.com/oronnir/cast)**|
 |**2022-01-18**|**STURE: Spatial-Temporal Mutual Representation Learning for Robust Data Association in Online Multi-Object Tracking**|Haidong Wang, Zhiyong Li, Yaping Li, Ke Nai, Ming Wen|[2201.06824v2](http://arxiv.org/abs/2201.06824v2)|null|
 |**2022-01-11**|**SmartDet: Context-Aware Dynamic Control of Edge Task Offloading for Mobile Object Detection**|Davide Callegaro, Francesco Restuccia, Marco Levorato|[2201.04235v1](http://arxiv.org/abs/2201.04235v1)|null|
-|**2022-01-10**|**Pedestrian Detection: Domain Generalization, CNNs, Transformers and Beyond**|Irtiza Hasan, Shengcai Liao, Jinpeng Li, Saad Ullah Akram, Ling Shao|[2201.03176v1](http://arxiv.org/abs/2201.03176v1)|**[link](https://github.com/hasanirtiza/Pedestron)**|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
