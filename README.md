@@ -53,6 +53,7 @@
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-27**|**Efficient divide-and-conquer registration of UAV and ground LiDAR point clouds through canopy shape context**|Jie Shao, Wei Yao, Peng Wan, Lei Luo, Jiaxin Lyu, Wuming Zhang|[2201.11296v1](http://arxiv.org/abs/2201.11296v1)|null|
 |**2021-12-24**|**Multi-initialization Optimization Network for Accurate 3D Human Pose and Shape Estimation**|Zhiwei Liu, Xiangyu Zhu, Lu Yang, Xiang Yan, Ming Tang, Zhen Lei, Guibo Zhu, Xuetao Feng, Yan Wang, Jinqiao Wang|[2112.12917v1](http://arxiv.org/abs/2112.12917v1)|null|
 |**2021-12-20**|**Scale-Net: Learning to Reduce Scale Differences for Large-Scale Invariant Image Matching**|Yujie Fu, Yihong Wu|[2112.10485v1](http://arxiv.org/abs/2112.10485v1)|null|
 |**2021-12-19**|**GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**|Jean-Baptiste Carluer, Laurent Chauvin, Jie Luo, William M. Wells III, Ines Machado, Rola Harmouche, Matthew Toews|[2112.10258v1](http://arxiv.org/abs/2112.10258v1)|**[link](https://github.com/carluerjb/3d_sift_cuda)**|
@@ -62,7 +63,6 @@
 |**2021-12-01**|**CLIPstyler: Image Style Transfer with a Single Text Condition**|Gihyun Kwon, Jong Chul Ye|[2112.00374v1](http://arxiv.org/abs/2112.00374v1)|**[link](https://github.com/paper11667/clipstyler)**|
 |**2021-11-29**|**Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**|Yoad Tewel, Yoav Shalev, Idan Schwartz, Lior Wolf|[2111.14447v1](http://arxiv.org/abs/2111.14447v1)|**[link](https://github.com/yoadtew/zero-shot-image-to-text)**|
 |**2021-11-29**|**Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**|Usman Cheema, Mobeen Ahmad, Dongil Han, Seungbin Moon|[2111.14339v1](http://arxiv.org/abs/2111.14339v1)|null|
-|**2021-11-29**|**Nonlinear Intensity Underwater Sonar Image Matching Method Based on Phase Information and Deep Convolution Features**|Xiaoteng Zhou, Changli Yu, Xin Yuan, Haijun Feng, Yang Xu|[2111.15514v1](http://arxiv.org/abs/2111.15514v1)|null|
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-27**|**Total variation-based phase retrieval for diffraction tomography**|Robert Beinert, Michael Quellmalz|[2201.11579v1](http://arxiv.org/abs/2201.11579v1)|**[link](https://github.com/michaelquellmalz/fourierodt)**|
 |**2022-01-26**|**On the Issues of TrueDepth Sensor Data for Computer Vision Tasks Across Different iPad Generations**|Steffen Urban, Thomas Lindemeier, David Dobbelstein, Matthias Haenel|[2201.10865v1](http://arxiv.org/abs/2201.10865v1)|null|
 |**2022-01-24**|**Cyber Mobility Mirror for Enabling Cooperative Driving Automation: A Co-Simulation Platform**|Zhengwei Bai, Guoyuan Wu, Xuewei Qi, Kentaro Oguchi, Matthew J. Barth|[2201.09463v1](http://arxiv.org/abs/2201.09463v1)|null|
 |**2022-01-23**|**Unsupervised Severely Deformed Mesh Reconstruction (DMR) from a Single-View Image**|Jie Mei, Jingxi Yu, Suzanne Romain, Craig Rose, Kelsey Magrane, Graeme LeeSon, Jenq-Neng Hwang|[2201.09373v1](http://arxiv.org/abs/2201.09373v1)|null|
@@ -101,7 +102,6 @@
 |**2022-01-21**|**Multi-view Monocular Depth and Uncertainty Prediction with Deep SfM in Dynamic Environments**|Christian Homeyer, Oliver Lange, Christoph Schnörr|[2201.08633v1](http://arxiv.org/abs/2201.08633v1)|null|
 |**2022-01-20**|**FaceOcc: A Diverse, High-quality Face Occlusion Dataset for Human Face Extraction**|Xiangnan Yin, Liming Chen|[2201.08425v1](http://arxiv.org/abs/2201.08425v1)|**[link](https://github.com/face3d0725/FaceExtraction)**|
 |**2022-01-20**|**Three-dimensional analyses of an aspherical coronal mass ejection and its driven shock**|Beili Ying, Li Feng, Bernd Inhester, Marilena Mierla, Weiqun Gan, Lei Lu, Shuting Li|[2201.08019v1](http://arxiv.org/abs/2201.08019v1)|null|
-|**2021-12-30**|**Visual and Object Geo-localization: A Comprehensive Survey**|Daniel Wilson, Xiaohan Zhang, Waqas Sultani, Safwan Wshah|[2112.15202v1](http://arxiv.org/abs/2112.15202v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
