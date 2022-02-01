@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-28**|**RGB-D SLAM Using Attention Guided Frame Association**|Ali Caglayan, Nevrez Imamoglu, Oguzhan Guclu, Ali Osman Serhatoglu, Weimin Wang, Ahmet Burak Can, Ryosuke Nakamura|[2201.12047v1](http://arxiv.org/abs/2201.12047v1)|null|
 |**2022-01-24**|**Learning to Act with Affordance-Aware Multimodal Neural SLAM**|Zhiwei Jia, Kaixiang Lin, Yizhou Zhao, Qiaozi Gao, Govind Thattai, Gaurav Sukhatme|[2201.09862v1](http://arxiv.org/abs/2201.09862v1)|**[link](https://github.com/amazon-research/multimodal-neuralslam)**|
 |**2022-01-22**|**Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**|Xi Zheng, Rui Ma, Rui Gao, Qi Hao|[2201.09048v1](http://arxiv.org/abs/2201.09048v1)|**[link](https://github.com/zhengxi-git/phase-slam)**|
 |**2022-01-17**|**SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System**|Giseop Kim, Seungsang Yun, Jeongyun Kim, Ayoung Kim|[2201.06423v1](http://arxiv.org/abs/2201.06423v1)|null|
@@ -10,7 +11,6 @@
 |**2022-01-10**|**High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**|Brian M. Hopkinson, Suchendra M. Bhandarkar|[2201.03364v1](http://arxiv.org/abs/2201.03364v1)|**[link](https://github.com/bmhopkinson/hyslam)**|
 |**2022-01-10**|**Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition**|M. Usman Maqbool Bhutta, Yuxiang Sun, Darwin Lau, Ming Liu|[2201.03212v1](http://arxiv.org/abs/2201.03212v1)|null|
 |**2022-01-04**|**Formulations of Hydrodynamic Force in the Transition Stage of the Water Entry of Linear Wedges with Constant and Varying Speeds**|Xueliang Wen, Peiqing Liu, Alessandro Del Buono, Qiulin Qu, Alessandro Iafrati|[2201.00959v1](http://arxiv.org/abs/2201.00959v1)|null|
-|**2021-12-29**|**Efficient Belief Space Planning in High-Dimensional State Spaces using PIVOT: Predictive Incremental Variable Ordering Tactic**|Khen Elimelech, Vadim Indelman|[2112.14428v1](http://arxiv.org/abs/2112.14428v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,8 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-28**|**A tomographic workflow to enable deep learning for X-ray based foreign object detection**|Mathé T. Zeegers, Tristan van Leeuwen, Daniël M. Pelt, Sophia Bethany Coban, Robert van Liere, Kees Joost Batenburg|[2201.12184v1](http://arxiv.org/abs/2201.12184v1)|null|
+|**2022-01-28**|**Unsupervised Single-shot Depth Estimation using Perceptual Reconstruction**|Christoph Angermann, Matthias Schwab, Markus Haltmeier, Christian Laubichler, Steinbjörn Jónsson|[2201.12170v2](http://arxiv.org/abs/2201.12170v2)|**[link](https://github.com/anger-man/unsupervised-depth-estimation)**|
 |**2022-01-27**|**Total variation-based phase retrieval for diffraction tomography**|Robert Beinert, Michael Quellmalz|[2201.11579v1](http://arxiv.org/abs/2201.11579v1)|**[link](https://github.com/michaelquellmalz/fourierodt)**|
 |**2022-01-26**|**On the Issues of TrueDepth Sensor Data for Computer Vision Tasks Across Different iPad Generations**|Steffen Urban, Thomas Lindemeier, David Dobbelstein, Matthias Haenel|[2201.10865v1](http://arxiv.org/abs/2201.10865v1)|null|
 |**2022-01-24**|**Cyber Mobility Mirror for Enabling Cooperative Driving Automation: A Co-Simulation Platform**|Zhengwei Bai, Guoyuan Wu, Xuewei Qi, Kentaro Oguchi, Matthew J. Barth|[2201.09463v1](http://arxiv.org/abs/2201.09463v1)|null|
@@ -100,11 +102,11 @@
 |**2022-01-22**|**Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**|Xi Zheng, Rui Ma, Rui Gao, Qi Hao|[2201.09048v1](http://arxiv.org/abs/2201.09048v1)|**[link](https://github.com/zhengxi-git/phase-slam)**|
 |**2022-01-21**|**Point-NeRF: Point-based Neural Radiance Fields**|Qiangeng Xu, Zexiang Xu, Julien Philip, Sai Bi, Zhixin Shu, Kalyan Sunkavalli, Ulrich Neumann|[2201.08845v1](http://arxiv.org/abs/2201.08845v1)|null|
 |**2022-01-21**|**Multi-view Monocular Depth and Uncertainty Prediction with Deep SfM in Dynamic Environments**|Christian Homeyer, Oliver Lange, Christoph Schnörr|[2201.08633v1](http://arxiv.org/abs/2201.08633v1)|null|
-|**2022-01-20**|**FaceOcc: A Diverse, High-quality Face Occlusion Dataset for Human Face Extraction**|Xiangnan Yin, Liming Chen|[2201.08425v1](http://arxiv.org/abs/2201.08425v1)|**[link](https://github.com/face3d0725/FaceExtraction)**|
-|**2022-01-20**|**Three-dimensional analyses of an aspherical coronal mass ejection and its driven shock**|Beili Ying, Li Feng, Bernd Inhester, Marilena Mierla, Weiqun Gan, Lei Lu, Shuting Li|[2201.08019v1](http://arxiv.org/abs/2201.08019v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-28**|**Unsupervised Single-shot Depth Estimation using Perceptual Reconstruction**|Christoph Angermann, Matthias Schwab, Markus Haltmeier, Christian Laubichler, Steinbjörn Jónsson|[2201.12170v2](http://arxiv.org/abs/2201.12170v2)|**[link](https://github.com/anger-man/unsupervised-depth-estimation)**|
+|**2022-01-28**|**Close the Visual Domain Gap by Physics-Grounded Active Stereovision Depth Sensor Simulation**|Xiaoshuai Zhang, Rui Chen, Fanbo Xiang, Yuzhe Qin, Jiayuan Gu, Zhan Ling, Minghua Liu, Peiyu Zeng, Songfang Han, Zhiao Huang, Tongzhou Mu, Jing Xu, Hao Su|[2201.11924v1](http://arxiv.org/abs/2201.11924v1)|null|
 |**2022-01-26**|**Comparison of Depth Estimation Setups from Stereo Endoscopy and Optical Tracking for Point Measurements**|Lukas Burger, Lalith Sharan, Samantha Fischer, Julian Brand, Maximillian Hehl, Gabriele Romano, Matthias Karck, Raffaele De Simone, Ivo Wolf, Sandy Engelhardt|[2201.10848v1](http://arxiv.org/abs/2201.10848v1)|null|
 |**2022-01-20**|**GeoFill: Reference-Based Image Inpainting of Scenes with Complex Geometry**|Yunhan Zhao, Connelly Barnes, Yuqian Zhou, Eli Shechtman, Sohrab Amirghodsi, Charless Fowlkes|[2201.08131v1](http://arxiv.org/abs/2201.08131v1)|null|
 |**2022-01-19**|**A Confidence-based Iterative Solver of Depths and Surface Normals for Deep Multi-view Stereo**|Wang Zhao, Shaohui Liu, Yi Wei, Hengkai Guo, Yong-Jin Liu|[2201.07609v1](http://arxiv.org/abs/2201.07609v1)|**[link](https://github.com/thuzhaowang/idn-solver)**|
@@ -113,8 +115,6 @@
 |**2022-01-12**|**Depth Estimation from Single-shot Monocular Endoscope Image Using Image Domain Adaptation And Edge-Aware Depth Estimation**|Masahiro Oda, Hayato Itoh, Kiyohito Tanaka, Hirotsugu Takabatake, Masaki Mori, Hiroshi Natori, Kensaku Mori|[2201.04485v1](http://arxiv.org/abs/2201.04485v1)|null|
 |**2022-01-05**|**Multi-Robot Collaborative Perception with Graph Neural Networks**|Yang Zhou, Jiuhong Xiao, Yue Zhou, Giuseppe Loianno|[2201.01760v2](http://arxiv.org/abs/2201.01760v2)|null|
 |**2022-01-05**|**Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation and Focal Loss**|Rui Peng, Rongjie Wang, Zhenyu Wang, Yawen Lai, Ronggang Wang|[2201.01501v1](http://arxiv.org/abs/2201.01501v1)|**[link](https://github.com/prstrive/unimvsnet)**|
-|**2022-01-05**|**Robust photon-efficient imaging using a pixel-wise residual shrinkage network**|Gongxin Yao, Yiwei Chen, Yong Liu, Xiaomin Hu, Yu Pan|[2201.01453v1](http://arxiv.org/abs/2201.01453v1)|**[link](https://github.com/gongxinyao/robust-photon-efficient-imaging-using-prsnet)**|
-|**2022-01-01**|**Boosting RGB-D Saliency Detection by Leveraging Unlabeled RGB Images**|Xiaoqiang Wang, Lei Zhu, Siliang Tang, Huazhu Fu, Ping Li, Fei Wu, Yi Yang, Yueting Zhuang|[2201.00100v1](http://arxiv.org/abs/2201.00100v1)|**[link](https://github.com/robert-xiaoqiang/ds-net)**|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -132,9 +132,9 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-01-25**|**Jacobian Computation for Cumulative B-splines on SE(3) and Application to Continuous-Time Object Tracking**|Javier Tirado, Javier Civera|[2201.10602v1](http://arxiv.org/abs/2201.10602v1)|null|
-|**2022-01-23**|**A Survey for Deep RGBT Tracking**|Zhangyong Tang, Tianyang Xu, Xiao-Jun Wu|[2201.09296v1](http://arxiv.org/abs/2201.09296v1)|null|
-|**2022-01-23**|**Visual Object Tracking on Multi-modal RGB-D Videos: A Review**|Xue-Feng Zhu, Tianyang Xu, Xiao-Jun Wu|[2201.09207v1](http://arxiv.org/abs/2201.09207v1)|null|
-|**2022-01-22**|**Temporal Aggregation for Adaptive RGBT Tracking**|Zhangyong Tang, Tianyang Xu, Xiao-Jun Wu|[2201.08949v1](http://arxiv.org/abs/2201.08949v1)|**[link](https://github.com/zhangyong-tang/taat)**|
+|**2022-01-23**|**A Survey for Deep RGBT Tracking**|Zhangyong Tang, Tianyang Xu, Xiao-Jun Wu|[2201.09296v2](http://arxiv.org/abs/2201.09296v2)|null|
+|**2022-01-23**|**Visual Object Tracking on Multi-modal RGB-D Videos: A Review**|Xue-Feng Zhu, Tianyang Xu, Xiao-Jun Wu|[2201.09207v2](http://arxiv.org/abs/2201.09207v2)|null|
+|**2022-01-22**|**Temporal Aggregation for Adaptive RGBT Tracking**|Zhangyong Tang, Tianyang Xu, Xiao-Jun Wu|[2201.08949v2](http://arxiv.org/abs/2201.08949v2)|**[link](https://github.com/zhangyong-tang/taat)**|
 |**2022-01-21**|**Exploring Fusion Strategies for Accurate RGBT Visual Object Tracking**|Zhangyong Tang, Tianyang Xu, Hui Li, Xiao-Jun Wu, Xuefeng Zhu, Josef Kittler|[2201.08673v1](http://arxiv.org/abs/2201.08673v1)|null|
 |**2022-01-20**|**Learning Pixel Trajectories with Multiscale Contrastive Random Walks**|Zhangxing Bian, Allan Jabri, Alexei A. Efros, Andrew Owens|[2201.08379v1](http://arxiv.org/abs/2201.08379v1)|null|
 |**2022-01-19**|**Semi-automatic 3D Object Keypoint Annotation and Detection for the Masses**|Kenneth Blomqvist, Jen Jen Chung, Lionel Ott, Roland Siegwart|[2201.07665v1](http://arxiv.org/abs/2201.07665v1)|**[link](https://github.com/ethz-asl/object_keypoints)**|
