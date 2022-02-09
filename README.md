@@ -1,16 +1,16 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-07**|**Temporal Point Cloud Completion with Pose Disturbance**|Jieqi Shi, Lingyun Xu, Peiliang Li, Xiaozhi Chen, Shaojie Shen|[2202.03084v1](http://arxiv.org/abs/2202.03084v1)|null|
 |**2022-02-04**|**DYP-SLAM: A Real-time Visual SLAM Based on YOLO and Probability in Dynamic Environments**|Xinggang Hu, Yunzhou Zhang, Zhenzhong Cao, Yanmin Wu, Zhiqiang Deng, Wenkai Sun, Sonya Coleman, Dermot Kerr|[2202.01938v1](http://arxiv.org/abs/2202.01938v1)|null|
 |**2022-02-01**|**A Model for Multi-View Residual Covariances based on Perspective Deformation**|Alejandro Fontan, Laura Oliva, Javier Civera, Rudolph Triebel|[2202.00765v1](http://arxiv.org/abs/2202.00765v1)|null|
 |**2022-01-30**|**Joint Vehicular Localization and Reflective Mapping Based on Team Channel-SLAM**|Xinghe Chu, Zhaoming Lu, David Gesbert, Luhan Wang, Xiangming Wen, Muqing Wu, Meiling Li|[2201.12726v1](http://arxiv.org/abs/2201.12726v1)|null|
 |**2022-01-28**|**RGB-D SLAM Using Attention Guided Frame Association**|Ali Caglayan, Nevrez Imamoglu, Oguzhan Guclu, Ali Osman Serhatoglu, Weimin Wang, Ahmet Burak Can, Ryosuke Nakamura|[2201.12047v1](http://arxiv.org/abs/2201.12047v1)|null|
+|**2022-01-25**|**Autonomous Vehicles: Open-Source Technologies, Considerations, and Development**|Oussama Saoudi, Ishwar Singh, Hamidreza Mahyar|[2202.03148v1](http://arxiv.org/abs/2202.03148v1)|null|
 |**2022-01-24**|**Learning to Act with Affordance-Aware Multimodal Neural SLAM**|Zhiwei Jia, Kaixiang Lin, Yizhou Zhao, Qiaozi Gao, Govind Thattai, Gaurav Sukhatme|[2201.09862v2](http://arxiv.org/abs/2201.09862v2)|**[link](https://github.com/amazon-research/multimodal-neuralslam)**|
 |**2022-01-22**|**Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**|Xi Zheng, Rui Ma, Rui Gao, Qi Hao|[2201.09048v1](http://arxiv.org/abs/2201.09048v1)|**[link](https://github.com/zhengxi-git/phase-slam)**|
 |**2022-01-17**|**SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System**|Giseop Kim, Seungsang Yun, Jeongyun Kim, Ayoung Kim|[2201.06423v1](http://arxiv.org/abs/2201.06423v1)|null|
 |**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh, Ahmad Nickabadi|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|**[link](https://github.com/aa-samad/srvio)**|
-|**2022-01-11**|**Multi-Hypothesis Scan Matching through Clustering**|Giorgio Iavicoli, Claudio Zito|[2201.03814v2](http://arxiv.org/abs/2201.03814v2)|null|
-|**2022-01-11**|**Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM**|Kevin J. Doherty, David M. Rosen, John J. Leonard|[2201.03773v1](http://arxiv.org/abs/2201.03773v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -105,6 +105,9 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-07**|**Transformers in Self-Supervised Monocular Depth Estimation with Unknown Camera Intrinsics**|Arnav Varma, Hemang Chawla, Bahram Zonooz, Elahe Arani|[2202.03131v1](http://arxiv.org/abs/2202.03131v1)|null|
+|**2022-02-06**|**GLPanoDepth: Global-to-Local Panoramic Depth Estimation**|Jiayang Bai, Shuichang Lai, Haoyu Qin, Jie Guo, Yanwen Guo|[2202.02796v2](http://arxiv.org/abs/2202.02796v2)|null|
+|**2022-02-04**|**StandardSim: A Synthetic Dataset For Retail Environments**|Cristina Mata, Nick Locascio, Mohammed Azeem Sheikh, Kenny Kihara, Dan Fischetti|[2202.02418v1](http://arxiv.org/abs/2202.02418v1)|null|
 |**2022-02-04**|**The devil is in the labels: Semantic segmentation from sentences**|Wei Yin, Yifan Liu, Chunhua Shen, Anton van den Hengel, Baichuan Sun|[2202.02002v1](http://arxiv.org/abs/2202.02002v1)|null|
 |**2022-02-03**|**Boosting Monocular Depth Estimation with Sparse Guided Points**|Guangkai Xu, Wei Yin, Hao Chen, Kai Cheng, Feng Zhao, Chunhua Shen|[2202.01470v1](http://arxiv.org/abs/2202.01470v1)|null|
 |**2022-02-02**|**PanoDepth: A Two-Stage Approach for Monocular Omnidirectional Depth Estimation**|Yuyan Li, Zhixin Yan, Ye Duan, Liu Ren|[2202.01323v1](http://arxiv.org/abs/2202.01323v1)|null|
@@ -112,9 +115,6 @@
 |**2022-01-28**|**Task-Focused Few-Shot Object Detection for Robot Manipulation**|Brent Griffin|[2201.12437v1](http://arxiv.org/abs/2201.12437v1)|**[link](https://github.com/griffbr/tfod)**|
 |**2022-01-28**|**Unsupervised Single-shot Depth Estimation using Perceptual Reconstruction**|Christoph Angermann, Matthias Schwab, Markus Haltmeier, Christian Laubichler, Steinbjörn Jónsson|[2201.12170v2](http://arxiv.org/abs/2201.12170v2)|**[link](https://github.com/anger-man/unsupervised-depth-estimation)**|
 |**2022-01-28**|**Close the Visual Domain Gap by Physics-Grounded Active Stereovision Depth Sensor Simulation**|Xiaoshuai Zhang, Rui Chen, Fanbo Xiang, Yuzhe Qin, Jiayuan Gu, Zhan Ling, Minghua Liu, Peiyu Zeng, Songfang Han, Zhiao Huang, Tongzhou Mu, Jing Xu, Hao Su|[2201.11924v2](http://arxiv.org/abs/2201.11924v2)|null|
-|**2022-01-26**|**Comparison of Depth Estimation Setups from Stereo Endoscopy and Optical Tracking for Point Measurements**|Lukas Burger, Lalith Sharan, Samantha Fischer, Julian Brand, Maximillian Hehl, Gabriele Romano, Matthias Karck, Raffaele De Simone, Ivo Wolf, Sandy Engelhardt|[2201.10848v1](http://arxiv.org/abs/2201.10848v1)|null|
-|**2022-01-20**|**GeoFill: Reference-Based Image Inpainting of Scenes with Complex Geometry**|Yunhan Zhao, Connelly Barnes, Yuqian Zhou, Eli Shechtman, Sohrab Amirghodsi, Charless Fowlkes|[2201.08131v1](http://arxiv.org/abs/2201.08131v1)|null|
-|**2022-01-19**|**A Confidence-based Iterative Solver of Depths and Surface Normals for Deep Multi-view Stereo**|Wang Zhao, Shaohui Liu, Yi Wei, Hengkai Guo, Yong-Jin Liu|[2201.07609v1](http://arxiv.org/abs/2201.07609v1)|**[link](https://github.com/thuzhaowang/idn-solver)**|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -157,6 +157,7 @@
 ## PointCloud
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-06**|**Simulation-to-Reality domain adaptation for offline 3D object annotation on pointclouds with correlation alignment**|Weishuang Zhang, B Ravi Kiran, Thomas Gauthier, Yanis Mazouz, Theo Steger|[2202.02666v1](http://arxiv.org/abs/2202.02666v1)|null|
 |**2021-12-16**|**Analysis and Evaluation of Kinect-based Action Recognition Algorithms**|Lei Wang|[2112.08626v1](http://arxiv.org/abs/2112.08626v1)|**[link](https://github.com/LeiWangR/HDG)**|
 |**2021-09-15**|**Two algorithms for vehicular obstacle detection in sparse pointcloud**|Simone Mentasti, Matteo Matteucci, Stefano Arrigoni, Federico Cheli|[2109.07288v1](http://arxiv.org/abs/2109.07288v1)|null|
 |**2021-09-13**|**TTM: Terrain Traversability Mapping for Autonomous Excavators**|Tianrui Guan, Zhenpeng He, Dinesh Manocha, Liangjun Zhang|[2109.06250v2](http://arxiv.org/abs/2109.06250v2)|null|
@@ -166,4 +167,3 @@
 |**2021-08-06**|**On Bundle Adjustment for Multiview PointCloud Registration**|Huaiyang Huang, Yuxiang Sun, Jin Wu, Jiaohao Jiao, Xiangcheng Hu, Linwei Zheng, Lujia Wang, Ming Liu|[2108.02976v1](http://arxiv.org/abs/2108.02976v1)|null|
 |**2021-06-30**|**Recurrently Estimating Reflective Symmetry Planes from Partial Pointclouds**|Mihaela Cătălina Stoian, Tommaso Cavallari|[2106.16129v1](http://arxiv.org/abs/2106.16129v1)|null|
 |**2021-06-26**|**TANet++: Triple Attention Network with Filtered Pointcloud on 3D Detection**|Cong Ma|[2106.15366v2](http://arxiv.org/abs/2106.15366v2)|null|
-|**2021-04-28**|**UVStyle-Net: Unsupervised Few-shot Learning of 3D Style Similarity Measure for B-Reps**|Peter Meltzer, Hooman Shayani, Amir Khasahmadi, Pradeep Kumar Jayaraman, Aditya Sanghi, Joseph Lambourne|[2105.02961v3](http://arxiv.org/abs/2105.02961v3)|**[link](https://github.com/AutodeskAILab/UVStyle-Net)**|
