@@ -27,6 +27,7 @@
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-09**|**Object-Guided Day-Night Visual Localization in Urban Scenes**|Assia Benbihi, Cédric Pradalier, Ondřej Chum|[2202.04445v1](http://arxiv.org/abs/2202.04445v1)|null|
 |**2022-02-03**|**Danish Airs and Grounds: A Dataset for Aerial-to-Street-Level Place Recognition and Localization**|Andrea Vallone, Frederik Warburg, Hans Hansen, Søren Hauberg, Javier Civera|[2202.01821v1](http://arxiv.org/abs/2202.01821v1)|null|
 |**2022-02-02**|**Training Semantic Descriptors for Image-Based Localization**|Ibrahim Cinaroglu, Yalin Bastanlar|[2202.01212v1](http://arxiv.org/abs/2202.01212v1)|null|
 |**2022-01-31**|**Rigidity Preserving Image Transformations and Equivariance in Perspective**|Lucas Brynte, Georg Bökman, Axel Flinth, Fredrik Kahl|[2201.13065v1](http://arxiv.org/abs/2201.13065v1)|null|
@@ -36,10 +37,10 @@
 |**2021-10-08**|**Semantic Image Alignment for Vehicle Localization**|Markus Herb, Matthias Lemberger, Marcel M. Schmitt, Alexander Kurz, Tobias Weiherer, Nassir Navab, Federico Tombari|[2110.04162v1](http://arxiv.org/abs/2110.04162v1)|null|
 |**2021-10-05**|**Season-invariant GNSS-denied visual localization for UAVs**|Jouko Kinnari, Francesco Verdoja, Ville Kyrki|[2110.01967v1](http://arxiv.org/abs/2110.01967v1)|**[link](https://github.com/aalto-intelligent-robotics/sivl)**|
 |**2021-09-30**|**Forming a sparse representation for visual place recognition using a neurorobotic approach**|Sylvain Colomer, Nicolas Cuperlier, Guillaume Bresson, Olivier Romain|[2109.14916v1](http://arxiv.org/abs/2109.14916v1)|null|
-|**2021-09-22**|**Audio-Visual Grounding Referring Expression for Robotic Manipulation**|Yefei Wang, Kaili Wang, Yi Wang, Di Guo, Huaping Liu, Fuchun Sun|[2109.10571v1](http://arxiv.org/abs/2109.10571v1)|null|
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-09**|**Motion-Aware Transformer For Occluded Person Re-identification**|Mi Zhou, Hongye Liu, Zhekun Lv, Wei Hong, Xiai Chen|[2202.04243v2](http://arxiv.org/abs/2202.04243v2)|null|
 |**2022-02-01**|**Sim2Real Object-Centric Keypoint Detection and Description**|Chengliang Zhong, Chao Yang, Jinshan Qi, Fuchun Sun, Huaping Liu, Xiaodong Mu, Wenbing Huang|[2202.00448v2](http://arxiv.org/abs/2202.00448v2)|null|
 |**2022-01-10**|**TFS Recognition: Investigating MPH]{Thai Finger Spelling Recognition: Investigating MediaPipe Hands Potentials**|Jinnavat Sanalohit, Tatpong Katanyukul|[2201.03170v1](http://arxiv.org/abs/2201.03170v1)|null|
 |**2022-01-06**|**A Keypoint Detection and Description Network Based on the Vessel Structure for Multi-Modal Retinal Image Registration**|Aline Sindel, Bettina Hohberger, Sebastian Fassihi Dehcordi, Christian Mardin, Robert Lämmer, Andreas Maier, Vincent Christlein|[2201.02242v1](http://arxiv.org/abs/2201.02242v1)|null|
@@ -49,7 +50,6 @@
 |**2021-12-19**|**GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**|Jean-Baptiste Carluer, Laurent Chauvin, Jie Luo, William M. Wells III, Ines Machado, Rola Harmouche, Matthew Toews|[2112.10258v1](http://arxiv.org/abs/2112.10258v1)|**[link](https://github.com/carluerjb/3d_sift_cuda)**|
 |**2021-12-12**|**Few-shot Keypoint Detection with Uncertainty Learning for Unseen Species**|Changsheng Lu, Piotr Koniusz|[2112.06183v1](http://arxiv.org/abs/2112.06183v1)|null|
 |**2021-12-09**|**Few-Shot Keypoint Detection as Task Adaptation via Latent Embeddings**|Mel Vecerik, Jackie Kay, Raia Hadsell, Lourdes Agapito, Jon Scholz|[2112.04910v2](http://arxiv.org/abs/2112.04910v2)|null|
-|**2021-12-06**|**ALIKE: Accurate and Lightweight Keypoint Detection and Descriptor Extraction**|Xiaoming Zhao, Xingming Wu, Jinyu Miao, Weihai Chen, Peter C. Y. Chen, Zhengguo Li|[2112.02906v2](http://arxiv.org/abs/2112.02906v2)|**[link](https://github.com/Shiaoming/ALIKE)**|
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -105,6 +105,7 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-09**|**Distance Estimation and Animal Tracking for Wildlife Camera Trapping**|Peter Johanns, Timm Haucke, Volker Steinhage|[2202.04613v1](http://arxiv.org/abs/2202.04613v1)|null|
 |**2022-02-07**|**HeadPosr: End-to-end Trainable Head Pose Estimation using Transformer Encoders**|Naina Dhingra|[2202.03548v1](http://arxiv.org/abs/2202.03548v1)|null|
 |**2022-02-07**|**Transformers in Self-Supervised Monocular Depth Estimation with Unknown Camera Intrinsics**|Arnav Varma, Hemang Chawla, Bahram Zonooz, Elahe Arani|[2202.03131v1](http://arxiv.org/abs/2202.03131v1)|null|
 |**2022-02-06**|**GLPanoDepth: Global-to-Local Panoramic Depth Estimation**|Jiayang Bai, Shuichang Lai, Haoyu Qin, Jie Guo, Yanwen Guo|[2202.02796v2](http://arxiv.org/abs/2202.02796v2)|null|
@@ -114,7 +115,6 @@
 |**2022-02-03**|**Boosting Monocular Depth Estimation with Sparse Guided Points**|Guangkai Xu, Wei Yin, Hao Chen, Kai Cheng, Feng Zhao, Chunhua Shen|[2202.01470v1](http://arxiv.org/abs/2202.01470v1)|null|
 |**2022-02-02**|**PanoDepth: A Two-Stage Approach for Monocular Omnidirectional Depth Estimation**|Yuyan Li, Zhixin Yan, Ye Duan, Liu Ren|[2202.01323v1](http://arxiv.org/abs/2202.01323v1)|null|
 |**2022-01-29**|**Light field Rectification based on relative pose estimation**|Xiao Huo, Dongyang Jin, Saiping Zhang, Fuzheng Yang|[2201.12533v1](http://arxiv.org/abs/2201.12533v1)|null|
-|**2022-01-28**|**Task-Focused Few-Shot Object Detection for Robot Manipulation**|Brent Griffin|[2201.12437v1](http://arxiv.org/abs/2201.12437v1)|**[link](https://github.com/griffbr/tfod)**|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-09**|**Real-Time Event-Based Tracking and Detection for Maritime Environments**|Stephanie Aelmore, Richard C. Ordonez, Shibin Parameswaran, Justin Mauger|[2202.04231v1](http://arxiv.org/abs/2202.04231v1)|**[link](https://github.com/believeinlain/asynch-cv)**|
 |**2022-02-08**|**Extended Object Tracking in Curvilinear Road Coordinates for Autonomous Driving**|Pragyan Dahal, Simone Mentasti, Stefano Arrigoni, Francesco Braghin, Matteo Matteucci, Federico Cheli|[2202.03785v1](http://arxiv.org/abs/2202.03785v1)|null|
 |**2022-02-08**|**Network Comparison Study of Deep Activation Feature Discriminability with Novel Objects**|Michael Karnes, Alper Yilmaz|[2202.03695v1](http://arxiv.org/abs/2202.03695v1)|null|
 |**2022-02-07**|**Performance Evaluation of Infrared Image Enhancement Techniques**|Rania Gaber, AbdElmgied Ali, Kareem Ahmed|[2202.03427v1](http://arxiv.org/abs/2202.03427v1)|null|
@@ -140,7 +141,6 @@
 |**2022-01-25**|**Jacobian Computation for Cumulative B-splines on SE(3) and Application to Continuous-Time Object Tracking**|Javier Tirado, Javier Civera|[2201.10602v1](http://arxiv.org/abs/2201.10602v1)|null|
 |**2022-01-23**|**A Survey for Deep RGBT Tracking**|Zhangyong Tang, Tianyang Xu, Xiao-Jun Wu|[2201.09296v2](http://arxiv.org/abs/2201.09296v2)|null|
 |**2022-01-23**|**Visual Object Tracking on Multi-modal RGB-D Videos: A Review**|Xue-Feng Zhu, Tianyang Xu, Xiao-Jun Wu|[2201.09207v2](http://arxiv.org/abs/2201.09207v2)|null|
-|**2022-01-22**|**Temporal Aggregation for Adaptive RGBT Tracking**|Zhangyong Tang, Tianyang Xu, Xiao-Jun Wu|[2201.08949v2](http://arxiv.org/abs/2201.08949v2)|**[link](https://github.com/zhangyong-tang/taat)**|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
