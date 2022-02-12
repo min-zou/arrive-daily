@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-10**|**Scale Estimation with Dual Quadrics for Monocular Object SLAM**|Shuangfu Song, Junqiao Zhao, Tiantian Feng, Chen Ye, Lu Xiong|[2202.04816v1](http://arxiv.org/abs/2202.04816v1)|null|
 |**2022-02-08**|**A Novel Image Descriptor with Aggregated Semantic Skeleton Representation for Long-term Visual Place Recognition**|Nie Jiwei, Feng Joe-Mei, Xue Dingyu, Pan Feng, Liu Wei, Hu Jun, Cheng Shuai|[2202.03677v1](http://arxiv.org/abs/2202.03677v1)|null|
 |**2022-02-07**|**Temporal Point Cloud Completion with Pose Disturbance**|Jieqi Shi, Lingyun Xu, Peiliang Li, Xiaozhi Chen, Shaojie Shen|[2202.03084v1](http://arxiv.org/abs/2202.03084v1)|null|
 |**2022-02-04**|**DYP-SLAM: A Real-time Visual SLAM Based on YOLO and Probability in Dynamic Environments**|Xinggang Hu, Yunzhou Zhang, Zhenzhong Cao, Yanmin Wu, Zhiqiang Deng, Wenkai Sun, Sonya Coleman, Dermot Kerr|[2202.01938v1](http://arxiv.org/abs/2202.01938v1)|null|
@@ -10,7 +11,6 @@
 |**2022-01-25**|**Autonomous Vehicles: Open-Source Technologies, Considerations, and Development**|Oussama Saoudi, Ishwar Singh, Hamidreza Mahyar|[2202.03148v1](http://arxiv.org/abs/2202.03148v1)|null|
 |**2022-01-24**|**Learning to Act with Affordance-Aware Multimodal Neural SLAM**|Zhiwei Jia, Kaixiang Lin, Yizhou Zhao, Qiaozi Gao, Govind Thattai, Gaurav Sukhatme|[2201.09862v2](http://arxiv.org/abs/2201.09862v2)|**[link](https://github.com/amazon-research/multimodal-neuralslam)**|
 |**2022-01-22**|**Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**|Xi Zheng, Rui Ma, Rui Gao, Qi Hao|[2201.09048v1](http://arxiv.org/abs/2201.09048v1)|**[link](https://github.com/zhengxi-git/phase-slam)**|
-|**2022-01-17**|**SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System**|Giseop Kim, Seungsang Yun, Jeongyun Kim, Ayoung Kim|[2201.06423v1](http://arxiv.org/abs/2201.06423v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
