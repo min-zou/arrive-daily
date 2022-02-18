@@ -53,6 +53,7 @@
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-16**|**Cross-view and Cross-domain Underwater Localization based on Optical Aerial and Acoustic Underwater Images**|Matheus M. Dos Santos, Giovanni G. De Giacomo, Paulo L. J. Drews-Jr, Silvia S. C. Botelho|[2202.07817v1](http://arxiv.org/abs/2202.07817v1)|null|
 |**2022-02-14**|**CATs++: Boosting Cost Aggregation with Convolutions and Transformers**|Seokju Cho, Sunghwan Hong, Seungryong Kim|[2202.06817v1](http://arxiv.org/abs/2202.06817v1)|**[link](https://github.com/SunghwanHong/Cost-Aggregation-transformers)**|
 |**2022-02-11**|**Improving Image-recognition Edge Caches with a Generative Adversarial Network**|Guilherme B. Souza, Roberto G. Pacheco, Rodrigo S. Couto|[2202.05929v1](http://arxiv.org/abs/2202.05929v1)|null|
 |**2022-02-08**|**Learning Optical Flow with Adaptive Graph Reasoning**|Ao Luo, Fan Yang, Kunming Luo, Xin Li, Haoqiang Fan, Shuaicheng Liu|[2202.03857v1](http://arxiv.org/abs/2202.03857v1)|**[link](https://github.com/la30/agflow)**|
@@ -62,7 +63,6 @@
 |**2021-12-20**|**Scale-Net: Learning to Reduce Scale Differences for Large-Scale Invariant Image Matching**|Yujie Fu, Yihong Wu|[2112.10485v1](http://arxiv.org/abs/2112.10485v1)|null|
 |**2021-12-19**|**GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**|Jean-Baptiste Carluer, Laurent Chauvin, Jie Luo, William M. Wells III, Ines Machado, Rola Harmouche, Matthew Toews|[2112.10258v1](http://arxiv.org/abs/2112.10258v1)|**[link](https://github.com/carluerjb/3d_sift_cuda)**|
 |**2021-12-10**|**More Control for Free! Image Synthesis with Semantic Diffusion Guidance**|Xihui Liu, Dong Huk Park, Samaneh Azadi, Gong Zhang, Arman Chopikyan, Yuxiao Hu, Humphrey Shi, Anna Rohrbach, Trevor Darrell|[2112.05744v2](http://arxiv.org/abs/2112.05744v2)|null|
-|**2021-12-08**|**Label-free virtual HER2 immunohistochemical staining of breast tissue using deep learning**|Bijie Bai, Hongda Wang, Yuzhu Li, Kevin de Haan, Francesco Colonnese, Yujie Wan, Jingyi Zuo, Ngan B. Doan, Xiaoran Zhang, Yijie Zhang, Jingxi Li, Wenjie Dong, Morgan Angus Darrow, Elham Kamangar, Han Sung Lee, Yair Rivenson, Aydogan Ozcan|[2112.05240v1](http://arxiv.org/abs/2112.05240v1)|null|
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -105,6 +105,7 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-16**|**360 Depth Estimation in the Wild -- The Depth360 Dataset and the SegFuse Network**|Qi Feng, Hubert P. H. Shum, Shigeo Morishima|[2202.08010v1](http://arxiv.org/abs/2202.08010v1)|**[link](https://github.com/hal-lucination/segfuse)**|
 |**2022-02-09**|**Distance Estimation and Animal Tracking for Wildlife Camera Trapping**|Peter Johanns, Timm Haucke, Volker Steinhage|[2202.04613v1](http://arxiv.org/abs/2202.04613v1)|null|
 |**2022-02-07**|**HeadPosr: End-to-end Trainable Head Pose Estimation using Transformer Encoders**|Naina Dhingra|[2202.03548v1](http://arxiv.org/abs/2202.03548v1)|null|
 |**2022-02-07**|**Transformers in Self-Supervised Monocular Depth Estimation with Unknown Camera Intrinsics**|Arnav Varma, Hemang Chawla, Bahram Zonooz, Elahe Arani|[2202.03131v1](http://arxiv.org/abs/2202.03131v1)|null|
@@ -114,7 +115,6 @@
 |**2022-02-03**|**Maximum Likelihood Uncertainty Estimation: Robustness to Outliers**|Deebul S. Nair, Nico Hochgeschwender, Miguel A. Olivares-Mendez|[2202.03870v1](http://arxiv.org/abs/2202.03870v1)|**[link](https://github.com/deebuls/uncertainty-robustness-deep-regression-benchmark)**|
 |**2022-02-03**|**Boosting Monocular Depth Estimation with Sparse Guided Points**|Guangkai Xu, Wei Yin, Hao Chen, Kai Cheng, Feng Zhao, Chunhua Shen|[2202.01470v1](http://arxiv.org/abs/2202.01470v1)|null|
 |**2022-02-02**|**PanoDepth: A Two-Stage Approach for Monocular Omnidirectional Depth Estimation**|Yuyan Li, Zhixin Yan, Ye Duan, Liu Ren|[2202.01323v1](http://arxiv.org/abs/2202.01323v1)|null|
-|**2022-01-29**|**Light field Rectification based on relative pose estimation**|Xiao Huo, Dongyang Jin, Saiping Zhang, Fuzheng Yang|[2201.12533v1](http://arxiv.org/abs/2201.12533v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-16**|**Can Deep Learning be Applied to Model-Based Multi-Object Tracking?**|Juliano Pinto, Georg Hess, William Ljungbergh, Yuxuan Xia, Henk Wymeersch, Lennart Svensson|[2202.07909v1](http://arxiv.org/abs/2202.07909v1)|null|
 |**2022-02-12**|**InfraredTags: Embedding Invisible AR Markers and Barcodes Using Low-Cost, Infrared-Based 3D Printing and Imaging Tools**|Mustafa Doga Dogan, Ahmad Taka, Michael Lu, Yunyi Zhu, Akshat Kumar, Aakar Gupta, Stefanie Mueller|[2202.06165v1](http://arxiv.org/abs/2202.06165v1)|null|
 |**2022-02-11**|**Tiny Object Tracking: A Large-scale Dataset and A Baseline**|Yabin Zhu, Chenglong Li, Yao Liu, Xiao Wang, Jin Tang, Bin Luo, Zhixiang Huang|[2202.05659v1](http://arxiv.org/abs/2202.05659v1)|null|
 |**2022-02-11**|**Cyclops: Open Platform for Scale Truck Platooning**|Hyeongyu Lee, Jaegeun Park, Changjin Koo, Jong-Chan Kim, Yongsoon Eun|[2202.05385v1](http://arxiv.org/abs/2202.05385v1)|**[link](https://github.com/hyeongyu-lee/scale_truck_control)**|
@@ -140,7 +141,6 @@
 |**2022-02-07**|**Performance Evaluation of Infrared Image Enhancement Techniques**|Rania Gaber, AbdElmgied Ali, Kareem Ahmed|[2202.03427v1](http://arxiv.org/abs/2202.03427v1)|null|
 |**2022-02-02**|**Does Video Compression Impact Tracking Accuracy?**|Takehiro Tanaka, Alon Harell, Ivan V. Bajić|[2202.00892v1](http://arxiv.org/abs/2202.00892v1)|null|
 |**2022-01-31**|**Few-Shot Backdoor Attacks on Visual Object Tracking**|Yiming Li, Haoxiang Zhong, Xingjun Ma, Yong Jiang, Shu-Tao Xia|[2201.13178v1](http://arxiv.org/abs/2201.13178v1)|**[link](https://github.com/hxzhong1997/fsba)**|
-|**2022-01-31**|**Single Object Tracking: A Survey of Methods, Datasets, and Evaluation Metrics**|Zahra Soleimanitaleb, Mohammad Ali Keyvanrad|[2201.13066v1](http://arxiv.org/abs/2201.13066v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
