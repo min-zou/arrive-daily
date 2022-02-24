@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-22**|**Coordinate-Aligned Multi-Camera Collaboration for Active Multi-Object Tracking**|Zeyu Fang, Jian Zhao, Mingyu Yang, Wengang Zhou, Zhenbo Lu, Houqiang Li|[2202.10881v1](http://arxiv.org/abs/2202.10881v1)|null|
 |**2022-02-18**|**Unsupervised Multiple-Object Tracking with a Dynamical Variational Autoencoder**|Xiaoyu Lin, Laurent Girin, Xavier Alameda-Pineda|[2202.09315v2](http://arxiv.org/abs/2202.09315v2)|null|
 |**2022-02-17**|**Adiabatic Quantum Computing for Multi Object Tracking**|Jan-Nico Zaech, Alexander Liniger, Martin Danelljan, Dengxin Dai, Luc Van Gool|[2202.08837v1](http://arxiv.org/abs/2202.08837v1)|null|
 |**2022-02-17**|**Domain Adaptation for Underwater Image Enhancement via Content and Style Separation**|Yu-Wei Chen, Soo-Chang Pei|[2202.08537v1](http://arxiv.org/abs/2202.08537v1)|null|
@@ -140,7 +141,6 @@
 |**2022-02-11**|**Cyclops: Open Platform for Scale Truck Platooning**|Hyeongyu Lee, Jaegeun Park, Changjin Koo, Jong-Chan Kim, Yongsoon Eun|[2202.05385v1](http://arxiv.org/abs/2202.05385v1)|**[link](https://github.com/hyeongyu-lee/scale_truck_control)**|
 |**2022-02-09**|**Real-Time Event-Based Tracking and Detection for Maritime Environments**|Stephanie Aelmore, Richard C. Ordonez, Shibin Parameswaran, Justin Mauger|[2202.04231v1](http://arxiv.org/abs/2202.04231v1)|**[link](https://github.com/believeinlain/asynch-cv)**|
 |**2022-02-08**|**Extended Object Tracking in Curvilinear Road Coordinates for Autonomous Driving**|Pragyan Dahal, Simone Mentasti, Stefano Arrigoni, Francesco Braghin, Matteo Matteucci, Federico Cheli|[2202.03785v1](http://arxiv.org/abs/2202.03785v1)|null|
-|**2022-02-08**|**Network Comparison Study of Deep Activation Feature Discriminability with Novel Objects**|Michael Karnes, Alper Yilmaz|[2202.03695v1](http://arxiv.org/abs/2202.03695v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
