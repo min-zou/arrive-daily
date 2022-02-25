@@ -1,7 +1,6 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-02-19**|**SAGE: SLAM with Appearance and Geometry Prior for Endoscopy**|Xingtong Liu, Zhaoshuo Li, Masaru Ishii, Gregory D. Hager, Russell H. Taylor, Mathias Unberath|[2202.09487v2](http://arxiv.org/abs/2202.09487v2)|**[link](https://github.com/lppllppl920/sage-slam)**|
 |**2022-02-18**|**OKVIS2: Realtime Scalable Visual-Inertial SLAM with Loop Closure**|Stefan Leutenegger|[2202.09199v1](http://arxiv.org/abs/2202.09199v1)|null|
 |**2022-02-18**|**MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**|Ahmad Khaliq, Michael Milford, Sourav Garg|[2202.09146v1](http://arxiv.org/abs/2202.09146v1)|**[link](https://github.com/ahmedest61/multires-netvlad)**|
 |**2022-02-18**|**An Energy-Efficient and Runtime-Reconfigurable FPGA-Based Accelerator for Robotic Localization Systems**|Qiang Liu, Zishen Wan, Bo Yu, Weizhuang Liu, Shaoshan Liu, Arijit Raychowdhury|[2202.08952v1](http://arxiv.org/abs/2202.08952v1)|null|
@@ -11,6 +10,7 @@
 |**2022-02-11**|**Overhead Image Factors for Underwater Sonar-based SLAM**|John McConnell, Fanfei Chen, Brendan Englot|[2202.05811v1](http://arxiv.org/abs/2202.05811v1)|null|
 |**2022-02-10**|**Scale Estimation with Dual Quadrics for Monocular Object SLAM**|Shuangfu Song, Junqiao Zhao, Tiantian Feng, Chen Ye, Lu Xiong|[2202.04816v1](http://arxiv.org/abs/2202.04816v1)|null|
 |**2022-02-08**|**A Novel Image Descriptor with Aggregated Semantic Skeleton Representation for Long-term Visual Place Recognition**|Nie Jiwei, Feng Joe-Mei, Xue Dingyu, Pan Feng, Liu Wei, Hu Jun, Cheng Shuai|[2202.03677v1](http://arxiv.org/abs/2202.03677v1)|null|
+|**2022-02-07**|**Temporal Point Cloud Completion with Pose Disturbance**|Jieqi Shi, Lingyun Xu, Peiliang Li, Xiaozhi Chen, Shaojie Shen|[2202.03084v1](http://arxiv.org/abs/2202.03084v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,7 +92,6 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-02-21**|**A Coronal Mass Ejection followed by a prominence eruption and a plasma blob as observed by Solar Orbiter**|A. Bemporad, V. Andretta, R. Susino, S. Mancuso, D. Spadaro, M. Mierla, D. Berghmans, E. D'Huys, A. N. Zhukov, D. -C. Talpeanu, R. Colaninno, P. Hess, J. Koza, S. Jejcic, P. Heinzel, E. Antonucci, V. Da Deppo, S. Fineschi, F. Frassati, G. Jerse, F. Landini, G. Naletto, G. Nicolini, M. Pancrazzi, M. Romoli, C. Sasso, A. Slemer, M. Stangalini, L. Teriaca|[2202.10294v1](http://arxiv.org/abs/2202.10294v1)|null|
 |**2022-02-12**|**NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing**|Jiakai Zhang, Liao Wang, Xinhang Liu, Fuqiang Zhao, Minzhang Li, Haizhao Dai, Boyuan Zhang, Wei Yang, Lan Xu, Jingyi Yu|[2202.06088v1](http://arxiv.org/abs/2202.06088v1)|null|
 |**2022-02-04**|**NeAT: Neural Adaptive Tomography**|Darius Rückert, Yuanhao Wang, Rui Li, Ramzi Idoughi, Wolfgang Heidrich|[2202.02171v1](http://arxiv.org/abs/2202.02171v1)|null|
 |**2022-02-03**|**HRBF-Fusion: Accurate 3D reconstruction from RGB-D data using on-the-fly implicits**|Yabin Xu, Liangliang Nan, Laishui Zhou, Jun Wang, Charlie C. L. Wang|[2202.01829v2](http://arxiv.org/abs/2202.01829v2)|**[link](https://github.com/YabinXuTUD/HRBFFusion3D)**|
@@ -102,6 +101,7 @@
 |**2022-01-29**|**Light field Rectification based on relative pose estimation**|Xiao Huo, Dongyang Jin, Saiping Zhang, Fuzheng Yang|[2201.12533v1](http://arxiv.org/abs/2201.12533v1)|null|
 |**2022-01-28**|**A tomographic workflow to enable deep learning for X-ray based foreign object detection**|Mathé T. Zeegers, Tristan van Leeuwen, Daniël M. Pelt, Sophia Bethany Coban, Robert van Liere, Kees Joost Batenburg|[2201.12184v1](http://arxiv.org/abs/2201.12184v1)|null|
 |**2022-01-28**|**Unsupervised Single-shot Depth Estimation using Perceptual Reconstruction**|Christoph Angermann, Matthias Schwab, Markus Haltmeier, Christian Laubichler, Steinbjörn Jónsson|[2201.12170v3](http://arxiv.org/abs/2201.12170v3)|**[link](https://github.com/anger-man/unsupervised-depth-estimation)**|
+|**2022-01-27**|**Total variation-based phase retrieval for diffraction tomography**|Robert Beinert, Michael Quellmalz|[2201.11579v1](http://arxiv.org/abs/2201.11579v1)|**[link](https://github.com/michaelquellmalz/fourierodt)**|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,7 +131,6 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-02-22**|**Coordinate-Aligned Multi-Camera Collaboration for Active Multi-Object Tracking**|Zeyu Fang, Jian Zhao, Mingyu Yang, Wengang Zhou, Zhenbo Lu, Houqiang Li|[2202.10881v1](http://arxiv.org/abs/2202.10881v1)|null|
 |**2022-02-18**|**Unsupervised Multiple-Object Tracking with a Dynamical Variational Autoencoder**|Xiaoyu Lin, Laurent Girin, Xavier Alameda-Pineda|[2202.09315v2](http://arxiv.org/abs/2202.09315v2)|null|
 |**2022-02-17**|**Adiabatic Quantum Computing for Multi Object Tracking**|Jan-Nico Zaech, Alexander Liniger, Martin Danelljan, Dengxin Dai, Luc Van Gool|[2202.08837v1](http://arxiv.org/abs/2202.08837v1)|null|
 |**2022-02-17**|**Domain Adaptation for Underwater Image Enhancement via Content and Style Separation**|Yu-Wei Chen, Soo-Chang Pei|[2202.08537v1](http://arxiv.org/abs/2202.08537v1)|null|
@@ -141,6 +140,7 @@
 |**2022-02-11**|**Cyclops: Open Platform for Scale Truck Platooning**|Hyeongyu Lee, Jaegeun Park, Changjin Koo, Jong-Chan Kim, Yongsoon Eun|[2202.05385v1](http://arxiv.org/abs/2202.05385v1)|**[link](https://github.com/hyeongyu-lee/scale_truck_control)**|
 |**2022-02-09**|**Real-Time Event-Based Tracking and Detection for Maritime Environments**|Stephanie Aelmore, Richard C. Ordonez, Shibin Parameswaran, Justin Mauger|[2202.04231v1](http://arxiv.org/abs/2202.04231v1)|**[link](https://github.com/believeinlain/asynch-cv)**|
 |**2022-02-08**|**Extended Object Tracking in Curvilinear Road Coordinates for Autonomous Driving**|Pragyan Dahal, Simone Mentasti, Stefano Arrigoni, Francesco Braghin, Matteo Matteucci, Federico Cheli|[2202.03785v1](http://arxiv.org/abs/2202.03785v1)|null|
+|**2022-02-08**|**Network Comparison Study of Deep Activation Feature Discriminability with Novel Objects**|Michael Karnes, Alper Yilmaz|[2202.03695v1](http://arxiv.org/abs/2202.03695v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
