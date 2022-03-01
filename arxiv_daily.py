@@ -144,7 +144,11 @@ if __name__ == "__main__":
                 "\"Long Term Localization\"",
                 "\"Object Track\"",
                 "\"Dynamic Obstacle Avoid\"",
-                "PointCloud"
+                "PointCloud",
+                "\"Visual Odometry\"",
+                "\"image feature\"",
+                "\"graph optimization\""
+                
     ]
     for keyword in keywords:
  
