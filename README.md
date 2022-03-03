@@ -206,3 +206,16 @@
 |**2021-12-24**|**3D Point Cloud Reconstruction and SLAM as an Input**|Ziyu Li, Fangyang Ye, Xinran Guan|[2112.12907v1](http://arxiv.org/abs/2112.12907v1)|null|
 |**2021-12-14**|**Anti-Money Laundering Alert Optimization Using Machine Learning with Graphs**|Ahmad Naser Eddin, Jacopo Bono, David Aparício, David Polido, João Tiago Ascensão, Pedro Bizarro, Pedro Ribeiro|[2112.07508v1](http://arxiv.org/abs/2112.07508v1)|null|
 |**2021-12-12**|**3D LiDAR Aided GNSS NLOS Mitigation in Urban Canyons**|Weisong Wen, Li-Ta Hsu|[2112.06108v1](http://arxiv.org/abs/2112.06108v1)|null|
+## motion aware
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2022-03-01**|**Motion-aware Dynamic Graph Neural Network for Video Compressive Sensing**|Ruiying Lu, Ziheng Cheng, Bo Chen, Xin Yuan|[2203.00387v1](http://arxiv.org/abs/2203.00387v1)|null|
+|**2022-02-14**|**Box Supervised Video Segmentation Proposal Network**|Tanveer Hannan, Rajat Koner, Jonathan Kobold, Matthias Schubert|[2202.07025v2](http://arxiv.org/abs/2202.07025v2)|**[link](https://github.com/tanveer81/boxvos)**|
+|**2022-02-09**|**Motion-Aware Transformer For Occluded Person Re-identification**|Mi Zhou, Hongye Liu, Zhekun Lv, Wei Hong, Xiai Chen|[2202.04243v2](http://arxiv.org/abs/2202.04243v2)|null|
+|**2022-01-03**|**Exploring Motion and Appearance Information for Temporal Sentence Grounding**|Daizong Liu, Xiaoye Qu, Pan Zhou, Yang Liu|[2201.00457v1](http://arxiv.org/abs/2201.00457v1)|null|
+|**2021-11-29**|**MUNet: Motion Uncertainty-aware Semi-supervised Video Object Segmentation**|Jiadai Sun, Yuxin Mao, Yuchao Dai, Yiran Zhong, Jianyuan Wang|[2111.14646v1](http://arxiv.org/abs/2111.14646v1)|null|
+|**2021-11-18**|**M2A: Motion Aware Attention for Accurate Video Action Recognition**|Brennan Gebotys, Alexander Wong, David A. Clausi|[2111.09976v2](http://arxiv.org/abs/2111.09976v2)|**[link](https://github.com/gebob19/m2a)**|
+|**2021-10-07**|**MPSN: Motion-aware Pseudo Siamese Network for Indoor Video Head Detection**|Kailai Sun, Xiaoteng Ma, Peng Liu, Qianchuan Zhao|[2110.03302v2](http://arxiv.org/abs/2110.03302v2)|**[link](https://github.com/pl-share/mpsn)**|
+|**2021-09-30**|**Motion-aware Contrastive Video Representation Learning via Foreground-background Merging**|Shuangrui Ding, Maomao Li, Tianyu Yang, Rui Qian, Haohang Xu, Qingyi Chen, Jue Wang|[2109.15130v2](http://arxiv.org/abs/2109.15130v2)|null|
+|**2021-08-02**|**Consistent Depth of Moving Objects in Video**|Zhoutong Zhang, Forrester Cole, Richard Tucker, William T. Freeman, Tali Dekel|[2108.01166v1](http://arxiv.org/abs/2108.01166v1)|null|
+|**2021-07-27**|**Self-Supervised Video Object Segmentation by Motion-Aware Mask Propagation**|Bo Miao, Mohammed Bennamoun, Yongsheng Gao, Ajmal Mian|[2107.12569v2](http://arxiv.org/abs/2107.12569v2)|**[link](https://github.com/bo-miao/MAMP)**|
