@@ -147,7 +147,8 @@ if __name__ == "__main__":
                 "PointCloud",
                 "\"Visual Odometry\"",
                 "\"image feature\"",
-                "\"graph optimization\""
+                "\"graph optimization\"",
+                "\"motion aware\""
                 
     ]
     for keyword in keywords:
