@@ -184,7 +184,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-03-09**|**A high-precision underwater object detection based on joint self-supervised deblurring and improved spatial transformer network**|Xiuyuan Li, Fengchao Li, Jiangang Yu, Guowen An|[2203.04822v1](http://arxiv.org/abs/2203.04822v1)|null|
-|**2022-03-09**|**A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection**|Yukun Su, Jingliang Deng, Ruizhou Sun, Guosheng Lin, Qingyao Wu|[2203.04708v1](http://arxiv.org/abs/2203.04708v1)|**[link](https://github.com/suyukun666/UFO)**|
+|**2022-03-09**|**A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection**|Yukun Su, Jingliang Deng, Ruizhou Sun, Guosheng Lin, Qingyao Wu|[2203.04708v2](http://arxiv.org/abs/2203.04708v2)|**[link](https://github.com/suyukun666/UFO)**|
 |**2022-03-08**|**BEVSegFormer: Bird's Eye View Semantic Segmentation From Arbitrary Camera Rigs**|Lang Peng, Zhirong Chen, Zhangjie Fu, Pengpeng Liang, Erkang Cheng|[2203.04050v1](http://arxiv.org/abs/2203.04050v1)|null|
 |**2022-03-08**|**A Hierarchical Approach to Active Pose Estimation**|Jascha Hellwig, Mark Baierl, Joao Carvalho, Julen Urain, Jan Peters|[2203.03919v1](http://arxiv.org/abs/2203.03919v1)|null|
 |**2022-03-06**|**PanFormer: a Transformer Based Model for Pan-sharpening**|Huanyu Zhou, Qingjie Liu, Yunhong Wang|[2203.02916v1](http://arxiv.org/abs/2203.02916v1)|**[link](https://github.com/zhysora/panformer)**|
