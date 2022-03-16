@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-14**|**Drift Reduced Navigation with Deep Explainable Features**|Mohd Omama, Sundar Sripada Venugopalaswamy Sriraman, Sandeep Chinchali, Arun Kumar Singh, K. Madhava Krishna|[2203.06897v1](http://arxiv.org/abs/2203.06897v1)|null|
 |**2022-03-11**|**An Efficient Accelerator for Deep Learning-based Point Cloud Registration on FPGAs**|Keisuke Sugiura, Hiroki Matsutani|[2203.05763v1](http://arxiv.org/abs/2203.05763v1)|null|
 |**2022-03-10**|**High Definition, Inexpensive, Underwater Mapping**|Bharat Joshi, Marios Xanthidis, Sharmin Rahman, Ioannis Rekleitis|[2203.05640v1](http://arxiv.org/abs/2203.05640v1)|null|
 |**2022-03-10**|**SelfTune: Metrically Scaled Monocular Depth Estimation through Self-Supervised Learning**|Jaehoon Choi, Dongki Jung, Yonghan Lee, Deokhwa Kim, Dinesh Manocha, Donghwan Lee|[2203.05332v1](http://arxiv.org/abs/2203.05332v1)|null|
@@ -10,7 +11,6 @@
 |**2022-03-07**|**Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**|Qingqing Li, Xianjia Yu, Jorge Peña Queralta, Tomi Westerlund|[2203.03454v1](http://arxiv.org/abs/2203.03454v1)|**[link](https://github.com/tiers/tiers-lidars-dataset)**|
 |**2022-03-07**|**OverlapTransformer: An Efficient and Rotation-Invariant Transformer Network for LiDAR-Based Place Recognition**|Junyi Ma, Jun Zhang, Jintao Xu, Rui Ai, Weihao Gu, Cyrill Stachniss, Xieyuanli Chen|[2203.03397v1](http://arxiv.org/abs/2203.03397v1)|**[link](https://github.com/haomo-ai/OverlapTransformer)**|
 |**2022-03-06**|**Minimum Cost Multicuts for Incorrect Landmark Edge Detection in Pose-graph SLAM**|Kazushi Aiba, Kanji Tanaka, Ryogo Yamamoto|[2203.02887v1](http://arxiv.org/abs/2203.02887v1)|null|
-|**2022-03-06**|**RGB-D SLAM in Indoor Planar Environments with Multiple Large Dynamic Objects**|Ran Long, Christian Rauch, Tianwei Zhang, Vladimir Ivan, Tin Lun Lam, Sethu Vijayakumar|[2203.02882v1](http://arxiv.org/abs/2203.02882v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,8 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-14**|**Efficient universal shuffle attack for visual object tracking**|Siao Liu, Zhaoyu Chen, Wei Li, Jiwei Zhu, Jiafeng Wang, Wenqiang Zhang, Zhongxue Gan|[2203.06898v1](http://arxiv.org/abs/2203.06898v1)|null|
+|**2022-03-12**|**VariabilityTrack:Multi-Object Tracking with Variable Speed Object Movement**|Run Luo, JinLin Wei, Qiao Lin|[2203.06424v1](http://arxiv.org/abs/2203.06424v1)|null|
 |**2022-03-10**|**Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking**|Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu, Wanli Ouyang|[2203.05328v1](http://arxiv.org/abs/2203.05328v1)|null|
 |**2022-03-08**|**A Lightweight and Detector-free 3D Single Object Tracker on Point Clouds**|Yan Xia, Qiangqiang Wu, Tianyu Yang, Wei Li, Antoni B. Chan, Uwe Stilla|[2203.04232v1](http://arxiv.org/abs/2203.04232v1)|null|
 |**2022-03-08**|**SimpleTrack: Rethinking and Improving the JDE Approach for Multi-Object Tracking**|Jiaxin Li, Yan Ding, Hualiang Wei|[2203.03985v1](http://arxiv.org/abs/2203.03985v1)|null|
@@ -139,8 +141,6 @@
 |**2022-03-06**|**RGB-D SLAM in Indoor Planar Environments with Multiple Large Dynamic Objects**|Ran Long, Christian Rauch, Tianwei Zhang, Vladimir Ivan, Tin Lun Lam, Sethu Vijayakumar|[2203.02882v1](http://arxiv.org/abs/2203.02882v1)|null|
 |**2022-03-04**|**DetFlowTrack: 3D Multi-object Tracking based on Simultaneous Optimization of Object Detection and Scene Flow Estimation**|Yueling Shen, Guangming Wang, Hesheng Wang|[2203.02157v1](http://arxiv.org/abs/2203.02157v1)|null|
 |**2022-03-03**|**Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds**|Chaoda Zheng, Xu Yan, Haiming Zhang, Baoyuan Wang, Shenghui Cheng, Shuguang Cui, Zhen Li|[2203.01730v1](http://arxiv.org/abs/2203.01730v1)|**[link](https://github.com/ghostish/open3dsot)**|
-|**2022-03-03**|**Correlation-Aware Deep Tracking**|Fei Xie, Chunyu Wang, Guangting Wang, Yue Cao, Wankou Yang, Wenjun Zeng|[2203.01666v1](http://arxiv.org/abs/2203.01666v1)|null|
-|**2022-03-03**|**Ad2Attack: Adaptive Adversarial Attack on Real-Time UAV Tracking**|Changhong Fu, Sihang Li, Xinnan Yuan, Junjie Ye, Ziang Cao, Fangqiang Ding|[2203.01516v1](http://arxiv.org/abs/2203.01516v1)|**[link](https://github.com/vision4robotics/ad2attack)**|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -170,6 +170,7 @@
 ## Visual Odometry
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-14**|**RAUM-VO: Rotational Adjusted Unsupervised Monocular Visual Odometry**|Claudio Cimarelli, Hriday Bavle, Jose Luis Sanchez-Lopez, Holger Voos|[2203.07162v1](http://arxiv.org/abs/2203.07162v1)|null|
 |**2022-03-11**|**Towards Scale Consistent Monocular Visual Odometry by Learning from the Virtual World**|Sen Zhang, Jing Zhang, Dacheng Tao|[2203.05712v1](http://arxiv.org/abs/2203.05712v1)|null|
 |**2022-03-09**|**A high-precision self-supervised monocular visual odometry in foggy weather based on robust cycled generative adversarial networks and multi-task learning aided depth estimation**|Xiuyuan Li, Jiangang Yu, Fengchao Li, Guowen An|[2203.04812v1](http://arxiv.org/abs/2203.04812v1)|null|
 |**2022-03-03**|**Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**|Niclas Vödisch, Daniele Cattaneo, Wolfram Burgard, Abhinav Valada|[2203.01578v1](http://arxiv.org/abs/2203.01578v1)|**[link](https://github.com/robot-learning-freiburg/CL-SLAM)**|
@@ -179,10 +180,11 @@
 |**2022-03-01**|**Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles**|Ling Gao, Junyan Su, Jiadi Cui, Xiangchen Zeng, Xin Peng, Laurent Kneip|[2203.00291v1](http://arxiv.org/abs/2203.00291v1)|null|
 |**2022-02-25**|**LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane**|Ze Wang, Kailun Yang, Hao Shi, Kaiwei Wang|[2202.12613v1](http://arxiv.org/abs/2202.12613v1)|**[link](https://github.com/flysoaryun/lf-vio)**|
 |**2022-02-05**|**DEVO: Depth-Event Camera Visual Odometry in Challenging Conditions**|Yi-Fan Zuo, Jiaqi Yang, Jiaben Chen, Xia Wang, Yifu Wang, Laurent Kneip|[2202.02556v1](http://arxiv.org/abs/2202.02556v1)|null|
-|**2022-01-05**|**Multi-layer VI-GNSS Global Positioning Framework with Numerical Solution aided MAP Initialization**|Bing Han, Zhongyang Xiao, Shuai Huang, Tao Zhang|[2201.01561v1](http://arxiv.org/abs/2201.01561v1)|null|
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-14**|**Texture Generation Using Dual-Domain Feature Flow with Multi-View Hallucinations**|Seunggyu Chang, Jungchan Cho, Songhwai Oh|[2203.06901v1](http://arxiv.org/abs/2203.06901v1)|null|
+|**2022-03-14**|**Accelerating DETR Convergence via Semantic-Aligned Matching**|Gongjie Zhang, Zhipeng Luo, Yingchen Yu, Kaiwen Cui, Shijian Lu|[2203.06883v1](http://arxiv.org/abs/2203.06883v1)|**[link](https://github.com/zhanggongjie/sam-detr)**|
 |**2022-03-10**|**PETR: Position Embedding Transformation for Multi-View 3D Object Detection**|Yingfei Liu, Tiancai Wang, Xiangyu Zhang, Jian Sun|[2203.05625v1](http://arxiv.org/abs/2203.05625v1)|null|
 |**2022-03-09**|**A high-precision underwater object detection based on joint self-supervised deblurring and improved spatial transformer network**|Xiuyuan Li, Fengchao Li, Jiangang Yu, Guowen An|[2203.04822v1](http://arxiv.org/abs/2203.04822v1)|null|
 |**2022-03-09**|**A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection**|Yukun Su, Jingliang Deng, Ruizhou Sun, Guosheng Lin, Qingyao Wu|[2203.04708v2](http://arxiv.org/abs/2203.04708v2)|**[link](https://github.com/suyukun666/UFO)**|
@@ -191,8 +193,6 @@
 |**2022-03-06**|**PanFormer: a Transformer Based Model for Pan-sharpening**|Huanyu Zhou, Qingjie Liu, Yunhong Wang|[2203.02916v1](http://arxiv.org/abs/2203.02916v1)|**[link](https://github.com/zhysora/panformer)**|
 |**2022-03-04**|**Geodesic Gramian Denoising Applied to the Images Contaminated With Noise Sampled From Diverse Probability Distributions**|Yonggi Park, Kelum Gajamannage, Alexey Sadovski|[2203.02600v1](http://arxiv.org/abs/2203.02600v1)|null|
 |**2022-03-04**|**Pseudo-Stereo for Monocular 3D Object Detection in Autonomous Driving**|Yi-Nan Chen, Hang Dai, Yong Ding|[2203.02112v1](http://arxiv.org/abs/2203.02112v1)|**[link](https://github.com/revisitq/Pseudo-Stereo-3D)**|
-|**2022-03-03**|**Correlation-Aware Deep Tracking**|Fei Xie, Chunyu Wang, Guangting Wang, Yue Cao, Wankou Yang, Wenjun Zeng|[2203.01666v1](http://arxiv.org/abs/2203.01666v1)|null|
-|**2022-03-02**|**Bending Reality: Distortion-aware Transformers for Adapting to Panoramic Semantic Segmentation**|Jiaming Zhang, Kailun Yang, Chaoxiang Ma, Simon Reiß, Kunyu Peng, Rainer Stiefelhagen|[2203.01452v1](http://arxiv.org/abs/2203.01452v1)|**[link](https://github.com/jamycheung/trans4pass)**|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -218,4 +218,4 @@
 |**2021-11-29**|**MUNet: Motion Uncertainty-aware Semi-supervised Video Object Segmentation**|Jiadai Sun, Yuxin Mao, Yuchao Dai, Yiran Zhong, Jianyuan Wang|[2111.14646v1](http://arxiv.org/abs/2111.14646v1)|null|
 |**2021-11-18**|**M2A: Motion Aware Attention for Accurate Video Action Recognition**|Brennan Gebotys, Alexander Wong, David A. Clausi|[2111.09976v2](http://arxiv.org/abs/2111.09976v2)|**[link](https://github.com/gebob19/m2a)**|
 |**2021-10-07**|**MPSN: Motion-aware Pseudo Siamese Network for Indoor Video Head Detection in Buildings**|Kailai Sun, Xiaoteng Ma, Peng Liu, Qianchuan Zhao|[2110.03302v3](http://arxiv.org/abs/2110.03302v3)|**[link](https://github.com/pl-share/mpsn)**|
-|**2021-09-30**|**Motion-aware Contrastive Video Representation Learning via Foreground-background Merging**|Shuangrui Ding, Maomao Li, Tianyu Yang, Rui Qian, Haohang Xu, Qingyi Chen, Jue Wang, Hongkai Xiong|[2109.15130v3](http://arxiv.org/abs/2109.15130v3)|null|
+|**2021-09-30**|**Motion-aware Contrastive Video Representation Learning via Foreground-background Merging**|Shuangrui Ding, Maomao Li, Tianyu Yang, Rui Qian, Haohang Xu, Qingyi Chen, Jue Wang, Hongkai Xiong|[2109.15130v3](http://arxiv.org/abs/2109.15130v3)|**[link](https://github.com/mark12ding/fame)**|
