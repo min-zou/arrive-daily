@@ -92,6 +92,8 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-05**|**P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior**|Vaishakh Patil, Christos Sakaridis, Alexander Liniger, Luc Van Gool|[2204.02091v1](http://arxiv.org/abs/2204.02091v1)|**[link](https://github.com/syscv/p3depth)**|
+|**2022-04-04**|**MonoTrack: Shuttle trajectory reconstruction from monocular badminton video**|Paul Liu, Jui-Hsien Wang|[2204.01899v1](http://arxiv.org/abs/2204.01899v1)|null|
 |**2022-04-03**|**BNV-Fusion: Dense 3D Reconstruction using Bi-level Neural Volume Fusion**|Kejie Li, Yansong Tang, Victor Adrian Prisacariu, Philip H. S. Torr|[2204.01139v1](http://arxiv.org/abs/2204.01139v1)|null|
 |**2022-04-01**|**Online panoptic 3D reconstruction as a Linear Assignment Problem**|Leevi Raivio, Esa Rahtu|[2204.00231v1](http://arxiv.org/abs/2204.00231v1)|null|
 |**2022-03-31**|**A Temporal Learning Approach to Inpainting Endoscopic Specularities and Its effect on Image Correspondence**|Rema Daher, Francisco Vasconcelos, Danail Stoyanov|[2203.17013v1](http://arxiv.org/abs/2203.17013v1)|null|
@@ -100,11 +102,11 @@
 |**2022-03-29**|**Pop-Out Motion: 3D-Aware Image Deformation via Learning the Shape Laplacian**|Jihyun Lee, Minhyuk Sung, Hyunjin Kim, Tae-Kyun Kim|[2203.15235v1](http://arxiv.org/abs/2203.15235v1)|null|
 |**2022-03-29**|**3D Shape Reconstruction from 2D Images with Disentangled Attribute Flow**|Xin Wen, Junsheng Zhou, Yu-Shen Liu, Zhen Dong, Zhizhong Han|[2203.15190v1](http://arxiv.org/abs/2203.15190v1)|**[link](https://github.com/junshengzhou/3dattriflow)**|
 |**2022-03-28**|**DeepShadow: Neural Shape from Shadow**|Asaf Karnieli, Ohad Fried, Yacov Hel-Or|[2203.15065v1](http://arxiv.org/abs/2203.15065v1)|null|
-|**2022-03-24**|**RayTran: 3D pose estimation and shape reconstruction of multiple objects from videos with ray-traced transformers**|Michał J. Tyszkiewicz, Kevis-Kokitsi Maninis, Stefan Popov, Vittorio Ferrari|[2203.13296v1](http://arxiv.org/abs/2203.13296v1)|null|
-|**2022-03-23**|**Event-Based Dense Reconstruction Pipeline**|Kun Xiao, Guohui Wang, Yi Chen, Jinghong Nan, Yongfeng Xie|[2203.12270v1](http://arxiv.org/abs/2203.12270v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-05**|**Pyramid Frequency Network with Spatial Attention Residual Refinement Module for Monocular Depth Estimation**|Zhengyang Lu, Ying Chen|[2204.02386v1](http://arxiv.org/abs/2204.02386v1)|null|
+|**2022-04-05**|**P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior**|Vaishakh Patil, Christos Sakaridis, Alexander Liniger, Luc Van Gool|[2204.02091v1](http://arxiv.org/abs/2204.02091v1)|**[link](https://github.com/syscv/p3depth)**|
 |**2022-04-04**|**Monitoring social distancing with single image depth estimation**|Alessio Mingozzi, Andrea Conti, Filippo Aleotti, Matteo Poggi, Stefano Mattoccia|[2204.01693v1](http://arxiv.org/abs/2204.01693v1)|null|
 |**2022-04-04**|**MultiMAE: Multi-modal Multi-task Masked Autoencoders**|Roman Bachmann, David Mizrahi, Andrei Atanov, Amir Zamir|[2204.01678v1](http://arxiv.org/abs/2204.01678v1)|**[link](https://github.com/EPFL-VILAB/MultiMAE)**|
 |**2022-04-04**|**Improving Monocular Visual Odometry Using Learned Depth**|Libo Sun, Wei Yin, Enze Xie, Zhengrong Li, Changming Sun, Chunhua Shen|[2204.01268v1](http://arxiv.org/abs/2204.01268v1)|null|
@@ -113,8 +115,6 @@
 |**2022-03-31**|**Casual 6-DoF: free-viewpoint panorama using a handheld 360 camera**|Rongsen Chen, Fang-Lue Zhang, Simon Finnie, Andrew Chalmers, Teahyun Rhee|[2203.16756v1](http://arxiv.org/abs/2203.16756v1)|null|
 |**2022-03-30**|**Towards Multimodal Depth Estimation from Light Fields**|Titus Leistner, Radek Mackowiak, Lynton Ardizzone, Ullrich Köthe, Carsten Rother|[2203.16542v2](http://arxiv.org/abs/2203.16542v2)|null|
 |**2022-03-30**|**Depth estimation of tumor invasion in early gastric cancer using scattering of circularly polarized light: Monte Carlo Simulation study**|Nozomi Nishizawa, Takahiro Kuchimaru|[2203.16072v1](http://arxiv.org/abs/2203.16072v1)|null|
-|**2022-03-29**|**Learning Structured Gaussians to Approximate Deep Ensembles**|Ivor J. A. Simpson, Sara Vicente, Neill D. F. Campbell|[2203.15485v1](http://arxiv.org/abs/2203.15485v1)|null|
-|**2022-03-29**|**Light Field Depth Estimation Based on Stitched-EPI**|Ping Zhou, Xiaoyang Liu, Jing Jin, Yuting Zhang, Junhui Hou|[2203.15201v1](http://arxiv.org/abs/2203.15201v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,8 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-05**|**Real-time Online Multi-Object Tracking in Compressed Domain**|Qiankun Liu, Bin Liu, Yue Wu, Weihai Li, Nenghai Yu|[2204.02081v1](http://arxiv.org/abs/2204.02081v1)|null|
+|**2022-04-04**|**Tracking Urbanization in Developing Regions with Remote Sensing Spatial-Temporal Super-Resolution**|Yutong He, William Zhang, Chenlin Meng, Marshall Burke, David B. Lobell, Stefano Ermon|[2204.01736v1](http://arxiv.org/abs/2204.01736v1)|null|
 |**2022-04-04**|**Context-aware Visual Tracking with Joint Meta-updating**|Qiuhong Shen, Xin Li, Fanyang Meng, Yongsheng Liang|[2204.01513v1](http://arxiv.org/abs/2204.01513v1)|null|
 |**2022-04-04**|**Unsupervised Learning of Accurate Siamese Tracking**|Qiuhong Shen, Lei Qiao, Jinyang Guo, Peixia Li, Xin Li, Bo Li, Weitao Feng, Weihao Gan, Wei Wu, Wanli Ouyang|[2204.01475v1](http://arxiv.org/abs/2204.01475v1)|**[link](https://github.com/florinshum/ulast)**|
 |**2022-04-03**|**Exploiting Temporal Relations on Radar Perception for Autonomous Driving**|Peizhao Li, Pu Wang, Karl Berntorp, Hongfu Liu|[2204.01184v1](http://arxiv.org/abs/2204.01184v1)|null|
@@ -139,8 +141,6 @@
 |**2022-03-31**|**MeMOT: Multi-Object Tracking with Memory**|Jiarui Cai, Mingze Xu, Wei Li, Yuanjun Xiong, Wei Xia, Zhuowen Tu, Stefano Soatto|[2203.16761v1](http://arxiv.org/abs/2203.16761v1)|null|
 |**2022-03-30**|**TR-MOT: Multi-Object Tracking by Reference**|Mingfei Chen, Yue Liao, Si Liu, Fei Wang, Jenq-Neng Hwang|[2203.16621v1](http://arxiv.org/abs/2203.16621v1)|null|
 |**2022-03-30**|**Large-Scale Pre-training for Person Re-identification with Noisy Labels**|Dengpan Fu, Dongdong Chen, Hao Yang, Jianmin Bao, Lu Yuan, Lei Zhang, Houqiang Li, Fang Wen, Dong Chen|[2203.16533v2](http://arxiv.org/abs/2203.16533v2)|**[link](https://github.com/dengpanfu/luperson-nl)**|
-|**2022-03-30**|**Interactive Multi-scale Fusion of 2D and 3D Features for Multi-object Tracking**|Guangming Wang, Chensheng Peng, Jinpeng Zhang, Hesheng Wang|[2203.16268v1](http://arxiv.org/abs/2203.16268v1)|null|
-|**2022-03-30**|**Learning of Global Objective for Network Flow in Multi-Object Tracking**|Shuai Li, Yu Kong, Hamid Rezatofighi|[2203.16210v1](http://arxiv.org/abs/2203.16210v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
