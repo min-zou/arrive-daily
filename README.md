@@ -79,6 +79,7 @@
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-07**|**SurroundDepth: Entangling Surrounding Views for Self-Supervised Multi-Camera Depth Estimation**|Yi Wei, Linqing Zhao, Wenzhao Zheng, Zheng Zhu, Yongming Rao, Guan Huang, Jiwen Lu, Jie Zhou|[2204.03636v1](http://arxiv.org/abs/2204.03636v1)|**[link](https://github.com/weiyithu/surrounddepth)**|
 |**2022-04-06**|**Georeferencing of Photovoltaic Modules from Aerial Infrared Videos using Structure-from-Motion**|Lukas Bommes, Claudia Buerhop-Lutz, Tobias Pickel, Jens Hauch, Christoph Brabec, Ian Marius Peters|[2204.02733v1](http://arxiv.org/abs/2204.02733v1)|**[link](https://github.com/lukasbommes/pv-hawk)**|
 |**2022-04-05**|**Depth-Guided Sparse Structure-from-Motion for Movies and TV Shows**|Sheng Liu, Xiaohan Nie, Raffay Hamid|[2204.02509v1](http://arxiv.org/abs/2204.02509v1)|**[link](https://github.com/amazon-research/small-baseline-camera-tracking)**|
 |**2022-03-30**|**Fast, Accurate and Memory-Efficient Partial Permutation Synchronization**|Shaohan Li, Yunpeng Shi, Gilad Lerman|[2203.16505v2](http://arxiv.org/abs/2203.16505v2)|null|
@@ -88,10 +89,12 @@
 |**2022-03-21**|**DiffPoseNet: Direct Differentiable Camera Pose Estimation**|Chethan M. Parameshwara, Gokul Hari, Cornelia Fermüller, Nitin J. Sanket, Yiannis Aloimonos|[2203.11174v1](http://arxiv.org/abs/2203.11174v1)|null|
 |**2022-03-02**|**Asynchronous Optimisation for Event-based Visual Odometry**|Daqi Liu, Alvaro Parra, Yasir Latif, Bo Chen, Tat-Jun Chin, Ian Reid|[2203.01037v1](http://arxiv.org/abs/2203.01037v1)|null|
 |**2022-03-02**|**Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation**|Yulun Tian, Amrit Singh Bedi, Alec Koppel, Miguel Calvo-Fullana, David M. Rosen, Jonathan P. How|[2203.00851v1](http://arxiv.org/abs/2203.00851v1)|null|
-|**2022-02-18**|**MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**|Ahmad Khaliq, Michael Milford, Sourav Garg|[2202.09146v1](http://arxiv.org/abs/2202.09146v1)|**[link](https://github.com/ahmedest61/multires-netvlad)**|
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-07**|**Pre-train, Self-train, Distill: A simple recipe for Supersizing 3D Reconstruction**|Kalyan Vasudev Alwala, Abhinav Gupta, Shubham Tulsiani|[2204.03642v1](http://arxiv.org/abs/2204.03642v1)|null|
+|**2022-04-07**|**Learning Online Multi-Sensor Depth Fusion**|Erik Sandström, Martin R. Oswald, Suryansh Kumar, Silvan Weder, Fisher Yu, Cristian Sminchisescu, Luc Van Gool|[2204.03353v1](http://arxiv.org/abs/2204.03353v1)|null|
+|**2022-04-06**|**AUV-Net: Learning Aligned UV Maps for Texture Transfer and Synthesis**|Zhiqin Chen, Kangxue Yin, Sanja Fidler|[2204.03105v1](http://arxiv.org/abs/2204.03105v1)|null|
 |**2022-04-05**|**P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior**|Vaishakh Patil, Christos Sakaridis, Alexander Liniger, Luc Van Gool|[2204.02091v1](http://arxiv.org/abs/2204.02091v1)|**[link](https://github.com/syscv/p3depth)**|
 |**2022-04-04**|**MonoTrack: Shuttle trajectory reconstruction from monocular badminton video**|Paul Liu, Jui-Hsien Wang|[2204.01899v1](http://arxiv.org/abs/2204.01899v1)|null|
 |**2022-04-03**|**BNV-Fusion: Dense 3D Reconstruction using Bi-level Neural Volume Fusion**|Kejie Li, Yansong Tang, Victor Adrian Prisacariu, Philip H. S. Torr|[2204.01139v1](http://arxiv.org/abs/2204.01139v1)|null|
@@ -99,12 +102,11 @@
 |**2022-03-31**|**A Temporal Learning Approach to Inpainting Endoscopic Specularities and Its effect on Image Correspondence**|Rema Daher, Francisco Vasconcelos, Danail Stoyanov|[2203.17013v1](http://arxiv.org/abs/2203.17013v1)|null|
 |**2022-03-30**|**HDSDF: Hybrid Directional and Signed Distance Functions for Fast Inverse Rendering**|Tarun Yenamandra, Ayush Tewari, Nan Yang, Florian Bernard, Christian Theobalt, Daniel Cremers|[2203.16284v1](http://arxiv.org/abs/2203.16284v1)|null|
 |**2022-03-29**|**Towards Learning Neural Representations from Shadows**|Kushagra Tiwary, Tzofi Klinghoffer, Ramesh Raskar|[2203.15946v1](http://arxiv.org/abs/2203.15946v1)|null|
-|**2022-03-29**|**Pop-Out Motion: 3D-Aware Image Deformation via Learning the Shape Laplacian**|Jihyun Lee, Minhyuk Sung, Hyunjin Kim, Tae-Kyun Kim|[2203.15235v1](http://arxiv.org/abs/2203.15235v1)|null|
-|**2022-03-29**|**3D Shape Reconstruction from 2D Images with Disentangled Attribute Flow**|Xin Wen, Junsheng Zhou, Yu-Shen Liu, Zhen Dong, Zhizhong Han|[2203.15190v1](http://arxiv.org/abs/2203.15190v1)|**[link](https://github.com/junshengzhou/3dattriflow)**|
-|**2022-03-28**|**DeepShadow: Neural Shape from Shadow**|Asaf Karnieli, Ohad Fried, Yacov Hel-Or|[2203.15065v1](http://arxiv.org/abs/2203.15065v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-07**|**SurroundDepth: Entangling Surrounding Views for Self-Supervised Multi-Camera Depth Estimation**|Yi Wei, Linqing Zhao, Wenzhao Zheng, Zheng Zhu, Yongming Rao, Guan Huang, Jiwen Lu, Jie Zhou|[2204.03636v1](http://arxiv.org/abs/2204.03636v1)|**[link](https://github.com/weiyithu/surrounddepth)**|
+|**2022-04-07**|**Task-Aware Active Learning for Endoscopic Image Analysis**|Shrawan Kumar Thapa, Pranav Poudel, Binod Bhattarai, Danail Stoyanov|[2204.03440v1](http://arxiv.org/abs/2204.03440v1)|null|
 |**2022-04-05**|**Depth-Guided Sparse Structure-from-Motion for Movies and TV Shows**|Sheng Liu, Xiaohan Nie, Raffay Hamid|[2204.02509v1](http://arxiv.org/abs/2204.02509v1)|**[link](https://github.com/amazon-research/small-baseline-camera-tracking)**|
 |**2022-04-05**|**Pyramid Frequency Network with Spatial Attention Residual Refinement Module for Monocular Depth Estimation**|Zhengyang Lu, Ying Chen|[2204.02386v1](http://arxiv.org/abs/2204.02386v1)|null|
 |**2022-04-05**|**P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior**|Vaishakh Patil, Christos Sakaridis, Alexander Liniger, Luc Van Gool|[2204.02091v1](http://arxiv.org/abs/2204.02091v1)|**[link](https://github.com/syscv/p3depth)**|
@@ -113,8 +115,6 @@
 |**2022-04-04**|**Improving Monocular Visual Odometry Using Learned Depth**|Libo Sun, Wei Yin, Enze Xie, Zhengrong Li, Changming Sun, Chunhua Shen|[2204.01268v1](http://arxiv.org/abs/2204.01268v1)|null|
 |**2022-04-03**|**Distortion-Aware Self-Supervised 360° Depth Estimation from A Single Equirectangular Projection Image**|Yuya Hasegawa, Ikehata Satoshi, Kiyoharu Aizawa|[2204.01027v1](http://arxiv.org/abs/2204.01027v1)|null|
 |**2022-04-03**|**BinsFormer: Revisiting Adaptive Bins for Monocular Depth Estimation**|Zhenyu Li, Xuyang Wang, Xianming Liu, Junjun Jiang|[2204.00987v1](http://arxiv.org/abs/2204.00987v1)|**[link](https://github.com/zhyever/monocular-depth-estimation-toolbox)**|
-|**2022-03-31**|**Casual 6-DoF: free-viewpoint panorama using a handheld 360 camera**|Rongsen Chen, Fang-Lue Zhang, Simon Finnie, Andrew Chalmers, Teahyun Rhee|[2203.16756v1](http://arxiv.org/abs/2203.16756v1)|null|
-|**2022-03-30**|**Towards Multimodal Depth Estimation from Light Fields**|Titus Leistner, Radek Mackowiak, Lynton Ardizzone, Ullrich Köthe, Carsten Rother|[2203.16542v2](http://arxiv.org/abs/2203.16542v2)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
