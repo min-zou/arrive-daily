@@ -3,7 +3,7 @@
 |---|---|---|---|---|
 |**2022-04-27**|**The Revisiting Problem in Simultaneous Localization and Mapping: A Survey on Visual Loop Closure Detection**|Konstantinos A. Tsintotas, Loukas Bampis, Antonios Gasteratos|[2204.12831v1](http://arxiv.org/abs/2204.12831v1)|null|
 |**2022-04-27**|**Dynamic Registration: Joint Ego Motion Estimation and 3D Moving Object Detection in Dynamic Environment**|Wenyu Li, Xinyu Zhang, Zijun Wang, Shichun Guo, Nan Qiu, Jun Li|[2204.12769v1](http://arxiv.org/abs/2204.12769v1)|null|
-|**2022-04-25**|**MLO: Multi-Object Tracking and Lidar Odometry in Dynamic Envirnoment**|Tingchen Ma, Yongsheng Ou|[2204.11621v1](http://arxiv.org/abs/2204.11621v1)|null|
+|**2022-04-25**|**MLO: Multi-Object Tracking and Lidar Odometry in Dynamic Environment**|Tingchen Ma, Yongsheng Ou|[2204.11621v2](http://arxiv.org/abs/2204.11621v2)|null|
 |**2022-04-23**|**Indoor simultaneous localization and mapping based on fringe projection profilometry**|Yang Zhao, Kai Zhang, Haotian Yu, Yi Zhang, Dongliang Zheng, Jing Han|[2204.11020v1](http://arxiv.org/abs/2204.11020v1)|null|
 |**2022-04-22**|**Enough is Enough: Towards Autonomous Uncertainty-driven Stopping Criteria**|Julio A. Placed, José A. Castellanos|[2204.10631v1](http://arxiv.org/abs/2204.10631v1)|null|
 |**2022-04-22**|**Fast Autonomous Robotic Exploration Using the Underlying Graph Structure**|Julio A. Placed, José A. Castellanos|[2204.10610v1](http://arxiv.org/abs/2204.10610v1)|null|
@@ -132,7 +132,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-04-27**|**Edge-PRUNE: Flexible Distributed Deep Learning Inference**|Jani Boutellier, Bo Tan, Jari Nurmi|[2204.12947v1](http://arxiv.org/abs/2204.12947v1)|null|
-|**2022-04-25**|**MLO: Multi-Object Tracking and Lidar Odometry in Dynamic Envirnoment**|Tingchen Ma, Yongsheng Ou|[2204.11621v1](http://arxiv.org/abs/2204.11621v1)|null|
+|**2022-04-25**|**MLO: Multi-Object Tracking and Lidar Odometry in Dynamic Environment**|Tingchen Ma, Yongsheng Ou|[2204.11621v2](http://arxiv.org/abs/2204.11621v2)|null|
 |**2022-04-25**|**Single Object Tracking Research: A Survey**|Ruize Han, Wei Feng, Qing Guo, Qinghua Hu|[2204.11410v1](http://arxiv.org/abs/2204.11410v1)|null|
 |**2022-04-22**|**Improving tracking with a tracklet associator**|Rémi Nahon, Guillaume-Alexandre Bilodeau, Gilles Pesant|[2204.10677v1](http://arxiv.org/abs/2204.10677v1)|null|
 |**2022-04-19**|**Multi-Camera Multiple 3D Object Tracking on the Move for Autonomous Vehicles**|Pha Nguyen, Kha Gia Quach, Chi Nhan Duong, Ngan Le, Xuan-Bac Nguyen, Khoa Luu|[2204.09151v1](http://arxiv.org/abs/2204.09151v1)|null|
