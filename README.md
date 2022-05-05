@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-03**|**GeoRefine: Self-Supervised Online Depth Refinement for Accurate Dense Mapping**|Pan Ji, Qingan Yan, Yuxin Ma, Yi Xu|[2205.01656v1](http://arxiv.org/abs/2205.01656v1)|null|
 |**2022-04-29**|**Struct-MDC: Mesh-Refined Unsupervised Depth Completion Leveraging Structural Regularities from Visual SLAM**|Jinwoo Jeon, Hyunjun Lim, Dong-Uk Seo, Hyun Myung|[2204.13877v1](http://arxiv.org/abs/2204.13877v1)|**[link](https://github.com/url-kaist/Struct-MDC)**|
 |**2022-04-27**|**The Revisiting Problem in Simultaneous Localization and Mapping: A Survey on Visual Loop Closure Detection**|Konstantinos A. Tsintotas, Loukas Bampis, Antonios Gasteratos|[2204.12831v1](http://arxiv.org/abs/2204.12831v1)|null|
 |**2022-04-27**|**Dynamic Registration: Joint Ego Motion Estimation and 3D Moving Object Detection in Dynamic Environment**|Wenyu Li, Xinyu Zhang, Zijun Wang, Shichun Guo, Nan Qiu, Jun Li|[2204.12769v1](http://arxiv.org/abs/2204.12769v1)|null|
@@ -10,7 +11,6 @@
 |**2022-04-22**|**Fast Autonomous Robotic Exploration Using the Underlying Graph Structure**|Julio A. Placed, José A. Castellanos|[2204.10610v1](http://arxiv.org/abs/2204.10610v1)|null|
 |**2022-04-22**|**Making Parameterization and Constrains of Object Landmark Globally Consistent via SPD(3) Manifold and Improved Cost Functions**|Yutong Hu, Wei Wang|[2204.10552v1](http://arxiv.org/abs/2204.10552v1)|null|
 |**2022-04-22**|**Implicit Object Mapping With Noisy Data**|Jad Abou-Chakra, Feras Dayoub, Niko Sünderhauf|[2204.10516v1](http://arxiv.org/abs/2204.10516v1)|null|
-|**2022-04-19**|**Photometric single-view dense 3D reconstruction in endoscopy**|Victor M. Batlle, J. M. M. Montiel, Juan D. Tardos|[2204.09083v1](http://arxiv.org/abs/2204.09083v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-03**|**Multi-view Geometry: Correspondences Refinement Based on Algebraic Properties**|Trung-Kien Le, Ping Li|[2205.01634v1](http://arxiv.org/abs/2205.01634v1)|null|
 |**2022-05-02**|**Monocular 3D Fingerprint Reconstruction and Unwarping**|Zhe Cui, Jianjiang Feng, Jie Zhou|[2205.00967v1](http://arxiv.org/abs/2205.00967v1)|null|
 |**2022-04-30**|**Computational Miniature Mesoscope V2: A deep learning-augmented miniaturized microscope for single-shot 3D high-resolution fluorescence imaging**|Yujia Xue, Qianwan Yang, Guorong Hu, Kehan Guo, Lei Tian|[2205.00123v1](http://arxiv.org/abs/2205.00123v1)|null|
 |**2022-04-29**|**EndoMapper dataset of complete calibrated endoscopy procedures**|Pablo Azagra, Carlos Sostres, Ángel Ferrandez, Luis Riazuelo, Clara Tomasini, Oscar León Barbed, Javier Morlana, David Recasens, Victor M. Batlle, Juan J. Gómez-Rodríguez, Richard Elvira, Julia López, Cristina Oriol, Javier Civera, Juan D. Tardós, Ana Cristina Murillo, Angel Lanas, José M. M. Montiel|[2204.14240v1](http://arxiv.org/abs/2204.14240v1)|null|
@@ -101,10 +102,11 @@
 |**2022-04-27**|**Power Bundle Adjustment for Large-Scale 3D Reconstruction**|Simon Weber, Nikolaus Demmel, Tin Chon Chan, Daniel Cremers|[2204.12834v2](http://arxiv.org/abs/2204.12834v2)|null|
 |**2022-04-25**|**The Galactic 3D large-scale dust distribution via Gaussian process regression on spherical coordinates**|R. H. Leike, G. Edenhofer, J. Knollmüller, C. Alig, P. Frank, T. A. Enßlin|[2204.11715v1](http://arxiv.org/abs/2204.11715v1)|null|
 |**2022-04-24**|**EMOCA: Emotion Driven Monocular Face Capture and Animation**|Radek Danecek, Michael J. Black, Timo Bolkart|[2204.11312v1](http://arxiv.org/abs/2204.11312v1)|**[link](https://github.com/radekd91/emoca)**|
-|**2022-04-21**|**SmartPortraits: Depth Powered Handheld Smartphone Dataset of Human Portraits for State Estimation, Reconstruction and Synthesis**|Anastasiia Kornilova, Marsel Faizullin, Konstantin Pakulev, Andrey Sadkov, Denis Kukushkin, Azat Akhmetyanov, Timur Akhtyamov, Hekmat Taherinejad, Gonzalo Ferrer|[2204.10211v1](http://arxiv.org/abs/2204.10211v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-03**|**3D Semantic Scene Perception using Distributed Smart Edge Sensors**|Simon Bultmann, Sven Behnke|[2205.01460v1](http://arxiv.org/abs/2205.01460v1)|**[link](https://github.com/ais-bonn/jetsontrtperception)**|
+|**2022-05-03**|**Outdoor Monocular Depth Estimation: A Research Review**|Pulkit Vyas, Chirag Saxena, Anwesh Badapanda, Anurag Goswami|[2205.01399v1](http://arxiv.org/abs/2205.01399v1)|null|
 |**2022-05-02**|**MUTR3D: A Multi-camera Tracking Framework via 3D-to-2D Queries**|Tianyuan Zhang, Xuanyao Chen, Yue Wang, Yilun Wang, Hang Zhao|[2205.00613v1](http://arxiv.org/abs/2205.00613v1)|null|
 |**2022-04-30**|**Unsupervised Visible-light Images Guided Cross-Spectrum Depth Estimation from Dual-Modality Cameras**|Yubin Guo, Haobo Jiang, Xinlei Qi, Jin Xie, Cheng-Zhong Xu, Hui Kong|[2205.00257v1](http://arxiv.org/abs/2205.00257v1)|null|
 |**2022-04-29**|**SideRT: A Real-time Pure Transformer Architecture for Single Image Depth Estimation**|Chang Shu, Ziming Chen, Lei Chen, Kuan Ma, Minghui Wang, Haibing Ren|[2204.13892v1](http://arxiv.org/abs/2204.13892v1)|null|
@@ -113,8 +115,6 @@
 |**2022-04-24**|**Simulating Fluids in Real-World Still Images**|Siming Fan, Jingtan Piao, Chen Qian, Kwan-Yee Lin, Hongsheng Li|[2204.11335v1](http://arxiv.org/abs/2204.11335v1)|**[link](https://github.com/simon3dv/slr-sfs)**|
 |**2022-04-24**|**RealNet: Combining Optimized Object Detection with Information Fusion Depth Estimation Co-Design Method on IoT**|Zhuohao Li, Fandi Gou, Qixin De, Leqi Ding, Yuanhang Zhang, Yunze Cai|[2204.11216v1](http://arxiv.org/abs/2204.11216v1)|**[link](https://github.com/edithlzh/VNL_Estimation)**|
 |**2022-04-23**|**Investigating Neural Architectures by Synthetic Dataset Design**|Adrien Courtois, Jean-Michel Morel, Pablo Arias|[2204.11045v1](http://arxiv.org/abs/2204.11045v1)|**[link](https://github.com/AdrienCourtois/neural-networks-properties)**|
-|**2022-04-21**|**Monocular Depth Estimation Using Cues Inspired by Biological Vision Systems**|Dylan Auty, Krystian Mikolajczyk|[2204.10384v1](http://arxiv.org/abs/2204.10384v1)|**[link](https://github.com/dylanauty/mde-biological-vision-systems)**|
-|**2022-04-19**|**Photometric single-view dense 3D reconstruction in endoscopy**|Victor M. Batlle, J. M. M. Montiel, Juan D. Tardos|[2204.09083v1](http://arxiv.org/abs/2204.09083v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-03**|**Cross-Domain Object Detection with Mean-Teacher Transformer**|Jinze Yu, Jiaming Liu, Xiaobao Wei, Haoyi Zhou, Yohei Nakata, Denis Gudovskiy, Tomoyuki Okuno, Jianxin Li, Kurt Keutzer, Shanghang Zhang|[2205.01643v1](http://arxiv.org/abs/2205.01643v1)|null|
 |**2022-05-01**|**The Best of Both Worlds: Combining Model-based and Nonparametric Approaches for 3D Human Body Estimation**|Zhe Wang, Jimei Yang, Charless Fowlkes|[2205.00508v1](http://arxiv.org/abs/2205.00508v1)|null|
 |**2022-04-28**|**Poly-CAM: High resolution class activation map for convolutional neural networks**|Alexandre Englebert, Olivier Cornu, Christophe De Vleeschouwer|[2204.13359v1](http://arxiv.org/abs/2204.13359v1)|null|
 |**2022-04-28**|**Spatio-Temporal Graph Localization Networks for Image-based Navigation**|Takahiro Niwa, Shun Taguchi, Noriaki Hirose|[2204.13237v1](http://arxiv.org/abs/2204.13237v1)|null|
@@ -192,7 +193,6 @@
 |**2022-04-21**|**Transformer-Guided Convolutional Neural Network for Cross-View Geolocalization**|Teng Wang, Shujuan Fan, Daikun Liu, Changyin Sun|[2204.09967v1](http://arxiv.org/abs/2204.09967v1)|null|
 |**2022-04-19**|**Self-Calibrated Efficient Transformer for Lightweight Super-Resolution**|Wenbin Zou, Tian Ye, Weixin Zheng, Yunchen Zhang, Liang Chen, Yi Wu|[2204.08913v1](http://arxiv.org/abs/2204.08913v1)|**[link](https://github.com/alexzou14/scet)**|
 |**2022-04-18**|**Tracking monocular camera pose and deformation for SLAM inside the human body**|Juan J. Gomez Rodriguez, J. M. M Montiel, Juan D. Tardos|[2204.08309v1](http://arxiv.org/abs/2204.08309v1)|null|
-|**2022-04-14**|**Residual Swin Transformer Channel Attention Network for Image Demosaicing**|Wenzhu Xing, Karen Egiazarian|[2204.07098v1](http://arxiv.org/abs/2204.07098v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
