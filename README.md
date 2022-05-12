@@ -1,7 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-05-09**|**Multi-modal Semantic SLAM for Complex Dynamic Environments**|Jing Ying Ko, Han Wang, Lihua Xie|[2205.04300v1](http://arxiv.org/abs/2205.04300v1)|null|
+|**2022-05-09**|**Multi-modal Semantic SLAM for Complex Dynamic Environments**|Jing Ying Ko, Han Wang, Lihua Xie|[2205.04300v1](http://arxiv.org/abs/2205.04300v1)|**[link](https://github.com/wh200720041/mms_slam)**|
 |**2022-05-06**|**OROS: Orchestrating ROS-driven Collaborative Connected Robots in Mission-Critical Operations**|Carmen Delgado, Lanfranco Zanzi, Xi Li, Xavier Costa-Pérez|[2205.03256v1](http://arxiv.org/abs/2205.03256v1)|null|
 |**2022-05-05**|**CNN-Augmented Visual-Inertial SLAM with Planar Constraints**|Pan Ji, Yuan Tian, Qingan Yan, Yuxin Ma, Yi Xu|[2205.02940v1](http://arxiv.org/abs/2205.02940v1)|null|
 |**2022-05-05**|**PMBM-based SLAM Filters in 5G mmWave Vehicular Networks**|Hyowon Kim, Karl Granström, Lennart Svensson, Sunwoo Kim, Henk Wymeersch|[2205.02502v1](http://arxiv.org/abs/2205.02502v1)|null|
@@ -79,6 +79,7 @@
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-09**|**Is my Depth Ground-Truth Good Enough? HAMMER -- Highly Accurate Multi-Modal Dataset for DEnse 3D Scene Regression**|HyunJun Jung, Patrick Ruhkamp, Guangyao Zhai, Nikolas Brasch, Yitong Li, Yannick Verdie, Jifei Song, Yiren Zhou, Anil Armagan, Slobodan Ilic, Ales Leonardis, Benjamin Busam|[2205.04565v1](http://arxiv.org/abs/2205.04565v1)|null|
 |**2022-05-07**|**Optimizing Terrain Mapping and Landing Site Detection for Autonomous UAVs**|Pedro F. Proença, Jeff Delaune, Roland Brockers|[2205.03522v1](http://arxiv.org/abs/2205.03522v1)|null|
 |**2022-05-06**|**EVIMO2: An Event Camera Dataset for Motion Segmentation, Optical Flow, Structure from Motion, and Visual Inertial Odometry in Indoor Scenes with Monocular or Stereo Algorithms**|Levi Burner, Anton Mitrokhin, Cornelia Fermüller, Yiannis Aloimonos|[2205.03467v1](http://arxiv.org/abs/2205.03467v1)|null|
 |**2022-04-20**|**Learned Monocular Depth Priors in Visual-Inertial Initialization**|Yunwen Zhou, Abhishek Kar, Eric Turner, Adarsh Kowdle, Chao X. Guo, Ryan C. DuToit, Konstantine Tsotsos|[2204.09171v1](http://arxiv.org/abs/2204.09171v1)|null|
@@ -88,7 +89,6 @@
 |**2022-04-06**|**Georeferencing of Photovoltaic Modules from Aerial Infrared Videos using Structure-from-Motion**|Lukas Bommes, Claudia Buerhop-Lutz, Tobias Pickel, Jens Hauch, Christoph Brabec, Ian Marius Peters|[2204.02733v1](http://arxiv.org/abs/2204.02733v1)|**[link](https://github.com/lukasbommes/pv-hawk)**|
 |**2022-04-05**|**Depth-Guided Sparse Structure-from-Motion for Movies and TV Shows**|Sheng Liu, Xiaohan Nie, Raffay Hamid|[2204.02509v1](http://arxiv.org/abs/2204.02509v1)|**[link](https://github.com/amazon-research/small-baseline-camera-tracking)**|
 |**2022-03-30**|**Fast, Accurate and Memory-Efficient Partial Permutation Synchronization**|Shaohan Li, Yunpeng Shi, Gilad Lerman|[2203.16505v2](http://arxiv.org/abs/2203.16505v2)|null|
-|**2022-03-28**|**Visual Odometry for RGB-D Cameras**|Afonso Fontes, Jose Everardo Bessa Maia|[2203.15119v1](http://arxiv.org/abs/2203.15119v1)|null|
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -105,6 +105,7 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-09**|**Is my Depth Ground-Truth Good Enough? HAMMER -- Highly Accurate Multi-Modal Dataset for DEnse 3D Scene Regression**|HyunJun Jung, Patrick Ruhkamp, Guangyao Zhai, Nikolas Brasch, Yitong Li, Yannick Verdie, Jifei Song, Yiren Zhou, Anil Armagan, Slobodan Ilic, Ales Leonardis, Benjamin Busam|[2205.04565v1](http://arxiv.org/abs/2205.04565v1)|null|
 |**2022-05-05**|**FisheyeDistill: Self-Supervised Monocular Depth Estimation with Ordinal Distillation for Fisheye Cameras**|Qingan Yan, Pan Ji, Nitin Bansal, Yuxin Ma, Yuan Tian, Yi Xu|[2205.02930v1](http://arxiv.org/abs/2205.02930v1)|null|
 |**2022-05-05**|**Exploiting Correspondences with All-pairs Correlations for Multi-view Depth Estimation**|Kai Cheng, Hao Chen, Wei Yin, Guangkai Xu, Xuejin Chen|[2205.02481v1](http://arxiv.org/abs/2205.02481v1)|null|
 |**2022-05-03**|**3D Semantic Scene Perception using Distributed Smart Edge Sensors**|Simon Bultmann, Sven Behnke|[2205.01460v1](http://arxiv.org/abs/2205.01460v1)|**[link](https://github.com/ais-bonn/jetsontrtperception)**|
@@ -114,7 +115,6 @@
 |**2022-04-29**|**SideRT: A Real-time Pure Transformer Architecture for Single Image Depth Estimation**|Chang Shu, Ziming Chen, Lei Chen, Kuan Ma, Minghui Wang, Haibing Ren|[2204.13892v1](http://arxiv.org/abs/2204.13892v1)|null|
 |**2022-04-28**|**Depth Estimation with Simplified Transformer**|John Yang, Le An, Anurag Dixit, Jinkyu Koo, Su Inn Park|[2204.13791v1](http://arxiv.org/abs/2204.13791v1)|null|
 |**2022-04-28**|**Semi-MoreGAN: A New Semi-supervised Generative Adversarial Network for Mixture of Rain Removal**|Yiyang Shen, Yongzhen Wang, Mingqiang Wei, Honghua Chen, Haoran Xie, Gary Cheng, Fu Lee Wang|[2204.13420v1](http://arxiv.org/abs/2204.13420v1)|null|
-|**2022-04-24**|**Simulating Fluids in Real-World Still Images**|Siming Fan, Jingtan Piao, Chen Qian, Kwan-Yee Lin, Hongsheng Li|[2204.11335v1](http://arxiv.org/abs/2204.11335v1)|**[link](https://github.com/simon3dv/slr-sfs)**|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
