@@ -53,6 +53,7 @@
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-16**|**ReDFeat: Recoupling Detection and Description for Multimodal Feature Learning**|Yuxin Deng, Jiayi Ma|[2205.07439v1](http://arxiv.org/abs/2205.07439v1)|null|
 |**2022-05-06**|**BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching**|Jingwei Song, Qiuchen Zhu, Jianyu Lin, Maani Ghaffari|[2205.03133v1](http://arxiv.org/abs/2205.03133v1)|**[link](https://github.com/jingweisong/bdis-v2)**|
 |**2022-05-05**|**AdaTriplet: Adaptive Gradient Triplet Loss with Automatic Margin Learning for Forensic Medical Image Matching**|Khanh Nguyen, Huy Hoang Nguyen, Aleksei Tiulpin|[2205.02849v2](http://arxiv.org/abs/2205.02849v2)|**[link](https://github.com/oulu-imeds/adatriplet)**|
 |**2022-04-27**|**Gleo-Det: Deep Convolution Feature-Guided Detector with Local Entropy Optimization for Salient Points**|Chao Li, Yanan You, Wenli Zhou|[2204.12884v1](http://arxiv.org/abs/2204.12884v1)|null|
@@ -62,7 +63,6 @@
 |**2022-04-19**|**Self-Supervised Equivariant Learning for Oriented Keypoint Detection**|Jongmin Lee, Byungjin Kim, Minsu Cho|[2204.08613v1](http://arxiv.org/abs/2204.08613v1)|null|
 |**2022-04-08**|**Lightweight starshade position sensing with convolutional neural networks and simulation-based inference**|Andrew Chen, Anthony Harness, Peter Melchior|[2204.03853v1](http://arxiv.org/abs/2204.03853v1)|**[link](https://github.com/astro-data-lab/starshade-xy)**|
 |**2022-03-30**|**AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift**|Burak Yildiz, Seyran Khademi, Ronald Maria Siebes, Jan van Gemert|[2203.16291v1](http://arxiv.org/abs/2203.16291v1)|null|
-|**2022-03-29**|**Photographic Visualization of Weather Forecasts with Generative Adversarial Networks**|Christian Sigg, Flavia Cavallaro, Tobias Günther, Martin R. Oswald|[2203.15601v1](http://arxiv.org/abs/2203.15601v1)|null|
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -93,7 +93,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-05-12**|**Topologically-Aware Deformation Fields for Single-View 3D Reconstruction**|Shivam Duggal, Deepak Pathak|[2205.06267v1](http://arxiv.org/abs/2205.06267v1)|null|
-|**2022-05-11**|**Deep Depth Completion: A Survey**|Junjie Hu, Chenyu Bao, Mete Ozay, Chenyou Fan, Qing Gao, Honghai Liu, Tin Lun Lam|[2205.05335v1](http://arxiv.org/abs/2205.05335v1)|null|
+|**2022-05-11**|**Deep Depth Completion: A Survey**|Junjie Hu, Chenyu Bao, Mete Ozay, Chenyou Fan, Qing Gao, Honghai Liu, Tin Lun Lam|[2205.05335v2](http://arxiv.org/abs/2205.05335v2)|null|
 |**2022-05-07**|**A Review on Viewpoints and Path-planning for UAV-based 3D Reconstruction**|Mehdi Maboudi, MohammadReza Homaei, Soohwan Song, Shirin Malihi, Mohammad Saadatseresht, Markus Gerke|[2205.03716v1](http://arxiv.org/abs/2205.03716v1)|null|
 |**2022-05-06**|**Multi-view Point Cloud Registration based on Evolutionary Multitasking with Bi-Channel Knowledge Sharing Mechanism**|Yue Wu, Yibo Liu, Maoguo Gong, Hao Li, Zedong Tang, Qiguang Miao, Wenping Ma|[2205.02996v1](http://arxiv.org/abs/2205.02996v1)|null|
 |**2022-05-05**|**Neural 3D Scene Reconstruction with the Manhattan-world Assumption**|Haoyu Guo, Sida Peng, Haotong Lin, Qianqian Wang, Guofeng Zhang, Hujun Bao, Xiaowei Zhou|[2205.02836v1](http://arxiv.org/abs/2205.02836v1)|**[link](https://github.com/zju3dv/manhattan_sdf)**|
