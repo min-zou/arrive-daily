@@ -2,7 +2,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-05-17**|**Global Data Association for SLAM with 3D Grassmannian Manifold Objects**|Parker C. Lusk, Jonathan P. How|[2205.08556v1](http://arxiv.org/abs/2205.08556v1)|null|
-|**2022-05-17**|**Cluster on Wheels**|Yuanyuan Yang, Delin Feng, Sören Schwertfeger|[2205.08151v1](http://arxiv.org/abs/2205.08151v1)|null|
+|**2022-05-17**|**Cluster on Wheels**|Yuanyuan Yang, Delin Feng, Sören Schwertfeger|[2205.08151v2](http://arxiv.org/abs/2205.08151v2)|null|
 |**2022-05-12**|**Dynamic Dense RGB-D SLAM using Learning-based Visual Odometry**|Shihao Shen, Yilin Cai, Jiayi Qiu, Guangzhao Li|[2205.05916v1](http://arxiv.org/abs/2205.05916v1)|**[link](https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo)**|
 |**2022-05-12**|**S3E-GNN: Sparse Spatial Scene Embedding with Graph Neural Networks for Camera Relocalization**|Ran Cheng, Xinyu Jiang, Yuan Chen, Lige Liu, Tao Sun|[2205.05861v1](http://arxiv.org/abs/2205.05861v1)|null|
 |**2022-05-09**|**Multi-modal Semantic SLAM for Complex Dynamic Environments**|Han Wang, Jing Ying Ko, Lihua Xie|[2205.04300v2](http://arxiv.org/abs/2205.04300v2)|**[link](https://github.com/wh200720041/mms_slam)**|
@@ -105,6 +105,7 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-19**|**Diversity Matters: Fully Exploiting Depth Clues for Reliable Monocular 3D Object Detection**|Zhuoling Li, Zhan Qu, Yang Zhou, Jianzhuang Liu, Haoqian Wang, Lihui Jiang|[2205.09373v1](http://arxiv.org/abs/2205.09373v1)|null|
 |**2022-05-18**|**Positional Information is All You Need: A Novel Pipeline for Self-Supervised SVDE from Videos**|Juan Luis Gonzalez Bello, Jaeho Moon, Munchurl Kim|[2205.08851v1](http://arxiv.org/abs/2205.08851v1)|null|
 |**2022-05-18**|**Visual Attention-based Self-supervised Absolute Depth Estimation using Geometric Priors in Autonomous Driving**|Jie Xiang, Yun Wang, Lifeng An, Haiyang Liu, Zijun Wang, Jian Liu|[2205.08780v1](http://arxiv.org/abs/2205.08780v1)|null|
 |**2022-05-18**|**Learning Monocular Depth Estimation via Selective Distillation of Stereo Knowledge**|Kyeongseob Song, Kuk-Jin Yoon|[2205.08668v1](http://arxiv.org/abs/2205.08668v1)|null|
@@ -114,7 +115,6 @@
 |**2022-05-09**|**Is my Depth Ground-Truth Good Enough? HAMMER -- Highly Accurate Multi-Modal Dataset for DEnse 3D Scene Regression**|HyunJun Jung, Patrick Ruhkamp, Guangyao Zhai, Nikolas Brasch, Yitong Li, Yannick Verdie, Jifei Song, Yiren Zhou, Anil Armagan, Slobodan Ilic, Ales Leonardis, Benjamin Busam|[2205.04565v1](http://arxiv.org/abs/2205.04565v1)|null|
 |**2022-05-05**|**FisheyeDistill: Self-Supervised Monocular Depth Estimation with Ordinal Distillation for Fisheye Cameras**|Qingan Yan, Pan Ji, Nitin Bansal, Yuxin Ma, Yuan Tian, Yi Xu|[2205.02930v1](http://arxiv.org/abs/2205.02930v1)|null|
 |**2022-05-05**|**Exploiting Correspondences with All-pairs Correlations for Multi-view Depth Estimation**|Kai Cheng, Hao Chen, Wei Yin, Guangkai Xu, Xuejin Chen|[2205.02481v1](http://arxiv.org/abs/2205.02481v1)|null|
-|**2022-05-03**|**3D Semantic Scene Perception using Distributed Smart Edge Sensors**|Simon Bultmann, Sven Behnke|[2205.01460v1](http://arxiv.org/abs/2205.01460v1)|**[link](https://github.com/ais-bonn/jetsontrtperception)**|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-19**|**Domain Enhanced Arbitrary Image Style Transfer via Contrastive Learning**|Yuxin Zhang, Fan Tang, Weiming Dong, Haibin Huang, Chongyang Ma, Tong-Yee Lee, Changsheng Xu|[2205.09542v1](http://arxiv.org/abs/2205.09542v1)|null|
 |**2022-05-11**|**Wasserstein Image Local Analysis: Histogram of Orientations, Smoothing and Edge Detection**|Jiening Zhu, Harini Veeraraghavan, Larry Norton, Joseph O. Deasy, Allen Tannenbaum|[2205.05606v1](http://arxiv.org/abs/2205.05606v1)|null|
 |**2022-05-08**|**Transformer Tracking with Cyclic Shifting Window Attention**|Zikai Song, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang|[2205.03806v1](http://arxiv.org/abs/2205.03806v1)|**[link](https://github.com/skyesong38/cswintt)**|
 |**2022-05-06**|**Comparative Analysis of Non-Blind Deblurring Methods for Noisy Blurred Images**|Poorna Banerjee Dasgupta|[2205.03464v1](http://arxiv.org/abs/2205.03464v1)|null|
@@ -192,7 +193,6 @@
 |**2022-05-05**|**Image Features Influence Reaction Time: A Learned Probabilistic Perceptual Model for Saccade Latency**|Budmonde Duinkharjav, Praneeth Chakravarthula, Rachel Brown, Anjul Patney, Qi Sun|[2205.02437v1](http://arxiv.org/abs/2205.02437v1)|null|
 |**2022-05-03**|**Detection of Propaganda Techniques in Visuo-Lingual Metaphor in Memes**|Sunil Gundapu, Radhika Mamidi|[2205.02937v1](http://arxiv.org/abs/2205.02937v1)|null|
 |**2022-05-03**|**Cross-Domain Object Detection with Mean-Teacher Transformer**|Jinze Yu, Jiaming Liu, Xiaobao Wei, Haoyi Zhou, Yohei Nakata, Denis Gudovskiy, Tomoyuki Okuno, Jianxin Li, Kurt Keutzer, Shanghang Zhang|[2205.01643v1](http://arxiv.org/abs/2205.01643v1)|null|
-|**2022-05-01**|**The Best of Both Worlds: Combining Model-based and Nonparametric Approaches for 3D Human Body Estimation**|Zhe Wang, Jimei Yang, Charless Fowlkes|[2205.00508v1](http://arxiv.org/abs/2205.00508v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
