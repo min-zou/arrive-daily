@@ -1,7 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-05-26**|**LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**|Yun Chang, Kamak Ebadi, Christopher E. Denniston, Muhammad Fadhil Ginting, Antoni Rosinol, Andrzej Reinke, Matteo Palieri, Jingnan Shi, Arghya Chatterjee, Benjamin Morrell, Ali-akbar Agha-mohammadi, Luca Carlone|[2205.13135v1](http://arxiv.org/abs/2205.13135v1)|null|
+|**2022-05-27**|**A Look at Improving Robustness in Visual-inertial SLAM by Moment Matching**|Arno Solin, Rui Li, Andrea Pilzer|[2205.13821v1](http://arxiv.org/abs/2205.13821v1)|null|
+|**2022-05-26**|**LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**|Yun Chang, Kamak Ebadi, Christopher E. Denniston, Muhammad Fadhil Ginting, Antoni Rosinol, Andrzej Reinke, Matteo Palieri, Jingnan Shi, Arghya Chatterjee, Benjamin Morrell, Ali-akbar Agha-mohammadi, Luca Carlone|[2205.13135v1](http://arxiv.org/abs/2205.13135v1)|**[link](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**|
 |**2022-05-25**|**Wildcat: Online Continuous-Time 3D Lidar-Inertial SLAM**|Milad Ramezani, Kasra Khosoussi, Gavin Catt, Peyman Moghadam, Jason Williams, Paulo Borges, Fred Pauling, Navinda Kottege|[2205.12595v1](http://arxiv.org/abs/2205.12595v1)|null|
 |**2022-05-24**|**Loop Closure Prioritization for Efficient and Scalable Multi-Robot SLAM**|Christopher E. Denniston, Yun Chang, Andrzej Reinke, Kamak Ebadi, Gaurav S. Sukhatme, Luca Carlone, Benjamin Morrell, Ali-akbar Agha-mohammadi|[2205.12402v1](http://arxiv.org/abs/2205.12402v1)|null|
 |**2022-05-22**|**ALITA: A Large-scale Incremental Dataset for Long-term Autonomy**|Peng Yin, Shiqi Zhao, Ruohai Ge, Ivan Cisneros, Ruijie Fu, Ji Zhang, Howie Choset, Sebastian Scherer|[2205.10737v1](http://arxiv.org/abs/2205.10737v1)|**[link](https://github.com/metaslam/alita)**|
@@ -10,7 +11,6 @@
 |**2022-05-17**|**Cluster on Wheels**|Yuanyuan Yang, Delin Feng, Sören Schwertfeger|[2205.08151v2](http://arxiv.org/abs/2205.08151v2)|null|
 |**2022-05-12**|**Dynamic Dense RGB-D SLAM using Learning-based Visual Odometry**|Shihao Shen, Yilin Cai, Jiayi Qiu, Guangzhao Li|[2205.05916v1](http://arxiv.org/abs/2205.05916v1)|**[link](https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo)**|
 |**2022-05-12**|**S3E-GNN: Sparse Spatial Scene Embedding with Graph Neural Networks for Camera Relocalization**|Ran Cheng, Xinyu Jiang, Yuan Chen, Lige Liu, Tao Sun|[2205.05861v1](http://arxiv.org/abs/2205.05861v1)|null|
-|**2022-05-09**|**Multi-modal Semantic SLAM for Complex Dynamic Environments**|Han Wang, Jing Ying Ko, Lihua Xie|[2205.04300v2](http://arxiv.org/abs/2205.04300v2)|**[link](https://github.com/wh200720041/mms_slam)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -53,6 +53,7 @@
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-27**|**Fine-tuning deep learning models for stereo matching using results from semi-global matching**|Hessah Albanwan, Rongjun Qin|[2205.14051v1](http://arxiv.org/abs/2205.14051v1)|null|
 |**2022-05-23**|**TransforMatcher: Match-to-Match Attention for Semantic Correspondence**|Seungwook Kim, Juhong Min, Minsu Cho|[2205.11634v1](http://arxiv.org/abs/2205.11634v1)|null|
 |**2022-05-16**|**ReDFeat: Recoupling Detection and Description for Multimodal Feature Learning**|Yuxin Deng, Jiayi Ma|[2205.07439v1](http://arxiv.org/abs/2205.07439v1)|null|
 |**2022-05-06**|**BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching**|Jingwei Song, Qiuchen Zhu, Jianyu Lin, Maani Ghaffari|[2205.03133v1](http://arxiv.org/abs/2205.03133v1)|**[link](https://github.com/jingweisong/bdis-v2)**|
@@ -62,7 +63,6 @@
 |**2022-04-20**|**Uncertainty-based Cross-Modal Retrieval with Probabilistic Representations**|Leila Pishdad, Ran Zhang, Konstantinos G. Derpanis, Allan Jepson, Afsaneh Fazly|[2204.09268v1](http://arxiv.org/abs/2204.09268v1)|null|
 |**2022-04-19**|**OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching**|Ostap Viniavskyi, Mariia Dobko, Dmytro Mishkin, Oles Dobosevych|[2204.08870v1](http://arxiv.org/abs/2204.08870v1)|**[link](https://github.com/ucuapps/openglue)**|
 |**2022-04-19**|**Self-Supervised Equivariant Learning for Oriented Keypoint Detection**|Jongmin Lee, Byungjin Kim, Minsu Cho|[2204.08613v1](http://arxiv.org/abs/2204.08613v1)|null|
-|**2022-04-08**|**Lightweight starshade position sensing with convolutional neural networks and simulation-based inference**|Andrew Chen, Anthony Harness, Peter Melchior|[2204.03853v1](http://arxiv.org/abs/2204.03853v1)|**[link](https://github.com/astro-data-lab/starshade-xy)**|
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -105,7 +105,7 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-05-26**|**Revealing the Dark Secrets of Masked Image Modeling**|Zhenda Xie, Zigang Geng, Jingcheng Hu, Zheng Zhang, Han Hu, Yue Cao|[2205.13543v1](http://arxiv.org/abs/2205.13543v1)|null|
+|**2022-05-26**|**Revealing the Dark Secrets of Masked Image Modeling**|Zhenda Xie, Zigang Geng, Jingcheng Hu, Zheng Zhang, Han Hu, Yue Cao|[2205.13543v2](http://arxiv.org/abs/2205.13543v2)|null|
 |**2022-05-24**|**Wavelet Feature Maps Compression for Image-to-Image CNNs**|Shahaf E. Finder, Yair Zohav, Maor Ashkenazi, Eran Treister|[2205.12268v1](http://arxiv.org/abs/2205.12268v1)|null|
 |**2022-05-24**|**Single-View View Synthesis in the Wild with Learned Adaptive Multiplane Images**|Yuxuan Han, Ruicheng Wang, Jiaolong Yang|[2205.11733v1](http://arxiv.org/abs/2205.11733v1)|null|
 |**2022-05-23**|**MonoFormer: Towards Generalization of self-supervised monocular depth estimation with Transformers**|Jinwoo Bae, Sungho Moon, Sunghoon Im|[2205.11083v1](http://arxiv.org/abs/2205.11083v1)|null|
@@ -131,7 +131,8 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-05-26**|**Revealing the Dark Secrets of Masked Image Modeling**|Zhenda Xie, Zigang Geng, Jingcheng Hu, Zheng Zhang, Han Hu, Yue Cao|[2205.13543v1](http://arxiv.org/abs/2205.13543v1)|null|
+|**2022-05-26**|**Predictor-corrector algorithms for stochastic optimization under gradual distribution shift**|Subha Maity, Debarghya Mukherjee, Moulinath Banerjee, Yuekai Sun|[2205.13575v1](http://arxiv.org/abs/2205.13575v1)|null|
+|**2022-05-26**|**Revealing the Dark Secrets of Masked Image Modeling**|Zhenda Xie, Zigang Geng, Jingcheng Hu, Zheng Zhang, Han Hu, Yue Cao|[2205.13543v2](http://arxiv.org/abs/2205.13543v2)|null|
 |**2022-05-22**|**Recent Advances in Embedding Methods for Multi-Object Tracking: A Survey**|Gaoang Wang, Mingli Song, Jenq-Neng Hwang|[2205.10766v1](http://arxiv.org/abs/2205.10766v1)|null|
 |**2022-05-22**|**Real Time Detection Free Tracking of Multiple Objects Via Equilibrium Optimizer**|Djemai Charef-Khodja, Toumi Abida|[2205.10756v2](http://arxiv.org/abs/2205.10756v2)|null|
 |**2022-05-21**|**Towards real-time and energy efficient Siamese tracking -- a hardware-software approach**|Dominika Przewlocka-Rus, Tomasz Kryjak|[2205.10653v1](http://arxiv.org/abs/2205.10653v1)|null|
@@ -140,7 +141,6 @@
 |**2022-05-09**|**Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation**|Abhijit Kundu, Kyle Genova, Xiaoqi Yin, Alireza Fathi, Caroline Pantofaru, Leonidas Guibas, Andrea Tagliasacchi, Frank Dellaert, Thomas Funkhouser|[2205.04334v1](http://arxiv.org/abs/2205.04334v1)|null|
 |**2022-05-09**|**Siamese Object Tracking for Unmanned Aerial Vehicle: A Review and Comprehensive Analysis**|Changhong Fu, Kunhan Lu, Guangze Zheng, Junjie Ye, Ziang Cao, Bowen Li|[2205.04281v1](http://arxiv.org/abs/2205.04281v1)|**[link](https://github.com/vision4robotics/SiameseTracking4UAV)**|
 |**2022-05-09**|**CoCoLoT: Combining Complementary Trackers in Long-Term Visual Tracking**|Matteo Dunnhofer, Christian Micheloni|[2205.04261v1](http://arxiv.org/abs/2205.04261v1)|null|
-|**2022-05-08**|**Transformer Tracking with Cyclic Shifting Window Attention**|Zikai Song, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang|[2205.03806v1](http://arxiv.org/abs/2205.03806v1)|**[link](https://github.com/skyesong38/cswintt)**|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-27**|**Lesion classification by model-based feature extraction: A differential affine invariant model of soft tissue elasticity**|Weiguo Cao, Marc J. Pomeroy, Zhengrong Liang, Yongfeng Gao, Yongyi Shi, Jiaxing Tan, Fangfang Han, Jing Wang, Jianhua Ma, Hongbin Lu, Almas F. Abbasi, Perry J. Pickhardt|[2205.14029v1](http://arxiv.org/abs/2205.14029v1)|null|
 |**2022-05-26**|**Objects Matter: Learning Object Relation Graph for Robust Camera Relocalization**|Chengyu Qiao, Zhiyu Xiang, Xinglu Wang|[2205.13280v1](http://arxiv.org/abs/2205.13280v1)|null|
 |**2022-05-25**|**MUG: Multi-human Graph Network for 3D Mesh Reconstruction from 2D Pose**|Chenyan Wu, Yandong Li, Xianfeng Tang, James Wang|[2205.12583v1](http://arxiv.org/abs/2205.12583v1)|null|
 |**2022-05-19**|**Domain Enhanced Arbitrary Image Style Transfer via Contrastive Learning**|Yuxin Zhang, Fan Tang, Weiming Dong, Haibin Huang, Chongyang Ma, Tong-Yee Lee, Changsheng Xu|[2205.09542v2](http://arxiv.org/abs/2205.09542v2)|**[link](https://github.com/zyxelsa/cast_pytorch)**|
@@ -192,11 +193,10 @@
 |**2022-05-06**|**From Easy to Hard: Learning Language-guided Curriculum for Visual Question Answering on Remote Sensing Data**|Zhenghang Yuan, Lichao Mou, Qi Wang, Xiao Xiang Zhu|[2205.03147v1](http://arxiv.org/abs/2205.03147v1)|null|
 |**2022-05-05**|**End-to-End Image-Based Fashion Recommendation**|Shereen Elsayed, Lukas Brinkmeyer, Lars Schmidt-Thieme|[2205.02923v1](http://arxiv.org/abs/2205.02923v1)|**[link](https://github.com/shereen-elsayed/imgrec)**|
 |**2022-05-05**|**A Deep Reinforcement Learning Framework for Rapid Diagnosis of Whole Slide Pathological Images**|Tingting Zheng, Weixing chen, Shuqin Li, Hao Quan, Qun Bai, Tianhang Nan, Song Zheng, Xinghua Gao, Yue Zhao, Xiaoyu Cui|[2205.02850v1](http://arxiv.org/abs/2205.02850v1)|null|
-|**2022-05-05**|**Image Features Influence Reaction Time: A Learned Probabilistic Perceptual Model for Saccade Latency**|Budmonde Duinkharjav, Praneeth Chakravarthula, Rachel Brown, Anjul Patney, Qi Sun|[2205.02437v1](http://arxiv.org/abs/2205.02437v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-05-26**|**LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**|Yun Chang, Kamak Ebadi, Christopher E. Denniston, Muhammad Fadhil Ginting, Antoni Rosinol, Andrzej Reinke, Matteo Palieri, Jingnan Shi, Arghya Chatterjee, Benjamin Morrell, Ali-akbar Agha-mohammadi, Luca Carlone|[2205.13135v1](http://arxiv.org/abs/2205.13135v1)|null|
+|**2022-05-26**|**LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**|Yun Chang, Kamak Ebadi, Christopher E. Denniston, Muhammad Fadhil Ginting, Antoni Rosinol, Andrzej Reinke, Matteo Palieri, Jingnan Shi, Arghya Chatterjee, Benjamin Morrell, Ali-akbar Agha-mohammadi, Luca Carlone|[2205.13135v1](http://arxiv.org/abs/2205.13135v1)|**[link](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**|
 |**2022-05-20**|**Loco-Manipulation Planning for Legged Robots: Offline and Online Strategies**|Luca Rossini, Paolo Ferrari, Francesco Ruscelli, Arturo Laurenzi, Nikos G. Tsagarakis, Enrico Mingo Hoffman|[2205.10277v1](http://arxiv.org/abs/2205.10277v1)|null|
 |**2022-04-28**|**Simultaneous Control and Trajectory Estimation for Collision Avoidance of Autonomous Robotic Spacecraft Systems**|Matthew King-Smith, Panagiotis Tsiotras, Frank Dellaert|[2204.13251v1](http://arxiv.org/abs/2204.13251v1)|null|
 |**2022-04-25**|**Discrete-Continuous Smoothing and Mapping**|Kevin J. Doherty, Ziqi Lu, Kurran Singh, John J. Leonard|[2204.11936v1](http://arxiv.org/abs/2204.11936v1)|**[link](https://github.com/marineroboticsgroup/dcsam)**|
