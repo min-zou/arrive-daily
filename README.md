@@ -40,6 +40,7 @@
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-03**|**SNAKE: Shape-aware Neural 3D Keypoint Field**|Chengliang Zhong, Peixing You, Xiaoxue Chen, Hao Zhao, Fuchun Sun, Guyue Zhou, Xiaodong Mu, Chuang Gan, Wenbing Huang|[2206.01724v1](http://arxiv.org/abs/2206.01724v1)|null|
 |**2022-05-17**|**MulT: An End-to-End Multitask Learning Transformer**|Deblina Bhattacharjee, Tong Zhang, Sabine Süsstrunk, Mathieu Salzmann|[2205.08303v1](http://arxiv.org/abs/2205.08303v1)|null|
 |**2022-05-10**|**ConfLab: A Rich Multimodal Multisensor Dataset of Free-Standing Social Interactions In-the-Wild**|Chirag Raman, Jose Vargas-Quiros, Stephanie Tan, Ekin Gedik, Ashraful Islam, Hayley Hung|[2205.05177v1](http://arxiv.org/abs/2205.05177v1)|null|
 |**2022-04-28**|**GRIT: General Robust Image Task Benchmark**|Tanmay Gupta, Ryan Marten, Aniruddha Kembhavi, Derek Hoiem|[2204.13653v2](http://arxiv.org/abs/2204.13653v2)|**[link](https://github.com/allenai/grit_official)**|
@@ -49,7 +50,6 @@
 |**2022-04-06**|**Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification**|Yanan Wang, Xuezhi Liang, Shengcai Liao|[2204.02611v2](http://arxiv.org/abs/2204.02611v2)|**[link](https://github.com/yanan-wang-cs/clonedperson)**|
 |**2022-04-02**|**SkeleVision: Towards Adversarial Resiliency of Person Tracking with Multi-Task Learning**|Nilaksh Das, Sheng-Yun Peng, Duen Horng Chau|[2204.00734v1](http://arxiv.org/abs/2204.00734v1)|**[link](https://github.com/nilakshdas/skelevision)**|
 |**2022-03-23**|**UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection**|Ye Liu, Siyuan Li, Yang Wu, Chang Wen Chen, Ying Shan, Xiaohu Qie|[2203.12745v2](http://arxiv.org/abs/2203.12745v2)|**[link](https://github.com/tencentarc/umt)**|
-|**2022-03-16**|**PosePipe: Open-Source Human Pose Estimation Pipeline for Clinical Research**|R. James Cotton|[2203.08792v1](http://arxiv.org/abs/2203.08792v1)|**[link](https://github.com/peabody124/posepipeline)**|
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,8 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-03**|**Rethinking Positive Sampling for Contrastive Learning with Kernel**|Benoit Dufumier, Carlo Alberto Barbano, Robin Louiset, Edouard Duchesnay, Pietro Gori|[2206.01646v1](http://arxiv.org/abs/2206.01646v1)|null|
+|**2022-06-03**|**Multivariate Sparse Group Lasso Joint Model for Radiogenomics Data**|Tiantian Zeng, Md Selim, Jie Zhang, Arnold Stromberg, Jin Chen, Chi Wang|[2206.01352v1](http://arxiv.org/abs/2206.01352v1)|null|
 |**2022-06-02**|**Unveiling The Mask of Position-Information Pattern Through the Mist of Image Features**|Chieh Hubert Lin, Hsin-Ying Lee, Hung-Yu Tseng, Maneesh Singh, Ming-Hsuan Yang|[2206.01202v1](http://arxiv.org/abs/2206.01202v1)|null|
 |**2022-06-02**|**DE-Net: Dynamic Text-guided Image Editing Adversarial Networks**|Ming Tao, Bing-Kun Bao, Hao Tang, Fei Wu, Longhui Wei, Qi Tian|[2206.01160v1](http://arxiv.org/abs/2206.01160v1)|**[link](https://github.com/tobran/de-net)**|
 |**2022-06-01**|**Dog nose print matching with dual global descriptor based on Contrastive Learning**|Bin Li, Zhongan Wang, Nan Wu, Shuai Shi, Qijun Ma|[2206.00580v1](http://arxiv.org/abs/2206.00580v1)|**[link](https://github.com/flyingsheepbin/pet-biometrics)**|
@@ -191,8 +193,6 @@
 |**2022-05-31**|**Voxel Field Fusion for 3D Object Detection**|Yanwei Li, Xiaojuan Qi, Yukang Chen, Liwei Wang, Zeming Li, Jian Sun, Jiaya Jia|[2205.15938v1](http://arxiv.org/abs/2205.15938v1)|**[link](https://github.com/dvlab-research/vff)**|
 |**2022-05-31**|**Decomposing NeRF for Editing via Feature Field Distillation**|Sosuke Kobayashi, Eiichi Matsumoto, Vincent Sitzmann|[2205.15585v1](http://arxiv.org/abs/2205.15585v1)|null|
 |**2022-05-30**|**Registering Image Volumes using 3D SIFT and Discrete SP-Symmetry**|Laurent Chauvin, William Wells III, Matthew Toews|[2205.15456v1](http://arxiv.org/abs/2205.15456v1)|null|
-|**2022-05-30**|**Neural Volumetric Object Selection**|Zhongzheng Ren, Aseem Agarwala, Bryan Russell, Alexander G. Schwing, Oliver Wang|[2205.14929v1](http://arxiv.org/abs/2205.14929v1)|null|
-|**2022-05-28**|**Multi-Task Learning with Multi-query Transformer for Dense Prediction**|Yangyang Xu, Xiangtai Li, Haobo Yuan, Yibo Yang, Jing Zhang, Yunhai Tong, Lefei Zhang, Dacheng Tao|[2205.14354v2](http://arxiv.org/abs/2205.14354v2)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
