@@ -105,16 +105,16 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-08**|**Learning Ego 3D Representation as Ray Tracing**|Jiachen Lu, Zheyuan Zhou, Xiatian Zhu, Hang Xu, Li Zhang|[2206.04042v1](http://arxiv.org/abs/2206.04042v1)|null|
+|**2022-06-08**|**Dyna-DM: Dynamic Object-aware Self-supervised Monocular Depth Maps**|Kieran Saunders, George Vogiatzis, Luis J. Manso|[2206.03799v1](http://arxiv.org/abs/2206.03799v1)|null|
+|**2022-06-08**|**Unsupervised Learning of 3D Scene Flow from Monocular Camera**|Guangming Wang, Xiaoyu Tian, Ruiqi Ding, Hesheng Wang|[2206.03673v1](http://arxiv.org/abs/2206.03673v1)|null|
+|**2022-06-08**|**Depth Estimation Matters Most: Improving Per-Object Depth Estimation for Monocular 3D Detection and Tracking**|Longlong Jing, Ruichi Yu, Henrik Kretzschmar, Kang Li, Charles R. Qi, Hang Zhao, Alper Ayvaci, Xu Chen, Dillon Cower, Yingwei Li, Yurong You, Han Deng, Congcong Li, Dragomir Anguelov|[2206.03666v1](http://arxiv.org/abs/2206.03666v1)|null|
+|**2022-06-08**|**Delving into the Pre-training Paradigm of Monocular 3D Object Detection**|Zhuoling Li, Chuanrui Zhang, En Yu, Haoqian Wang|[2206.03657v1](http://arxiv.org/abs/2206.03657v1)|null|
 |**2022-06-07**|**Layered Depth Refinement with Mask Guidance**|Soo Ye Kim, Jianming Zhang, Simon Niklaus, Yifei Fan, Simon Chen, Zhe Lin, Munchurl Kim|[2206.03048v1](http://arxiv.org/abs/2206.03048v1)|null|
 |**2022-06-01**|**PanopticDepth: A Unified Framework for Depth-aware Panoptic Segmentation**|Naiyu Gao, Fei He, Jian Jia, Yanhu Shan, Haoyang Zhang, Xin Zhao, Kaiqi Huang|[2206.00468v1](http://arxiv.org/abs/2206.00468v1)|**[link](https://github.com/naiyugao/panopticdepth)**|
 |**2022-05-30**|**Self-Supervised Pre-training of Vision Transformers for Dense Prediction Tasks**|Jaonary Rabarisoa, Valentin Belissen, Florian Chabot, Quoc-Cuong Pham|[2205.15173v2](http://arxiv.org/abs/2205.15173v2)|null|
 |**2022-05-30**|**SMUDLP: Self-Teaching Multi-Frame Unsupervised Endoscopic Depth Estimation with Learnable Patchmatch**|Shuwei Shao, Zhongcai Pei, Weihai Chen, Xingming Wu, Zhong Liu, Zhengguo Li|[2205.15034v1](http://arxiv.org/abs/2205.15034v1)|null|
 |**2022-05-26**|**Revealing the Dark Secrets of Masked Image Modeling**|Zhenda Xie, Zigang Geng, Jingcheng Hu, Zheng Zhang, Han Hu, Yue Cao|[2205.13543v2](http://arxiv.org/abs/2205.13543v2)|null|
-|**2022-05-24**|**Wavelet Feature Maps Compression for Image-to-Image CNNs**|Shahaf E. Finder, Yair Zohav, Maor Ashkenazi, Eran Treister|[2205.12268v2](http://arxiv.org/abs/2205.12268v2)|null|
-|**2022-05-24**|**Single-View View Synthesis in the Wild with Learned Adaptive Multiplane Images**|Yuxuan Han, Ruicheng Wang, Jiaolong Yang|[2205.11733v1](http://arxiv.org/abs/2205.11733v1)|null|
-|**2022-05-23**|**MonoFormer: Towards Generalization of self-supervised monocular depth estimation with Transformers**|Jinwoo Bae, Sungho Moon, Sunghoon Im|[2205.11083v1](http://arxiv.org/abs/2205.11083v1)|**[link](https://github.com/sjg02122/MonoFormer)**|
-|**2022-05-20**|**Self-Supervised Depth Estimation with Isometric-Self-Sample-Based Learning**|Geonho Cha, Ho-Deok Jang, Dongyoon Wee|[2205.10006v1](http://arxiv.org/abs/2205.10006v1)|null|
-|**2022-05-19**|**Diversity Matters: Fully Exploiting Depth Clues for Reliable Monocular 3D Object Detection**|Zhuoling Li, Zhan Qu, Yang Zhou, Jianzhuang Liu, Haoqian Wang, Lihui Jiang|[2205.09373v1](http://arxiv.org/abs/2205.09373v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
