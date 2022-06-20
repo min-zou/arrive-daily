@@ -1,6 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-17**|**Efficient WiFi LiDAR SLAM for Autonomous Robots in Large Environments**|Khairuldanial Ismail, Ran Liu, Zhenghong Qin, Achala Athukorala, Billy Pik Lik Lau, Muhammad Shalihan, Chau Yuen, U-Xuan Tan|[2206.08733v1](http://arxiv.org/abs/2206.08733v1)|null|
+|**2022-06-17**|**An Algorithm for the SE(3)-Transformation on Neural Implicit Maps for Remapping Functions**|Yijun Yuan, Andreas Nuechter|[2206.08712v1](http://arxiv.org/abs/2206.08712v1)|null|
 |**2022-06-13**|**ICP Algorithm: Theory, Practice And Its SLAM-oriented Taxonomy**|Hao Bai|[2206.06435v1](http://arxiv.org/abs/2206.06435v1)|null|
 |**2022-06-10**|**Experimental Evaluation of Visual-Inertial Odometry Systems for Arable Farming**|Javier Cremona, Román Comelli, Taihú Pire|[2206.05066v1](http://arxiv.org/abs/2206.05066v1)|**[link](https://github.com/cifasis/slam_agricultural_evaluation)**|
 |**2022-06-09**|**SparseFormer: Attention-based Depth Completion Network**|Frederik Warburg, Michael Ramamonjisoa, Manuel López-Antequera|[2206.04557v1](http://arxiv.org/abs/2206.04557v1)|null|
@@ -9,8 +11,6 @@
 |**2022-06-05**|**DarkSLAM: GAN-assisted Visual SLAM for Reliable Operation in Low-light Conditions**|Alena Savinykh, Mikhail Kurenkov, Evgeny Kruzhkov, Evgeny Yudin, Andrei Potapov, Pavel Karpyshev, Dzmitry Tsetserukou|[2206.02199v1](http://arxiv.org/abs/2206.02199v1)|null|
 |**2022-06-04**|**C$^3$Fusion: Consistent Contrastive Colon Fusion, Towards Deep SLAM in Colonoscopy**|Erez Posner, Adi Zholkover, Netanel Frank, Moshe Bouhnik|[2206.01961v1](http://arxiv.org/abs/2206.01961v1)|null|
 |**2022-06-01**|**PaGO-LOAM: Robust Ground-Optimized LiDAR Odometry**|Dong-Uk Seo, Hyungtae Lim, Seungjae Lee, Hyun Myung|[2206.00266v1](http://arxiv.org/abs/2206.00266v1)|**[link](https://github.com/url-kaist/alterground-lego-loam)**|
-|**2022-05-27**|**A Look at Improving Robustness in Visual-inertial SLAM by Moment Matching**|Arno Solin, Rui Li, Andrea Pilzer|[2205.13821v1](http://arxiv.org/abs/2205.13821v1)|null|
-|**2022-05-26**|**LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**|Yun Chang, Kamak Ebadi, Christopher E. Denniston, Muhammad Fadhil Ginting, Antoni Rosinol, Andrzej Reinke, Matteo Palieri, Jingnan Shi, Arghya Chatterjee, Benjamin Morrell, Ali-akbar Agha-mohammadi, Luca Carlone|[2205.13135v2](http://arxiv.org/abs/2205.13135v2)|**[link](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -97,14 +97,16 @@
 |**2022-06-16**|**Neural Scene Representation for Locomotion on Structured Terrain**|David Hoeller, Nikita Rudin, Christopher Choy, Animashree Anandkumar, Marco Hutter|[2206.08077v1](http://arxiv.org/abs/2206.08077v1)|null|
 |**2022-06-14**|**DeepRecon: Joint 2D Cardiac Segmentation and 3D Volume Reconstruction via A Structure-Specific Generative Method**|Qi Chang, Zhennan Yan, Mu Zhou, Di Liu, Khalid Sawalha, Meng Ye, Qilong Zhangli, Mikael Kanski, Subhi Al Aref, Leon Axel, Dimitris Metaxas|[2206.07163v1](http://arxiv.org/abs/2206.07163v1)|null|
 |**2022-06-13**|**SNeS: Learning Probably Symmetric Neural Surfaces from Incomplete Data**|Eldar Insafutdinov, Dylan Campbell, João F. Henriques, Andrea Vedaldi|[2206.06340v1](http://arxiv.org/abs/2206.06340v1)|null|
+|**2022-06-13**|**From a few Accurate 2D Correspondences to 3D Point Clouds**|Trung-Kien Le, Ping Li|[2206.08749v1](http://arxiv.org/abs/2206.08749v1)|null|
 |**2022-06-10**|**Differentiable Rendering of Neural SDFs through Reparameterization**|Sai Praveen Bangaru, Michaël Gharbi, Tzu-Mao Li, Fujun Luan, Kalyan Sunkavalli, Miloš Hašan, Sai Bi, Zexiang Xu, Gilbert Bernstein, Frédo Durand|[2206.05344v1](http://arxiv.org/abs/2206.05344v1)|null|
 |**2022-06-10**|**Optical Diffraction Tomography based on 3D Physics-Inspired Neural Network (PINN)**|Ahmed B. Ayoub, Amirhossein Saba, Carlo Gigli, Demetri Psaltis|[2206.05236v1](http://arxiv.org/abs/2206.05236v1)|null|
 |**2022-06-06**|**Spatial Acoustic Projection for 3D Imaging Sonar Reconstruction**|Sascha Arnold, Bilal Wehbe|[2206.02840v1](http://arxiv.org/abs/2206.02840v1)|null|
 |**2022-06-02**|**Machine Learning for Detection of 3D Features using sparse X-ray data**|Bradley T. Wolfe, Michael J. Falato, Xinhua Zhang, Nga T. T. Nguyen-Fotiadis, J. P. Sauppe, P. M. Kozlowski, P. A. Keiter, R. E. Reinovsky, S. A. Batha, Zhehui Wang|[2206.02564v1](http://arxiv.org/abs/2206.02564v1)|null|
-|**2022-06-01**|**MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction**|Zehao Yu, Songyou Peng, Michael Niemeyer, Torsten Sattler, Andreas Geiger|[2206.00665v1](http://arxiv.org/abs/2206.00665v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-17**|**Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks**|Jiasen Lu, Christopher Clark, Rowan Zellers, Roozbeh Mottaghi, Aniruddha Kembhavi|[2206.08916v1](http://arxiv.org/abs/2206.08916v1)|null|
+|**2022-06-17**|**Colonoscopy 3D Video Dataset with Paired Depth from 2D-3D Registration**|Taylor L. Bobrow, Mayank Golhar, Rohan Vijayan, Venkata S. Akshintala, Juan R. Garcia, Nicholas J. Durr|[2206.08903v1](http://arxiv.org/abs/2206.08903v1)|null|
 |**2022-06-15**|**LET-3D-AP: Longitudinal Error Tolerant 3D Average Precision for Camera-Only 3D Detection**|Wei-Chih Hung, Henrik Kretzschmar, Vincent Casser, Jyh-Jing Hwang, Dragomir Anguelov|[2206.07705v1](http://arxiv.org/abs/2206.07705v1)|**[link](https://github.com/waymo-research/waymo-open-dataset)**|
 |**2022-06-15**|**MonoGround: Detecting Monocular 3D Objects from the Ground**|Zequn Qin, Xi Li|[2206.07372v1](http://arxiv.org/abs/2206.07372v1)|null|
 |**2022-06-14**|**TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation**|Mohammad Rezaei, Razieh Rastgoo, Vassilis Athitsos|[2206.07117v1](http://arxiv.org/abs/2206.07117v1)|null|
@@ -113,8 +115,6 @@
 |**2022-06-08**|**Unsupervised Learning of 3D Scene Flow from Monocular Camera**|Guangming Wang, Xiaoyu Tian, Ruiqi Ding, Hesheng Wang|[2206.03673v1](http://arxiv.org/abs/2206.03673v1)|**[link](https://github.com/irmvlab/3dunmonoflow)**|
 |**2022-06-08**|**Depth Estimation Matters Most: Improving Per-Object Depth Estimation for Monocular 3D Detection and Tracking**|Longlong Jing, Ruichi Yu, Henrik Kretzschmar, Kang Li, Charles R. Qi, Hang Zhao, Alper Ayvaci, Xu Chen, Dillon Cower, Yingwei Li, Yurong You, Han Deng, Congcong Li, Dragomir Anguelov|[2206.03666v1](http://arxiv.org/abs/2206.03666v1)|null|
 |**2022-06-08**|**Delving into the Pre-training Paradigm of Monocular 3D Object Detection**|Zhuoling Li, Chuanrui Zhang, En Yu, Haoqian Wang|[2206.03657v2](http://arxiv.org/abs/2206.03657v2)|null|
-|**2022-06-07**|**Layered Depth Refinement with Mask Guidance**|Soo Ye Kim, Jianming Zhang, Simon Niklaus, Yifei Fan, Simon Chen, Zhe Lin, Munchurl Kim|[2206.03048v1](http://arxiv.org/abs/2206.03048v1)|null|
-|**2022-06-01**|**PanopticDepth: A Unified Framework for Depth-aware Panoptic Segmentation**|Naiyu Gao, Fei He, Jian Jia, Yanhu Shan, Haoyang Zhang, Xin Zhao, Kaiqi Huang|[2206.00468v1](http://arxiv.org/abs/2206.00468v1)|**[link](https://github.com/naiyugao/panopticdepth)**|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-17**|**OADAT: Experimental and Synthetic Clinical Optoacoustic Data for Standardized Image Processing**|Berkan Lafci, Firat Ozdemir, Xosé Luís Deán-Ben, Daniel Razansky, Fernando Perez-Cruz|[2206.08612v1](http://arxiv.org/abs/2206.08612v1)|null|
 |**2022-06-15**|**Exploiting Cross-domain And Cross-Lingual Ultrasound Tongue Imaging Features For Elderly And Dysarthric Speech Recognition**|Shujie Hu, Xurong Xie, Mengzhe Geng, Mingyu Cui, Jiajun Deng, Tianzi Wang, Xunying Liu, Helen Meng|[2206.07327v1](http://arxiv.org/abs/2206.07327v1)|null|
 |**2022-06-14**|**RGB-Multispectral Matching: Dataset, Learning Methodology, Evaluation**|Fabio Tosi, Pierluigi Zama Ramirez, Matteo Poggi, Samuele Salti, Stefano Mattoccia, Luigi Di Stefano|[2206.07047v1](http://arxiv.org/abs/2206.07047v1)|null|
 |**2022-06-14**|**Pixel-by-pixel Mean Opinion Score (pMOS) for No-Reference Image Quality Assessment**|Wook-Hyung Kim, Cheul-hee Hahm, Anant Baijal, Namuk Kim, Ilhyun Cho, Jayoon Koo|[2206.06541v1](http://arxiv.org/abs/2206.06541v1)|null|
@@ -192,7 +193,6 @@
 |**2022-06-10**|**Dual-Branch Squeeze-Fusion-Excitation Module for Cross-Modality Registration of Cardiac SPECT and CT**|Xiongchao Chen, Bo Zhou, Huidong Xie, Xueqi Guo, Jiazhen Zhang, Albert J. Sinusas, John A. Onofrey, Chi liu|[2206.05278v1](http://arxiv.org/abs/2206.05278v1)|**[link](https://github.com/xiongchaochen/dusfe_crossregistration)**|
 |**2022-06-07**|**An efficient semi-supervised quality control system trained using physics-based MRI-artefact generators and adversarial training**|Daniele Ravi, Frederik Barkhof, Daniel C. Alexander, Geoffrey JM Parker, Arman Eshaghi|[2206.03359v1](http://arxiv.org/abs/2206.03359v1)|null|
 |**2022-06-04**|**Future Artificial Intelligence tools and perspectives in medicine**|Ahmad Chaddad, Yousef Katib, Lama Hassan|[2206.03289v1](http://arxiv.org/abs/2206.03289v1)|null|
-|**2022-06-04**|**Modeling of Textures to Predict Immune Cell Status and Survival of Brain Tumour Patients**|Ahmad Chaddad, Mingli Zhang, Lama Hassan, Tamim Niazi|[2206.01897v1](http://arxiv.org/abs/2206.01897v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
