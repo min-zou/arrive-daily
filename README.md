@@ -66,6 +66,7 @@
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-23**|**Parallel Structure from Motion for UAV Images via Weighted Connected Dominating Set**|San Jiang, Qingquan Li, Wanshou Jiang, Wu Chen|[2206.11499v1](http://arxiv.org/abs/2206.11499v1)|null|
 |**2022-06-13**|**TC-SfM: Robust Track-Community-Based Structure-from-Motion**|Lei Wang, Linlin Ge, Shan Luo, Zihan Yan, Zhaopeng Cui, Jieqing Feng|[2206.05866v1](http://arxiv.org/abs/2206.05866v1)|null|
 |**2022-06-09**|**SparseFormer: Attention-based Depth Completion Network**|Frederik Warburg, Michael Ramamonjisoa, Manuel López-Antequera|[2206.04557v1](http://arxiv.org/abs/2206.04557v1)|null|
 |**2022-05-31**|**Geo-Neus: Geometry-Consistent Neural Implicit Surfaces Learning for Multi-view Reconstruction**|Qiancheng Fu, Qingshan Xu, Yew-Soon Ong, Wenbing Tao|[2205.15848v1](http://arxiv.org/abs/2205.15848v1)|null|
@@ -75,10 +76,10 @@
 |**2022-04-05**|**Depth-Guided Sparse Structure-from-Motion for Movies and TV Shows**|Sheng Liu, Xiaohan Nie, Raffay Hamid|[2204.02509v1](http://arxiv.org/abs/2204.02509v1)|**[link](https://github.com/amazon-research/small-baseline-camera-tracking)**|
 |**2022-03-29**|**Long-term Visual Map Sparsification with Heterogeneous GNN**|Ming-Fang Chang, Yipu Zhao, Rajvi Shah, Jakob J. Engel, Michael Kaess, Simon Lucey|[2203.15182v1](http://arxiv.org/abs/2203.15182v1)|null|
 |**2022-03-28**|**Visual Odometry for RGB-D Cameras**|Afonso Fontes, Jose Everardo Bessa Maia|[2203.15119v1](http://arxiv.org/abs/2203.15119v1)|null|
-|**2022-03-23**|**Event-Based Dense Reconstruction Pipeline**|Kun Xiao, Guohui Wang, Yi Chen, Jinghong Nan, Yongfeng Xie|[2203.12270v1](http://arxiv.org/abs/2203.12270v1)|null|
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-23**|**Parallel Structure from Motion for UAV Images via Weighted Connected Dominating Set**|San Jiang, Qingquan Li, Wanshou Jiang, Wu Chen|[2206.11499v1](http://arxiv.org/abs/2206.11499v1)|null|
 |**2022-06-13**|**TC-SfM: Robust Track-Community-Based Structure-from-Motion**|Lei Wang, Linlin Ge, Shan Luo, Zihan Yan, Zhaopeng Cui, Jieqing Feng|[2206.05866v1](http://arxiv.org/abs/2206.05866v1)|null|
 |**2022-06-10**|**EigenFairing: 3D Model Fairing using Image Coherence**|Pragyana Mishra, Omead Amidi, Takeo Kanade|[2206.05309v1](http://arxiv.org/abs/2206.05309v1)|null|
 |**2022-06-01**|**Semantic Room Wireframe Detection from a Single View**|David Gillsjö, Gabrielle Flood, Kalle Åström|[2206.00491v1](http://arxiv.org/abs/2206.00491v1)|**[link](https://github.com/davidgillsjo/srw-net)**|
@@ -88,11 +89,10 @@
 |**2022-05-06**|**EVIMO2: An Event Camera Dataset for Motion Segmentation, Optical Flow, Structure from Motion, and Visual Inertial Odometry in Indoor Scenes with Monocular or Stereo Algorithms**|Levi Burner, Anton Mitrokhin, Cornelia Fermüller, Yiannis Aloimonos|[2205.03467v1](http://arxiv.org/abs/2205.03467v1)|null|
 |**2022-04-20**|**Learned Monocular Depth Priors in Visual-Inertial Initialization**|Yunwen Zhou, Abhishek Kar, Eric Turner, Adarsh Kowdle, Chao X. Guo, Ryan C. DuToit, Konstantine Tsotsos|[2204.09171v1](http://arxiv.org/abs/2204.09171v1)|null|
 |**2022-04-10**|**Deep Non-rigid Structure-from-Motion: A Sequence-to-Sequence Translation Perspective**|Hui Deng, Tong Zhang, Yuchao Dai, Jiawei Shi, Yiran Zhong, Hongdong Li|[2204.04730v1](http://arxiv.org/abs/2204.04730v1)|null|
-|**2022-04-08**|**Constrained Bundle Adjustment for Structure From Motion Using Uncalibrated Multi-Camera Systems**|Debao Huang, Mostafa Elhashash, Rongjun Qin|[2204.04145v1](http://arxiv.org/abs/2204.04145v1)|null|
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-06-22**|**SVoRT: Iterative Transformer for Slice-to-Volume Registration in Fetal Brain MRI**|Junshen Xu, Daniel Moyer, P. Ellen Grant, Polina Golland, Juan Eugenio Iglesias, Elfar Adalsteinsson|[2206.10802v1](http://arxiv.org/abs/2206.10802v1)|null|
+|**2022-06-22**|**SVoRT: Iterative Transformer for Slice-to-Volume Registration in Fetal Brain MRI**|Junshen Xu, Daniel Moyer, P. Ellen Grant, Polina Golland, Juan Eugenio Iglesias, Elfar Adalsteinsson|[2206.10802v1](http://arxiv.org/abs/2206.10802v1)|**[link](https://github.com/daviddmc/svort)**|
 |**2022-06-21**|**Attention-driven Active Vision for Efficient Reconstruction of Plants and Targeted Plant Parts**|Akshay K. Burusa, Eldert J. van Henten, Gert Kootstra|[2206.10274v1](http://arxiv.org/abs/2206.10274v1)|null|
 |**2022-06-17**|**Shadows Shed Light on 3D Objects**|Ruoshi Liu, Sachit Menon, Chengzhi Mao, Dennis Park, Simon Stent, Carl Vondrick|[2206.08990v1](http://arxiv.org/abs/2206.08990v1)|null|
 |**2022-06-16**|**Unbiased 4D: Monocular 4D Reconstruction with a Neural Deformation Model**|Erik C. M. Johnson, Marc Habermann, Soshi Shimada, Vladislav Golyanik, Christian Theobalt|[2206.08368v1](http://arxiv.org/abs/2206.08368v1)|null|
@@ -105,6 +105,8 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-23**|**Learning Viewpoint-Agnostic Visual Representations by Recovering Tokens in 3D Space**|Jinghuan Shang, Srijan Das, Michael S. Ryoo|[2206.11895v1](http://arxiv.org/abs/2206.11895v1)|null|
+|**2022-06-22**|**Monocular Spherical Depth Estimation with Explicitly Connected Weak Layout Cues**|Nikolaos Zioulis, Federico Alvarez, Dimitrios Zarpalas, Petros Daras|[2206.11358v1](http://arxiv.org/abs/2206.11358v1)|null|
 |**2022-06-22**|**A High Resolution Multi-exposure Stereoscopic Image & Video Database of Natural Scenes**|Rohit Choudhary, Mansi Sharma, Aditya Wadaskar|[2206.11095v1](http://arxiv.org/abs/2206.11095v1)|null|
 |**2022-06-21**|**Semantics-Depth-Symbiosis: Deeply Coupled Semi-Supervised Learning of Semantics and Depth**|Nitin Bansal, Pan Ji, Junsong Yuan, Yi Xu|[2206.10562v1](http://arxiv.org/abs/2206.10562v1)|null|
 |**2022-06-21**|**MEStereo-Du2CNN: A Novel Dual Channel CNN for Learning Robust Depth Estimates from Multi-exposure Stereo Images for HDR 3D Applications**|Rohit Choudhary, Mansi Sharma, Uma T V, Rithvik Anil|[2206.10375v1](http://arxiv.org/abs/2206.10375v1)|null|
@@ -113,8 +115,6 @@
 |**2022-06-17**|**Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks**|Jiasen Lu, Christopher Clark, Rowan Zellers, Roozbeh Mottaghi, Aniruddha Kembhavi|[2206.08916v1](http://arxiv.org/abs/2206.08916v1)|null|
 |**2022-06-17**|**Colonoscopy 3D Video Dataset with Paired Depth from 2D-3D Registration**|Taylor L. Bobrow, Mayank Golhar, Rohan Vijayan, Venkata S. Akshintala, Juan R. Garcia, Nicholas J. Durr|[2206.08903v1](http://arxiv.org/abs/2206.08903v1)|null|
 |**2022-06-15**|**LET-3D-AP: Longitudinal Error Tolerant 3D Average Precision for Camera-Only 3D Detection**|Wei-Chih Hung, Henrik Kretzschmar, Vincent Casser, Jyh-Jing Hwang, Dragomir Anguelov|[2206.07705v1](http://arxiv.org/abs/2206.07705v1)|**[link](https://github.com/waymo-research/waymo-open-dataset)**|
-|**2022-06-15**|**MonoGround: Detecting Monocular 3D Objects from the Ground**|Zequn Qin, Xi Li|[2206.07372v1](http://arxiv.org/abs/2206.07372v1)|null|
-|**2022-06-14**|**TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation**|Mohammad Rezaei, Razieh Rastgoo, Vassilis Athitsos|[2206.07117v1](http://arxiv.org/abs/2206.07117v1)|**[link](https://github.com/mrezaei92/TriHorn-Net)**|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,8 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-23**|**PromptPose: Language Prompt Helps Animal Pose Estimation**|Xu Zhang, Wen Wang, Zhe Chen, Jing Zhang, Dacheng Tao|[2206.11752v1](http://arxiv.org/abs/2206.11752v1)|null|
+|**2022-06-23**|**A novel adversarial learning strategy for medical image classification**|Zong Fan, Xiaohui Zhang, Jacob A. Gasienica, Jennifer Potts, Su Ruan, Wade Thorstad, Hiram Gay, Xiaowei Wang, Hua Li|[2206.11501v1](http://arxiv.org/abs/2206.11501v1)|null|
 |**2022-06-22**|**Depth-aware Glass Surface Detection with Cross-modal Context Mining**|Jiaying Lin, Yuen Hei Yeung, Rynson W. H. Lau|[2206.11250v1](http://arxiv.org/abs/2206.11250v1)|null|
 |**2022-06-20**|**Quantitative CT texture-based method to predict diagnosis and prognosis of fibrosing interstitial lung disease patterns**|Babak Haghighi, Warren B. Gefter, Lauren Pantalone, Despina Kontos, Eduardo Mortani Barbosa Jr|[2206.09766v1](http://arxiv.org/abs/2206.09766v1)|null|
 |**2022-06-20**|**Explicit and implicit models in infrared and visible image fusion**|Zixuan Wang, Bin Sun|[2206.09581v1](http://arxiv.org/abs/2206.09581v1)|null|
@@ -191,8 +193,6 @@
 |**2022-06-15**|**Exploiting Cross-domain And Cross-Lingual Ultrasound Tongue Imaging Features For Elderly And Dysarthric Speech Recognition**|Shujie Hu, Xurong Xie, Mengzhe Geng, Mingyu Cui, Jiajun Deng, Tianzi Wang, Xunying Liu, Helen Meng|[2206.07327v1](http://arxiv.org/abs/2206.07327v1)|null|
 |**2022-06-14**|**RGB-Multispectral Matching: Dataset, Learning Methodology, Evaluation**|Fabio Tosi, Pierluigi Zama Ramirez, Matteo Poggi, Samuele Salti, Stefano Mattoccia, Luigi Di Stefano|[2206.07047v1](http://arxiv.org/abs/2206.07047v1)|null|
 |**2022-06-14**|**Pixel-by-pixel Mean Opinion Score (pMOS) for No-Reference Image Quality Assessment**|Wook-Hyung Kim, Cheul-hee Hahm, Anant Baijal, Namuk Kim, Ilhyun Cho, Jayoon Koo|[2206.06541v1](http://arxiv.org/abs/2206.06541v1)|null|
-|**2022-06-13**|**Revisiting the Shape-Bias of Deep Learning for Dermoscopic Skin Lesion Classification**|Adriano Lucieri, Fabian Schmeisser, Christoph Peter Balada, Shoaib Ahmed Siddiqui, Andreas Dengel, Sheraz Ahmed|[2206.06466v1](http://arxiv.org/abs/2206.06466v1)|null|
-|**2022-06-12**|**SparseNeuS: Fast Generalizable Neural Surface Reconstruction from Sparse views**|Xiaoxiao Long, Cheng Lin, Peng Wang, Taku Komura, Wenping Wang|[2206.05737v1](http://arxiv.org/abs/2206.05737v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
