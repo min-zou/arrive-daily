@@ -185,7 +185,7 @@
 |---|---|---|---|---|
 |**2022-06-24**|**A novel approach for glaucoma classification by wavelet neural networks using graph-based, statisitcal features of qualitatively improved images**|N. Krishna Santosh, Dr. Soubhagya Sankar Barpanda|[2206.12099v1](http://arxiv.org/abs/2206.12099v1)|null|
 |**2022-06-23**|**PromptPose: Language Prompt Helps Animal Pose Estimation**|Xu Zhang, Wen Wang, Zhe Chen, Jing Zhang, Dacheng Tao|[2206.11752v1](http://arxiv.org/abs/2206.11752v1)|null|
-|**2022-06-23**|**A novel adversarial learning strategy for medical image classification**|Zong Fan, Xiaohui Zhang, Jacob A. Gasienica, Jennifer Potts, Su Ruan, Wade Thorstad, Hiram Gay, Xiaowei Wang, Hua Li|[2206.11501v1](http://arxiv.org/abs/2206.11501v1)|null|
+|**2022-06-23**|**A novel adversarial learning strategy for medical image classification**|Zong Fan, Xiaohui Zhang, Jacob A. Gasienica, Jennifer Potts, Su Ruan, Wade Thorstad, Hiram Gay, Xiaowei Wang, Hua Li|[2206.11501v2](http://arxiv.org/abs/2206.11501v2)|null|
 |**2022-06-22**|**Depth-aware Glass Surface Detection with Cross-modal Context Mining**|Jiaying Lin, Yuen Hei Yeung, Rynson W. H. Lau|[2206.11250v1](http://arxiv.org/abs/2206.11250v1)|null|
 |**2022-06-20**|**Quantitative CT texture-based method to predict diagnosis and prognosis of fibrosing interstitial lung disease patterns**|Babak Haghighi, Warren B. Gefter, Lauren Pantalone, Despina Kontos, Eduardo Mortani Barbosa Jr|[2206.09766v1](http://arxiv.org/abs/2206.09766v1)|null|
 |**2022-06-20**|**Explicit and implicit models in infrared and visible image fusion**|Zixuan Wang, Bin Sun|[2206.09581v1](http://arxiv.org/abs/2206.09581v1)|null|
