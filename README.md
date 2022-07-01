@@ -1,6 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-30**|**Controlled and impulsive compression of an entrapped air bubble during impact**|Utkarsh Jain, Devaraj van der Meer|[2206.15297v1](http://arxiv.org/abs/2206.15297v1)|null|
+|**2022-06-30**|**Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery**|Yuehao Wang, Yonghao Long, Siu Hin Fan, Qi Dou|[2206.15255v1](http://arxiv.org/abs/2206.15255v1)|null|
 |**2022-06-27**|**IBISCape: A Simulated Benchmark for multi-modal SLAM Systems Evaluation in Large-scale Dynamic Environments**|Abanob Soliman, Fabien Bonardi, Désiré Sidibé, Samia Bouchafa|[2206.13455v1](http://arxiv.org/abs/2206.13455v1)|**[link](https://github.com/AbanobSoliman/IBISCape)**|
 |**2022-06-26**|**An Efficient Global Optimality Certificate for Landmark-Based SLAM**|Connor Holmes, Timothy D. Barfoot|[2206.12961v1](http://arxiv.org/abs/2206.12961v1)|null|
 |**2022-06-21**|**Object Structural Points Representation for Graph-based Semantic Monocular Localization and Mapping**|Davide Tateo, Davide Antonio Cucci, Matteo Matteucci, Andrea Bonarini|[2206.10263v1](http://arxiv.org/abs/2206.10263v1)|**[link](https://github.com/airlab-polimi/c-slam)**|
@@ -9,8 +11,6 @@
 |**2022-06-17**|**Efficient WiFi LiDAR SLAM for Autonomous Robots in Large Environments**|Khairuldanial Ismail, Ran Liu, Zhenghong Qin, Achala Athukorala, Billy Pik Lik Lau, Muhammad Shalihan, Chau Yuen, U-Xuan Tan|[2206.08733v1](http://arxiv.org/abs/2206.08733v1)|null|
 |**2022-06-17**|**An Algorithm for the SE(3)-Transformation on Neural Implicit Maps for Remapping Functions**|Yijun Yuan, Andreas Nuechter|[2206.08712v1](http://arxiv.org/abs/2206.08712v1)|**[link](https://github.com/jarrome/imt_mapping)**|
 |**2022-06-13**|**ICP Algorithm: Theory, Practice And Its SLAM-oriented Taxonomy**|Hao Bai|[2206.06435v1](http://arxiv.org/abs/2206.06435v1)|null|
-|**2022-06-10**|**Experimental Evaluation of Visual-Inertial Odometry Systems for Arable Farming**|Javier Cremona, Román Comelli, Taihú Pire|[2206.05066v1](http://arxiv.org/abs/2206.05066v1)|**[link](https://github.com/cifasis/slam_agricultural_evaluation)**|
-|**2022-06-09**|**SparseFormer: Attention-based Depth Completion Network**|Frederik Warburg, Michael Ramamonjisoa, Manuel López-Antequera|[2206.04557v1](http://arxiv.org/abs/2206.04557v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-30**|**Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery**|Yuehao Wang, Yonghao Long, Siu Hin Fan, Qi Dou|[2206.15255v1](http://arxiv.org/abs/2206.15255v1)|null|
 |**2022-06-27**|**NeuRIS: Neural Reconstruction of Indoor Scenes Using Normal Priors**|Jiepeng Wang, Peng Wang, Xiaoxiao Long, Christian Theobalt, Taku Komura, Lingjie Liu, Wenping Wang|[2206.13597v1](http://arxiv.org/abs/2206.13597v1)|null|
 |**2022-06-26**|**Probabilistic PolarGMM: Unsupervised Cluster Learning of Very Noisy Projection Images of Unknown Pose**|Supawit Chockchowwat, Chandrajit L. Bajaj|[2206.12959v1](http://arxiv.org/abs/2206.12959v1)|null|
 |**2022-06-24**|**HM3D-ABO: A Photo-realistic Dataset for Object-centric Multi-view 3D Reconstruction**|Zhenpei Yang, Zaiwei Zhang, Qixing Huang|[2206.12356v1](http://arxiv.org/abs/2206.12356v1)|**[link](https://github.com/zhenpeiyang/hm3d-abo)**|
@@ -101,7 +102,6 @@
 |**2022-06-17**|**Shadows Shed Light on 3D Objects**|Ruoshi Liu, Sachit Menon, Chengzhi Mao, Dennis Park, Simon Stent, Carl Vondrick|[2206.08990v1](http://arxiv.org/abs/2206.08990v1)|null|
 |**2022-06-16**|**Unbiased 4D: Monocular 4D Reconstruction with a Neural Deformation Model**|Erik C. M. Johnson, Marc Habermann, Soshi Shimada, Vladislav Golyanik, Christian Theobalt|[2206.08368v1](http://arxiv.org/abs/2206.08368v1)|null|
 |**2022-06-16**|**Virtual Correspondence: Humans as a Cue for Extreme-View Geometry**|Wei-Chiu Ma, Anqi Joyce Yang, Shenlong Wang, Raquel Urtasun, Antonio Torralba|[2206.08365v1](http://arxiv.org/abs/2206.08365v1)|null|
-|**2022-06-16**|**Neural Scene Representation for Locomotion on Structured Terrain**|David Hoeller, Nikita Rudin, Christopher Choy, Animashree Anandkumar, Marco Hutter|[2206.08077v1](http://arxiv.org/abs/2206.08077v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -132,7 +132,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-06-29**|**BoT-SORT: Robust Associations Multi-Pedestrian Tracking**|Nir Aharon, Roy Orfaig, Ben-Zion Bobrovsky|[2206.14651v1](http://arxiv.org/abs/2206.14651v1)|null|
-|**2022-06-29**|**SRCN3D: Sparse R-CNN 3D Surround-View Camera Object Detection and Tracking for Autonomous Driving**|Yining Shi, Jingyan Shen, Yifan Sun, Yunlong Wang, Jiaxin Li, Shiqi Sun, Kun Jiang, Diange Yang|[2206.14451v1](http://arxiv.org/abs/2206.14451v1)|null|
+|**2022-06-29**|**SRCN3D: Sparse R-CNN 3D Surround-View Camera Object Detection and Tracking for Autonomous Driving**|Yining Shi, Jingyan Shen, Yifan Sun, Yunlong Wang, Jiaxin Li, Shiqi Sun, Kun Jiang, Diange Yang|[2206.14451v1](http://arxiv.org/abs/2206.14451v1)|**[link](https://github.com/synsin0/srcn3d)**|
 |**2022-06-28**|**RAPID: AppRoximAte Pipelined Soft Multipliers and Dividers for High-Throughput and Energy-Efficiency**|Zahra Ebrahimi, Muhammad Zaid, Mark Wijtvliet, Akash Kumar|[2206.13970v1](http://arxiv.org/abs/2206.13970v1)|null|
 |**2022-06-28**|**3D Multi-Object Tracking with Differentiable Pose Estimation**|Dominik Schmauser, Zeju Qiu, Norman Müller, Matthias Nießner|[2206.13785v1](http://arxiv.org/abs/2206.13785v1)|null|
 |**2022-06-21**|**GNN-PMB: A Simple but Effective Online 3D Multi-Object Tracker without Bells and Whistles**|Jianan Liu, Liping Bai, Yuxuan Xia, Tao Huang, Bing Zhu|[2206.10255v1](http://arxiv.org/abs/2206.10255v1)|null|
@@ -183,7 +183,8 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-06-29**|**vMFNet: Compositionality Meets Domain-generalised Segmentation**|Xiao Liu, Spyridon Thermos, Pedro Sanchez, Alison Q. O'Neil, Sotirios A. Tsaftaris|[2206.14538v1](http://arxiv.org/abs/2206.14538v1)|null|
+|**2022-06-30**|**A Medical Image Fusion Method based on MDLatLRRv2**|Xu Song, Xiao-Jun Wu, Hui Li|[2206.15179v1](http://arxiv.org/abs/2206.15179v1)|null|
+|**2022-06-29**|**vMFNet: Compositionality Meets Domain-generalised Segmentation**|Xiao Liu, Spyridon Thermos, Pedro Sanchez, Alison Q. O'Neil, Sotirios A. Tsaftaris|[2206.14538v1](http://arxiv.org/abs/2206.14538v1)|**[link](https://github.com/vios-s/vmfnet)**|
 |**2022-06-28**|**Multi-Prior Learning via Neural Architecture Search for Blind Face Restoration**|Yanjiang Yu, Puyang Zhang, Kaihao Zhang, Wenhan Luo, Changsheng Li, Ye Yuan, Guoren Wang|[2206.13962v1](http://arxiv.org/abs/2206.13962v1)|**[link](https://github.com/yyj1ang/mfpsnet)**|
 |**2022-06-25**|**Non-iterative Coarse-to-fine Registration based on Single-pass Deep Cumulative Learning**|Mingyuan Meng, Lei Bi, Dagan Feng, Jinman Kim|[2206.12596v1](http://arxiv.org/abs/2206.12596v1)|**[link](https://github.com/mungomeng/registration-nice-net)**|
 |**2022-06-24**|**A novel approach for glaucoma classification by wavelet neural networks using graph-based, statisitcal features of qualitatively improved images**|N. Krishna Santosh, Dr. Soubhagya Sankar Barpanda|[2206.12099v1](http://arxiv.org/abs/2206.12099v1)|null|
@@ -192,11 +193,10 @@
 |**2022-06-22**|**Depth-aware Glass Surface Detection with Cross-modal Context Mining**|Jiaying Lin, Yuen Hei Yeung, Rynson W. H. Lau|[2206.11250v1](http://arxiv.org/abs/2206.11250v1)|null|
 |**2022-06-20**|**Quantitative CT texture-based method to predict diagnosis and prognosis of fibrosing interstitial lung disease patterns**|Babak Haghighi, Warren B. Gefter, Lauren Pantalone, Despina Kontos, Eduardo Mortani Barbosa Jr|[2206.09766v1](http://arxiv.org/abs/2206.09766v1)|null|
 |**2022-06-20**|**Explicit and implicit models in infrared and visible image fusion**|Zixuan Wang, Bin Sun|[2206.09581v1](http://arxiv.org/abs/2206.09581v1)|null|
-|**2022-06-18**|**Attention-based Dynamic Subspace Learners for Medical Image Analysis**|Sukesh Adiga V, Jose Dolz, Herve Lombaert|[2206.09068v1](http://arxiv.org/abs/2206.09068v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-06-27**|**A Novel Unified Self-alignment Method of SINS Based on FGO**|Hanwen Zhou, Xiufen Ye|[2206.13348v2](http://arxiv.org/abs/2206.13348v2)|null|
+|**2022-06-27**|**A Novel Unified Self-alignment Method of SINS Based on FGO**|Hanwen Zhou, Xiufen Ye|[2206.13348v3](http://arxiv.org/abs/2206.13348v3)|null|
 |**2022-06-26**|**An Efficient Global Optimality Certificate for Landmark-Based SLAM**|Connor Holmes, Timothy D. Barfoot|[2206.12961v1](http://arxiv.org/abs/2206.12961v1)|null|
 |**2022-05-26**|**LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**|Yun Chang, Kamak Ebadi, Christopher E. Denniston, Muhammad Fadhil Ginting, Antoni Rosinol, Andrzej Reinke, Matteo Palieri, Jingnan Shi, Arghya Chatterjee, Benjamin Morrell, Ali-akbar Agha-mohammadi, Luca Carlone|[2205.13135v2](http://arxiv.org/abs/2205.13135v2)|**[link](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**|
 |**2022-05-20**|**Loco-Manipulation Planning for Legged Robots: Offline and Online Strategies**|Luca Rossini, Paolo Ferrari, Francesco Ruscelli, Arturo Laurenzi, Nikos G. Tsagarakis, Enrico Mingo Hoffman|[2205.10277v1](http://arxiv.org/abs/2205.10277v1)|null|
