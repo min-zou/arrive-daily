@@ -40,6 +40,7 @@
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-06**|**Semi-supervised Human Pose Estimation in Art-historical Images**|Matthias Springstein, Stefanie Schneider, Christian Althaus, Ralph Ewerth|[2207.02976v1](http://arxiv.org/abs/2207.02976v1)|null|
 |**2022-07-01**|**Weakly-supervised High-fidelity Ultrasound Video Synthesis with Feature Decoupling**|Jiamin Liang, Xin Yang, Yuhao Huang, Kai Liu, Xinrui Zhou, Xindi Hu, Zehui Lin, Huanjia Luo, Yuanji Zhang, Yi Xiong, Dong Ni|[2207.00474v1](http://arxiv.org/abs/2207.00474v1)|null|
 |**2022-06-21**|**KTN: Knowledge Transfer Network for Learning Multi-person 2D-3D Correspondences**|Xuanhan Wang, Lianli Gao, Yixuan Zhou, Jingkuan Song, Meng Wang|[2206.10090v1](http://arxiv.org/abs/2206.10090v1)|**[link](https://github.com/stoa-xh91/humandensepose)**|
 |**2022-06-15**|**A Unified Sequence Interface for Vision Tasks**|Ting Chen, Saurabh Saxena, Lala Li, Tsung-Yi Lin, David J. Fleet, Geoffrey Hinton|[2206.07669v1](http://arxiv.org/abs/2206.07669v1)|null|
@@ -49,10 +50,10 @@
 |**2022-05-10**|**ConfLab: A Rich Multimodal Multisensor Dataset of Free-Standing Social Interactions In-the-Wild**|Chirag Raman, Jose Vargas-Quiros, Stephanie Tan, Ekin Gedik, Ashraful Islam, Hayley Hung|[2205.05177v1](http://arxiv.org/abs/2205.05177v1)|null|
 |**2022-04-28**|**GRIT: General Robust Image Task Benchmark**|Tanmay Gupta, Ryan Marten, Aniruddha Kembhavi, Derek Hoiem|[2204.13653v2](http://arxiv.org/abs/2204.13653v2)|**[link](https://github.com/allenai/grit_official)**|
 |**2022-04-26**|**ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation**|Yufei Xu, Jing Zhang, Qiming Zhang, Dacheng Tao|[2204.12484v2](http://arxiv.org/abs/2204.12484v2)|**[link](https://github.com/vitae-transformer/vitpose)**|
-|**2022-04-19**|**Self-Supervised Equivariant Learning for Oriented Keypoint Detection**|Jongmin Lee, Byungjin Kim, Minsu Cho|[2204.08613v1](http://arxiv.org/abs/2204.08613v1)|**[link](https://github.com/bluedream1121/REKD)**|
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-06**|**Virtual staining of defocused autofluorescence images of unlabeled tissue using deep neural networks**|Yijie Zhang, Luzhe Huang, Tairan Liu, Keyi Cheng, Kevin de Haan, Yuzhu Li, Bijie Bai, Aydogan Ozcan|[2207.02946v1](http://arxiv.org/abs/2207.02946v1)|null|
 |**2022-07-01**|**TopicFM: Robust and Interpretable Feature Matching with Topic-assisted**|Khang Truong Giang, Soohwan Song, Sungho Jo|[2207.00328v1](http://arxiv.org/abs/2207.00328v1)|**[link](https://github.com/truongkhang/topicfm)**|
 |**2022-06-16**|**Virtual Correspondence: Humans as a Cue for Extreme-View Geometry**|Wei-Chiu Ma, Anqi Joyce Yang, Shenlong Wang, Raquel Urtasun, Antonio Torralba|[2206.08365v1](http://arxiv.org/abs/2206.08365v1)|null|
 |**2022-06-15**|**Self-Supervised Learning of Image Scale and Orientation**|Jongmin Lee, Yoonwoo Jeong, Minsu Cho|[2206.07259v1](http://arxiv.org/abs/2206.07259v1)|**[link](https://github.com/bluedream1121/self-sca-ori)**|
@@ -62,7 +63,6 @@
 |**2022-05-16**|**ReDFeat: Recoupling Detection and Description for Multimodal Feature Learning**|Yuxin Deng, Jiayi Ma|[2205.07439v1](http://arxiv.org/abs/2205.07439v1)|null|
 |**2022-05-06**|**BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching**|Jingwei Song, Qiuchen Zhu, Jianyu Lin, Maani Ghaffari|[2205.03133v1](http://arxiv.org/abs/2205.03133v1)|**[link](https://github.com/jingweisong/bdis-v2)**|
 |**2022-05-05**|**AdaTriplet: Adaptive Gradient Triplet Loss with Automatic Margin Learning for Forensic Medical Image Matching**|Khanh Nguyen, Huy Hoang Nguyen, Aleksei Tiulpin|[2205.02849v2](http://arxiv.org/abs/2205.02849v2)|**[link](https://github.com/oulu-imeds/adatriplet)**|
-|**2022-04-27**|**Gleo-Det: Deep Convolution Feature-Guided Detector with Local Entropy Optimization for Salient Points**|Chao Li, Yanan You, Wenli Zhou|[2204.12884v1](http://arxiv.org/abs/2204.12884v1)|null|
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,9 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-07**|**LASSIE: Learning Articulated Shapes from Sparse Image Ensemble via 3D Part Discovery**|Chun-Han Yao, Wei-Chih Hung, Yuanzhen Li, Michael Rubinstein, Ming-Hsuan Yang, Varun Jampani|[2207.03434v1](http://arxiv.org/abs/2207.03434v1)|null|
+|**2022-07-07**|**What Makes for Automatic Reconstruction of Pulmonary Segments**|Kaiming Kuang, Li Zhang, Jingyu Li, Hongwei Li, Jiajun Chen, Bo Du, Jiancheng Yang|[2207.03078v1](http://arxiv.org/abs/2207.03078v1)|null|
+|**2022-07-07**|**Vision Transformers: State of the Art and Research Challenges**|Bo-Kai Ruan, Hong-Han Shuai, Wen-Huang Cheng|[2207.03041v1](http://arxiv.org/abs/2207.03041v1)|null|
 |**2022-06-30**|**Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery**|Yuehao Wang, Yonghao Long, Siu Hin Fan, Qi Dou|[2206.15255v1](http://arxiv.org/abs/2206.15255v1)|**[link](https://github.com/med-air/endonerf)**|
 |**2022-06-27**|**NeuRIS: Neural Reconstruction of Indoor Scenes Using Normal Priors**|Jiepeng Wang, Peng Wang, Xiaoxiao Long, Christian Theobalt, Taku Komura, Lingjie Liu, Wenping Wang|[2206.13597v1](http://arxiv.org/abs/2206.13597v1)|null|
 |**2022-06-26**|**Probabilistic PolarGMM: Unsupervised Cluster Learning of Very Noisy Projection Images of Unknown Pose**|Supawit Chockchowwat, Chandrajit L. Bajaj|[2206.12959v1](http://arxiv.org/abs/2206.12959v1)|null|
@@ -99,12 +102,12 @@
 |**2022-06-24**|**Efficient and Robust Training of Dense Object Nets for Multi-Object Robot Manipulation**|David B. Adrian, Andras Gabor Kupcsik, Markus Spies, Heiko Neumann|[2206.12145v1](http://arxiv.org/abs/2206.12145v1)|null|
 |**2022-06-22**|**SVoRT: Iterative Transformer for Slice-to-Volume Registration in Fetal Brain MRI**|Junshen Xu, Daniel Moyer, P. Ellen Grant, Polina Golland, Juan Eugenio Iglesias, Elfar Adalsteinsson|[2206.10802v1](http://arxiv.org/abs/2206.10802v1)|**[link](https://github.com/daviddmc/svort)**|
 |**2022-06-21**|**Attention-driven Active Vision for Efficient Reconstruction of Plants and Targeted Plant Parts**|Akshay K. Burusa, Eldert J. van Henten, Gert Kootstra|[2206.10274v1](http://arxiv.org/abs/2206.10274v1)|null|
-|**2022-06-17**|**Shadows Shed Light on 3D Objects**|Ruoshi Liu, Sachit Menon, Chengzhi Mao, Dennis Park, Simon Stent, Carl Vondrick|[2206.08990v1](http://arxiv.org/abs/2206.08990v1)|null|
-|**2022-06-16**|**Unbiased 4D: Monocular 4D Reconstruction with a Neural Deformation Model**|Erik C. M. Johnson, Marc Habermann, Soshi Shimada, Vladislav Golyanik, Christian Theobalt|[2206.08368v1](http://arxiv.org/abs/2206.08368v1)|null|
-|**2022-06-16**|**Virtual Correspondence: Humans as a Cue for Extreme-View Geometry**|Wei-Chiu Ma, Anqi Joyce Yang, Shenlong Wang, Raquel Urtasun, Antonio Torralba|[2206.08365v1](http://arxiv.org/abs/2206.08365v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-07**|**DRL-ISP: Multi-Objective Camera ISP with Deep Reinforcement Learning**|Ukcheol Shin, Kyunghyun Lee, In So Kweon|[2207.03081v1](http://arxiv.org/abs/2207.03081v1)|null|
+|**2022-07-07**|**Visual-Assisted Sound Source Depth Estimation in the Wild**|Wei Sun, Lili Qiu|[2207.03074v1](http://arxiv.org/abs/2207.03074v1)|null|
+|**2022-07-06**|**Network Binarization via Contrastive Learning**|Yuzhang Shang, Dan Xu, Ziliang Zong, Yan Yan|[2207.02970v1](http://arxiv.org/abs/2207.02970v1)|null|
 |**2022-07-06**|**Gaze-Vergence-Controlled See-Through Vision in Augmented Reality**|Zhimin Wang, Yuxin Zhao, Feng Lu|[2207.02645v1](http://arxiv.org/abs/2207.02645v1)|null|
 |**2022-07-05**|**Multiview Detection with Cardboard Human Modeling**|Jiahao Ma, Zicheng Duan, Yunzhong Hou, Liang Zheng, Chuong Nguyen|[2207.02013v1](http://arxiv.org/abs/2207.02013v1)|null|
 |**2022-07-03**|**Beyond Visual Field of View: Perceiving 3D Environment with Echoes and Vision**|Lingyu Zhu, Esa Rahtu, Hang Zhao|[2207.01136v1](http://arxiv.org/abs/2207.01136v1)|null|
@@ -112,9 +115,6 @@
 |**2022-07-03**|**PS$^2$F: Polarized Spiral Point Spread Function for Single-Shot 3D Sensing**|Bhargav Ghanekar, Vishwanath Saragadam, Dushyant Mehra, Anna-Karin Gustavsson, Aswin Sankaranarayanan, Ashok Veeraraghavan|[2207.00945v1](http://arxiv.org/abs/2207.00945v1)|null|
 |**2022-07-01**|**How Far Can I Go ? : A Self-Supervised Approach for Deterministic Video Depth Forecasting**|Suaradip Nag, Nisarg Shah, Anran Qi, Raghavendra Ramachandra|[2207.00506v1](http://arxiv.org/abs/2207.00506v1)|**[link](https://github.com/sauradip/depthforecasting)**|
 |**2022-07-01**|**Leveraging Monocular Disparity Estimation for Single-View Reconstruction**|Marissa Ramirez de Chanlatte, Matheus Gadelha, Thibault Groueix, Radomir Mech|[2207.00182v1](http://arxiv.org/abs/2207.00182v1)|null|
-|**2022-06-28**|**Accurate and Real-time Pseudo Lidar Detection: Is Stereo Neural Network Really Necessary?**|Haitao Meng, Changcai Li, Gang Chen, Alois Knoll|[2206.13858v1](http://arxiv.org/abs/2206.13858v1)|null|
-|**2022-06-28**|**When the Sun Goes Down: Repairing Photometric Losses for All-Day Depth Estimation**|Madhu Vankadari, Stuart Golodetz, Sourav Garg, Sangyun Shin, Andrew Markham, Niki Trigoni|[2206.13850v1](http://arxiv.org/abs/2206.13850v1)|null|
-|**2022-06-27**|**LaRa: Latents and Rays for Multi-Camera Bird's-Eye-View Semantic Segmentation**|Florent Bartoccioni, Éloi Zablocki, Andrei Bursuc, Patrick Pérez, Matthieu Cord, Karteek Alahari|[2206.13294v1](http://arxiv.org/abs/2206.13294v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -134,7 +134,7 @@
 |**2022-07-05**|**SiamMask: A Framework for Fast Online Object Tracking and Segmentation**|Weiming Hu, Qiang Wang, Li Zhang, Luca Bertinetto, Philip H. S. Torr|[2207.02088v1](http://arxiv.org/abs/2207.02088v1)|null|
 |**2022-07-04**|**Parametric and Multivariate Uncertainty Calibration for Regression and Object Detection**|Fabian Küppers, Jonas Schneider, Anselm Haselhoff|[2207.01242v1](http://arxiv.org/abs/2207.01242v1)|null|
 |**2022-07-03**|**Divert More Attention to Vision-Language Tracking**|Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing|[2207.01076v1](http://arxiv.org/abs/2207.01076v1)|**[link](https://github.com/JudasDie/SOTS)**|
-|**2022-06-29**|**BoT-SORT: Robust Associations Multi-Pedestrian Tracking**|Nir Aharon, Roy Orfaig, Ben-Zion Bobrovsky|[2206.14651v1](http://arxiv.org/abs/2206.14651v1)|**[link](https://github.com/niraharon/bot-sort)**|
+|**2022-06-29**|**BoT-SORT: Robust Associations Multi-Pedestrian Tracking**|Nir Aharon, Roy Orfaig, Ben-Zion Bobrovsky|[2206.14651v2](http://arxiv.org/abs/2206.14651v2)|**[link](https://github.com/niraharon/bot-sort)**|
 |**2022-06-29**|**SRCN3D: Sparse R-CNN 3D Surround-View Camera Object Detection and Tracking for Autonomous Driving**|Yining Shi, Jingyan Shen, Yifan Sun, Yunlong Wang, Jiaxin Li, Shiqi Sun, Kun Jiang, Diange Yang|[2206.14451v1](http://arxiv.org/abs/2206.14451v1)|**[link](https://github.com/synsin0/srcn3d)**|
 |**2022-06-28**|**RAPID: AppRoximAte Pipelined Soft Multipliers and Dividers for High-Throughput and Energy-Efficiency**|Zahra Ebrahimi, Muhammad Zaid, Mark Wijtvliet, Akash Kumar|[2206.13970v1](http://arxiv.org/abs/2206.13970v1)|null|
 |**2022-06-28**|**3D Multi-Object Tracking with Differentiable Pose Estimation**|Dominik Schmauser, Zeju Qiu, Norman Müller, Matthias Nießner|[2206.13785v1](http://arxiv.org/abs/2206.13785v1)|null|
@@ -191,7 +191,7 @@
 |**2022-06-25**|**Non-iterative Coarse-to-fine Registration based on Single-pass Deep Cumulative Learning**|Mingyuan Meng, Lei Bi, Dagan Feng, Jinman Kim|[2206.12596v2](http://arxiv.org/abs/2206.12596v2)|**[link](https://github.com/mungomeng/registration-nice-net)**|
 |**2022-06-24**|**A novel approach for glaucoma classification by wavelet neural networks using graph-based, statisitcal features of qualitatively improved images**|N. Krishna Santosh, Dr. Soubhagya Sankar Barpanda|[2206.12099v1](http://arxiv.org/abs/2206.12099v1)|null|
 |**2022-06-23**|**PromptPose: Language Prompt Helps Animal Pose Estimation**|Xu Zhang, Wen Wang, Zhe Chen, Jing Zhang, Dacheng Tao|[2206.11752v1](http://arxiv.org/abs/2206.11752v1)|null|
-|**2022-06-23**|**A novel adversarial learning strategy for medical image classification**|Zong Fan, Xiaohui Zhang, Jacob A. Gasienica, Jennifer Potts, Su Ruan, Wade Thorstad, Hiram Gay, Xiaowei Wang, Hua Li|[2206.11501v2](http://arxiv.org/abs/2206.11501v2)|null|
+|**2022-06-23**|**A novel adversarial learning strategy for medical image classification**|Zong Fan, Xiaohui Zhang, Jacob A. Gasienica, Jennifer Potts, Su Ruan, Wade Thorstad, Hiram Gay, Pengfei Song, Xiaowei Wang, Hua Li|[2206.11501v3](http://arxiv.org/abs/2206.11501v3)|null|
 |**2022-06-22**|**Depth-aware Glass Surface Detection with Cross-modal Context Mining**|Jiaying Lin, Yuen Hei Yeung, Rynson W. H. Lau|[2206.11250v1](http://arxiv.org/abs/2206.11250v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
