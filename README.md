@@ -1,16 +1,16 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-08**|**BlindSpotNet: Seeing Where We Cannot See**|Taichi Fukuda, Kotaro Hasegawa, Shinya Ishizaki, Shohei Nobuhara, Ko Nishino|[2207.03870v1](http://arxiv.org/abs/2207.03870v1)|null|
+|**2022-07-08**|**Continuous Target-free Extrinsic Calibration of a Multi-Sensor System from a Sequence of Static Viewpoints**|Philipp Glira, Christoph Weidinger, Johann Weichselbaum|[2207.03785v1](http://arxiv.org/abs/2207.03785v1)|null|
+|**2022-07-08**|**Distributed Ranging SLAM for Multiple Robots with Ultra-WideBand and Odometry Measurements**|Ran Liu, Zhongyuan Deng, Zhiqiang Cao, Muhammad Shalihan, Billy Pik Lik Lau, Kaixiang Chen, Kaushik Bhowmik, Chau Yuen, U-Xuan Tan|[2207.03700v1](http://arxiv.org/abs/2207.03700v1)|null|
+|**2022-07-07**|**RWT-SLAM: Robust Visual SLAM for Highly Weak-textured Environments**|Qihao Peng, Zhiyu Xiang, YuanGang Fan, Tengqi Zhao, Xijun Zhao|[2207.03539v1](http://arxiv.org/abs/2207.03539v1)|null|
 |**2022-07-06**|**VI-SLAM2tag: Low-Effort Labeled Dataset Collection for Fingerprinting-Based Indoor Localization**|Marius Laska, Till Schulz, Jan Grottke, Christoph Blut, Jörg Blankenbach|[2207.02668v1](http://arxiv.org/abs/2207.02668v1)|null|
 |**2022-07-06**|**A Novel Hybrid Endoscopic Dataset for Evaluating Machine Learning-based Photometric Image Enhancement Models**|Axel Garcia-Vega, Ricardo Espinosa, Gilberto Ochoa-Ruiz, Thomas Bazin, Luis Eduardo Falcon-Morales, Dominique Lamarque, Christian Daul|[2207.02396v1](http://arxiv.org/abs/2207.02396v1)|null|
 |**2022-07-04**|**VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM**|Ling Gao, Yuxuan Liang, Jiaqi Yang, Shaoxun Wu, Chenyu Wang, Jiaben Chen, Laurent Kneip|[2207.01404v1](http://arxiv.org/abs/2207.01404v1)|null|
 |**2022-07-04**|**VIP-SLAM: An Efficient Tightly-Coupled RGB-D Visual Inertial Planar SLAM**|Danpeng Chen, Shuai Wang, Weijian Xie, Shangjin Zhai, Nan Wang, Hujun Bao, Guofeng Zhang|[2207.01158v1](http://arxiv.org/abs/2207.01158v1)|null|
 |**2022-07-03**|**Wireless Channel Prediction in Partially Observed Environments**|Mingsheng Yin, Yaqi Hu, Tommy Azzino, Seongjoon Kang, Marco Mezzavilla, Sundeep Rangan|[2207.00934v1](http://arxiv.org/abs/2207.00934v1)|null|
 |**2022-07-01**|**A Survey on Active Simultaneous Localization and Mapping: State of the Art and New Frontiers**|Julio A. Placed, Jared Strader, Henry Carrillo, Nikolay Atanasov, Vadim Indelman, Luca Carlone, José A. Castellanos|[2207.00254v1](http://arxiv.org/abs/2207.00254v1)|null|
-|**2022-07-01**|**Keeping Less is More: Point Sparsification for Visual SLAM**|Yeonsoo Park, Soohyun Bae|[2207.00225v1](http://arxiv.org/abs/2207.00225v1)|null|
-|**2022-06-30**|**Controlled and impulsive compression of an entrapped air bubble during impact**|Utkarsh Jain, Devaraj van der Meer|[2206.15297v1](http://arxiv.org/abs/2206.15297v1)|null|
-|**2022-06-30**|**Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery**|Yuehao Wang, Yonghao Long, Siu Hin Fan, Qi Dou|[2206.15255v1](http://arxiv.org/abs/2206.15255v1)|**[link](https://github.com/med-air/endonerf)**|
-|**2022-06-27**|**IBISCape: A Simulated Benchmark for multi-modal SLAM Systems Evaluation in Large-scale Dynamic Environments**|Abanob Soliman, Fabien Bonardi, Désiré Sidibé, Samia Bouchafa|[2206.13455v1](http://arxiv.org/abs/2206.13455v1)|**[link](https://github.com/AbanobSoliman/IBISCape)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -105,6 +105,8 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-08**|**BlindSpotNet: Seeing Where We Cannot See**|Taichi Fukuda, Kotaro Hasegawa, Shinya Ishizaki, Shohei Nobuhara, Ko Nishino|[2207.03870v1](http://arxiv.org/abs/2207.03870v1)|null|
+|**2022-07-07**|**False Negative Reduction in Semantic Segmentation under Domain Shift using Depth Estimation**|Kira Maag, Matthias Rottmann|[2207.03513v1](http://arxiv.org/abs/2207.03513v1)|null|
 |**2022-07-07**|**DRL-ISP: Multi-Objective Camera ISP with Deep Reinforcement Learning**|Ukcheol Shin, Kyunghyun Lee, In So Kweon|[2207.03081v1](http://arxiv.org/abs/2207.03081v1)|null|
 |**2022-07-07**|**Visual-Assisted Sound Source Depth Estimation in the Wild**|Wei Sun, Lili Qiu|[2207.03074v1](http://arxiv.org/abs/2207.03074v1)|null|
 |**2022-07-06**|**Network Binarization via Contrastive Learning**|Yuzhang Shang, Dan Xu, Ziliang Zong, Yan Yan|[2207.02970v1](http://arxiv.org/abs/2207.02970v1)|null|
@@ -113,8 +115,6 @@
 |**2022-07-03**|**Beyond Visual Field of View: Perceiving 3D Environment with Echoes and Vision**|Lingyu Zhu, Esa Rahtu, Hang Zhao|[2207.01136v1](http://arxiv.org/abs/2207.01136v1)|null|
 |**2022-07-03**|**Can Language Understand Depth?**|Renrui Zhang, Ziyao Zeng, Ziyu Guo|[2207.01077v1](http://arxiv.org/abs/2207.01077v1)|**[link](https://github.com/adonis-galaxy/depthclip)**|
 |**2022-07-03**|**PS$^2$F: Polarized Spiral Point Spread Function for Single-Shot 3D Sensing**|Bhargav Ghanekar, Vishwanath Saragadam, Dushyant Mehra, Anna-Karin Gustavsson, Aswin Sankaranarayanan, Ashok Veeraraghavan|[2207.00945v1](http://arxiv.org/abs/2207.00945v1)|null|
-|**2022-07-01**|**How Far Can I Go ? : A Self-Supervised Approach for Deterministic Video Depth Forecasting**|Suaradip Nag, Nisarg Shah, Anran Qi, Raghavendra Ramachandra|[2207.00506v1](http://arxiv.org/abs/2207.00506v1)|**[link](https://github.com/sauradip/depthforecasting)**|
-|**2022-07-01**|**Leveraging Monocular Disparity Estimation for Single-View Reconstruction**|Marissa Ramirez de Chanlatte, Matheus Gadelha, Thibault Groueix, Radomir Mech|[2207.00182v1](http://arxiv.org/abs/2207.00182v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-08**|**TGRMPT: A Head-Shoulder Aided Multi-Person Tracker and a New Large-Scale Dataset for Tour-Guide Robot**|Wen Wang, Shunda Hu, Shiqiang Zhu, Wei Song, Zheyuan Lin, Tianlei Jin, Zonghao Mu, Yuanhai Zhou|[2207.03726v1](http://arxiv.org/abs/2207.03726v1)|**[link](https://github.com/wenwenzju/TGRMPT)**|
 |**2022-07-05**|**SiamMask: A Framework for Fast Online Object Tracking and Segmentation**|Weiming Hu, Qiang Wang, Li Zhang, Luca Bertinetto, Philip H. S. Torr|[2207.02088v1](http://arxiv.org/abs/2207.02088v1)|null|
 |**2022-07-04**|**Parametric and Multivariate Uncertainty Calibration for Regression and Object Detection**|Fabian Küppers, Jonas Schneider, Anselm Haselhoff|[2207.01242v1](http://arxiv.org/abs/2207.01242v1)|null|
 |**2022-07-03**|**Divert More Attention to Vision-Language Tracking**|Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing|[2207.01076v1](http://arxiv.org/abs/2207.01076v1)|**[link](https://github.com/JudasDie/SOTS)**|
@@ -140,10 +141,10 @@
 |**2022-06-28**|**3D Multi-Object Tracking with Differentiable Pose Estimation**|Dominik Schmauser, Zeju Qiu, Norman Müller, Matthias Nießner|[2206.13785v1](http://arxiv.org/abs/2206.13785v1)|null|
 |**2022-06-21**|**GNN-PMB: A Simple but Effective Online 3D Multi-Object Tracker without Bells and Whistles**|Jianan Liu, Liping Bai, Yuxuan Xia, Tao Huang, Bing Zhu|[2206.10255v1](http://arxiv.org/abs/2206.10255v1)|**[link](https://github.com/chisyliu/gnn_pmb_tracker)**|
 |**2022-06-20**|**Real-time Full-stack Traffic Scene Perception for Autonomous Driving with Roadside Cameras**|Zhengxia Zou, Rusheng Zhang, Shengyin Shen, Gaurav Pandey, Punarjay Chakravarty, Armin Parchami, Henry X. Liu|[2206.09770v1](http://arxiv.org/abs/2206.09770v1)|null|
-|**2022-06-19**|**mvHOTA: A multi-view higher order tracking accuracy metric to measure spatial and temporal associations in multi-point detection**|Lalith Sharan, Halvar Kelm, Gabriele Romano, Matthias Karck, Raffaele De Simone, Sandy Engelhardt|[2206.09372v1](http://arxiv.org/abs/2206.09372v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-08**|**Reactive Neural Path Planning with Dynamic Obstacle Avoidance in a Condensed Configuration Space**|Lea Steffen, Tobias Weyer, Stefan Ulbrich, Arne Roennau, Rüdiger Dillmann|[2207.03959v1](http://arxiv.org/abs/2207.03959v1)|null|
 |**2022-06-12**|**Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments**|Linh Kästner, Teham Bhuiyan, Tuan Anh Le, Elias Treis, Johannes Cox, Boris Meinardus, Jacek Kmiecik, Reyk Carstens, Duc Pichel, Bassel Fatloun, Niloufar Khorsandi, Jens Lambrecht|[2206.05728v1](http://arxiv.org/abs/2206.05728v1)|**[link](https://github.com/ignc-research/arena-bench)**|
 |**2022-04-14**|**Blending Primitive Policies in Shared Control for Assisted Teleoperation**|Guilherme Maeda|[2204.07026v1](http://arxiv.org/abs/2204.07026v1)|null|
 |**2022-03-15**|**Reactive Motion Generation on Learned Riemannian Manifolds**|Hadi Beik-Mohammadi, Søren Hauberg, Georgios Arvanitidis, Gerhard Neumann, Leonel Rozo|[2203.07761v1](http://arxiv.org/abs/2203.07761v1)|null|
@@ -153,7 +154,6 @@
 |**2021-06-08**|**Learning Riemannian Manifolds for Geodesic Motion Skills**|Hadi Beik-Mohammadi, Søren Hauberg, Georgios Arvanitidis, Gerhard Neumann, Leonel Rozo|[2106.04315v2](http://arxiv.org/abs/2106.04315v2)|null|
 |**2021-04-23**|**Speed Planning Using Bezier Polynomials with Trapezoidal Corridors**|Jialun Li, Xiaojia Xie, Hengbo Ma, Xiao Liu, Jianping He|[2104.11655v1](http://arxiv.org/abs/2104.11655v1)|null|
 |**2021-04-08**|**Connecting Deep-Reinforcement-Learning-based Obstacle Avoidance with Conventional Global Planners using Waypoint Generators**|Linh Kästner, Teham Buiyan, Xinlin Zhao, Zhengcheng Shen, Cornelius Marx, Jens Lambrecht|[2104.03663v1](http://arxiv.org/abs/2104.03663v1)|**[link](https://github.com/ignc-research/arena-rosnav)**|
-|**2021-02-26**|**Multi-Agent Path Planning based on MPC and DDPG**|Junxiao Xue, Xiangyan Kong, Bowei Dong, Mingliang Xu|[2102.13283v1](http://arxiv.org/abs/2102.13283v1)|null|
 ## PointCloud
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-08**|**RePFormer: Refinement Pyramid Transformer for Robust Facial Landmark Detection**|Jinpeng Li, Haibo Jin, Shengcai Liao, Ling Shao, Pheng-Ann Heng|[2207.03917v1](http://arxiv.org/abs/2207.03917v1)|null|
 |**2022-07-01**|**SDRTV-to-HDRTV via Hierarchical Dynamic Context Feature Mapping**|Gang He, Kepeng Xu, Li Xu, Chang Wu, Ming Sun, Xing Wen, Yu-Wing Tai|[2207.00319v1](http://arxiv.org/abs/2207.00319v1)|null|
 |**2022-07-01**|**Towards Two-view 6D Object Pose Estimation: A Comparative Study on Fusion Strategy**|Jun Wu, Lilu Liu, Yue Wang, Rong Xiong|[2207.00260v1](http://arxiv.org/abs/2207.00260v1)|null|
 |**2022-06-30**|**A Medical Image Fusion Method based on MDLatLRRv2**|Xu Song, Xiao-Jun Wu, Hui Li|[2206.15179v2](http://arxiv.org/abs/2206.15179v2)|null|
@@ -192,10 +193,10 @@
 |**2022-06-24**|**A novel approach for glaucoma classification by wavelet neural networks using graph-based, statisitcal features of qualitatively improved images**|N. Krishna Santosh, Dr. Soubhagya Sankar Barpanda|[2206.12099v1](http://arxiv.org/abs/2206.12099v1)|null|
 |**2022-06-23**|**PromptPose: Language Prompt Helps Animal Pose Estimation**|Xu Zhang, Wen Wang, Zhe Chen, Jing Zhang, Dacheng Tao|[2206.11752v1](http://arxiv.org/abs/2206.11752v1)|null|
 |**2022-06-23**|**A novel adversarial learning strategy for medical image classification**|Zong Fan, Xiaohui Zhang, Jacob A. Gasienica, Jennifer Potts, Su Ruan, Wade Thorstad, Hiram Gay, Pengfei Song, Xiaowei Wang, Hua Li|[2206.11501v3](http://arxiv.org/abs/2206.11501v3)|null|
-|**2022-06-22**|**Depth-aware Glass Surface Detection with Cross-modal Context Mining**|Jiaying Lin, Yuen Hei Yeung, Rynson W. H. Lau|[2206.11250v1](http://arxiv.org/abs/2206.11250v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-08**|**Distributed Ranging SLAM for Multiple Robots with Ultra-WideBand and Odometry Measurements**|Ran Liu, Zhongyuan Deng, Zhiqiang Cao, Muhammad Shalihan, Billy Pik Lik Lau, Kaixiang Chen, Kaushik Bhowmik, Chau Yuen, U-Xuan Tan|[2207.03700v1](http://arxiv.org/abs/2207.03700v1)|null|
 |**2022-07-04**|**HiPE: Hierarchical Initialization for Pose Graphs**|Tiziano Guadagnino, Luca Di Giammarino, Giorgio Grisetti|[2207.01582v1](http://arxiv.org/abs/2207.01582v1)|**[link](https://github.com/srrg-sapienza/srrg2-hipe)**|
 |**2022-07-01**|**Keeping Less is More: Point Sparsification for Visual SLAM**|Yeonsoo Park, Soohyun Bae|[2207.00225v1](http://arxiv.org/abs/2207.00225v1)|null|
 |**2022-06-27**|**A Novel Unified Self-alignment Method of SINS Based on FGO**|Hanwen Zhou, Xiufen Ye|[2206.13348v3](http://arxiv.org/abs/2206.13348v3)|null|
@@ -205,7 +206,6 @@
 |**2022-04-28**|**Simultaneous Control and Trajectory Estimation for Collision Avoidance of Autonomous Robotic Spacecraft Systems**|Matthew King-Smith, Panagiotis Tsiotras, Frank Dellaert|[2204.13251v1](http://arxiv.org/abs/2204.13251v1)|null|
 |**2022-04-25**|**Discrete-Continuous Smoothing and Mapping**|Kevin J. Doherty, Ziqi Lu, Kurran Singh, John J. Leonard|[2204.11936v2](http://arxiv.org/abs/2204.11936v2)|**[link](https://github.com/marineroboticsgroup/dcsam)**|
 |**2022-04-11**|**IC-GVINS: A Robust, Real-time, INS-Centric GNSS-Visual-Inertial Navigation System for Wheeled Robot**|Hailiang Tang, Tisheng Zhang, Xiaoji Niu, Jing Fan, Jingnan Liu|[2204.04962v2](http://arxiv.org/abs/2204.04962v2)|**[link](https://github.com/i2nav-whu/ic-gvins)**|
-|**2022-03-29**|**Sparse Pose Graph Optimization in Cycle Space**|Fang Bai, Teresa Vidal-Calleja, Giorgio Grisetti|[2203.15597v1](http://arxiv.org/abs/2203.15597v1)|**[link](https://bitbucket.org/fangbai/cyclebasedpgo)**|
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
