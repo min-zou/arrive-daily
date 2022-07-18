@@ -131,16 +131,16 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-15**|**GUSOT: Green and Unsupervised Single Object Tracking for Long Video Sequences**|Zhiruo Zhou, Hongyu Fu, Suya You, C. -C. Jay Kuo|[2207.07629v1](http://arxiv.org/abs/2207.07629v1)|null|
+|**2022-07-15**|**Multi-Object Tracking and Segmentation via Neural Message Passing**|Guillem Braso, Orcun Cetintas, Laura Leal-Taixe|[2207.07454v1](http://arxiv.org/abs/2207.07454v1)|null|
 |**2022-07-14**|**Towards Grand Unification of Object Tracking**|Bin Yan, Yi Jiang, Peize Sun, Dong Wang, Zehuan Yuan, Ping Luo, Huchuan Lu|[2207.07078v1](http://arxiv.org/abs/2207.07078v1)|**[link](https://github.com/masterbin-iiau/unicorn)**|
 |**2022-07-12**|**SpOT: Spatiotemporal Modeling for 3D Object Tracking**|Colton Stearns, Davis Rempe, Jie Li, Rares Ambrus, Sergey Zakharov, Vitor Guizilini, Yanchao Yang, Leonidas J Guibas|[2207.05856v1](http://arxiv.org/abs/2207.05856v1)|null|
-|**2022-07-12**|**Tracking Objects as Pixel-wise Distributions**|Zelin Zhao, Ze Wu, Yueqing Zhuang, Boxun Li, Jiaya Jia|[2207.05518v1](http://arxiv.org/abs/2207.05518v1)|null|
+|**2022-07-12**|**Tracking Objects as Pixel-wise Distributions**|Zelin Zhao, Ze Wu, Yueqing Zhuang, Boxun Li, Jiaya Jia|[2207.05518v2](http://arxiv.org/abs/2207.05518v2)|**[link](https://github.com/dvlab-research/eccv22-p3aformer-tracking-objects-as-pixel-wise-distributions)**|
 |**2022-07-10**|**Depth Perspective-aware Multiple Object Tracking**|Kha Gia Quach, Huu Le, Pha Nguyen, Chi Nhan Duong, Tien Dai Bui, Khoa Luu|[2207.04551v1](http://arxiv.org/abs/2207.04551v1)|null|
 |**2022-07-08**|**TGRMPT: A Head-Shoulder Aided Multi-Person Tracker and a New Large-Scale Dataset for Tour-Guide Robot**|Wen Wang, Shunda Hu, Shiqiang Zhu, Wei Song, Zheyuan Lin, Tianlei Jin, Zonghao Mu, Yuanhai Zhou|[2207.03726v1](http://arxiv.org/abs/2207.03726v1)|**[link](https://github.com/wenwenzju/TGRMPT)**|
 |**2022-07-05**|**SiamMask: A Framework for Fast Online Object Tracking and Segmentation**|Weiming Hu, Qiang Wang, Li Zhang, Luca Bertinetto, Philip H. S. Torr|[2207.02088v1](http://arxiv.org/abs/2207.02088v1)|null|
 |**2022-07-04**|**Parametric and Multivariate Uncertainty Calibration for Regression and Object Detection**|Fabian Küppers, Jonas Schneider, Anselm Haselhoff|[2207.01242v1](http://arxiv.org/abs/2207.01242v1)|null|
 |**2022-07-03**|**Divert More Attention to Vision-Language Tracking**|Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing|[2207.01076v1](http://arxiv.org/abs/2207.01076v1)|**[link](https://github.com/JudasDie/SOTS)**|
-|**2022-06-29**|**BoT-SORT: Robust Associations Multi-Pedestrian Tracking**|Nir Aharon, Roy Orfaig, Ben-Zion Bobrovsky|[2206.14651v2](http://arxiv.org/abs/2206.14651v2)|**[link](https://github.com/niraharon/bot-sort)**|
-|**2022-06-29**|**SRCN3D: Sparse R-CNN 3D Surround-View Camera Object Detection and Tracking for Autonomous Driving**|Yining Shi, Jingyan Shen, Yifan Sun, Yunlong Wang, Jiaxin Li, Shiqi Sun, Kun Jiang, Diange Yang|[2206.14451v1](http://arxiv.org/abs/2206.14451v1)|**[link](https://github.com/synsin0/srcn3d)**|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,8 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-15**|**CKD-TransBTS: Clinical Knowledge-Driven Hybrid Transformer with Modality-Correlated Cross-Attention for Brain Tumor Segmentation**|Jianwei Lin, Jiatai Lin, Cheng Lu, Hao Chen, Huan Lin, Bingchao Zhao, Zhenwei Shi, Bingjiang Qiu, Xipeng Pan, Zeyan Xu, Biao Huang, Changhong Liang, Guoqiang Han, Zaiyi Liu, Chu Han|[2207.07370v1](http://arxiv.org/abs/2207.07370v1)|null|
+|**2022-07-15**|**Towards Better Dermoscopic Image Feature Representation Learning for Melanoma Classification**|ChengHui Yu, MingKang Tang, ShengGe Yang, MingQing Wang, Zhe Xu, JiangPeng Yan, HanMo Chen, Yu Yang, Xiao-Jun Zeng, Xiu Li|[2207.07303v1](http://arxiv.org/abs/2207.07303v1)|null|
 |**2022-07-13**|**Deep Learning Discovery of Demographic Biomarkers in Echocardiography**|Grant Duffy, Shoa L. Clarke, Matthew Christensen, Bryan He, Neal Yuan, Susan Cheng, David Ouyang|[2207.06421v1](http://arxiv.org/abs/2207.06421v1)|null|
 |**2022-07-12**|**Vision Transformer for NeRF-Based View Synthesis from a Single Input Image**|Kai-En Lin, Lin Yen-Chen, Wei-Sheng Lai, Tsung-Yi Lin, Yi-Chang Shih, Ravi Ramamoorthi|[2207.05736v1](http://arxiv.org/abs/2207.05736v1)|null|
 |**2022-07-09**|**Towards Highly Expressive Machine Learning Models of Non-Melanoma Skin Cancer**|Simon M. Thomas, James G. Lefevre, Glenn Baxter, Nicholas A. Hamilton|[2207.05749v1](http://arxiv.org/abs/2207.05749v1)|null|
@@ -191,8 +193,6 @@
 |**2022-07-01**|**SDRTV-to-HDRTV via Hierarchical Dynamic Context Feature Mapping**|Gang He, Kepeng Xu, Li Xu, Chang Wu, Ming Sun, Xing Wen, Yu-Wing Tai|[2207.00319v1](http://arxiv.org/abs/2207.00319v1)|null|
 |**2022-07-01**|**Towards Two-view 6D Object Pose Estimation: A Comparative Study on Fusion Strategy**|Jun Wu, Lilu Liu, Yue Wang, Rong Xiong|[2207.00260v1](http://arxiv.org/abs/2207.00260v1)|null|
 |**2022-06-30**|**A Medical Image Fusion Method based on MDLatLRRv2**|Xu Song, Xiao-Jun Wu, Hui Li|[2206.15179v2](http://arxiv.org/abs/2206.15179v2)|null|
-|**2022-06-29**|**vMFNet: Compositionality Meets Domain-generalised Segmentation**|Xiao Liu, Spyridon Thermos, Pedro Sanchez, Alison Q. O'Neil, Sotirios A. Tsaftaris|[2206.14538v1](http://arxiv.org/abs/2206.14538v1)|**[link](https://github.com/vios-s/vmfnet)**|
-|**2022-06-28**|**Multi-Prior Learning via Neural Architecture Search for Blind Face Restoration**|Yanjiang Yu, Puyang Zhang, Kaihao Zhang, Wenhan Luo, Changsheng Li, Ye Yuan, Guoren Wang|[2206.13962v1](http://arxiv.org/abs/2206.13962v1)|**[link](https://github.com/yyj1ang/mfpsnet)**|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
