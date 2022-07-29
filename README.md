@@ -62,7 +62,7 @@
 |**2022-06-15**|**Self-Supervised Learning of Image Scale and Orientation**|Jongmin Lee, Yoonwoo Jeong, Minsu Cho|[2206.07259v1](http://arxiv.org/abs/2206.07259v1)|**[link](https://github.com/bluedream1121/self-sca-ori)**|
 |**2022-05-27**|**Image Keypoint Matching using Graph Neural Networks**|Nancy Xu, Giannis Nikolentzos, Michalis Vazirgiannis, Henrik Boström|[2205.14275v1](http://arxiv.org/abs/2205.14275v1)|null|
 |**2022-05-27**|**Fine-tuning deep learning models for stereo matching using results from semi-global matching**|Hessah Albanwan, Rongjun Qin|[2205.14051v1](http://arxiv.org/abs/2205.14051v1)|null|
-|**2022-05-23**|**TransforMatcher: Match-to-Match Attention for Semantic Correspondence**|Seungwook Kim, Juhong Min, Minsu Cho|[2205.11634v1](http://arxiv.org/abs/2205.11634v1)|null|
+|**2022-05-23**|**TransforMatcher: Match-to-Match Attention for Semantic Correspondence**|Seungwook Kim, Juhong Min, Minsu Cho|[2205.11634v1](http://arxiv.org/abs/2205.11634v1)|**[link](https://github.com/wookiekim/transformatcher)**|
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-28**|**The One Where They Reconstructed 3D Humans and Environments in TV Shows**|Georgios Pavlakos, Ethan Weber, Matthew Tancik, Angjoo Kanazawa|[2207.14279v1](http://arxiv.org/abs/2207.14279v1)|null|
 |**2022-07-27**|**Towards the Probabilistic Fusion of Learned Priors into Standard Pipelines for 3D Reconstruction**|Tristan Laidlow, Jan Czarnowski, Andrea Nicastro, Ronald Clark, Stefan Leutenegger|[2207.13464v1](http://arxiv.org/abs/2207.13464v1)|null|
 |**2022-07-25**|**DeepFusion: Real-Time Dense 3D Reconstruction for Monocular SLAM using Single-View Depth and Gradient Predictions**|Tristan Laidlow, Jan Czarnowski, Stefan Leutenegger|[2207.12244v1](http://arxiv.org/abs/2207.12244v1)|null|
 |**2022-07-22**|**Visual Speech-Aware Perceptual 3D Facial Expression Reconstruction from Videos**|Panagiotis P. Filntisis, George Retsinas, Foivos Paraperas-Papantoniou, Athanasios Katsamanis, Anastasios Roussos, Petros Maragos|[2207.11094v1](http://arxiv.org/abs/2207.11094v1)|null|
@@ -101,10 +102,10 @@
 |**2022-07-21**|**Neural Pixel Composition: 3D-4D View Synthesis from Multi-Views**|Aayush Bansal, Michael Zollhoefer|[2207.10663v1](http://arxiv.org/abs/2207.10663v1)|null|
 |**2022-07-21**|**Multi-Event-Camera Depth Estimation and Outlier Rejection by Refocused Events Fusion**|Suman Ghosh, Guillermo Gallego|[2207.10494v1](http://arxiv.org/abs/2207.10494v1)|null|
 |**2022-07-20**|**2D GANs Meet Unsupervised Single-view 3D Reconstruction**|Feng Liu, Xiaoming Liu|[2207.10183v1](http://arxiv.org/abs/2207.10183v1)|null|
-|**2022-07-20**|**Structural Causal 3D Reconstruction**|Weiyang Liu, Zhen Liu, Liam Paull, Adrian Weller, Bernhard Schölkopf|[2207.10156v1](http://arxiv.org/abs/2207.10156v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-28**|**Depth Field Networks for Generalizable Multi-view Scene Representation**|Vitor Guizilini, Igor Vasiljevic, Jiading Fang, Rares Ambrus, Greg Shakhnarovich, Matthew Walter, Adrien Gaidon|[2207.14287v1](http://arxiv.org/abs/2207.14287v1)|null|
 |**2022-07-26**|**Monocular 3D Object Detection with Depth from Motion**|Tai Wang, Jiangmiao Pang, Dahua Lin|[2207.12988v1](http://arxiv.org/abs/2207.12988v1)|**[link](https://github.com/tai-wang/depth-from-motion)**|
 |**2022-07-25**|**Seeing Far in the Dark with Patterned Flash**|Zhanghao Sun, Jian Wang, Yicheng Wu, Shree Nayar|[2207.12570v1](http://arxiv.org/abs/2207.12570v1)|**[link](https://github.com/zhsun0357/seeing-far-in-the-dark-with-patterned-flash)**|
 |**2022-07-25**|**Cost Volume Pyramid Network with Multi-strategies Range Searching for Multi-view Stereo**|Shiyu Gao, Zhaoxin Li, Zhaoqi Wang|[2207.12032v1](http://arxiv.org/abs/2207.12032v1)|**[link](https://github.com/SibylGao/MSCVP-MVSNet)**|
@@ -114,7 +115,6 @@
 |**2022-07-20**|**Latent Discriminant deterministic Uncertainty**|Gianni Franchi, Xuanlong Yu, Andrei Bursuc, Emanuel Aldea, Severine Dubuisson, David Filliat|[2207.10130v1](http://arxiv.org/abs/2207.10130v1)|**[link](https://github.com/ensta-u2is/ldu)**|
 |**2022-07-20**|**Densely Constrained Depth Estimator for Monocular 3D Object Detection**|Yingyan Li, Yuntao Chen, Jiawei He, Zhaoxiang Zhang|[2207.10047v2](http://arxiv.org/abs/2207.10047v2)|**[link](https://github.com/bravegroup/dcd)**|
 |**2022-07-20**|**Learning Depth from Focus in the Wild**|Changyeon Won, Hae-Gon Jeon|[2207.09658v1](http://arxiv.org/abs/2207.09658v1)|**[link](https://github.com/wcy199705/dffinthewild)**|
-|**2022-07-18**|**MonoIndoor++:Towards Better Practice of Self-Supervised Monocular Depth Estimation for Indoor Environments**|Runze Li, Pan Ji, Yi Xu, Bir Bhanu|[2207.08951v1](http://arxiv.org/abs/2207.08951v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-28**|**Why Accuracy Is Not Enough: The Need for Consistency in Object Detection**|Caleb Tung, Abhinav Goel, Fischer Bordwell, Nick Eliopoulos, Xiao Hu, George K. Thiruvathukal, Yung-Hsiang Lu|[2207.13890v1](http://arxiv.org/abs/2207.13890v1)|null|
 |**2022-07-26**|**Tracking Every Thing in the Wild**|Siyuan Li, Martin Danelljan, Henghui Ding, Thomas E. Huang, Fisher Yu|[2207.12978v1](http://arxiv.org/abs/2207.12978v1)|null|
 |**2022-07-26**|**TransFiner: A Full-Scale Refinement Approach for Multiple Object Tracking**|Bin Sun, Jiale Cao|[2207.12967v1](http://arxiv.org/abs/2207.12967v1)|null|
 |**2022-07-26**|**Large-displacement 3D Object Tracking with Hybrid Non-local Optimization**|Xuhui Tian, Xinran Lin, Fan Zhong, Xueying Qin|[2207.12620v1](http://arxiv.org/abs/2207.12620v1)|**[link](https://github.com/cvbubbles/nonlocal-3dtracking)**|
@@ -140,7 +141,6 @@
 |**2022-07-20**|**Trajectory PMB Filters for Extended Object Tracking Using Belief Propagation**|Yuxuan Xia, Ángel F. García-Fernández, Florian Meyer, Jason L. Williams, Karl Granström, Lennart Svensson|[2207.10164v1](http://arxiv.org/abs/2207.10164v1)|**[link](https://github.com/yuhsuansia/trajectory-pmb-eot-bp)**|
 |**2022-07-20**|**MOTCOM: The Multi-Object Tracking Dataset Complexity Metric**|Malte Pedersen, Joakim Bruslund Haurum, Patrick Dendorfer, Thomas B. Moeslund|[2207.10031v1](http://arxiv.org/abs/2207.10031v1)|null|
 |**2022-07-19**|**The Caltech Fish Counting Dataset: A Benchmark for Multiple-Object Tracking and Counting**|Justin Kay, Peter Kulits, Suzanne Stathatos, Siqi Deng, Erik Young, Sara Beery, Grant Van Horn, Pietro Perona|[2207.09295v1](http://arxiv.org/abs/2207.09295v1)|**[link](https://github.com/visipedia/caltech-fish-counting)**|
-|**2022-07-18**|**A Certifiable Security Patch for Object Tracking in Self-Driving Systems via Historical Deviation Modeling**|Xudong Pan, Qifan Xiao, Mi Zhang, Min Yang|[2207.08556v1](http://arxiv.org/abs/2207.08556v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,8 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-28**|**Correlating Visual Characteristics and Cryogenic Performance of Superconducting Detectors**|K. R. Ferguson, A. N. Bender, N. Whitehorn, T. W. Cecil|[2207.14242v1](http://arxiv.org/abs/2207.14242v1)|null|
+|**2022-07-28**|**Semantic-Aligned Matching for Enhanced DETR Convergence and Multi-Scale Feature Fusion**|Gongjie Zhang, Zhipeng Luo, Yingchen Yu, Jiaxing Huang, Kaiwen Cui, Shijian Lu, Eric P. Xing|[2207.14172v1](http://arxiv.org/abs/2207.14172v1)|null|
 |**2022-07-26**|**Monocular 3D Object Detection with Depth from Motion**|Tai Wang, Jiangmiao Pang, Dahua Lin|[2207.12988v1](http://arxiv.org/abs/2207.12988v1)|**[link](https://github.com/tai-wang/depth-from-motion)**|
 |**2022-07-23**|**CompNVS: Novel View Synthesis with Scene Completion**|Zuoyue Li, Tianxing Fan, Zhenqiang Li, Zhaopeng Cui, Yoichi Sato, Marc Pollefeys, Martin R. Oswald|[2207.11467v1](http://arxiv.org/abs/2207.11467v1)|null|
 |**2022-07-21**|**Boosting 3D Object Detection via Object-Focused Image Fusion**|Hao Yang, Chen Shi, Yihong Chen, Liwei Wang|[2207.10589v1](http://arxiv.org/abs/2207.10589v1)|**[link](https://github.com/haoy945/demf)**|
@@ -191,8 +193,6 @@
 |**2022-07-18**|**Label2Label: A Language Modeling Framework for Multi-Attribute Learning**|Wanhua Li, Zhexuan Cao, Jianjiang Feng, Jie Zhou, Jiwen Lu|[2207.08677v1](http://arxiv.org/abs/2207.08677v1)|**[link](https://github.com/li-wanhua/label2label)**|
 |**2022-07-18**|**Adaptive Assignment for Geometry Aware Local Feature Matching**|Dihe Huang, Ying Chen, Shang Xu, Yong Liu, Wenlong Wu, Yikang Ding, Chengjie Wang, Fan Tang|[2207.08427v1](http://arxiv.org/abs/2207.08427v1)|null|
 |**2022-07-18**|**Multi-head Cascaded Swin Transformers with Attention to k-space Sampling Pattern for Accelerated MRI Reconstruction**|Mevan Ekanayake, Kamlesh Pawar, Mehrtash Harandi, Gary Egan, Zhaolin Chen|[2207.08412v1](http://arxiv.org/abs/2207.08412v1)|null|
-|**2022-07-17**|**A Simple Test-Time Method for Out-of-Distribution Detection**|Ke Fan, Yikai Wang, Qian Yu, Da Li, Yanwei Fu|[2207.08210v1](http://arxiv.org/abs/2207.08210v1)|null|
-|**2022-07-17**|**FloLPIPS: A Bespoke Video Quality Metric for Frame Interpoation**|Duolikun Danier, Fan Zhang, David Bull|[2207.08119v1](http://arxiv.org/abs/2207.08119v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
