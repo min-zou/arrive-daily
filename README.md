@@ -184,7 +184,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-07-28**|**Correlating Visual Characteristics and Cryogenic Performance of Superconducting Detectors**|K. R. Ferguson, A. N. Bender, N. Whitehorn, T. W. Cecil|[2207.14242v1](http://arxiv.org/abs/2207.14242v1)|null|
-|**2022-07-28**|**Semantic-Aligned Matching for Enhanced DETR Convergence and Multi-Scale Feature Fusion**|Gongjie Zhang, Zhipeng Luo, Yingchen Yu, Jiaxing Huang, Kaiwen Cui, Shijian Lu, Eric P. Xing|[2207.14172v1](http://arxiv.org/abs/2207.14172v1)|null|
+|**2022-07-28**|**Semantic-Aligned Matching for Enhanced DETR Convergence and Multi-Scale Feature Fusion**|Gongjie Zhang, Zhipeng Luo, Yingchen Yu, Jiaxing Huang, Kaiwen Cui, Shijian Lu, Eric P. Xing|[2207.14172v1](http://arxiv.org/abs/2207.14172v1)|**[link](https://github.com/zhanggongjie/sam-detr)**|
 |**2022-07-26**|**Monocular 3D Object Detection with Depth from Motion**|Tai Wang, Jiangmiao Pang, Dahua Lin|[2207.12988v1](http://arxiv.org/abs/2207.12988v1)|**[link](https://github.com/tai-wang/depth-from-motion)**|
 |**2022-07-23**|**CompNVS: Novel View Synthesis with Scene Completion**|Zuoyue Li, Tianxing Fan, Zhenqiang Li, Zhaopeng Cui, Yoichi Sato, Marc Pollefeys, Martin R. Oswald|[2207.11467v1](http://arxiv.org/abs/2207.11467v1)|null|
 |**2022-07-21**|**Boosting 3D Object Detection via Object-Focused Image Fusion**|Hao Yang, Chen Shi, Yihong Chen, Liwei Wang|[2207.10589v1](http://arxiv.org/abs/2207.10589v1)|**[link](https://github.com/haoy945/demf)**|
