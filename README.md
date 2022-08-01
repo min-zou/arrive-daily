@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda, Yoshihiro Fukuhara, Hirokatsu Kataoka, Hiroaki Aizawa, Hidehiko Shishido, Itaru Kitahara|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-25**|**DeepFusion: Real-Time Dense 3D Reconstruction for Monocular SLAM using Single-View Depth and Gradient Predictions**|Tristan Laidlow, Jan Czarnowski, Stefan Leutenegger|[2207.12244v1](http://arxiv.org/abs/2207.12244v1)|null|
 |**2022-07-25**|**Scalable Fiducial Tag Localization on a 3D Prior Map via Graph-Theoretic Global Tag-Map Registration**|Kenji Koide, Shuji Oishi, Masashi Yokozuka, Atsuhiko Banno|[2207.11942v1](http://arxiv.org/abs/2207.11942v1)|null|
 |**2022-07-22**|**NeurAR: Neural Uncertainty for Autonomous 3D Reconstruction**|Yunlong Ran, Jing Zeng, Shibo He, Lincheng Li, Yingfeng Chen, Gimhee Lee, Jiming Chen, Qi Ye|[2207.10985v1](http://arxiv.org/abs/2207.10985v1)|null|
@@ -10,7 +11,6 @@
 |**2022-07-21**|**Online Localisation and Colored Mesh Reconstruction Architecture for 3D Visual Feedback in Robotic Exploration Missions**|Quentin Serdel, Christophe Grand, Julien Marzat, Julien Moras|[2207.10489v1](http://arxiv.org/abs/2207.10489v1)|null|
 |**2022-07-21**|**On applicability of von Karman's momentum theory in predicting the water entry load of V-shaped structures with varying initial velocity**|Yujin Lu, Alessandro Del Buono, Tianhang Xiao, Alessandro Iafrati, Shuanghou Deng, Jinfa Xu|[2207.10413v1](http://arxiv.org/abs/2207.10413v1)|null|
 |**2022-07-19**|**Hybrid Belief Pruning with Guarantees for Viewpoint-Dependent Semantic SLAM**|Tuvy Lemberg, Vadim Indelman|[2207.09103v1](http://arxiv.org/abs/2207.09103v1)|null|
-|**2022-07-18**|**DeFlowSLAM: Self-Supervised Scene Motion Decomposition for Dynamic Dense SLAM**|Weicai Ye, Xingyuan Yu, Xinyue Lan, Yuhang Ming, Jinyu Li, Hujun Bao, Zhaopeng Cui, Guofeng Zhang|[2207.08794v1](http://arxiv.org/abs/2207.08794v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -27,6 +27,7 @@
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda, Yoshihiro Fukuhara, Hirokatsu Kataoka, Hiroaki Aizawa, Hidehiko Shishido, Itaru Kitahara|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-21**|**MeshLoc: Mesh-Based Visual Localization**|Vojtech Panek, Zuzana Kukelova, Torsten Sattler|[2207.10762v2](http://arxiv.org/abs/2207.10762v2)|**[link](https://github.com/tsattler/meshloc_release)**|
 |**2022-07-12**|**CPO: Change Robust Panorama to Point Cloud Localization**|Junho Kim, Hojun Jang, Changwoon Choi, Young Min Kim|[2207.05317v1](http://arxiv.org/abs/2207.05317v1)|null|
 |**2022-06-28**|**Improving Worst Case Visual Localization Coverage via Place-specific Sub-selection in Multi-camera Systems**|Stephen Hausler, Ming Xu, Sourav Garg, Punarjay Chakravarty, Shubham Shrivastava, Ankit Vora, Michael Milford|[2206.13883v1](http://arxiv.org/abs/2206.13883v1)|null|
@@ -36,7 +37,6 @@
 |**2022-05-23**|**VPAIR -- Aerial Visual Place Recognition and Localization in Large-scale Outdoor Environments**|Michael Schleiss, Fahmi Rouatbi, Daniel Cremers|[2205.11567v1](http://arxiv.org/abs/2205.11567v1)|null|
 |**2022-05-11**|**Review on Panoramic Imaging and Its Applications in Scene Understanding**|Shaohua Gao, Kailun Yang, Hao Shi, Kaiwei Wang, Jian Bai|[2205.05570v1](http://arxiv.org/abs/2205.05570v1)|null|
 |**2022-04-13**|**Reuse your features: unifying retrieval and feature-metric alignment**|Javier Morlana, J. M. M. Montiel|[2204.06292v1](http://arxiv.org/abs/2204.06292v1)|null|
-|**2022-04-01**|**LASER: LAtent SpacE Rendering for 2D Visual Localization**|Zhixiang Min, Naji Khosravan, Zachary Bessinger, Manjunath Narayana, Sing Bing Kang, Enrique Dunn, Ivaylo Boyadzhiev|[2204.00157v1](http://arxiv.org/abs/2204.00157v1)|null|
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-29**|**Significant changes in EEG neural oscillations during different phases of three-dimensional multiple object tracking task (3D-MOT) imply different roles for attention and working memory**|Yannick Roy, Jocelyn Faubert|[2207.14470v1](http://arxiv.org/abs/2207.14470v1)|null|
 |**2022-07-28**|**Why Accuracy Is Not Enough: The Need for Consistency in Object Detection**|Caleb Tung, Abhinav Goel, Fischer Bordwell, Nick Eliopoulos, Xiao Hu, George K. Thiruvathukal, Yung-Hsiang Lu|[2207.13890v1](http://arxiv.org/abs/2207.13890v1)|null|
 |**2022-07-26**|**Tracking Every Thing in the Wild**|Siyuan Li, Martin Danelljan, Henghui Ding, Thomas E. Huang, Fisher Yu|[2207.12978v1](http://arxiv.org/abs/2207.12978v1)|null|
 |**2022-07-26**|**TransFiner: A Full-Scale Refinement Approach for Multiple Object Tracking**|Bin Sun, Jiale Cao|[2207.12967v1](http://arxiv.org/abs/2207.12967v1)|null|
@@ -140,7 +141,6 @@
 |**2022-07-22**|**Split Happens! Imprecise and Negative Information in Gaussian Mixture Random Finite Set Filtering**|Keith A. LeGrand, Silvia Ferrari|[2207.11356v1](http://arxiv.org/abs/2207.11356v1)|null|
 |**2022-07-20**|**Trajectory PMB Filters for Extended Object Tracking Using Belief Propagation**|Yuxuan Xia, Ángel F. García-Fernández, Florian Meyer, Jason L. Williams, Karl Granström, Lennart Svensson|[2207.10164v1](http://arxiv.org/abs/2207.10164v1)|**[link](https://github.com/yuhsuansia/trajectory-pmb-eot-bp)**|
 |**2022-07-20**|**MOTCOM: The Multi-Object Tracking Dataset Complexity Metric**|Malte Pedersen, Joakim Bruslund Haurum, Patrick Dendorfer, Thomas B. Moeslund|[2207.10031v1](http://arxiv.org/abs/2207.10031v1)|null|
-|**2022-07-19**|**The Caltech Fish Counting Dataset: A Benchmark for Multiple-Object Tracking and Counting**|Justin Kay, Peter Kulits, Suzanne Stathatos, Siqi Deng, Erik Young, Sara Beery, Grant Van Horn, Pietro Perona|[2207.09295v1](http://arxiv.org/abs/2207.09295v1)|**[link](https://github.com/visipedia/caltech-fish-counting)**|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -148,7 +148,7 @@
 |**2022-06-12**|**Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments**|Linh Kästner, Teham Bhuiyan, Tuan Anh Le, Elias Treis, Johannes Cox, Boris Meinardus, Jacek Kmiecik, Reyk Carstens, Duc Pichel, Bassel Fatloun, Niloufar Khorsandi, Jens Lambrecht|[2206.05728v2](http://arxiv.org/abs/2206.05728v2)|**[link](https://github.com/ignc-research/arena-bench)**|
 |**2022-04-14**|**Blending Primitive Policies in Shared Control for Assisted Teleoperation**|Guilherme Maeda|[2204.07026v1](http://arxiv.org/abs/2204.07026v1)|null|
 |**2022-03-15**|**Reactive Motion Generation on Learned Riemannian Manifolds**|Hadi Beik-Mohammadi, Søren Hauberg, Georgios Arvanitidis, Gerhard Neumann, Leonel Rozo|[2203.07761v1](http://arxiv.org/abs/2203.07761v1)|null|
-|**2022-03-09**|**Regularized Deep Signed Distance Fields for Reactive Motion Generation**|Puze Liu, Kuo Zhang, Davide Tateo, Snehal Jauhri, Jan Peters, Georgia Chalvatzaki|[2203.04739v1](http://arxiv.org/abs/2203.04739v1)|null|
+|**2022-03-09**|**Regularized Deep Signed Distance Fields for Reactive Motion Generation**|Puze Liu, Kuo Zhang, Davide Tateo, Snehal Jauhri, Jan Peters, Georgia Chalvatzaki|[2203.04739v2](http://arxiv.org/abs/2203.04739v2)|null|
 |**2021-12-23**|**Missing Velocity in Dynamic Obstacle Avoidance based on Deep Reinforcement Learning**|Fabian Hart, Martin Waltz, Ostap Okhrin|[2112.12465v2](http://arxiv.org/abs/2112.12465v2)|null|
 |**2021-09-23**|**All-in-One: A DRL-based Control Switch Combining State-of-the-art Navigation Planners**|Linh Kästner, Johannes Cox, Teham Buiyan, Jens Lambrecht|[2109.11636v1](http://arxiv.org/abs/2109.11636v1)|**[link](https://github.com/ignc-research/all-in-one-DRL-planner)**|
 |**2021-06-08**|**Learning Riemannian Manifolds for Geodesic Motion Skills**|Hadi Beik-Mohammadi, Søren Hauberg, Georgios Arvanitidis, Gerhard Neumann, Leonel Rozo|[2106.04315v2](http://arxiv.org/abs/2106.04315v2)|null|
