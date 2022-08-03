@@ -74,7 +74,7 @@
 |**2022-06-09**|**SparseFormer: Attention-based Depth Completion Network**|Frederik Warburg, Michael Ramamonjisoa, Manuel López-Antequera|[2206.04557v1](http://arxiv.org/abs/2206.04557v1)|null|
 |**2022-05-31**|**Geo-Neus: Geometry-Consistent Neural Implicit Surfaces Learning for Multi-view Reconstruction**|Qiancheng Fu, Qingshan Xu, Yew-Soon Ong, Wenbing Tao|[2205.15848v1](http://arxiv.org/abs/2205.15848v1)|null|
 |**2022-05-24**|**OnePose: One-Shot Object Pose Estimation without CAD Models**|Jiaming Sun, Zihao Wang, Siyu Zhang, Xingyi He, Hongcheng Zhao, Guofeng Zhang, Xiaowei Zhou|[2205.12257v1](http://arxiv.org/abs/2205.12257v1)|**[link](https://github.com/zju3dv/OnePose)**|
-|**2022-04-20**|**Learned Monocular Depth Priors in Visual-Inertial Initialization**|Yunwen Zhou, Abhishek Kar, Eric Turner, Adarsh Kowdle, Chao X. Guo, Ryan C. DuToit, Konstantine Tsotsos|[2204.09171v1](http://arxiv.org/abs/2204.09171v1)|null|
+|**2022-04-20**|**Learned Monocular Depth Priors in Visual-Inertial Initialization**|Yunwen Zhou, Abhishek Kar, Eric Turner, Adarsh Kowdle, Chao X. Guo, Ryan C. DuToit, Konstantine Tsotsos|[2204.09171v2](http://arxiv.org/abs/2204.09171v2)|null|
 |**2022-04-12**|**A Simulation Driven Deep Learning Approach for Separating Mergers and Star Forming Galaxies: The Formation Histories of Clumpy Galaxies in all the CANDELS Fields**|Leonardo Ferreira, Christopher J. Conselice, Ulrike Kuchner, Clar-Bríd Tohill|[2204.05786v1](http://arxiv.org/abs/2204.05786v1)|**[link](https://github.com/astroferreira/ferreira2022)**|
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
@@ -105,6 +105,8 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-02**|**Deconstructing Self-Supervised Monocular Reconstruction: The Design Decisions that Matter**|Jaime Spencer Martin, Chris Russell, Simon Hadfield, Richard Bowden|[2208.01489v1](http://arxiv.org/abs/2208.01489v1)|null|
+|**2022-08-01**|**Ithaca365: Dataset and Driving Perception under Repeated and Challenging Weather Conditions**|Carlos A. Diaz-Ruiz, Youya Xia, Yurong You, Jose Nino, Junan Chen, Josephine Monica, Xiangyu Chen, Katie Luo, Yan Wang, Marc Emond, Wei-Lun Chao, Bharath Hariharan, Kilian Q. Weinberger, Mark Campbell|[2208.01166v1](http://arxiv.org/abs/2208.01166v1)|null|
 |**2022-07-31**|**Less is More: Consistent Video Depth Estimation with Masked Frames Modeling**|Yiran Wang, Zhiyu Pan, Xingyi Li, Zhiguo Cao, Ke Xian, Jianming Zhang|[2208.00380v1](http://arxiv.org/abs/2208.00380v1)|null|
 |**2022-07-30**|**Learning Feature Decomposition for Domain Adaptive Monocular Depth Estimation**|Shao-Yuan Lo, Wei Wang, Jim Thomas, Jingjing Zheng, Vishal M. Patel, Cheng-Hao Kuo|[2208.00160v1](http://arxiv.org/abs/2208.00160v1)|null|
 |**2022-07-28**|**Depth Field Networks for Generalizable Multi-view Scene Representation**|Vitor Guizilini, Igor Vasiljevic, Jiading Fang, Rares Ambrus, Greg Shakhnarovich, Matthew Walter, Adrien Gaidon|[2207.14287v1](http://arxiv.org/abs/2207.14287v1)|null|
@@ -113,8 +115,6 @@
 |**2022-07-25**|**Cost Volume Pyramid Network with Multi-strategies Range Searching for Multi-view Stereo**|Shiyu Gao, Zhaoxin Li, Zhaoqi Wang|[2207.12032v1](http://arxiv.org/abs/2207.12032v1)|**[link](https://github.com/SibylGao/MSCVP-MVSNet)**|
 |**2022-07-25**|**RA-Depth: Resolution Adaptive Self-Supervised Monocular Depth Estimation**|Mu He, Le Hui, Yikai Bian, Jian Ren, Jin Xie, Jian Yang|[2207.11984v2](http://arxiv.org/abs/2207.11984v2)|**[link](https://github.com/hmhemu/ra-depth)**|
 |**2022-07-21**|**DEVIANT: Depth EquiVarIAnt NeTwork for Monocular 3D Object Detection**|Abhinav Kumar, Garrick Brazil, Enrique Corona, Armin Parchami, Xiaoming Liu|[2207.10758v1](http://arxiv.org/abs/2207.10758v1)|**[link](https://github.com/abhi1kumar/deviant)**|
-|**2022-07-21**|**Multi-Event-Camera Depth Estimation and Outlier Rejection by Refocused Events Fusion**|Suman Ghosh, Guillermo Gallego|[2207.10494v1](http://arxiv.org/abs/2207.10494v1)|null|
-|**2022-07-20**|**Latent Discriminant deterministic Uncertainty**|Gianni Franchi, Xuanlong Yu, Andrei Bursuc, Emanuel Aldea, Severine Dubuisson, David Filliat|[2207.10130v1](http://arxiv.org/abs/2207.10130v1)|**[link](https://github.com/ensta-u2is/ldu)**|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,7 +131,8 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-08-01**|**Local Perception-Aware Transformer for Aerial Tracking**|Changhong Fu, Weiyu Peng, Sihang Li, Junjie Ye, Ziang Cao|[2208.00662v1](http://arxiv.org/abs/2208.00662v1)|null|
+|**2022-08-02**|**A Multi-body Tracking Framework -- From Rigid Objects to Kinematic Structures**|Manuel Stoiber, Martin Sundermeyer, Wout Boerdijk, Rudolph Triebel|[2208.01502v1](http://arxiv.org/abs/2208.01502v1)|null|
+|**2022-08-01**|**Local Perception-Aware Transformer for Aerial Tracking**|Changhong Fu, Weiyu Peng, Sihang Li, Junjie Ye, Ziang Cao|[2208.00662v1](http://arxiv.org/abs/2208.00662v1)|**[link](https://github.com/vision4robotics/lpat)**|
 |**2022-07-29**|**Significant changes in EEG neural oscillations during different phases of three-dimensional multiple object tracking task (3D-MOT) imply different roles for attention and working memory**|Yannick Roy, Jocelyn Faubert|[2207.14470v1](http://arxiv.org/abs/2207.14470v1)|null|
 |**2022-07-28**|**Why Accuracy Is Not Enough: The Need for Consistency in Object Detection**|Caleb Tung, Abhinav Goel, Fischer Bordwell, Nick Eliopoulos, Xiao Hu, George K. Thiruvathukal, Yung-Hsiang Lu|[2207.13890v1](http://arxiv.org/abs/2207.13890v1)|null|
 |**2022-07-26**|**Tracking Every Thing in the Wild**|Siyuan Li, Martin Danelljan, Henghui Ding, Thomas E. Huang, Fisher Yu|[2207.12978v1](http://arxiv.org/abs/2207.12978v1)|null|
@@ -140,7 +141,6 @@
 |**2022-07-25**|**Video object tracking based on YOLOv7 and DeepSORT**|Feng Yang, Xingle Zhang, Bo Liu|[2207.12202v1](http://arxiv.org/abs/2207.12202v1)|null|
 |**2022-07-25**|**3D Siamese Transformer Network for Single Object Tracking on Point Clouds**|Le Hui, Lingpeng Wang, Linghua Tang, Kaihao Lan, Jin Xie, Jian Yang|[2207.11995v2](http://arxiv.org/abs/2207.11995v2)|null|
 |**2022-07-22**|**Split Happens! Imprecise and Negative Information in Gaussian Mixture Random Finite Set Filtering**|Keith A. LeGrand, Silvia Ferrari|[2207.11356v1](http://arxiv.org/abs/2207.11356v1)|null|
-|**2022-07-20**|**Trajectory PMB Filters for Extended Object Tracking Using Belief Propagation**|Yuxuan Xia, Ángel F. García-Fernández, Florian Meyer, Jason L. Williams, Karl Granström, Lennart Svensson|[2207.10164v1](http://arxiv.org/abs/2207.10164v1)|**[link](https://github.com/yuhsuansia/trajectory-pmb-eot-bp)**|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -184,7 +184,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-08-01**|**Towards VLBI Observations of Black Hole Structure**|Raúl Carballo-Rubio, Vitor Cardoso, Ziri Younsi|[2208.00704v1](http://arxiv.org/abs/2208.00704v1)|null|
-|**2022-08-01**|**CLIFF: Carrying Location Information in Full Frames into Human Pose and Shape Estimation**|Zhihao Li, Jianzhuang Liu, Zhensong Zhang, Songcen Xu, Youliang Yan|[2208.00571v1](http://arxiv.org/abs/2208.00571v1)|null|
+|**2022-08-01**|**CLIFF: Carrying Location Information in Full Frames into Human Pose and Shape Estimation**|Zhihao Li, Jianzhuang Liu, Zhensong Zhang, Songcen Xu, Youliang Yan|[2208.00571v1](http://arxiv.org/abs/2208.00571v1)|**[link](https://github.com/huawei-noah/noah-research/tree/master/CLIFF)**|
 |**2022-07-30**|**Few-shot Single-view 3D Reconstruction with Memory Prior Contrastive Network**|Zhen Xing, Yijiang Chen, Zhixin Ling, Xiangdong Zhou, Yu Xiang|[2208.00183v1](http://arxiv.org/abs/2208.00183v1)|null|
 |**2022-07-30**|**Neural Correspondence Field for Object Pose Estimation**|Lin Huang, Tomas Hodan, Lingni Ma, Linguang Zhang, Luan Tran, Christopher Twigg, Po-Chen Wu, Junsong Yuan, Cem Keskin, Robert Wang|[2208.00113v1](http://arxiv.org/abs/2208.00113v1)|null|
 |**2022-07-28**|**Correlating Visual Characteristics and Cryogenic Performance of Superconducting Detectors**|K. R. Ferguson, A. N. Bender, N. Whitehorn, T. W. Cecil|[2207.14242v1](http://arxiv.org/abs/2207.14242v1)|null|
