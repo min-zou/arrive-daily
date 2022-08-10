@@ -105,7 +105,7 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-08-06**|**MonoViT: Self-Supervised Monocular Depth Estimation with a Vision Transformer**|Chaoqiang Zhao, Youmin Zhang, Matteo Poggi, Fabio Tosi, Xianda Guo, Zheng Zhu, Guan Huang, Yang Tang, Stefano Mattoccia|[2208.03543v1](http://arxiv.org/abs/2208.03543v1)|null|
+|**2022-08-06**|**MonoViT: Self-Supervised Monocular Depth Estimation with a Vision Transformer**|Chaoqiang Zhao, Youmin Zhang, Matteo Poggi, Fabio Tosi, Xianda Guo, Zheng Zhu, Guan Huang, Yang Tang, Stefano Mattoccia|[2208.03543v1](http://arxiv.org/abs/2208.03543v1)|**[link](https://github.com/zxcqlf/monovit)**|
 |**2022-08-03**|**Gradient-based Uncertainty for Monocular Depth Estimation**|Julia Hornauer, Vasileios Belagiannis|[2208.02005v1](http://arxiv.org/abs/2208.02005v1)|**[link](https://github.com/jhornauer/grumodepth)**|
 |**2022-08-03**|**Neural Contourlet Network for Monocular 360 Depth Estimation**|Zhijie Shen, Chunyu Lin, Lang Nie, Kang Liao, Yao Zhao|[2208.01817v1](http://arxiv.org/abs/2208.01817v1)|null|
 |**2022-08-02**|**Deconstructing Self-Supervised Monocular Reconstruction: The Design Decisions that Matter**|Jaime Spencer Martin, Chris Russell, Simon Hadfield, Richard Bowden|[2208.01489v1](http://arxiv.org/abs/2208.01489v1)|null|
@@ -183,7 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-08-06**|**Frozen CLIP Models are Efficient Video Learners**|Ziyi Lin, Shijie Geng, Renrui Zhang, Peng Gao, Gerard de Melo, Xiaogang Wang, Jifeng Dai, Yu Qiao, Hongsheng Li|[2208.03550v1](http://arxiv.org/abs/2208.03550v1)|null|
+|**2022-08-06**|**Frozen CLIP Models are Efficient Video Learners**|Ziyi Lin, Shijie Geng, Renrui Zhang, Peng Gao, Gerard de Melo, Xiaogang Wang, Jifeng Dai, Yu Qiao, Hongsheng Li|[2208.03550v1](http://arxiv.org/abs/2208.03550v1)|**[link](https://github.com/opengvlab/efficient-video-recognition)**|
 |**2022-08-06**|**Deep Uncalibrated Photometric Stereo via Inter-Intra Image Feature Fusion**|Fangzhou Gao, Meng Wang, Lianghao Zhang, Li Wang, Jiawan Zhang|[2208.03440v1](http://arxiv.org/abs/2208.03440v1)|null|
 |**2022-08-04**|**ACSGRegNet: A Deep Learning-based Framework for Unsupervised Joint Affine and Diffeomorphic Registration of Lumbar Spine CT via Cross- and Self-Attention Fusion**|Xiaoru Gao, GuoYan Zheng|[2208.02642v1](http://arxiv.org/abs/2208.02642v1)|null|
 |**2022-08-03**|**Counterfactual Image Synthesis for Discovery of Personalized Predictive Image Markers**|Amar Kumar, Anjun Hu, Brennan Nichyporuk, Jean-Pierre R. Falet, Douglas L. Arnold, Sotirios Tsaftaris, Tal Arbel|[2208.02311v1](http://arxiv.org/abs/2208.02311v1)|null|
