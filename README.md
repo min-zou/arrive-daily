@@ -105,6 +105,8 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-19**|**MonoPCNS: Monocular 3D Object Detection via Point Cloud Network Simulation**|Han Sun, Zhaoxin Fan, Zhenbo Song, Zhicheng Wang, Kejian Wu, Jianfeng Lu|[2208.09446v1](http://arxiv.org/abs/2208.09446v1)|null|
+|**2022-08-19**|**Crafting Monocular Cues and Velocity Guidance for Self-Supervised Multi-Frame Depth Learning**|Xiaofeng Wang, Zheng Zhu, Guan Huang, Xu Chi, Yun Ye, Ziwei Chen, Xingang Wang|[2208.09170v1](http://arxiv.org/abs/2208.09170v1)|**[link](https://github.com/jeffwang987/movedepth)**|
 |**2022-08-17**|**Self-Supervised Depth Estimation in Laparoscopic Image using 3D Geometric Consistency**|Baoru Huang, Jian-Qing Zheng, Anh Nguyen, Chi Xu, Ioannis Gkouzionis, Kunal Vyas, David Tuch, Stamatia Giannarou, Daniel S. Elson|[2208.08407v1](http://arxiv.org/abs/2208.08407v1)|null|
 |**2022-08-09**|**The Relative Importance of Depth Cues and Semantic Edges for Indoor Mobility Using Simulated Prosthetic Vision in Immersive Virtual Reality**|Alex Rasla, Michael Beyeler|[2208.05066v1](http://arxiv.org/abs/2208.05066v1)|null|
 |**2022-08-09**|**Improved Multiple-Image-Based Reflection Removal Algorithm Using Deep Neural Networks**|Tingtian Li, Yuk-Hee Chan, Daniel P. K. Lun|[2208.04679v2](http://arxiv.org/abs/2208.04679v2)|null|
@@ -113,8 +115,6 @@
 |**2022-08-03**|**Neural Contourlet Network for Monocular 360 Depth Estimation**|Zhijie Shen, Chunyu Lin, Lang Nie, Kang Liao, Yao Zhao|[2208.01817v1](http://arxiv.org/abs/2208.01817v1)|null|
 |**2022-08-02**|**Deconstructing Self-Supervised Monocular Reconstruction: The Design Decisions that Matter**|Jaime Spencer Martin, Chris Russell, Simon Hadfield, Richard Bowden|[2208.01489v1](http://arxiv.org/abs/2208.01489v1)|null|
 |**2022-08-01**|**Ithaca365: Dataset and Driving Perception under Repeated and Challenging Weather Conditions**|Carlos A. Diaz-Ruiz, Youya Xia, Yurong You, Jose Nino, Junan Chen, Josephine Monica, Xiangyu Chen, Katie Luo, Yan Wang, Marc Emond, Wei-Lun Chao, Bharath Hariharan, Kilian Q. Weinberger, Mark Campbell|[2208.01166v1](http://arxiv.org/abs/2208.01166v1)|null|
-|**2022-07-31**|**Less is More: Consistent Video Depth Estimation with Masked Frames Modeling**|Yiran Wang, Zhiyu Pan, Xingyi Li, Zhiguo Cao, Ke Xian, Jianming Zhang|[2208.00380v2](http://arxiv.org/abs/2208.00380v2)|**[link](https://github.com/raymondwang987/fmnet)**|
-|**2022-07-30**|**Learning Feature Decomposition for Domain Adaptive Monocular Depth Estimation**|Shao-Yuan Lo, Wei Wang, Jim Thomas, Jingjing Zheng, Vishal M. Patel, Cheng-Hao Kuo|[2208.00160v1](http://arxiv.org/abs/2208.00160v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -158,7 +158,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-08-18**|**Stable Object Reorientation using Contact Plane Registration**|Richard Li, Carlos Esteves, Ameesh Makadia, Pulkit Agrawal|[2208.08962v1](http://arxiv.org/abs/2208.08962v1)|null|
-|**2022-08-15**|**HoW-3D: Holistic 3D Wireframe Perception from a Single Image**|Wenchao Ma, Bin Tan, Nan Xue, Tianfu Wu, Xianwei Zheng, Gui-Song Xia|[2208.06999v1](http://arxiv.org/abs/2208.06999v1)|**[link](https://github.com/wenchao-m/how-3d)**|
+|**2022-08-15**|**HoW-3D: Holistic 3D Wireframe Perception from a Single Image**|Wenchao Ma, Bin Tan, Nan Xue, Tianfu Wu, Xianwei Zheng, Gui-Song Xia|[2208.06999v2](http://arxiv.org/abs/2208.06999v2)|**[link](https://github.com/wenchao-m/how-3d)**|
 |**2022-06-22**|**Hellinger-Kantorovich barycenter between Dirac measures**|Mauro Bonafini, Olga Minevich, Bernhard Schmitzer|[2206.11211v1](http://arxiv.org/abs/2206.11211v1)|null|
 |**2022-05-26**|**Tree Reconstruction using Topology Optimisation**|Thomas Lowe, Joshua Pinskier|[2205.13192v1](http://arxiv.org/abs/2205.13192v1)|null|
 |**2022-02-08**|**GLPU: A Geometric Approach For Lidar Pointcloud Upsampling**|George Eskandar, Janaranjani Palaniswamy, Karim Guirguis, Barath Somashekar, Bin Yang|[2202.03901v1](http://arxiv.org/abs/2202.03901v1)|null|
@@ -183,6 +183,8 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-19**|**PersDet: Monocular 3D Detection in Perspective Bird's-Eye-View**|Hongyu Zhou, Zheng Ge, Weixin Mao, Zeming Li|[2208.09394v1](http://arxiv.org/abs/2208.09394v1)|null|
+|**2022-08-18**|**Hybrid Very Long Baseline Interferometry Imaging and Modeling with Themis**|Avery E. Broderick, Dominic W. Pesce, Paul Tiede, Hung-Yi Pu, Roman Gold|[2208.09003v1](http://arxiv.org/abs/2208.09003v1)|null|
 |**2022-08-17**|**ParaColorizer: Realistic Image Colorization using Parallel Generative Networks**|Himanshu Kumar, Abeer Banerjee, Sumeet Saurav, Sanjay Singh|[2208.08295v1](http://arxiv.org/abs/2208.08295v1)|null|
 |**2022-08-17**|**IDAN: Image Difference Attention Network for Change Detection**|Hongkun Liu, Zican Hu, Qichen Ding, Xueyun Chen|[2208.08292v1](http://arxiv.org/abs/2208.08292v1)|null|
 |**2022-08-17**|**Atom Interferometric Imaging of Differential Potentials Using an Atom Laser**|Maren E. Mossman, Ryan A. Corbin, Michael McNeil Forbes, Peter Engels|[2208.08007v1](http://arxiv.org/abs/2208.08007v1)|null|
@@ -191,8 +193,6 @@
 |**2022-08-14**|**CoShNet: A Hybird Complex Valued Neural Network using Shearlets**|Manny Ko, Ujjawal K. Panchal, Héctor Andrade-Loarca, Andres Mendez-Vazquez|[2208.06882v1](http://arxiv.org/abs/2208.06882v1)|**[link](https://github.com/ujjawal-k-panchal/coshnet)**|
 |**2022-08-14**|**HighlightNet: Highlighting Low-Light Potential Features for Real-Time UAV Tracking**|Changhong Fu, Haolin Dong, Junjie Ye, Guangze Zheng, Sihang Li, Jilin Zhao|[2208.06818v1](http://arxiv.org/abs/2208.06818v1)|**[link](https://github.com/vision4robotics/highlightnet)**|
 |**2022-08-11**|**MILAN: Masked Image Pretraining on Language Assisted Representation**|Zejiang Hou, Fei Sun, Yen-Kuang Chen, Yuan Xie, Sun-Yuan Kung|[2208.06049v2](http://arxiv.org/abs/2208.06049v2)|**[link](https://github.com/zejiangh/milan)**|
-|**2022-08-10**|**Ghost-free High Dynamic Range Imaging with Context-aware Transformer**|Zhen Liu, Yinglong Wang, Bing Zeng, Shuaicheng Liu|[2208.05114v1](http://arxiv.org/abs/2208.05114v1)|**[link](https://github.com/megvii-research/hdr-transformer)**|
-|**2022-08-07**|**Adaptive Local Implicit Image Function for Arbitrary-scale Super-resolution**|Hongwei Li, Tao Dai, Yiming Li, Xueyi Zou, Shu-Tao Xia|[2208.04318v1](http://arxiv.org/abs/2208.04318v1)|**[link](https://github.com/LeeHW-THU/A-LIIF)**|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
