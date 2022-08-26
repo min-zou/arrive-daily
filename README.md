@@ -1,6 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-25**|**FusionPortable: A Multi-Sensor Campus-Scene Dataset for Evaluation of Localization and Mapping Accuracy on Diverse Platforms**|Jianhao Jiao, Hexiang Wei, Tianshuai Hu, Xiangcheng Hu, Yilong Zhu, Zhijian He, Jin Wu, Jingwen Yu, Xupeng Xie, Huaiyang Huang, Ruoyu Geng, Lujia Wang, Ming Liu|[2208.11865v1](http://arxiv.org/abs/2208.11865v1)|null|
+|**2022-08-25**|**Lidar SLAM for Autonomous Driving Vehicles**|Farhad Aghili|[2208.11855v1](http://arxiv.org/abs/2208.11855v1)|null|
 |**2022-08-24**|**DynaVINS: A Visual-Inertial SLAM for Dynamic Environments**|Seungwon Song, Hyungtae Lim, Alex Junho Lee, Hyun Myung|[2208.11500v1](http://arxiv.org/abs/2208.11500v1)|null|
 |**2022-08-22**|**Doppler Exploitation in Bistatic mmWave Radio SLAM**|Yu Ge, Ossi Kaltiokallio, Hui Chen, Fan Jiang, Jukka Talvitie, Mikko Valkama, Lennart Svensson, Henk Wymeersch|[2208.10204v1](http://arxiv.org/abs/2208.10204v1)|null|
 |**2022-08-21**|**Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**|Lintong Zhang, Michael Helmberger, Lanke Frank Tarimo Fu, David Wisth, Marco Camurri, Davide Scaramuzza, Maurice Fallon|[2208.09825v1](http://arxiv.org/abs/2208.09825v1)|null|
@@ -9,8 +11,6 @@
 |**2022-08-12**|**Handling Constrained Optimization in Factor Graphs for Autonomous Navigation**|Barbara Bazzana, Tiziano Guadagnino, Giorgio Grisetti|[2208.06325v1](http://arxiv.org/abs/2208.06325v1)|null|
 |**2022-08-11**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang, Deva Ramanan, Shubham Tulsiani|[2208.05963v1](http://arxiv.org/abs/2208.05963v1)|null|
 |**2022-08-08**|**Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**|Yifei Ren, Binbin Xu, Christopher L. Choi, Stefan Leutenegger|[2208.04274v1](http://arxiv.org/abs/2208.04274v1)|null|
-|**2022-08-08**|**SLAM-TKA: Real-time Intra-operative Measurement of Tibial Resection Plane in Conventional Total Knee Arthroplasty**|Shuai Zhang, Liang Zhao, Shoudong Huang, Hua Wang, Qi Luo, Qi Hao|[2208.03945v1](http://arxiv.org/abs/2208.03945v1)|**[link](https://github.com/zsustc/calibration)**|
-|**2022-08-05**|**A Survey on Visual Map Localization Using LiDARs and Cameras**|Elhousni Mahdi, Huang Xinming|[2208.03376v1](http://arxiv.org/abs/2208.03376v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -53,7 +53,9 @@
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-08-24**|**Self-Supervised Endoscopic Image Key-Points Matching**|Manel Farhat, Houda Chaabouni-Chouayakh, Achraf Ben-Hamadou|[2208.11424v1](http://arxiv.org/abs/2208.11424v1)|null|
+|**2022-08-25**|**A Gis Aided Approach for Geolocalizing an Unmanned Aerial System Using Deep Learning**|Jianli Wei, Deniz Karakay, Alper Yilmaz|[2208.12251v1](http://arxiv.org/abs/2208.12251v1)|null|
+|**2022-08-25**|**UAS Navigation in the Real World Using Visual Observation**|Yuci Han, Jianli Wei, Alper Yilmaz|[2208.12125v1](http://arxiv.org/abs/2208.12125v1)|null|
+|**2022-08-24**|**Self-Supervised Endoscopic Image Key-Points Matching**|Manel Farhat, Houda Chaabouni-Chouayakh, Achraf Ben-Hamadou|[2208.11424v1](http://arxiv.org/abs/2208.11424v1)|**[link](https://github.com/abenhamadou/Self-Supervised-Endoscopic-Image-Key-Points-Matching)**|
 |**2022-08-17**|**Understanding Attention for Vision-and-Language Tasks**|Feiqi Cao, Soyeon Caren Han, Siqu Long, Changwei Xu, Josiah Poon|[2208.08104v1](http://arxiv.org/abs/2208.08104v1)|null|
 |**2022-08-15**|**Hierarchical Attention Network for Few-Shot Object Detection via Meta-Contrastive Learning**|Dongwoo Park, Jong-Min Lee|[2208.07039v2](http://arxiv.org/abs/2208.07039v2)|**[link](https://github.com/infinity7428/hANMCL)**|
 |**2022-08-04**|**Learning Modal-Invariant and Temporal-Memory for Video-based Visible-Infrared Person Re-Identification**|Xinyu Lin, Jinxing Li, Zeyu Ma, Huafeng Li, Shuang Li, Kaixiong Xu, Guangming Lu, David Zhang|[2208.02450v1](http://arxiv.org/abs/2208.02450v1)|**[link](https://github.com/vcm-project233/mitml)**|
@@ -61,8 +63,6 @@
 |**2022-07-29**|**Testing Relational Understanding in Text-Guided Image Generation**|Colin Conwell, Tomer Ullman|[2208.00005v1](http://arxiv.org/abs/2208.00005v1)|null|
 |**2022-07-20**|**Explaining Deepfake Detection by Analysing Image Matching**|Shichao Dong, Jin Wang, Jiajun Liang, Haoqiang Fan, Renhe Ji|[2207.09679v1](http://arxiv.org/abs/2207.09679v1)|**[link](https://github.com/megvii-research/fst-matching)**|
 |**2022-07-18**|**Adaptive Assignment for Geometry Aware Local Feature Matching**|Dihe Huang, Ying Chen, Shang Xu, Yong Liu, Wenlong Wu, Yikang Ding, Chengjie Wang, Fan Tang|[2207.08427v1](http://arxiv.org/abs/2207.08427v1)|null|
-|**2022-07-16**|**Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching**|Jiazhen Liu, Xirong Li, Qijie Wei, Jie Xu, Dayong Ding|[2207.07932v1](http://arxiv.org/abs/2207.07932v1)|**[link](https://github.com/ruc-aimc-lab/superretina)**|
-|**2022-07-06**|**Virtual staining of defocused autofluorescence images of unlabeled tissue using deep neural networks**|Yijie Zhang, Luzhe Huang, Tairan Liu, Keyi Cheng, Kevin de Haan, Yuzhu Li, Bijie Bai, Aydogan Ozcan|[2207.02946v1](http://arxiv.org/abs/2207.02946v1)|null|
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,7 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-08-24**|**PeRFception: Perception using Radiance Fields**|Yoonwoo Jeong, Seungjoo Shin, Junha Lee, Christopher Choy, Animashree Anandkumar, Minsu Cho, Jaesik Park|[2208.11537v1](http://arxiv.org/abs/2208.11537v1)|null|
+|**2022-08-24**|**PeRFception: Perception using Radiance Fields**|Yoonwoo Jeong, Seungjoo Shin, Junha Lee, Christopher Choy, Animashree Anandkumar, Minsu Cho, Jaesik Park|[2208.11537v1](http://arxiv.org/abs/2208.11537v1)|**[link](https://github.com/POSTECH-CVLab/PeRFception)**|
 |**2022-08-23**|**Improving Computed Tomography (CT) Reconstruction via 3D Shape Induction**|Elena Sizikova, Xu Cao, Ashia Lewis, Kenny Moise, Megan Coffee|[2208.10937v1](http://arxiv.org/abs/2208.10937v1)|**[link](https://github.com/esizikova/medsynth_public)**|
 |**2022-08-15**|**Adaptive Joint Optimization for 3D Reconstruction with Differentiable Rendering**|Jingbo Zhang, Ziyu Wan, Jing Liao|[2208.07003v1](http://arxiv.org/abs/2208.07003v1)|null|
 |**2022-08-14**|**SketchSampler: Sketch-based 3D Reconstruction via View-dependent Depth Sampling**|Chenjian Gao, Qian Yu, Lu Sheng, Yi-Zhe Song, Dong Xu|[2208.06880v1](http://arxiv.org/abs/2208.06880v1)|null|
@@ -112,7 +112,7 @@
 |**2022-08-22**|**Minimizing the Effect of Noise and Limited Dataset Size in Image Classification Using Depth Estimation as an Auxiliary Task with Deep Multitask Learning**|Khashayar Namdar, Partoo Vafaeikia, Farzad Khalvati|[2208.10390v1](http://arxiv.org/abs/2208.10390v1)|null|
 |**2022-08-21**|**Multi-task Learning for Monocular Depth and Defocus Estimations with Real Images**|Renzhi He, Hualin Hong, Boya Fu, Fei Liu|[2208.09848v1](http://arxiv.org/abs/2208.09848v1)|null|
 |**2022-08-20**|**Learning Sub-Pixel Disparity Distribution for Light Field Depth Estimation**|Wentao Chao, Xuechun Wang, Yingqian Wang, Liang Chang, Fuqing Duan|[2208.09688v1](http://arxiv.org/abs/2208.09688v1)|**[link](https://github.com/chaowentao/subfocal)**|
-|**2022-08-20**|**Net2Brain: A Toolbox to compare artificial vision models with human brain responses**|Domenic Bersch, Kshitij Dwivedi, Martina Vilas, Radoslaw M. Cichy, Gemma Roig|[2208.09677v1](http://arxiv.org/abs/2208.09677v1)|**[link](https://github.com/toastydom/net2brain)**|
+|**2022-08-20**|**Net2Brain: A Toolbox to compare artificial vision models with human brain responses**|Domenic Bersch, Kshitij Dwivedi, Martina Vilas, Radoslaw M. Cichy, Gemma Roig|[2208.09677v2](http://arxiv.org/abs/2208.09677v2)|**[link](https://github.com/toastydom/net2brain)**|
 |**2022-08-19**|**MonoPCNS: Monocular 3D Object Detection via Point Cloud Network Simulation**|Han Sun, Zhaoxin Fan, Zhenbo Song, Zhicheng Wang, Kejian Wu, Jianfeng Lu|[2208.09446v1](http://arxiv.org/abs/2208.09446v1)|null|
 |**2022-08-19**|**Crafting Monocular Cues and Velocity Guidance for Self-Supervised Multi-Frame Depth Learning**|Xiaofeng Wang, Zheng Zhu, Guan Huang, Xu Chi, Yun Ye, Ziwei Chen, Xingang Wang|[2208.09170v1](http://arxiv.org/abs/2208.09170v1)|**[link](https://github.com/jeffwang987/movedepth)**|
 ## Long Term Localization
@@ -183,16 +183,16 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-08-24**|**Semi-supervised Semantic Segmentation with Mutual Knowledge Distillation**|Jianlong Yuan, Jinchao Ge, Qi Qian, Zhibin Wang, Fan Wang, Yifan Liu|[2208.11499v1](http://arxiv.org/abs/2208.11499v1)|null|
+|**2022-08-25**|**Bridging the View Disparity of Radar and Camera Features for Multi-modal Fusion 3D Object Detection**|Taohua Zhou, Yining Shi, Junjie Chen, Kun Jiang, Mengmeng Yang, Diange Yang|[2208.12079v1](http://arxiv.org/abs/2208.12079v1)|null|
+|**2022-08-25**|**Neural Novel Actor: Learning a Generalized Animatable Neural Representation for Human Actors**|Yiming Wang, Qingzhe Gao, Libin Liu, Lingjie Liu, Christian Theobalt, Baoquan Chen|[2208.11905v1](http://arxiv.org/abs/2208.11905v1)|null|
+|**2022-08-25**|**A Privacy-Preserving and End-to-End-Based Encrypted Image Retrieval Scheme**|Zhixun Lu, Qihua Feng, Peiya Li|[2208.11876v1](http://arxiv.org/abs/2208.11876v1)|null|
+|**2022-08-25**|**Interpretable Multimodal Emotion Recognition using Hybrid Fusion of Speech and Image Data**|Puneet Kumar, Sarthak Malik, Balasubramanian Raman|[2208.11868v1](http://arxiv.org/abs/2208.11868v1)|null|
+|**2022-08-24**|**Semi-supervised Semantic Segmentation with Mutual Knowledge Distillation**|Jianlong Yuan, Jinchao Ge, Qi Qian, Zhibin Wang, Fan Wang, Yifan Liu|[2208.11499v1](http://arxiv.org/abs/2208.11499v1)|**[link](https://github.com/jianlong-yuan/semi-mmseg)**|
 |**2022-08-23**|**Satellite Image Search in AgoraEO**|Ahmet Kerem Aksoy, Pavel Dushev, Eleni Tzirita Zacharatou, Holmer Hemsen, Marcela Charfuelan, Jorge-Arnulfo Quiané-Ruiz, Begüm Demir, Volker Markl|[2208.10830v1](http://arxiv.org/abs/2208.10830v1)|null|
 |**2022-08-23**|**Towards Accurate Facial Landmark Detection via Cascaded Transformers**|Hui Li, Zidong Guo, Seon-Min Rhee, Seungju Han, Jae-Joon Han|[2208.10808v1](http://arxiv.org/abs/2208.10808v1)|null|
 |**2022-08-22**|**A Medical Semantic-Assisted Transformer for Radiographic Report Generation**|Zhanyu Wang, Mingkang Tang, Lei Wang, Xiu Li, Luping Zhou|[2208.10358v1](http://arxiv.org/abs/2208.10358v1)|null|
 |**2022-08-21**|**Semantic-enhanced Image Clustering**|Shaotian Cai, Liping Qiu, Xiaojun Chen, Qin Zhang, Longteng Chen|[2208.09849v1](http://arxiv.org/abs/2208.09849v1)|null|
 |**2022-08-19**|**PersDet: Monocular 3D Detection in Perspective Bird's-Eye-View**|Hongyu Zhou, Zheng Ge, Weixin Mao, Zeming Li|[2208.09394v1](http://arxiv.org/abs/2208.09394v1)|null|
-|**2022-08-18**|**Hybrid Very Long Baseline Interferometry Imaging and Modeling with Themis**|Avery E. Broderick, Dominic W. Pesce, Paul Tiede, Hung-Yi Pu, Roman Gold|[2208.09003v1](http://arxiv.org/abs/2208.09003v1)|null|
-|**2022-08-17**|**ParaColorizer: Realistic Image Colorization using Parallel Generative Networks**|Himanshu Kumar, Abeer Banerjee, Sumeet Saurav, Sanjay Singh|[2208.08295v1](http://arxiv.org/abs/2208.08295v1)|null|
-|**2022-08-17**|**IDAN: Image Difference Attention Network for Change Detection**|Hongkun Liu, Zican Hu, Qichen Ding, Xueyun Chen|[2208.08292v1](http://arxiv.org/abs/2208.08292v1)|null|
-|**2022-08-17**|**Atom Interferometric Imaging of Differential Potentials Using an Atom Laser**|Maren E. Mossman, Ryan A. Corbin, Michael McNeil Forbes, Peter Engels|[2208.08007v1](http://arxiv.org/abs/2208.08007v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
