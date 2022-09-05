@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-02**|**Online calibration of a linear micro tomosynthesis scanner**|Piroz Bahar, David Nguyen, Muyang Wang, Dumitru Mazilu, Eric E. Bennett, Han Wen|[2209.01104v1](http://arxiv.org/abs/2209.01104v1)|null|
 |**2022-08-31**|**SimpleRecon: 3D Reconstruction Without 3D Convolutions**|Mohamed Sayed, John Gibson, Jamie Watson, Victor Prisacariu, Michael Firman, Clément Godard|[2208.14743v1](http://arxiv.org/abs/2208.14743v1)|null|
 |**2022-08-26**|**Fast Auto-Differentiable Digitally Reconstructed Radiographs for Solving Inverse Problems in Intraoperative Imaging**|Vivek Gopalakrishnan, Polina Golland|[2208.12737v1](http://arxiv.org/abs/2208.12737v1)|**[link](https://github.com/v715/DiffDRR)**|
 |**2022-08-24**|**PeRFception: Perception using Radiance Fields**|Yoonwoo Jeong, Seungjoo Shin, Junha Lee, Christopher Choy, Animashree Anandkumar, Minsu Cho, Jaesik Park|[2208.11537v1](http://arxiv.org/abs/2208.11537v1)|**[link](https://github.com/POSTECH-CVLab/PeRFception)**|
@@ -101,10 +102,10 @@
 |**2022-08-10**|**MD-Net: Multi-Detector for Local Feature Extraction**|Emanuele Santellani, Christian Sormann, Mattia Rossi, Andreas Kuhn, Friedrich Fraundorfer|[2208.05350v1](http://arxiv.org/abs/2208.05350v1)|null|
 |**2022-08-08**|**PlaneFormers: From Sparse View Planes to 3D Reconstruction**|Samir Agarwala, Linyi Jin, Chris Rockwell, David F. Fouhey|[2208.04307v1](http://arxiv.org/abs/2208.04307v1)|**[link](https://github.com/samiragarwala/PlaneFormers)**|
 |**2022-08-08**|**Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**|Yifei Ren, Binbin Xu, Christopher L. Choi, Stefan Leutenegger|[2208.04274v1](http://arxiv.org/abs/2208.04274v1)|null|
-|**2022-08-07**|**Justification of the use of Stokes-V Cryo-NIRSP/DKIST observations for the 3D Reconstruction of the Coronal Magnetic Field**|Maxim Kramar, Haosheng Lin|[2208.03840v1](http://arxiv.org/abs/2208.03840v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-02**|**LiteDepth: Digging into Fast and Accurate Depth Estimation on Mobile Devices**|Zhenyu Li, Zehui Chen, Jialei Xu, Xianming Liu, Junjun Jiang|[2209.00961v1](http://arxiv.org/abs/2209.00961v1)|null|
 |**2022-08-31**|**SimpleRecon: 3D Reconstruction Without 3D Convolutions**|Mohamed Sayed, John Gibson, Jamie Watson, Victor Prisacariu, Michael Firman, Clément Godard|[2208.14743v1](http://arxiv.org/abs/2208.14743v1)|null|
 |**2022-08-30**|**Synthehicle: Multi-Vehicle Multi-Camera Tracking in Virtual Cities**|Fabian Herzog, Junpeng Chen, Torben Teepe, Johannes Gilg, Stefan Hörmann, Gerhard Rigoll|[2208.14167v1](http://arxiv.org/abs/2208.14167v1)|**[link](https://github.com/fubel/synthehicle)**|
 |**2022-08-29**|**SphereDepth: Panorama Depth Estimation from Spherical Domain**|Qingsong Yan, Qiang Wang, Kaiyong Zhao, Bo Li, Xiaowen Chu, Fei Deng|[2208.13714v2](http://arxiv.org/abs/2208.13714v2)|null|
@@ -114,7 +115,6 @@
 |**2022-08-27**|**Neural Camera Models**|Igor Vasiljevic|[2208.12903v1](http://arxiv.org/abs/2208.12903v1)|null|
 |**2022-08-26**|**Uncertainty Guided Depth Fusion for Spike Camera**|Jianing Li, Jiaming Liu, Xiaobao Wei, Jiyuan Zhang, Ming Lu, Lei Ma, Li Du, Tiejun Huang, Shanghang Zhang|[2208.12653v2](http://arxiv.org/abs/2208.12653v2)|null|
 |**2022-08-26**|**Unsupervised Spike Depth Estimation via Cross-modality Cross-domain Knowledge Transfer**|Jiaming Liu, Qizhe Zhang, Jianing Li, Ming Lu, Tiejun Huang, Shanghang Zhang|[2208.12527v1](http://arxiv.org/abs/2208.12527v1)|**[link](https://github.com/theia-4869/bicross)**|
-|**2022-08-26**|**Data-free Dense Depth Distillation**|Junjie Hu, Chenyou Fan, Mete Ozay, Hualie Jiang, Tin Lun Lam|[2208.12464v1](http://arxiv.org/abs/2208.12464v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-02**|**Real-time 3D Single Object Tracking with Transformer**|Jiayao Shan, Sifan Zhou, Yubo Cui, Zheng Fang|[2209.00860v1](http://arxiv.org/abs/2209.00860v1)|null|
 |**2022-09-01**|**Implicit and Efficient Point Cloud Completion for 3D Single Object Tracking**|Pan Wang, Liangliang Ren, Shengkai Wu, Jinrong Yang, En Yu, Hangcheng Yu, Xiaoping Li|[2209.00522v1](http://arxiv.org/abs/2209.00522v1)|null|
 |**2022-08-30**|**TCAM: Temporal Class Activation Maps for Object Localization in Weakly-Labeled Unconstrained Videos**|Soufiane Belharbi, Ismail Ben Ayed, Luke McCaffrey, Eric Granger|[2208.14542v1](http://arxiv.org/abs/2208.14542v1)|**[link](https://github.com/sbelharbi/tcam-wsol-video)**|
 |**2022-08-27**|**Actor-identified Spatiotemporal Action Detection -- Detecting Who Is Doing What in Videos**|Fan Yang, Norimichi Ukita, Sakriani Sakti, Satoshi Nakamura|[2208.12940v1](http://arxiv.org/abs/2208.12940v1)|**[link](https://github.com/fandulu/asad)**|
@@ -140,10 +141,10 @@
 |**2022-08-18**|**Learning Spatial-Frequency Transformer for Visual Object Tracking**|Chuanming Tang, Xiao Wang, Yuanchao Bai, Zhe Wu, Jianlin Zhang, Yongmei Huang|[2208.08829v1](http://arxiv.org/abs/2208.08829v1)|**[link](https://github.com/tchuanm/sftranst)**|
 |**2022-08-17**|**InterTrack: Interaction Transformer for 3D Multi-Object Tracking**|John Willes, Cody Reading, Steven L. Waslander|[2208.08041v1](http://arxiv.org/abs/2208.08041v1)|null|
 |**2022-08-15**|**Automatic Controlling Fish Feeding Machine using Feature Extraction of Nutriment and Ripple Behavior**|Hilmil Pradana, Keiichi Horio|[2208.07011v1](http://arxiv.org/abs/2208.07011v1)|null|
-|**2022-08-14**|**AVisT: A Benchmark for Visual Object Tracking in Adverse Visibility**|Mubashir Noman, Wafa Al Ghallabi, Daniya Najiha, Christoph Mayer, Akshay Dudhane, Martin Danelljan, Hisham Cholakkal, Salman Khan, Luc Van Gool, Fahad Shahbaz Khan|[2208.06888v1](http://arxiv.org/abs/2208.06888v1)|**[link](https://github.com/visionml/pytracking)**|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-02**|**3D Path Planning and Obstacle Avoidance Algorithms for Obstacle-Overcoming Robots**|Yuanhao huang, Shi Huang, Hao Wang, Ruifeng Meng|[2209.00871v1](http://arxiv.org/abs/2209.00871v1)|null|
 |**2022-07-08**|**Reactive Neural Path Planning with Dynamic Obstacle Avoidance in a Condensed Configuration Space**|Lea Steffen, Tobias Weyer, Stefan Ulbrich, Arne Roennau, Rüdiger Dillmann|[2207.03959v1](http://arxiv.org/abs/2207.03959v1)|null|
 |**2022-06-12**|**Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments**|Linh Kästner, Teham Bhuiyan, Tuan Anh Le, Elias Treis, Johannes Cox, Boris Meinardus, Jacek Kmiecik, Reyk Carstens, Duc Pichel, Bassel Fatloun, Niloufar Khorsandi, Jens Lambrecht|[2206.05728v2](http://arxiv.org/abs/2206.05728v2)|**[link](https://github.com/ignc-research/arena-bench)**|
 |**2022-04-14**|**Blending Primitive Policies in Shared Control for Assisted Teleoperation**|Guilherme Maeda|[2204.07026v1](http://arxiv.org/abs/2204.07026v1)|null|
@@ -153,10 +154,10 @@
 |**2021-09-23**|**All-in-One: A DRL-based Control Switch Combining State-of-the-art Navigation Planners**|Linh Kästner, Johannes Cox, Teham Buiyan, Jens Lambrecht|[2109.11636v1](http://arxiv.org/abs/2109.11636v1)|**[link](https://github.com/ignc-research/all-in-one-DRL-planner)**|
 |**2021-06-08**|**Learning Riemannian Manifolds for Geodesic Motion Skills**|Hadi Beik-Mohammadi, Søren Hauberg, Georgios Arvanitidis, Gerhard Neumann, Leonel Rozo|[2106.04315v2](http://arxiv.org/abs/2106.04315v2)|null|
 |**2021-04-23**|**Speed Planning Using Bezier Polynomials with Trapezoidal Corridors**|Jialun Li, Xiaojia Xie, Hengbo Ma, Xiao Liu, Jianping He|[2104.11655v1](http://arxiv.org/abs/2104.11655v1)|null|
-|**2021-04-08**|**Connecting Deep-Reinforcement-Learning-based Obstacle Avoidance with Conventional Global Planners using Waypoint Generators**|Linh Kästner, Teham Buiyan, Xinlin Zhao, Zhengcheng Shen, Cornelius Marx, Jens Lambrecht|[2104.03663v1](http://arxiv.org/abs/2104.03663v1)|**[link](https://github.com/ignc-research/arena-rosnav)**|
 ## PointCloud
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-02**|**Learning task-specific features for 3D pointcloud graph creation**|Elías Abad-Rocamora, Javier Ruiz-Hidalgo|[2209.00949v1](http://arxiv.org/abs/2209.00949v1)|null|
 |**2022-08-18**|**Stable Object Reorientation using Contact Plane Registration**|Richard Li, Carlos Esteves, Ameesh Makadia, Pulkit Agrawal|[2208.08962v1](http://arxiv.org/abs/2208.08962v1)|null|
 |**2022-08-15**|**HoW-3D: Holistic 3D Wireframe Perception from a Single Image**|Wenchao Ma, Bin Tan, Nan Xue, Tianfu Wu, Xianwei Zheng, Gui-Song Xia|[2208.06999v2](http://arxiv.org/abs/2208.06999v2)|**[link](https://github.com/wenchao-m/how-3d)**|
 |**2022-06-27**|**Representing motion as a sequence of latent primitives, a flexible approach for human motion modelling**|Mathieu Marsot, Stefanie Wuhrer, Jean-Sebastien Franco, Anne Hélène Olivier|[2206.13142v2](http://arxiv.org/abs/2206.13142v2)|null|
@@ -166,7 +167,6 @@
 |**2022-02-06**|**Simulation-to-Reality domain adaptation for offline 3D object annotation on pointclouds with correlation alignment**|Weishuang Zhang, B Ravi Kiran, Thomas Gauthier, Yanis Mazouz, Theo Steger|[2202.02666v2](http://arxiv.org/abs/2202.02666v2)|null|
 |**2021-12-16**|**Analysis and Evaluation of Kinect-based Action Recognition Algorithms**|Lei Wang|[2112.08626v1](http://arxiv.org/abs/2112.08626v1)|**[link](https://github.com/LeiWangR/HDG)**|
 |**2021-09-15**|**Two algorithms for vehicular obstacle detection in sparse pointcloud**|Simone Mentasti, Matteo Matteucci, Stefano Arrigoni, Federico Cheli|[2109.07288v1](http://arxiv.org/abs/2109.07288v1)|null|
-|**2021-08-30**|**COMPRA: A COMPact Reactive Autonomy framework for subterranean MAV based search-and-rescue operations**|Björn Lindqvist, Christoforos Kanellakis, Sina Sharif Mansouri, Ali-akbar Agha-mohammadi, George Nikolakopoulos|[2108.13105v2](http://arxiv.org/abs/2108.13105v2)|null|
 ## Visual Odometry
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
