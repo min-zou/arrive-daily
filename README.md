@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-07**|**Multi-NeuS: 3D Head Portraits from Single Image with Neural Implicit Functions**|Egor Burkov, Ruslan Rakhimov, Aleksandr Safin, Evgeny Burnaev, Victor Lempitsky|[2209.04436v1](http://arxiv.org/abs/2209.04436v1)|null|
 |**2022-09-06**|**Deep Learning Assisted Optimization for 3D Reconstruction from Single 2D Line Drawings**|Jia Zheng, Yifan Zhu, Kehan Wang, Qiang Zou, Zihan Zhou|[2209.02692v2](http://arxiv.org/abs/2209.02692v2)|null|
 |**2022-09-06**|**3D Single-pixel imaging with active sampling patterns and learning based reconstruction**|Xinyue Ma, Chenxing Wang|[2209.02705v1](http://arxiv.org/abs/2209.02705v1)|null|
 |**2022-09-06**|**Reconstructing Action-Conditioned Human-Object Interactions Using Commonsense Knowledge Priors**|Xi Wang, Gen Li, Yen-Ling Kuo, Muhammed Kocabas, Emre Aksan, Otmar Hilliges|[2209.02485v1](http://arxiv.org/abs/2209.02485v1)|null|
@@ -101,7 +102,6 @@
 |**2022-08-30**|**Inferring Implicit 3D Representations from Human Figures on Pictorial Maps**|Raimund Schnürer, A. Cengiz Öztireli, Magnus Heitzler, René Sieber, Lorenz Hurni|[2209.02385v1](http://arxiv.org/abs/2209.02385v1)|null|
 |**2022-08-26**|**Fast Auto-Differentiable Digitally Reconstructed Radiographs for Solving Inverse Problems in Intraoperative Imaging**|Vivek Gopalakrishnan, Polina Golland|[2208.12737v1](http://arxiv.org/abs/2208.12737v1)|**[link](https://github.com/v715/DiffDRR)**|
 |**2022-08-24**|**PeRFception: Perception using Radiance Fields**|Yoonwoo Jeong, Seungjoo Shin, Junha Lee, Christopher Choy, Animashree Anandkumar, Minsu Cho, Jaesik Park|[2208.11537v1](http://arxiv.org/abs/2208.11537v1)|**[link](https://github.com/POSTECH-CVLab/PeRFception)**|
-|**2022-08-23**|**Improving Computed Tomography (CT) Reconstruction via 3D Shape Induction**|Elena Sizikova, Xu Cao, Ashia Lewis, Kenny Moise, Megan Coffee|[2208.10937v1](http://arxiv.org/abs/2208.10937v1)|**[link](https://github.com/esizikova/medsynth_public)**|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,19 +183,20 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-09**|**ISS: Image as Stetting Stone for Text-Guided 3D Shape Generation**|Zhengzhe Liu, Peng Dai, Ruihui Li, Xiaojuan Qi, Chi-Wing Fu|[2209.04145v1](http://arxiv.org/abs/2209.04145v1)|null|
+|**2022-09-09**|**Prediction method of Soundscape Impressions using Environmental Sounds and Aerial Photographs**|Yusuke Ono, Sunao Hara, Masanobu Abe|[2209.04077v1](http://arxiv.org/abs/2209.04077v1)|null|
 |**2022-09-07**|**Neural Feature Fusion Fields: 3D Distillation of Self-Supervised 2D Image Representations**|Vadim Tschernezki, Iro Laina, Diane Larlus, Andrea Vedaldi|[2209.03494v1](http://arxiv.org/abs/2209.03494v1)|null|
 |**2022-09-05**|**Uformer-ICS: A Specialized U-Shaped Transformer for Image Compressive Sensing**|Kuiyuan Zhang, Zhongyun Hua, Yuanman Li, Yushu Zhang, Yicong Zhou|[2209.01763v1](http://arxiv.org/abs/2209.01763v1)|null|
 |**2022-09-04**|**Representative Image Feature Extraction via Contrastive Learning Pretraining for Chest X-ray Report Generation**|Yu-Jen Chen, Wei-Hsiang Shen, Hao-Wei Chung, Jing-Hao Chiu, Da-Cheng Juan, Tsung-Ying Ho, Chi-Tung Cheng, Meng-Lin Li, Tsung-Yi Ho|[2209.01604v1](http://arxiv.org/abs/2209.01604v1)|null|
 |**2022-09-04**|**Joint Prediction of Meningioma Grade and Brain Invasion via Task-Aware Contrastive Learning**|Tianling Liu, Wennan Liu, Lequan Yu, Liang Wan, Tong Han, Lei Zhu|[2209.01517v1](http://arxiv.org/abs/2209.01517v1)|**[link](https://github.com/isdling/predicttcl)**|
 |**2022-09-03**|**DSE-GAN: Dynamic Semantic Evolution Generative Adversarial Network for Text-to-Image Generation**|Mengqi Huang, Zhendong Mao, Penghui Wang, Quan Wang, Yongdong Zhang|[2209.01339v1](http://arxiv.org/abs/2209.01339v1)|null|
 |**2022-08-31**|**Automatic Identification of Coal and Rock/Gangue Based on DenseNet and Gaussian Process**|Yufan Li|[2208.14871v1](http://arxiv.org/abs/2208.14871v1)|null|
-|**2022-08-30**|**Latent Similarity Identifies Important Functional Connections for Phenotype Prediction**|Anton Orlichenko, Gang Qu, Gemeng Zhang, Binish Patel, Tony W. Wilson, Julia M. Stephen, Vince D. Calhoun, Yu-Ping Wang|[2208.14484v1](http://arxiv.org/abs/2208.14484v1)|**[link](https://github.com/aorliche/latentsimilarity)**|
+|**2022-08-30**|**Latent Similarity Identifies Important Functional Connections for Phenotype Prediction**|Anton Orlichenko, Gang Qu, Gemeng Zhang, Binish Patel, Tony W. Wilson, Julia M. Stephen, Vince D. Calhoun, Yu-Ping Wang|[2208.14484v2](http://arxiv.org/abs/2208.14484v2)|**[link](https://github.com/aorliche/latentsimilarity)**|
 |**2022-08-27**|**RepParser: End-to-End Multiple Human Parsing with Representative Parts**|Xiaojia Chen, Xuanhan Wang, Lianli Gao, Jingkuan Song|[2208.12908v1](http://arxiv.org/abs/2208.12908v1)|null|
-|**2022-08-25**|**Using Atom-Like Local Image Features to Study Human Genetics and Neuroanatomy in Large Sets of 3D Medical Image Volumes**|Laurent Chauvin|[2208.12361v1](http://arxiv.org/abs/2208.12361v1)|null|
-|**2022-08-25**|**Bridging the View Disparity of Radar and Camera Features for Multi-modal Fusion 3D Object Detection**|Taohua Zhou, Yining Shi, Junjie Chen, Kun Jiang, Mengmeng Yang, Diange Yang|[2208.12079v1](http://arxiv.org/abs/2208.12079v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-08**|**Pathfinder -- Navigating and Analyzing Chemical Reaction Networks with an Efficient Graph-based Approach**|Paul L. Türtscher, Markus Reiher|[2209.04039v1](http://arxiv.org/abs/2209.04039v1)|null|
 |**2022-08-27**|**Global RTK Positioning in Graphical State Space**|Yihong Ge, Sudan Yan, Shaolin Lü, Cong Li|[2208.12923v2](http://arxiv.org/abs/2208.12923v2)|**[link](https://github.com/shaolinbit/rtkingss)**|
 |**2022-08-24**|**Tracking by weakly-supervised learning and graph optimization for whole-embryo C. elegans lineages**|Peter Hirsch, Caroline Malin-Mayor, Anthony Santella, Stephan Preibisch, Dagmar Kainmueller, Jan Funke|[2208.11467v1](http://arxiv.org/abs/2208.11467v1)|**[link](https://github.com/funkelab/linajea)**|
 |**2022-08-18**|**Locally Restricted Proof Labeling Schemes (Full Version)**|Yuval Emek, Yuval Gil, Shay Kutten|[2208.08718v2](http://arxiv.org/abs/2208.08718v2)|null|
@@ -205,7 +206,6 @@
 |**2022-07-13**|**Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**|Fangwen Shu, Jiaxuan Wang, Alain Pagani, Didier Stricker|[2207.06058v2](http://arxiv.org/abs/2207.06058v2)|**[link](https://github.com/peterfws/structure-plp-slam)**|
 |**2022-07-13**|**Unsupervised Learning for Combinatorial Optimization with Principled Objective Relaxation**|Haoyu Wang, Nan Wu, Hang Yang, Cong Hao, Pan Li|[2207.05984v2](http://arxiv.org/abs/2207.05984v2)|**[link](https://github.com/graph-com/co_proxydesign)**|
 |**2022-07-11**|**The Cosmic Graph: Optimal Information Extraction from Large-Scale Structure using Catalogues**|T. Lucas Makinen, Tom Charnock, Pablo Lemos, Natalia Porqueres, Alan Heavens, Benjamin D. Wandelt|[2207.05202v1](http://arxiv.org/abs/2207.05202v1)|**[link](https://github.com/tlmakinen/cosmicgraphs)**|
-|**2022-07-08**|**Distributed Ranging SLAM for Multiple Robots with Ultra-WideBand and Odometry Measurements**|Ran Liu, Zhongyuan Deng, Zhiqiang Cao, Muhammad Shalihan, Billy Pik Lik Lau, Kaixiang Chen, Kaushik Bhowmik, Chau Yuen, U-Xuan Tan|[2207.03700v1](http://arxiv.org/abs/2207.03700v1)|null|
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
