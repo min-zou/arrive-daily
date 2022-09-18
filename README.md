@@ -105,7 +105,7 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-09-15**|**Self-distilled Feature Aggregation for Self-supervised Monocular Depth Estimation**|Zhengming Zhou, Qiulei Dong|[2209.07088v1](http://arxiv.org/abs/2209.07088v1)|**[link](https://github.com/ZM-Zhou/SDFA-Net_pytorch)**|
+|**2022-09-15**|**Self-distilled Feature Aggregation for Self-supervised Monocular Depth Estimation**|Zhengming Zhou, Qiulei Dong|[2209.07088v1](http://arxiv.org/abs/2209.07088v1)|**[link](https://github.com/ZM-Zhou/SMDE-Pytorch)**|
 |**2022-09-14**|**FCDSN-DC: An Accurate and Lightweight Convolutional Neural Network for Stereo Estimation with Depth Completion**|Dominik Hirner, Friedrich Fraundorfer|[2209.06525v1](http://arxiv.org/abs/2209.06525v1)|**[link](https://github.com/thedodo/fcdsn-dc)**|
 |**2022-09-14**|**DevNet: Self-supervised Monocular Depth Learning via Density Volume Construction**|Kaichen Zhou, Lanqing Hong, Changhao Chen, Hang Xu, Chaoqiang Ye, Qingyong Hu, Zhenguo Li|[2209.06351v2](http://arxiv.org/abs/2209.06351v2)|**[link](https://github.com/gitkaichenzhou/devnet)**|
 |**2022-09-13**|**A Benchmark and a Baseline for Robust Multi-view Depth Estimation**|Philipp Schröppel, Jan Bechtold, Artemij Amiranashvili, Thomas Brox|[2209.06681v1](http://arxiv.org/abs/2209.06681v1)|**[link](https://github.com/lmb-freiburg/robustmvd)**|
