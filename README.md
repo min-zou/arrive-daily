@@ -1,6 +1,9 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-16**|**ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM**|Aditya Arun, William Hunter, Roshan Ayyalasomayajula, Dinesh Bharadia|[2209.08091v1](http://arxiv.org/abs/2209.08091v1)|null|
+|**2022-09-16**|**iDF-SLAM: End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking**|Yuhang Ming, Weicai Ye, Andrew Calway|[2209.07919v1](http://arxiv.org/abs/2209.07919v1)|null|
+|**2022-09-16**|**TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM**|Mathieu Gonzalez, Eric Marchand, Amine Kacete, Jérôme Royan|[2209.07888v1](http://arxiv.org/abs/2209.07888v1)|null|
 |**2022-09-15**|**Landmark Management in the Application of Radar SLAM**|Shuai Sun, Beth Jelfs, Kamran Ghorbani, Glenn Matthews, Christopher Gilliam|[2209.07199v1](http://arxiv.org/abs/2209.07199v1)|null|
 |**2022-09-15**|**PROB-SLAM: Real-time Visual SLAM Based on Probabilistic Graph Optimization**|Xianwei Meng, Bonian Li|[2209.07061v1](http://arxiv.org/abs/2209.07061v1)|null|
 |**2022-09-14**|**Semantic Visual Simultaneous Localization and Mapping: A Survey**|Kaiqi Chen, Jianhua Zhang, Jialing Liu, Qiyi Tong, Ruyu Liu, Shengyong Chen|[2209.06428v1](http://arxiv.org/abs/2209.06428v1)|null|
@@ -8,9 +11,6 @@
 |**2022-09-12**|**A Review on Visual-SLAM: Advancements from Geometric Modelling to Learning-based Semantic Scene Understanding**|Tin Lai|[2209.05222v1](http://arxiv.org/abs/2209.05222v1)|null|
 |**2022-09-12**|**Attitude-Guided Loop Closure for Cameras with Negative Plane**|Ze Wang, Kailun Yang, Peng Li, Fei Gao, Kaiwei Wang|[2209.05167v1](http://arxiv.org/abs/2209.05167v1)|**[link](https://github.com/flysoaryun/lf-vio-loop)**|
 |**2022-09-09**|**General Place Recognition Survey: Towards the Real-world Autonomy Age**|Peng Yin, Shiqi Zhao, Ivan Cisneros, Abulikemu Abuduweili, Guoquan Huang, Micheal Milford, Changliu Liu, Howie Choset, Sebastian Scherer|[2209.04497v1](http://arxiv.org/abs/2209.04497v1)|**[link](https://github.com/MetaSLAM/GPRS)**|
-|**2022-09-08**|**ExplORB-SLAM: Active Visual SLAM Exploiting the Pose-graph Topology**|Julio A. Placed, Juan J. Gómez Rodríguez, Juan D. Tardós, José A. Castellanos|[2209.03693v1](http://arxiv.org/abs/2209.03693v1)|**[link](https://github.com/julioplaced/explorb-slam)**|
-|**2022-09-08**|**R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**|Jiarong Lin, Fu Zhang|[2209.03666v1](http://arxiv.org/abs/2209.03666v1)|**[link](https://github.com/hku-mars/r3live)**|
-|**2022-09-06**|**Group-$k$ Consistent Measurement Set Maximization for Robust Outlier Detection**|Brendon Forsgren, Ram Vasudevan, Michael Kaess, Timothy W. McLain, Joshua G. Mangelson|[2209.02658v1](http://arxiv.org/abs/2209.02658v1)|**[link](https://bitbucket.org/jmangelson/gkcm)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-16**|**TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM**|Mathieu Gonzalez, Eric Marchand, Amine Kacete, Jérôme Royan|[2209.07888v1](http://arxiv.org/abs/2209.07888v1)|null|
 |**2022-09-14**|**Point Cloud Registration-Driven Robust Feature Matching for 3D Siamese Object Tracking**|Haobo Jiang, Kaihao Lan, Le Hui, Guangyu Li, Jin Xie, Jian Yang|[2209.06395v1](http://arxiv.org/abs/2209.06395v1)|null|
 |**2022-09-11**|**Multiple Object Tracking in Recent Times: A Literature Review**|Mk Bashar, Samia Islam, Kashifa Kawaakib Hussain, Md. Bakhtiar Hasan, A. B. M. Ashikur Rahman, Md. Hasanul Kabir|[2209.04796v1](http://arxiv.org/abs/2209.04796v1)|null|
 |**2022-09-08**|**PixTrack: Precise 6DoF Object Pose Tracking using NeRF Templates and Feature-metric Alignment**|Prajwal Chidananda, Saurabh Nair, Douglas Lee, Adrian Kaehler|[2209.03910v1](http://arxiv.org/abs/2209.03910v1)|null|
@@ -140,7 +141,6 @@
 |**2022-09-01**|**Implicit and Efficient Point Cloud Completion for 3D Single Object Tracking**|Pan Wang, Liangliang Ren, Shengkai Wu, Jinrong Yang, En Yu, Hangcheng Yu, Xiaoping Li|[2209.00522v1](http://arxiv.org/abs/2209.00522v1)|null|
 |**2022-08-30**|**TCAM: Temporal Class Activation Maps for Object Localization in Weakly-Labeled Unconstrained Videos**|Soufiane Belharbi, Ismail Ben Ayed, Luke McCaffrey, Eric Granger|[2208.14542v1](http://arxiv.org/abs/2208.14542v1)|**[link](https://github.com/sbelharbi/tcam-wsol-video)**|
 |**2022-08-27**|**Actor-identified Spatiotemporal Action Detection -- Detecting Who Is Doing What in Videos**|Fan Yang, Norimichi Ukita, Sakriani Sakti, Satoshi Nakamura|[2208.12940v2](http://arxiv.org/abs/2208.12940v2)|**[link](https://github.com/fandulu/asad)**|
-|**2022-08-23**|**Quality Matters: Embracing Quality Clues for Robust 3D Multi-Object Tracking**|Jinrong Yang, En Yu, Zeming Li, Xiaoping Li, Wenbing Tao|[2208.10976v1](http://arxiv.org/abs/2208.10976v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-16**|**CurveFormer: 3D Lane Detection by Curve Propagation with Curve Queries and Attention**|Yifeng Bai, Zhirong Chen, Zhangjie Fu, Lang Peng, Pengpeng Liang, Erkang Cheng|[2209.07989v1](http://arxiv.org/abs/2209.07989v1)|null|
 |**2022-09-15**|**Efficient Perception, Planning, and Control Algorithms for Vision-Based Automated Vehicles**|Der-Hau Lee|[2209.07042v1](http://arxiv.org/abs/2209.07042v1)|null|
 |**2022-09-14**|**A Transfer Function Design Using A Knowledge Database based on Deep Image and Primitive Intensity Profile Features Retrieval**|Younhyun Jung, Jim Kong, Jinman Kim|[2209.06421v1](http://arxiv.org/abs/2209.06421v1)|null|
 |**2022-09-14**|**A Survey on Evolutionary Computation for Computer Vision and Image Analysis: Past, Present, and Future Trends**|Ying Bi, Bing Xue, Pablo Mesejo, Stefano Cagnoni, Mengjie Zhang|[2209.06399v1](http://arxiv.org/abs/2209.06399v1)|null|
@@ -192,10 +193,10 @@
 |**2022-09-12**|**Attitude-Guided Loop Closure for Cameras with Negative Plane**|Ze Wang, Kailun Yang, Peng Li, Fei Gao, Kaiwei Wang|[2209.05167v1](http://arxiv.org/abs/2209.05167v1)|**[link](https://github.com/flysoaryun/lf-vio-loop)**|
 |**2022-09-09**|**ISS: Image as Stetting Stone for Text-Guided 3D Shape Generation**|Zhengzhe Liu, Peng Dai, Ruihui Li, Xiaojuan Qi, Chi-Wing Fu|[2209.04145v1](http://arxiv.org/abs/2209.04145v1)|null|
 |**2022-09-09**|**Prediction method of Soundscape Impressions using Environmental Sounds and Aerial Photographs**|Yusuke Ono, Sunao Hara, Masanobu Abe|[2209.04077v1](http://arxiv.org/abs/2209.04077v1)|null|
-|**2022-09-07**|**Neural Feature Fusion Fields: 3D Distillation of Self-Supervised 2D Image Representations**|Vadim Tschernezki, Iro Laina, Diane Larlus, Andrea Vedaldi|[2209.03494v1](http://arxiv.org/abs/2209.03494v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-15**|**Incremental cycle bases for cycle-based pose graph optimization**|Brendon Forsgren, Kevin Brink, Prashant Ganesh, Timothy McLain|[2209.07626v1](http://arxiv.org/abs/2209.07626v1)|null|
 |**2022-09-15**|**PROB-SLAM: Real-time Visual SLAM Based on Probabilistic Graph Optimization**|Xianwei Meng, Bonian Li|[2209.07061v1](http://arxiv.org/abs/2209.07061v1)|null|
 |**2022-09-14**|**Tac2Structure: Object Surface Reconstruction Only through Multi Times Touch**|J. Lu, Z. Wan, Y. Zhang|[2209.06545v1](http://arxiv.org/abs/2209.06545v1)|null|
 |**2022-09-10**|**The Bayan Algorithm: Detecting Communities in Networks Through Exact and Approximate Optimization of Modularity**|Samin Aref, Hriday Chheda, Mahdi Mostajabdaveh|[2209.04562v1](http://arxiv.org/abs/2209.04562v1)|null|
@@ -205,7 +206,6 @@
 |**2022-08-18**|**Locally Restricted Proof Labeling Schemes (Full Version)**|Yuval Emek, Yuval Gil, Shay Kutten|[2208.08718v2](http://arxiv.org/abs/2208.08718v2)|null|
 |**2022-08-01**|**Locally Optimal Estimation and Control of Cable Driven Parallel Robots using Time Varying Linear Quadratic Gaussian Control**|Gerry Chen, Seth Hutchinson, Frank Dellaert|[2208.00916v1](http://arxiv.org/abs/2208.00916v1)|null|
 |**2022-07-15**|**Node Graph Optimization Using Differentiable Proxies**|Yiwei Hu, Paul Guerrero, Miloš Hašan, Holly Rushmeier, Valentin Deschaintre|[2207.07684v1](http://arxiv.org/abs/2207.07684v1)|null|
-|**2022-07-14**|**AutoMerge: A Framework for Map Assembling and Smoothing in City-scale Environments**|Peng Yin, Haowen Lai, Shiqi Zhao, Ruijie Fu, Ivan Cisneros, Ruohai Ge, Ji Zhang, Howie Choset, Sebastian Scherer|[2207.06965v1](http://arxiv.org/abs/2207.06965v1)|null|
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
