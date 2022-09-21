@@ -3,8 +3,8 @@
 |---|---|---|---|---|
 |**2022-09-19**|**LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM**|Letian Zhang, Jinping Wang, Lu Jie, Nanjie Chen, Xiaojun Tan, Zhifei Duan|[2209.08810v1](http://arxiv.org/abs/2209.08810v1)|null|
 |**2022-09-18**|**HGI-SLAM: Loop Closure With Human and Geometric Importance Features**|Shuhul Mujoo, Jerry Ng|[2209.08608v1](http://arxiv.org/abs/2209.08608v1)|null|
-|**2022-09-18**|**Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**|Jiarui Tan, Ignacio Torroba, Yiping Xie, John Folkesson|[2209.08578v1](http://arxiv.org/abs/2209.08578v1)|null|
-|**2022-09-17**|**DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**|Shihao Shen, Yilin Cai, Wenshan Wang, Sebastian Scherer|[2209.08430v1](http://arxiv.org/abs/2209.08430v1)|null|
+|**2022-09-18**|**Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**|Jiarui Tan, Ignacio Torroba, Yiping Xie, John Folkesson|[2209.08578v1](http://arxiv.org/abs/2209.08578v1)|**[link](https://github.com/tjr16/bathy_nn_learning)**|
+|**2022-09-17**|**DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**|Shihao Shen, Yilin Cai, Wenshan Wang, Sebastian Scherer|[2209.08430v1](http://arxiv.org/abs/2209.08430v1)|**[link](https://github.com/geniussh/dytanvo)**|
 |**2022-09-17**|**OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM**|Matthieu Zins, Gilles Simon, Marie-Odile Berger|[2209.08338v1](http://arxiv.org/abs/2209.08338v1)|null|
 |**2022-09-17**|**PlaneSLAM: Plane-based LiDAR SLAM for Motion Planning in Structured 3D Environments**|Adam Dai, Greg Lund, Grace Gao|[2209.08248v1](http://arxiv.org/abs/2209.08248v1)|null|
 |**2022-09-16**|**ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM**|Aditya Arun, William Hunter, Roshan Ayyalasomayajula, Dinesh Bharadia|[2209.08091v1](http://arxiv.org/abs/2209.08091v1)|null|
@@ -105,13 +105,13 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-09-19**|**3D-PL: Domain Adaptive Depth Estimation with 3D-aware Pseudo-Labeling**|Yu-Ting Yen, Chia-Ni Lu, Wei-Chen Chiu, Yi-Hsuan Tsai|[2209.09231v1](http://arxiv.org/abs/2209.09231v1)|null|
-|**2022-09-19**|**On Robust Cross-View Consistency in Self-Supervised Monocular Depth Estimation**|Haimei Zhao, Jing Zhang, Zhuo Chen, Bo Yuan, Dacheng Tao|[2209.08747v1](http://arxiv.org/abs/2209.08747v1)|null|
+|**2022-09-19**|**3D-PL: Domain Adaptive Depth Estimation with 3D-aware Pseudo-Labeling**|Yu-Ting Yen, Chia-Ni Lu, Wei-Chen Chiu, Yi-Hsuan Tsai|[2209.09231v1](http://arxiv.org/abs/2209.09231v1)|**[link](https://github.com/ccc870206/3d-pl)**|
+|**2022-09-19**|**On Robust Cross-View Consistency in Self-Supervised Monocular Depth Estimation**|Haimei Zhao, Jing Zhang, Zhuo Chen, Bo Yuan, Dacheng Tao|[2209.08747v1](http://arxiv.org/abs/2209.08747v1)|**[link](https://github.com/sunnyhelen/rcvc-depth)**|
 |**2022-09-18**|**SF2SE3: Clustering Scene Flow into SE(3)-Motions via Proposal and Selection**|Leonhard Sommer, Philipp Schröppel, Thomas Brox|[2209.08532v1](http://arxiv.org/abs/2209.08532v1)|null|
 |**2022-09-18**|**TODE-Trans: Transparent Object Depth Estimation with Transformer**|Kang Chen, Shaochen Wang, Beihao Xia, Dongxu Li, Zhen Kan, Bin Li|[2209.08455v1](http://arxiv.org/abs/2209.08455v1)|null|
 |**2022-09-15**|**Self-distilled Feature Aggregation for Self-supervised Monocular Depth Estimation**|Zhengming Zhou, Qiulei Dong|[2209.07088v1](http://arxiv.org/abs/2209.07088v1)|**[link](https://github.com/ZM-Zhou/SMDE-Pytorch)**|
 |**2022-09-14**|**FCDSN-DC: An Accurate and Lightweight Convolutional Neural Network for Stereo Estimation with Depth Completion**|Dominik Hirner, Friedrich Fraundorfer|[2209.06525v1](http://arxiv.org/abs/2209.06525v1)|**[link](https://github.com/thedodo/fcdsn-dc)**|
-|**2022-09-14**|**DevNet: Self-supervised Monocular Depth Learning via Density Volume Construction**|Kaichen Zhou, Lanqing Hong, Changhao Chen, Hang Xu, Chaoqiang Ye, Qingyong Hu, Zhenguo Li|[2209.06351v2](http://arxiv.org/abs/2209.06351v2)|**[link](https://github.com/gitkaichenzhou/devnet)**|
+|**2022-09-14**|**DevNet: Self-supervised Monocular Depth Learning via Density Volume Construction**|Kaichen Zhou, Lanqing Hong, Changhao Chen, Hang Xu, Chaoqiang Ye, Qingyong Hu, Zhenguo Li|[2209.06351v3](http://arxiv.org/abs/2209.06351v3)|**[link](https://github.com/gitkaichenzhou/devnet)**|
 |**2022-09-13**|**A Benchmark and a Baseline for Robust Multi-view Depth Estimation**|Philipp Schröppel, Jan Bechtold, Artemij Amiranashvili, Thomas Brox|[2209.06681v1](http://arxiv.org/abs/2209.06681v1)|**[link](https://github.com/lmb-freiburg/robustmvd)**|
 |**2022-09-12**|**StructNeRF: Neural Radiance Fields for Indoor Scenes with Structural Hints**|Zheng Chen, Chen Wang, Yuan-Chen Guo, Song-Hai Zhang|[2209.05277v1](http://arxiv.org/abs/2209.05277v1)|null|
 |**2022-09-07**|**BiFuse++: Self-supervised and Efficient Bi-projection Fusion for 360 Depth Estimation**|Fu-En Wang, Yu-Hsuan Yeh, Yi-Hsuan Tsai, Wei-Chen Chiu, Min Sun|[2209.02952v1](http://arxiv.org/abs/2209.02952v1)|**[link](https://github.com/fuenwang/bifusev2)**|
@@ -171,7 +171,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-09-18**|**SF2SE3: Clustering Scene Flow into SE(3)-Motions via Proposal and Selection**|Leonhard Sommer, Philipp Schröppel, Thomas Brox|[2209.08532v1](http://arxiv.org/abs/2209.08532v1)|null|
-|**2022-09-17**|**DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**|Shihao Shen, Yilin Cai, Wenshan Wang, Sebastian Scherer|[2209.08430v1](http://arxiv.org/abs/2209.08430v1)|null|
+|**2022-09-17**|**DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**|Shihao Shen, Yilin Cai, Wenshan Wang, Sebastian Scherer|[2209.08430v1](http://arxiv.org/abs/2209.08430v1)|**[link](https://github.com/geniussh/dytanvo)**|
 |**2022-09-05**|**Neuromorphic Visual Odometry with Resonator Networks**|Alpha Renner, Lazar Supic, Andreea Danielescu, Giacomo Indiveri, E. Paxon Frady, Friedrich T. Sommer, Yulia Sandamirskaya|[2209.02000v1](http://arxiv.org/abs/2209.02000v1)|null|
 |**2022-09-05**|**Analysis of the Effect of Time Delay for Unmanned Aerial Vehicles with Applications to Vision Based Navigation**|Muhammad Ahmed Humais, Mohamad Chehadeh, Igor Boiko, Yahya Zweiri|[2209.01933v1](http://arxiv.org/abs/2209.01933v1)|null|
 |**2022-09-04**|**Pseudo-LiDAR for Visual Odometry**|Huiying Deng, Guangming Wang, Zhiheng Feng, Chaokang Jiang, Xinrui Wu, Yanzi Miao, Hesheng Wang|[2209.01567v1](http://arxiv.org/abs/2209.01567v1)|null|
@@ -187,7 +187,7 @@
 |**2022-09-15**|**Efficient Perception, Planning, and Control Algorithms for Vision-Based Automated Vehicles**|Der-Hau Lee|[2209.07042v1](http://arxiv.org/abs/2209.07042v1)|null|
 |**2022-09-14**|**A Transfer Function Design Using A Knowledge Database based on Deep Image and Primitive Intensity Profile Features Retrieval**|Younhyun Jung, Jim Kong, Jinman Kim|[2209.06421v1](http://arxiv.org/abs/2209.06421v1)|null|
 |**2022-09-14**|**A Survey on Evolutionary Computation for Computer Vision and Image Analysis: Past, Present, and Future Trends**|Ying Bi, Bing Xue, Pablo Mesejo, Stefano Cagnoni, Mengjie Zhang|[2209.06399v1](http://arxiv.org/abs/2209.06399v1)|null|
-|**2022-09-13**|**M^2-3DLaneNet: Multi-Modal 3D Lane Detection**|Yueru Luo, Xu Yan, Chaoda Zheng, Chao Zheng, Shuqi Mei, Tang Kun, Shuguang Cui, Zhen Li|[2209.05996v1](http://arxiv.org/abs/2209.05996v1)|null|
+|**2022-09-13**|**M^2-3DLaneNet: Multi-Modal 3D Lane Detection**|Yueru Luo, Xu Yan, Chaoda Zheng, Chao Zheng, Shuqi Mei, Tang Kun, Shuguang Cui, Zhen Li|[2209.05996v2](http://arxiv.org/abs/2209.05996v2)|null|
 |**2022-09-12**|**Deep Convolutional Pooling Transformer for Deepfake Detection**|Tianyi Wang, Harry Cheng, Kam Pui Chow, Liqiang Nie|[2209.05299v1](http://arxiv.org/abs/2209.05299v1)|null|
 |**2022-09-12**|**Interstellar absorption and dust scattering**|Elisa Costantini, Lia Corrales|[2209.05261v1](http://arxiv.org/abs/2209.05261v1)|null|
 |**2022-09-12**|**Attitude-Guided Loop Closure for Cameras with Negative Plane**|Ze Wang, Kailun Yang, Peng Li, Fei Gao, Kaiwei Wang|[2209.05167v1](http://arxiv.org/abs/2209.05167v1)|**[link](https://github.com/flysoaryun/lf-vio-loop)**|
