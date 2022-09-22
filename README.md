@@ -1,16 +1,16 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-20**|**WGICP: Differentiable Weighted GICP-Based Lidar Odometry**|Sanghyun Son, Jing Liang, Ming Lin, Dinesh Manocha|[2209.09777v1](http://arxiv.org/abs/2209.09777v1)|null|
+|**2022-09-20**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**|José Arce, Niclas Vödisch, Daniele Cattaneo, Wolfram Burgard, Abhinav Valada|[2209.09699v1](http://arxiv.org/abs/2209.09699v1)|null|
+|**2022-09-19**|**MeSLAM: Memory Efficient SLAM based on Neural Fields**|Evgenii Kruzhkov, Alena Savinykh, Pavel Karpyshev, Mikhail Kurenkov, Evgeny Yudin, Andrei Potapov, Dzmitry Tsetserukou|[2209.09357v1](http://arxiv.org/abs/2209.09357v1)|null|
 |**2022-09-19**|**LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM**|Letian Zhang, Jinping Wang, Lu Jie, Nanjie Chen, Xiaojun Tan, Zhifei Duan|[2209.08810v1](http://arxiv.org/abs/2209.08810v1)|null|
 |**2022-09-18**|**HGI-SLAM: Loop Closure With Human and Geometric Importance Features**|Shuhul Mujoo, Jerry Ng|[2209.08608v1](http://arxiv.org/abs/2209.08608v1)|null|
 |**2022-09-18**|**Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**|Jiarui Tan, Ignacio Torroba, Yiping Xie, John Folkesson|[2209.08578v1](http://arxiv.org/abs/2209.08578v1)|**[link](https://github.com/tjr16/bathy_nn_learning)**|
 |**2022-09-17**|**DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**|Shihao Shen, Yilin Cai, Wenshan Wang, Sebastian Scherer|[2209.08430v1](http://arxiv.org/abs/2209.08430v1)|**[link](https://github.com/geniussh/dytanvo)**|
 |**2022-09-17**|**OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM**|Matthieu Zins, Gilles Simon, Marie-Odile Berger|[2209.08338v1](http://arxiv.org/abs/2209.08338v1)|null|
-|**2022-09-17**|**PlaneSLAM: Plane-based LiDAR SLAM for Motion Planning in Structured 3D Environments**|Adam Dai, Greg Lund, Grace Gao|[2209.08248v1](http://arxiv.org/abs/2209.08248v1)|null|
+|**2022-09-17**|**PlaneSLAM: Plane-based LiDAR SLAM for Motion Planning in Structured 3D Environments**|Adam Dai, Greg Lund, Grace Gao|[2209.08248v1](http://arxiv.org/abs/2209.08248v1)|**[link](https://github.com/stanford-navlab/planeslam)**|
 |**2022-09-16**|**ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM**|Aditya Arun, William Hunter, Roshan Ayyalasomayajula, Dinesh Bharadia|[2209.08091v1](http://arxiv.org/abs/2209.08091v1)|null|
-|**2022-09-16**|**iDF-SLAM: End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking**|Yuhang Ming, Weicai Ye, Andrew Calway|[2209.07919v1](http://arxiv.org/abs/2209.07919v1)|null|
-|**2022-09-16**|**TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM**|Mathieu Gonzalez, Eric Marchand, Amine Kacete, Jérôme Royan|[2209.07888v1](http://arxiv.org/abs/2209.07888v1)|null|
-|**2022-09-15**|**Landmark Management in the Application of Radar SLAM**|Shuai Sun, Beth Jelfs, Kamran Ghorbani, Glenn Matthews, Christopher Gilliam|[2209.07199v1](http://arxiv.org/abs/2209.07199v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -79,6 +79,7 @@
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-20**|**BuFF: Burst Feature Finder for Light-Constrained 3D Reconstruction**|Ahalya Ravendran, Mitch Bryson, Donald G. Dansereau|[2209.09470v1](http://arxiv.org/abs/2209.09470v1)|null|
 |**2022-09-19**|**A Hybrid Cable-Driven Robot for Non-Destructive Leafy Plant Monitoring and Mass Estimation using Structure from Motion**|Gerry Chen, Harsh Muriki, Cédric Pradalier, Yongsheng Chen, Frank Dellaert|[2209.08690v1](http://arxiv.org/abs/2209.08690v1)|null|
 |**2022-09-14**|**End-to-End Multi-View Structure-from-Motion with Hypercorrelation Volumes**|Qiao Chen, Charalambos Poullis|[2209.06926v1](http://arxiv.org/abs/2209.06926v1)|null|
 |**2022-09-07**|**Deployment of Aerial Robots during the Flood Disaster in Erftstadt / Blessem in July 2021**|Hartmut Surmann, Dominik Slomma, Robert Grafe, Stefan Grobelny|[2209.03084v1](http://arxiv.org/abs/2209.03084v1)|null|
@@ -88,10 +89,11 @@
 |**2022-07-31**|**One Object at a Time: Accurate and Robust Structure From Motion for Robots**|Aravind Battaje, Oliver Brock|[2208.00487v1](http://arxiv.org/abs/2208.00487v1)|null|
 |**2022-07-23**|**Detection and Initial Assessment of Lunar Landing Sites Using Neural Networks**|Daniel Posada, Jarred Jordan, Angelica Radulovic, Lillian Hong, Aryslan Malik, Troy Henderson|[2207.11413v1](http://arxiv.org/abs/2207.11413v1)|null|
 |**2022-07-21**|**MeshLoc: Mesh-Based Visual Localization**|Vojtech Panek, Zuzana Kukelova, Torsten Sattler|[2207.10762v2](http://arxiv.org/abs/2207.10762v2)|**[link](https://github.com/tsattler/meshloc_release)**|
-|**2022-07-19**|**ParticleSfM: Exploiting Dense Point Trajectories for Localizing Moving Cameras in the Wild**|Wang Zhao, Shaohui Liu, Hengkai Guo, Wenping Wang, Yong-Jin Liu|[2207.09137v1](http://arxiv.org/abs/2207.09137v1)|**[link](https://github.com/bytedance/particle-sfm)**|
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-20**|**Metal Inpainting in CBCT Projections Using Score-based Generative Model**|Siyuan Mei, Fuxin Fan, Andreas Maier|[2209.09733v1](http://arxiv.org/abs/2209.09733v1)|null|
+|**2022-09-20**|**BuFF: Burst Feature Finder for Light-Constrained 3D Reconstruction**|Ahalya Ravendran, Mitch Bryson, Donald G. Dansereau|[2209.09470v1](http://arxiv.org/abs/2209.09470v1)|null|
 |**2022-09-19**|**DifferSketching: How Differently Do People Sketch 3D Objects?**|Chufeng Xiao, Wanchao Su, Jing Liao, Zhouhui Lian, Yi-Zhe Song, Hongbo Fu|[2209.08791v1](http://arxiv.org/abs/2209.08791v1)|null|
 |**2022-09-18**|**TomocuPy: efficient GPU-based tomographic reconstruction with conveyor data processing**|Viktor Nikitin|[2209.08450v1](http://arxiv.org/abs/2209.08450v1)|null|
 |**2022-09-17**|**Uncertainty Guided Policy for Active Robotic 3D Reconstruction using Neural Radiance Fields**|Soomin Lee, Le Chen, Jiahao Wang, Alexander Liniger, Suryansh Kumar, Fisher Yu|[2209.08409v1](http://arxiv.org/abs/2209.08409v1)|null|
@@ -100,8 +102,6 @@
 |**2022-09-14**|**INV-Flow2PoseNet: Light-Resistant Rigid Object Pose from Optical Flow of RGB-D Images using Images, Normals and Vertices**|Torben Fetzer, Gerd Reis, Didier Stricker|[2209.06562v1](http://arxiv.org/abs/2209.06562v1)|null|
 |**2022-09-12**|**Articulated 3D Human-Object Interactions from RGB Videos: An Empirical Analysis of Approaches and Challenges**|Sanjay Haresh, Xiaohao Sun, Hanxiao Jiang, Angel X. Chang, Manolis Savva|[2209.05612v1](http://arxiv.org/abs/2209.05612v1)|null|
 |**2022-09-07**|**Multi-NeuS: 3D Head Portraits from Single Image with Neural Implicit Functions**|Egor Burkov, Ruslan Rakhimov, Aleksandr Safin, Evgeny Burnaev, Victor Lempitsky|[2209.04436v1](http://arxiv.org/abs/2209.04436v1)|null|
-|**2022-09-06**|**Deep Learning Assisted Optimization for 3D Reconstruction from Single 2D Line Drawings**|Jia Zheng, Yifan Zhu, Kehan Wang, Qiang Zou, Zihan Zhou|[2209.02692v2](http://arxiv.org/abs/2209.02692v2)|null|
-|**2022-09-06**|**3D Single-pixel imaging with active sampling patterns and learning based reconstruction**|Xinyue Ma, Chenxing Wang|[2209.02705v1](http://arxiv.org/abs/2209.02705v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,8 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-20**|**Frequency Dropout: Feature-Level Regularization via Randomized Filtering**|Mobarakol Islam, Ben Glocker|[2209.09844v1](http://arxiv.org/abs/2209.09844v1)|null|
+|**2022-09-19**|**A Simple and Powerful Global Optimization for Unsupervised Video Object Segmentation**|Georgy Ponimatkin, Nermin Samet, Yang Xiao, Yuming Du, Renaud Marlet, Vincent Lepetit|[2209.09341v1](http://arxiv.org/abs/2209.09341v1)|null|
 |**2022-09-16**|**CurveFormer: 3D Lane Detection by Curve Propagation with Curve Queries and Attention**|Yifeng Bai, Zhirong Chen, Zhangjie Fu, Lang Peng, Pengpeng Liang, Erkang Cheng|[2209.07989v1](http://arxiv.org/abs/2209.07989v1)|null|
 |**2022-09-15**|**Efficient Perception, Planning, and Control Algorithms for Vision-Based Automated Vehicles**|Der-Hau Lee|[2209.07042v1](http://arxiv.org/abs/2209.07042v1)|null|
 |**2022-09-14**|**A Transfer Function Design Using A Knowledge Database based on Deep Image and Primitive Intensity Profile Features Retrieval**|Younhyun Jung, Jim Kong, Jinman Kim|[2209.06421v1](http://arxiv.org/abs/2209.06421v1)|null|
@@ -191,11 +193,10 @@
 |**2022-09-12**|**Deep Convolutional Pooling Transformer for Deepfake Detection**|Tianyi Wang, Harry Cheng, Kam Pui Chow, Liqiang Nie|[2209.05299v1](http://arxiv.org/abs/2209.05299v1)|null|
 |**2022-09-12**|**Interstellar absorption and dust scattering**|Elisa Costantini, Lia Corrales|[2209.05261v1](http://arxiv.org/abs/2209.05261v1)|null|
 |**2022-09-12**|**Attitude-Guided Loop Closure for Cameras with Negative Plane**|Ze Wang, Kailun Yang, Peng Li, Fei Gao, Kaiwei Wang|[2209.05167v1](http://arxiv.org/abs/2209.05167v1)|**[link](https://github.com/flysoaryun/lf-vio-loop)**|
-|**2022-09-09**|**ISS: Image as Stepping Stone for Text-Guided 3D Shape Generation**|Zhengzhe Liu, Peng Dai, Ruihui Li, Xiaojuan Qi, Chi-Wing Fu|[2209.04145v2](http://arxiv.org/abs/2209.04145v2)|null|
-|**2022-09-09**|**Prediction method of Soundscape Impressions using Environmental Sounds and Aerial Photographs**|Yusuke Ono, Sunao Hara, Masanobu Abe|[2209.04077v1](http://arxiv.org/abs/2209.04077v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-20**|**MAC: A Meta-Learning Approach for Feature Learning and Recombination**|S. Tiwari, M. Gogoi, S. Verma, K. P. Singh|[2209.09613v1](http://arxiv.org/abs/2209.09613v1)|null|
 |**2022-09-18**|**A Decoupled and Linear Framework for Global Outlier Rejection over Planar Pose Graph**|Tianyue Wu, Fei Gao|[2209.08543v1](http://arxiv.org/abs/2209.08543v1)|null|
 |**2022-09-15**|**Incremental cycle bases for cycle-based pose graph optimization**|Brendon Forsgren, Kevin Brink, Prashant Ganesh, Timothy McLain|[2209.07626v1](http://arxiv.org/abs/2209.07626v1)|null|
 |**2022-09-15**|**PROB-SLAM: Real-time Visual SLAM Based on Probabilistic Graph Optimization**|Xianwei Meng, Bonian Li|[2209.07061v1](http://arxiv.org/abs/2209.07061v1)|null|
@@ -205,7 +206,6 @@
 |**2022-08-27**|**Global RTK Positioning in Graphical State Space**|Yihong Ge, Sudan Yan, Shaolin Lü, Cong Li|[2208.12923v2](http://arxiv.org/abs/2208.12923v2)|**[link](https://github.com/shaolinbit/rtkingss)**|
 |**2022-08-24**|**Tracking by weakly-supervised learning and graph optimization for whole-embryo C. elegans lineages**|Peter Hirsch, Caroline Malin-Mayor, Anthony Santella, Stephan Preibisch, Dagmar Kainmueller, Jan Funke|[2208.11467v1](http://arxiv.org/abs/2208.11467v1)|**[link](https://github.com/funkelab/linajea)**|
 |**2022-08-18**|**Locally Restricted Proof Labeling Schemes (Full Version)**|Yuval Emek, Yuval Gil, Shay Kutten|[2208.08718v2](http://arxiv.org/abs/2208.08718v2)|null|
-|**2022-08-01**|**Locally Optimal Estimation and Control of Cable Driven Parallel Robots using Time Varying Linear Quadratic Gaussian Control**|Gerry Chen, Seth Hutchinson, Frank Dellaert|[2208.00916v1](http://arxiv.org/abs/2208.00916v1)|null|
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
