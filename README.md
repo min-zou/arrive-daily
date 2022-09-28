@@ -97,7 +97,7 @@
 |**2022-09-20**|**Fast-Image2Point: Towards Real-Time Point Cloud Reconstruction of a Single Image using 3D Supervision**|AmirHossein Zamani, Amir G. Aghdam, Kamran Ghaffari T|[2209.10029v1](http://arxiv.org/abs/2209.10029v1)|null|
 |**2022-09-20**|**Metal Inpainting in CBCT Projections Using Score-based Generative Model**|Siyuan Mei, Fuxin Fan, Andreas Maier|[2209.09733v1](http://arxiv.org/abs/2209.09733v1)|null|
 |**2022-09-20**|**BuFF: Burst Feature Finder for Light-Constrained 3D Reconstruction**|Ahalya Ravendran, Mitch Bryson, Donald G. Dansereau|[2209.09470v1](http://arxiv.org/abs/2209.09470v1)|null|
-|**2022-09-19**|**DifferSketching: How Differently Do People Sketch 3D Objects?**|Chufeng Xiao, Wanchao Su, Jing Liao, Zhouhui Lian, Yi-Zhe Song, Hongbo Fu|[2209.08791v1](http://arxiv.org/abs/2209.08791v1)|null|
+|**2022-09-19**|**DifferSketching: How Differently Do People Sketch 3D Objects?**|Chufeng Xiao, Wanchao Su, Jing Liao, Zhouhui Lian, Yi-Zhe Song, Hongbo Fu|[2209.08791v1](http://arxiv.org/abs/2209.08791v1)|**[link](https://github.com/chufengxiao/DifferSketching)**|
 |**2022-09-18**|**TomocuPy: efficient GPU-based tomographic reconstruction with conveyor data processing**|Viktor Nikitin|[2209.08450v1](http://arxiv.org/abs/2209.08450v1)|null|
 |**2022-09-17**|**Uncertainty Guided Policy for Active Robotic 3D Reconstruction using Neural Radiance Fields**|Soomin Lee, Le Chen, Jiahao Wang, Alexander Liniger, Suryansh Kumar, Fisher Yu|[2209.08409v1](http://arxiv.org/abs/2209.08409v1)|null|
 |**2022-09-17**|**Neural Implicit Surface Reconstruction using Imaging Sonar**|Mohamad Qadri, Michael Kaess, Ioannis Gkioulekas|[2209.08221v1](http://arxiv.org/abs/2209.08221v1)|null|
@@ -105,14 +105,14 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-09-26**|**SAPA: Similarity-Aware Point Affiliation for Feature Upsampling**|Hao Lu, Wenze Liu, Zixuan Ye, Hongtao Fu, Yuliang Liu, Zhiguo Cao|[2209.12866v1](http://arxiv.org/abs/2209.12866v1)|null|
-|**2022-09-26**|**DeepFusion: A Robust and Modular 3D Object Detector for Lidars, Cameras and Radars**|Florian Drews, Di Feng, Florian Faion, Lars Rosenbaum, Michael Ulrich, Claudius Gläser|[2209.12729v1](http://arxiv.org/abs/2209.12729v1)|null|
+|**2022-09-26**|**SAPA: Similarity-Aware Point Affiliation for Feature Upsampling**|Hao Lu, Wenze Liu, Zixuan Ye, Hongtao Fu, Yuliang Liu, Zhiguo Cao|[2209.12866v1](http://arxiv.org/abs/2209.12866v1)|**[link](https://github.com/poppinace/sapa)**|
+|**2022-09-26**|**DeepFusion: A Robust and Modular 3D Object Detector for Lidars, Cameras and Radars**|Florian Drews, Di Feng, Florian Faion, Lars Rosenbaum, Michael Ulrich, Claudius Gläser|[2209.12729v2](http://arxiv.org/abs/2209.12729v2)|null|
 |**2022-09-26**|**UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots**|Boxiao Yu, Jiayi Wu, Md Jahidul Islam|[2209.12358v1](http://arxiv.org/abs/2209.12358v1)|null|
 |**2022-09-23**|**Image-to-Image Translation for Autonomous Driving from Coarsely-Aligned Image Pairs**|Youya Xia, Josephine Monica, Wei-Lun Chao, Bharath Hariharan, Kilian Q Weinberger, Mark Campbell|[2209.11673v1](http://arxiv.org/abs/2209.11673v1)|null|
 |**2022-09-21**|**BEVStereo: Enhancing Depth Estimation in Multi-view 3D Object Detection with Dynamic Temporal Stereo**|Yinhao Li, Han Bao, Zheng Ge, Jinrong Yang, Jianjian Sun, Zeming Li|[2209.10248v1](http://arxiv.org/abs/2209.10248v1)|**[link](https://github.com/megvii-basedetection/bevstereo)**|
 |**2022-09-19**|**3D-PL: Domain Adaptive Depth Estimation with 3D-aware Pseudo-Labeling**|Yu-Ting Yen, Chia-Ni Lu, Wei-Chen Chiu, Yi-Hsuan Tsai|[2209.09231v1](http://arxiv.org/abs/2209.09231v1)|**[link](https://github.com/ccc870206/3d-pl)**|
 |**2022-09-19**|**On Robust Cross-View Consistency in Self-Supervised Monocular Depth Estimation**|Haimei Zhao, Jing Zhang, Zhuo Chen, Bo Yuan, Dacheng Tao|[2209.08747v1](http://arxiv.org/abs/2209.08747v1)|**[link](https://github.com/sunnyhelen/rcvc-depth)**|
-|**2022-09-18**|**SF2SE3: Clustering Scene Flow into SE(3)-Motions via Proposal and Selection**|Leonhard Sommer, Philipp Schröppel, Thomas Brox|[2209.08532v1](http://arxiv.org/abs/2209.08532v1)|null|
+|**2022-09-18**|**SF2SE3: Clustering Scene Flow into SE(3)-Motions via Proposal and Selection**|Leonhard Sommer, Philipp Schröppel, Thomas Brox|[2209.08532v2](http://arxiv.org/abs/2209.08532v2)|null|
 |**2022-09-18**|**TODE-Trans: Transparent Object Depth Estimation with Transformer**|Kang Chen, Shaochen Wang, Beihao Xia, Dongxu Li, Zhen Kan, Bin Li|[2209.08455v1](http://arxiv.org/abs/2209.08455v1)|null|
 |**2022-09-15**|**Self-distilled Feature Aggregation for Self-supervised Monocular Depth Estimation**|Zhengming Zhou, Qiulei Dong|[2209.07088v1](http://arxiv.org/abs/2209.07088v1)|**[link](https://github.com/ZM-Zhou/SMDE-Pytorch)**|
 ## Long Term Localization
@@ -132,7 +132,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-09-26**|**AirTrack: Onboard Deep Learning Framework for Long-Range Aircraft Detection and Tracking**|Sourish Ghosh, Jay Patrikar, Brady Moon, Milad Moghassem Hamidi, and Sebastian Scherer|[2209.12849v1](http://arxiv.org/abs/2209.12849v1)|null|
-|**2022-09-25**|**D$^{\bf{3}}$: Duplicate Detection Decontaminator for Multi-Athlete Tracking in Sports Videos**|Rui He, Zehua Fu, Qingjie Liu, Yunhong Wang, Xunxun Chen|[2209.12248v1](http://arxiv.org/abs/2209.12248v1)|null|
+|**2022-09-25**|**D$^{\bf{3}}$: Duplicate Detection Decontaminator for Multi-Athlete Tracking in Sports Videos**|Rui He, Zehua Fu, Qingjie Liu, Yunhong Wang, Xunxun Chen|[2209.12248v1](http://arxiv.org/abs/2209.12248v1)|**[link](https://github.com/heruihr/rallytrack)**|
 |**2022-09-25**|**BURST: A Benchmark for Unifying Object Recognition, Segmentation and Tracking in Video**|Ali Athar, Jonathon Luiten, Paul Voigtlaender, Tarasha Khurana, Achal Dave, Bastian Leibe, Deva Ramanan|[2209.12118v1](http://arxiv.org/abs/2209.12118v1)|null|
 |**2022-09-24**|**Spiking SiamFC++: Deep Spiking Neural Network for Object Tracking**|Shuiying Xiang, Tao Zhang, Shuqing Jiang, Yanan Han, Yahui Zhang, Chenyang Du, Xingxing Guo, Licun Yu, Yuechun Shi, Yue Hao|[2209.12010v1](http://arxiv.org/abs/2209.12010v1)|null|
 |**2022-09-24**|**Tracking and Reconstructing Hand Object Interactions from Point Cloud Sequences in the Wild**|Jiayi Chen, Mi Yan, Jiazhao Zhang, Yinzhen Xu, Xiaolong Li, Yijia Weng, Li Yi, Shuran Song, He Wang|[2209.12009v1](http://arxiv.org/abs/2209.12009v1)|null|
@@ -170,7 +170,7 @@
 ## Visual Odometry
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-09-18**|**SF2SE3: Clustering Scene Flow into SE(3)-Motions via Proposal and Selection**|Leonhard Sommer, Philipp Schröppel, Thomas Brox|[2209.08532v1](http://arxiv.org/abs/2209.08532v1)|null|
+|**2022-09-18**|**SF2SE3: Clustering Scene Flow into SE(3)-Motions via Proposal and Selection**|Leonhard Sommer, Philipp Schröppel, Thomas Brox|[2209.08532v2](http://arxiv.org/abs/2209.08532v2)|null|
 |**2022-09-17**|**DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**|Shihao Shen, Yilin Cai, Wenshan Wang, Sebastian Scherer|[2209.08430v2](http://arxiv.org/abs/2209.08430v2)|**[link](https://github.com/geniussh/dytanvo)**|
 |**2022-09-05**|**Neuromorphic Visual Odometry with Resonator Networks**|Alpha Renner, Lazar Supic, Andreea Danielescu, Giacomo Indiveri, E. Paxon Frady, Friedrich T. Sommer, Yulia Sandamirskaya|[2209.02000v1](http://arxiv.org/abs/2209.02000v1)|null|
 |**2022-09-05**|**Analysis of the Effect of Time Delay for Unmanned Aerial Vehicles with Applications to Vision Based Navigation**|Muhammad Ahmed Humais, Mohamad Chehadeh, Igor Boiko, Yahya Zweiri|[2209.01933v1](http://arxiv.org/abs/2209.01933v1)|null|
@@ -183,7 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-09-26**|**Shrinking unit: a Graph Convolution-Based Unit for CNN-like 3D Point Cloud Feature Extractors**|Alberto Tamajo, Bastian Plaß, Thomas Klauer|[2209.12770v1](http://arxiv.org/abs/2209.12770v1)|null|
+|**2022-09-26**|**Shrinking unit: a Graph Convolution-Based Unit for CNN-like 3D Point Cloud Feature Extractors**|Alberto Tamajo, Bastian Plaß, Thomas Klauer|[2209.12770v1](http://arxiv.org/abs/2209.12770v1)|**[link](https://github.com/albertotamajo/shrinking-unit)**|
 |**2022-09-26**|**Impact of Feedback Type on Explanatory Interactive Learning**|Misgina Tsighe Hagos, Kathleen M. Curran, Brian Mac Namee|[2209.12476v1](http://arxiv.org/abs/2209.12476v1)|null|
 |**2022-09-25**|**From One to Many: Dynamic Cross Attention Networks for LiDAR and Camera Fusion**|Rui Wan, Shuangjie Xu, Wei Wu, Xiaoyi Zou, Tongyi Cao|[2209.12254v1](http://arxiv.org/abs/2209.12254v1)|null|
 |**2022-09-25**|**PL-EVIO: Robust Monocular Event-based Visual Inertial Odometry with Point and Line Features**|Weipeng Guan, Peiyu Chen, Yuhan Xie, Peng Lu|[2209.12160v1](http://arxiv.org/abs/2209.12160v1)|null|
