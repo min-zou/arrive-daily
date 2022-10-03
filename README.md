@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-30**|**PyPose: A Library for Robot Learning with Physics-based Optimization**|Chen Wang, Dasong Gao, Kuan Xu, Junyi Geng, Yaoyu Hu, Yuheng Qiu, Bowen Li, Fan Yang, Brady Moon, Abhinav Pandey, Aryan, Jiahe Xu, Tianhao Wu, Haonan He, Daning Huang, Zhongqiang Ren, Shibo Zhao, Taimeng Fu, Pranay Reddy, Xiao Lin, Wenshan Wang, Jingnan Shi, Rajat Talak, Han Wang, Huai Yu, Shanzhao Wang, Ananth Kashyap, Rohan Bandaru, Karthik Dantu, Jiajun Wu, Luca Carlone, Marco Hutter, Sebastian Scherer|[2209.15428v1](http://arxiv.org/abs/2209.15428v1)|**[link](https://github.com/pypose/pypose)**|
 |**2022-09-29**|**DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**|Mariia Gladkova, Nikita Korobov, Nikolaus Demmel, Aljoša Ošep, Laura Leal-Taixé, Daniel Cremers|[2209.14965v1](http://arxiv.org/abs/2209.14965v1)|null|
 |**2022-09-28**|**Robust Incremental Smoothing and Mapping (riSAM)**|Daniel McGann, John G. Rogers III, Michael Kaess|[2209.14359v1](http://arxiv.org/abs/2209.14359v1)|null|
 |**2022-09-27**|**Orbeez-SLAM: A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping**|Chi-Ming Chung, Yang-Che Tseng, Ya-Ching Hsu, Xiang-Qian Shi, Yun-Hung Hua, Jia-Fong Yeh, Wen-Chin Chen, Yi-Ting Chen, Winston H. Hsu|[2209.13274v1](http://arxiv.org/abs/2209.13274v1)|null|
@@ -10,7 +11,6 @@
 |**2022-09-23**|**Automatic Sign Reading and Localization for Semantic Mapping with an Office Robot**|David Balaban, Justin Hart|[2209.11432v1](http://arxiv.org/abs/2209.11432v1)|null|
 |**2022-09-22**|**SQ-SLAM: Monocular Semantic SLAM Based on Superquadric Object Representation**|Xiao Han, Lu Yang|[2209.10817v1](http://arxiv.org/abs/2209.10817v1)|null|
 |**2022-09-22**|**Acoustic SLAM based on the Direction-of-Arrival and the Direct-to-Reverberant Energy Ratio**|Wenhao Qiu, Gang Wang, Wenjing Zhang|[2209.10726v1](http://arxiv.org/abs/2209.10726v1)|null|
-|**2022-09-21**|**Visual Localization and Mapping in Dynamic and Changing Environments**|João Carlos Virgolino Soares, Vivian Suzano Medeiros, Gabriel Fischer Abati, Marcelo Becker, Glauco Caurin, Marcelo Gattass, Marco Antonio Meggiolaro|[2209.10710v1](http://arxiv.org/abs/2209.10710v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,9 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-30**|**Sphere-Guided Training of Neural Implicit Surfaces**|Andreea Dogaru, Andrei Timotei Ardelean, Savva Ignatyev, Evgeny Burnaev, Egor Zakharov|[2209.15511v1](http://arxiv.org/abs/2209.15511v1)|null|
+|**2022-09-30**|**Semi-Supervised Single-View 3D Reconstruction via Prototype Shape Priors**|Zhen Xing, Hengduo Li, Zuxuan Wu, Yu-Gang Jiang|[2209.15383v1](http://arxiv.org/abs/2209.15383v1)|null|
+|**2022-09-30**|**MonoNeuralFusion: Online Monocular Neural 3D Reconstruction with Geometric Priors**|Zi-Xin Zou, Shi-Sheng Huang, Yan-Pei Cao, Tai-Jiang Mu, Ying Shan, Hongbo Fu|[2209.15153v1](http://arxiv.org/abs/2209.15153v1)|null|
 |**2022-09-29**|**Improving Understanding of Biocide Availability in Facades through Immersive Analytics**|Negar Nouri, Snehanjali Kalamkar, Forouzan Farzinnejad, Verena Biener, Fabian Schick, Stefan Kalkhof, Jens Grubert|[2209.14861v1](http://arxiv.org/abs/2209.14861v1)|null|
 |**2022-09-27**|**OmniNeRF: Hybriding Omnidirectional Distance and Radiance fields for Neural Surface Reconstruction**|Jiaming Shen, Bolin Song, Zirui Wu, Yi Xu|[2209.13433v1](http://arxiv.org/abs/2209.13433v1)|null|
 |**2022-09-27**|**DELTAR: Depth Estimation from a Light-weight ToF Sensor and RGB Image**|Yijin Li, Xinyang Liu, Wenqi Dong, Han Zhou, Hujun Bao, Guofeng Zhang, Yinda Zhang, Zhaopeng Cui|[2209.13362v1](http://arxiv.org/abs/2209.13362v1)|null|
@@ -99,9 +102,6 @@
 |**2022-09-27**|**WaterNeRF: Neural Radiance Fields for Underwater Scenes**|Advaith Venkatramanan Sethuraman, Manikandasriram Srinivasan Ramanagopal, Katherine A. Skinner|[2209.13091v1](http://arxiv.org/abs/2209.13091v1)|null|
 |**2022-09-24**|**3D Reconstruction using Structured Light from off-the-shelf components**|Aman Gajendra Jain, Dr. Shital Chiddarwar|[2209.12101v1](http://arxiv.org/abs/2209.12101v1)|null|
 |**2022-09-22**|**UNav: An Infrastructure-Independent Vision-Based Navigation System for People with Blindness and Low vision**|Anbang Yang, Mahya Beheshti, Todd E Hudson, Rajesh Vedanthan, Wachara Riewpaiboon, Pattanasak Mongkolwat, Chen Feng, John-Ross Rizzo|[2209.11336v1](http://arxiv.org/abs/2209.11336v1)|null|
-|**2022-09-20**|**Fast-Image2Point: Towards Real-Time Point Cloud Reconstruction of a Single Image using 3D Supervision**|AmirHossein Zamani, Amir G. Aghdam, Kamran Ghaffari T|[2209.10029v1](http://arxiv.org/abs/2209.10029v1)|null|
-|**2022-09-20**|**Metal Inpainting in CBCT Projections Using Score-based Generative Model**|Siyuan Mei, Fuxin Fan, Andreas Maier|[2209.09733v1](http://arxiv.org/abs/2209.09733v1)|null|
-|**2022-09-20**|**BuFF: Burst Feature Finder for Light-Constrained 3D Reconstruction**|Ahalya Ravendran, Mitch Bryson, Donald G. Dansereau|[2209.09470v1](http://arxiv.org/abs/2209.09470v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-30**|**Transformers for Object Detection in Large Point Clouds**|Felicia Ruppel, Florian Faion, Claudius Gläser, Klaus Dietmayer|[2209.15258v1](http://arxiv.org/abs/2209.15258v1)|null|
 |**2022-09-29**|**DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**|Mariia Gladkova, Nikita Korobov, Nikolaus Demmel, Aljoša Ošep, Laura Leal-Taixé, Daniel Cremers|[2209.14965v1](http://arxiv.org/abs/2209.14965v1)|null|
 |**2022-09-28**|**Variational Bayes for robust radar single object tracking**|Alp Sarı, Tak Kaneko, Lense H. M. Swaenen, Wouter M. Kouw|[2209.14397v1](http://arxiv.org/abs/2209.14397v1)|null|
 |**2022-09-28**|**Tracking Accuracy Based Generation Rules of Collective Perception Messages**|Shule Li, Vincent Albert Wolff|[2209.14122v1](http://arxiv.org/abs/2209.14122v1)|null|
@@ -140,7 +141,6 @@
 |**2022-09-26**|**AirTrack: Onboard Deep Learning Framework for Long-Range Aircraft Detection and Tracking**|Sourish Ghosh, Jay Patrikar, Brady Moon, Milad Moghassem Hamidi, and Sebastian Scherer|[2209.12849v1](http://arxiv.org/abs/2209.12849v1)|null|
 |**2022-09-25**|**D$^{\bf{3}}$: Duplicate Detection Decontaminator for Multi-Athlete Tracking in Sports Videos**|Rui He, Zehua Fu, Qingjie Liu, Yunhong Wang, Xunxun Chen|[2209.12248v1](http://arxiv.org/abs/2209.12248v1)|**[link](https://github.com/heruihr/rallytrack)**|
 |**2022-09-25**|**BURST: A Benchmark for Unifying Object Recognition, Segmentation and Tracking in Video**|Ali Athar, Jonathon Luiten, Paul Voigtlaender, Tarasha Khurana, Achal Dave, Bastian Leibe, Deva Ramanan|[2209.12118v1](http://arxiv.org/abs/2209.12118v1)|**[link](https://github.com/ali2500/burst-benchmark)**|
-|**2022-09-24**|**Spiking SiamFC++: Deep Spiking Neural Network for Object Tracking**|Shuiying Xiang, Tao Zhang, Shuqing Jiang, Yanan Han, Yahui Zhang, Chenyang Du, Xingxing Guo, Licun Yu, Yuechun Shi, Yue Hao|[2209.12010v1](http://arxiv.org/abs/2209.12010v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
