@@ -118,7 +118,7 @@
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-10-04**|**Long-Term Localization using Semantic Cues in Floor Plan Maps**|Nicky Zimmerman, Tiziano Guadagnino, Xieyuanli Chen, Jens Behley, Cyrill Stachniss|[2210.01456v1](http://arxiv.org/abs/2210.01456v1)|null|
+|**2022-10-04**|**Long-Term Localization using Semantic Cues in Floor Plan Maps**|Nicky Zimmerman, Tiziano Guadagnino, Xieyuanli Chen, Jens Behley, Cyrill Stachniss|[2210.01456v1](http://arxiv.org/abs/2210.01456v1)|**[link](https://github.com/prbonn/hsmcl)**|
 |**2022-09-09**|**General Place Recognition Survey: Towards the Real-world Autonomy Age**|Peng Yin, Shiqi Zhao, Ivan Cisneros, Abulikemu Abuduweili, Guoquan Huang, Micheal Milford, Changliu Liu, Howie Choset, Sebastian Scherer|[2209.04497v1](http://arxiv.org/abs/2209.04497v1)|**[link](https://github.com/MetaSLAM/GPRS)**|
 |**2022-03-01**|**FP-Loc: Lightweight and Drift-free Floor Plan-assisted LiDAR Localization**|Ling Gao, Laurent Kneip|[2203.00292v1](http://arxiv.org/abs/2203.00292v1)|null|
 |**2021-09-30**|**Probabilistic Object Maps for Long-Term Robot Localization**|Amanda Adkins, Taijing Chen, Joydeep Biswas|[2110.00128v4](http://arxiv.org/abs/2110.00128v4)|**[link](https://github.com/ut-amrl/pom_localization)**|
@@ -147,7 +147,7 @@
 |**2022-09-26**|**Edge-assisted Collaborative Digital Twin for Safety-Critical Robotics in Industrial IoT**|Sumit K. Das, Mohammad Helal Uddin, Sabur Baidya|[2209.12854v1](http://arxiv.org/abs/2209.12854v1)|null|
 |**2022-09-18**|**Dynamic Control Barrier Function-based Model Predictive Control to Safety-Critical Obstacle-Avoidance of Mobile Robot**|Zhuozhu Jian, Zihong Yan, Xuanang Lei, Zihong Lu, Bin Lan, Xueqian Wang, Bin Liang|[2209.08539v1](http://arxiv.org/abs/2209.08539v1)|**[link](https://github.com/jianzhuozhuthu/mpc-d-cbf)**|
 |**2022-09-15**|**Vision-aided UAV Navigation and Dynamic Obstacle Avoidance using Gradient-based B-spline Trajectory Optimization**|Zhefan Xu, Yumeng Xiu, Xiaoyang Zhan, Baihan Chen, Kenji Shimada|[2209.07003v1](http://arxiv.org/abs/2209.07003v1)|null|
-|**2022-09-11**|**Real-Time Heuristic Framework for Safe Landing of UAVs in Dynamic Scenarios**|Jaskirat Singh, Neel Adwani, Harikumar Kandath, K. Madhava Krishna|[2209.04805v1](http://arxiv.org/abs/2209.04805v1)|null|
+|**2022-09-11**|**Real-Time Heuristic Framework for Safe Landing of UAVs in Dynamic Scenarios**|Jaskirat Singh, Neel Adwani, Harikumar Kandath, K. Madhava Krishna|[2209.04805v1](http://arxiv.org/abs/2209.04805v1)|**[link](https://github.com/jaskiratsingh2000/research-uavs-safe-landings)**|
 |**2022-09-02**|**3D Path Planning and Obstacle Avoidance Algorithms for Obstacle-Overcoming Robots**|Yuanhao huang, Shi Huang, Hao Wang, Ruifeng Meng|[2209.00871v1](http://arxiv.org/abs/2209.00871v1)|null|
 |**2022-07-08**|**Reactive Neural Path Planning with Dynamic Obstacle Avoidance in a Condensed Configuration Space**|Lea Steffen, Tobias Weyer, Stefan Ulbrich, Arne Roennau, Rüdiger Dillmann|[2207.03959v1](http://arxiv.org/abs/2207.03959v1)|null|
 |**2022-06-12**|**Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments**|Linh Kästner, Teham Bhuiyan, Tuan Anh Le, Elias Treis, Johannes Cox, Boris Meinardus, Jacek Kmiecik, Reyk Carstens, Duc Pichel, Bassel Fatloun, Niloufar Khorsandi, Jens Lambrecht|[2206.05728v2](http://arxiv.org/abs/2206.05728v2)|**[link](https://github.com/ignc-research/arena-bench)**|
