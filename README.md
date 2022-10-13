@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-12**|**RING++: Roto-translation Invariant Gram for Global Localization on a Sparse Scan Map**|Xuecheng Xu, Sha Lu, Jun Wu, Haojian Lu, Qiuguo Zhu, Yiyi Liao, Rong Xiong, Yue Wang|[2210.05984v1](http://arxiv.org/abs/2210.05984v1)|null|
 |**2022-10-11**|**Observability Analysis of Graph SLAM-Based Joint Calibration of Multiple Microphone Arrays and Sound Source Localization**|Yuanzheng He, Jiang Wang, Daobilige Su, Kazuhiro Nakadai, Junfeng Wu, Shoudong Huang, Youfu Li, He Kong|[2210.05600v1](http://arxiv.org/abs/2210.05600v1)|null|
 |**2022-10-11**|**Autonomous Asteroid Characterization Through Nanosatellite Swarming**|Kaitlin Dennison, Nathan Stacey, Simone D'Amico|[2210.05518v1](http://arxiv.org/abs/2210.05518v1)|null|
 |**2022-10-11**|**DeepMLE: A Robust Deep Maximum Likelihood Estimator for Two-view Structure from Motion**|Yuxi Xiao, Li Li, Xiaodi Li, Jian Yao|[2210.05517v1](http://arxiv.org/abs/2210.05517v1)|null|
@@ -10,7 +11,6 @@
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa, Tim Verbelen, Ilja Ocket, André Bourdoux, Hichem Sahli, Francky Catthoor, Georges Gielen|[2210.04236v1](http://arxiv.org/abs/2210.04236v1)|null|
 |**2022-10-06**|**SCORE: A Second-Order Conic Initialization for Range-Aided SLAM**|Alan Papalia, Joseph Morales, Kevin J. Doherty, David M. Rosen, John J. Leonard|[2210.03177v1](http://arxiv.org/abs/2210.03177v1)|null|
 |**2022-10-06**|**Feature-Realistic Neural Fusion for Real-Time, Open Set Scene Understanding**|Kirill Mazur, Edgar Sucar, Andrew J. Davison|[2210.03043v1](http://arxiv.org/abs/2210.03043v1)|null|
-|**2022-10-06**|**Feasibility on Detecting Door Slamming towards Monitoring Early Signs of Domestic Violence**|Osian Morgan, Hakan Kayan, Charith Perera|[2210.02642v1](http://arxiv.org/abs/2210.02642v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,8 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-12**|**Teeth3DS: a benchmark for teeth segmentation and labeling from intra-oral 3D scans**|Achraf Ben-Hamadou, Oussama Smaoui, Houda Chaabouni-Chouayakh, Ahmed Rekik, Sergi Pujades, Edmond Boyer, Julien Strippoli, Aurélien Thollot, Hugo Setbon, Cyril Trosset, Edouard Ladroit|[2210.06094v1](http://arxiv.org/abs/2210.06094v1)|null|
+|**2022-10-11**|**Visual Language Maps for Robot Navigation**|Chenguang Huang, Oier Mees, Andy Zeng, Wolfram Burgard|[2210.05714v1](http://arxiv.org/abs/2210.05714v1)|null|
 |**2022-10-11**|**DeepMLE: A Robust Deep Maximum Likelihood Estimator for Two-view Structure from Motion**|Yuxi Xiao, Li Li, Xiaodi Li, Jian Yao|[2210.05517v1](http://arxiv.org/abs/2210.05517v1)|null|
 |**2022-10-10**|**Floorplan-Aware Camera Poses Refinement**|Anna Sokolova, Filipp Nikitin, Anna Vorontsova, Anton Konushin|[2210.04572v1](http://arxiv.org/abs/2210.04572v1)|null|
 |**2022-10-09**|**3D Reconstruction of Sculptures from Single Images via Unsupervised Domain Adaptation on Implicit Models**|Ziyi Chang, George Alex Koulieris, Hubert P. H. Shum|[2210.04265v1](http://arxiv.org/abs/2210.04265v1)|**[link](https://github.com/mrzzy2021/sculpturerecon)**|
@@ -100,8 +102,6 @@
 |**2022-10-03**|**Probabilistic Volumetric Fusion for Dense Monocular SLAM**|Antoni Rosinol, John J. Leonard, Luca Carlone|[2210.01276v1](http://arxiv.org/abs/2210.01276v1)|null|
 |**2022-10-02**|**OCD: Learning to Overfit with Conditional Diffusion Models**|Shahar Lutati, Lior Wolf|[2210.00471v2](http://arxiv.org/abs/2210.00471v2)|**[link](https://github.com/shaharlutatipersonal/ocd)**|
 |**2022-10-01**|**NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review**|Kyle Gao, Yina Gao, Hongjie He, Denning Lu, Linlin Xu, Jonathan Li|[2210.00379v1](http://arxiv.org/abs/2210.00379v1)|null|
-|**2022-09-30**|**Sphere-Guided Training of Neural Implicit Surfaces**|Andreea Dogaru, Andrei Timotei Ardelean, Savva Ignatyev, Evgeny Burnaev, Egor Zakharov|[2209.15511v1](http://arxiv.org/abs/2209.15511v1)|null|
-|**2022-09-30**|**Semi-Supervised Single-View 3D Reconstruction via Prototype Shape Priors**|Zhen Xing, Hengduo Li, Zuxuan Wu, Yu-Gang Jiang|[2209.15383v1](http://arxiv.org/abs/2209.15383v1)|**[link](https://github.com/chenhsing/ssp3d)**|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,16 +183,16 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-12**|**Latency-aware Spatial-wise Dynamic Networks**|Yizeng Han, Zhihang Yuan, Yifan Pu, Chenhao Xue, Shiji Song, Guangyu Sun, Gao Huang|[2210.06223v1](http://arxiv.org/abs/2210.06223v1)|**[link](https://github.com/leaplabthu/lasnet)**|
 |**2022-10-11**|**ConchShell: A Generative Adversarial Networks that Turns Pictures into Piano Music**|Wanpeng Fan, Yuanzhi Su, Yuxin Huang|[2210.05076v1](http://arxiv.org/abs/2210.05076v1)|null|
 |**2022-10-10**|**Bridging CLIP and StyleGAN through Latent Alignment for Image Editing**|Wanfeng Zheng, Qiang Li, Xiaoyan Guo, Pengfei Wan, Zhongyuan Wang|[2210.04506v1](http://arxiv.org/abs/2210.04506v1)|null|
 |**2022-10-10**|**A Simple Baseline that Questions the Use of Pretrained-Models in Continual Learning**|Paul Janson, Wenxuan Zhang, Rahaf Aljundi, Mohamed Elhoseiny|[2210.04428v1](http://arxiv.org/abs/2210.04428v1)|**[link](https://github.com/pauljanson002/pretrained-cl)**|
+|**2022-10-09**|**A Self-attention Guided Multi-scale Gradient GAN for Diversified X-ray Image Synthesis**|Muhammad Muneeb Saad, Mubashir Husain Rehmani, Ruairi O'Reilly|[2210.06334v1](http://arxiv.org/abs/2210.06334v1)|null|
 |**2022-10-07**|**MRI-based classification of IDH mutation and 1p/19q codeletion status of gliomas using a 2.5D hybrid multi-task convolutional neural network**|Satrajit Chakrabarty, Pamela LaMontagne, Joshua Shimony, Daniel S. Marcus, Aristeidis Sotiras|[2210.03779v1](http://arxiv.org/abs/2210.03779v1)|null|
 |**2022-10-07**|**A Simple Plugin for Transforming Images to Arbitrary Scales**|Qinye Zhou, Ziyi Li, Weidi Xie, Xiaoyun Zhang, Ya Zhang, Yanfeng Wang|[2210.03417v1](http://arxiv.org/abs/2210.03417v1)|null|
 |**2022-10-05**|**Depth Is All You Need for Monocular 3D Detection**|Dennis Park, Jie Li, Dian Chen, Vitor Guizilini, Adrien Gaidon|[2210.02493v1](http://arxiv.org/abs/2210.02493v1)|null|
 |**2022-10-05**|**Medical Image Retrieval via Nearest Neighbor Search on Pre-trained Image Features**|Deepak Gupta, Russell Loane, Soumya Gayen, Dina Demner-Fushman|[2210.02401v1](http://arxiv.org/abs/2210.02401v1)|**[link](https://github.com/deepaknlp/dls)**|
 |**2022-10-05**|**Geometry Driven Progressive Warping for One-Shot Face Animation**|Yatao Zhong, Faezeh Amjadi, Ilya Zharkov|[2210.02391v1](http://arxiv.org/abs/2210.02391v1)|null|
-|**2022-10-03**|**SPARC: Sparse Render-and-Compare for CAD model alignment in a single RGB image**|Florian Langer, Gwangbin Bae, Ignas Budvytis, Roberto Cipolla|[2210.01044v1](http://arxiv.org/abs/2210.01044v1)|**[link](https://github.com/florianlanger/sparc)**|
-|**2022-10-03**|**Learning Equivariant Segmentation with Instance-Unique Querying**|Wenguan Wang, James Liang, Dongfang Liu|[2210.00911v1](http://arxiv.org/abs/2210.00911v1)|**[link](https://github.com/jamesliang819/instance_unique_querying)**|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -209,7 +209,7 @@
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-10-11**|**Motion Aware Self-Supervision for Generic Event Boundary Detection**|Ayush K. Rai, Tarun Krishna, Julia Dietlmeier, Kevin McGuinness, Alan F. Smeaton, Noel E. O'Connor|[2210.05574v1](http://arxiv.org/abs/2210.05574v1)|**[link](https://github.com/rayush7/motion_ssl_gebd)**|
+|**2022-10-11**|**Motion Aware Self-Supervision for Generic Event Boundary Detection**|Ayush K. Rai, Tarun Krishna, Julia Dietlmeier, Kevin McGuinness, Alan F. Smeaton, Noel E. O'Connor|[2210.05574v2](http://arxiv.org/abs/2210.05574v2)|**[link](https://github.com/rayush7/motion_ssl_gebd)**|
 |**2022-10-09**|**Self-supervised Video Representation Learning with Motion-Aware Masked Autoencoders**|Haosen Yang, Deng Huang, Bin Wen, Jiannan Wu, Hongxun Yao, Yi Jiang, Xiatian Zhu, Zehuan Yuan|[2210.04154v1](http://arxiv.org/abs/2210.04154v1)|**[link](https://github.com/happy-hsy/motionmae)**|
 |**2022-09-24**|**Facilitating Self-monitored Physical Rehabilitation with Virtual Reality and Haptic feedback**|Yu Jiang, Zhipeng Li, Ziyue Dang, Yuntao Wang, Yukang Yan, Y Zhang, Xinguang Wang, Yansong Li, Mouwang Zhou, Hua Tian, Yuanchun Shi|[2209.12018v2](http://arxiv.org/abs/2209.12018v2)|null|
 |**2022-08-24**|**Event-based Image Deblurring with Dynamic Motion Awareness**|Patricia Vitoria, Stamatios Georgoulis, Stepan Tulyakov, Alfredo Bochicchio, Julius Erbach, Yuanyou Li|[2208.11398v1](http://arxiv.org/abs/2208.11398v1)|null|
