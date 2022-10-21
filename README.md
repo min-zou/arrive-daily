@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-20**|**Multi-View Guided Multi-View Stereo**|Matteo Poggi, Andrea Conti, Stefano Mattoccia|[2210.11467v1](http://arxiv.org/abs/2210.11467v1)|null|
 |**2022-10-19**|**CLOINet: Ocean state reconstructions through remote-sensing, in-situ sparse observations and Deep Learning**|Eugenio Cutolo, Ananda Pascual, Simon Ruiz, Nikolaos Zarokanellos, Ronan Fablet|[2210.10767v1](http://arxiv.org/abs/2210.10767v1)|null|
 |**2022-10-19**|**Estimating the coverage in 3d reconstructions of the colon from colonoscopy videos**|Emmanuelle Muhlethaler, Erez Posner, Moshe Bouhnik|[2210.10459v1](http://arxiv.org/abs/2210.10459v1)|null|
 |**2022-10-17**|**Pruning-based Topology Refinement of 3D Mesh using a 2D Alpha Mask**|Gaëtan Landreau, Mohamed Tamaazousti|[2210.09148v1](http://arxiv.org/abs/2210.09148v1)|null|
@@ -101,12 +102,11 @@
 |**2022-10-15**|**Bidirectional Semi-supervised Dual-branch CNN for Robust 3D Reconstruction of Stereo Endoscopic Images via Adaptive Cross and Parallel Supervisions**|Hongkuan Shi, Zhiwei Wang, Ying Zhou, Dun Li, Xin Yang, Qiang Li|[2210.08291v2](http://arxiv.org/abs/2210.08291v2)|null|
 |**2022-10-13**|**3D GAN Inversion with Pose Optimization**|Jaehoon Ko, Kyusun Cho, Daewon Choi, Kwangrok Ryoo, Seungryong Kim|[2210.07301v2](http://arxiv.org/abs/2210.07301v2)|null|
 |**2022-10-12**|**Teeth3DS: a benchmark for teeth segmentation and labeling from intra-oral 3D scans**|Achraf Ben-Hamadou, Oussama Smaoui, Houda Chaabouni-Chouayakh, Ahmed Rekik, Sergi Pujades, Edmond Boyer, Julien Strippoli, Aurélien Thollot, Hugo Setbon, Cyril Trosset, Edouard Ladroit|[2210.06094v1](http://arxiv.org/abs/2210.06094v1)|null|
-|**2022-10-11**|**Visual Language Maps for Robot Navigation**|Chenguang Huang, Oier Mees, Andy Zeng, Wolfram Burgard|[2210.05714v3](http://arxiv.org/abs/2210.05714v3)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-10-19**|**CroCo: Self-Supervised Pre-training for 3D Vision Tasks by Cross-View Completion**|Philippe Weinzaepfel, Vincent Leroy, Thomas Lucas, Romain Brégier, Yohann Cabon, Vaibhav Arora, Leonid Antsfeld, Boris Chidlovskii, Gabriela Csurka, Jérôme Revaud|[2210.10716v1](http://arxiv.org/abs/2210.10716v1)|null|
-|**2022-10-19**|**High-Resolution Depth Estimation for 360-degree Panoramas through Perspective and Panoramic Depth Images Registration**|Chi-Han Peng, Jiayao Zhang|[2210.10414v1](http://arxiv.org/abs/2210.10414v1)|null|
+|**2022-10-19**|**High-Resolution Depth Estimation for 360-degree Panoramas through Perspective and Panoramic Depth Images Registration**|Chi-Han Peng, Jiayao Zhang|[2210.10414v2](http://arxiv.org/abs/2210.10414v2)|null|
 |**2022-10-18**|**Hierarchical Normalization for Robust Monocular Depth Estimation**|Chi Zhang, Wei Yin, Zhibin Wang, Gang Yu, Bin Fu, Chunhua Shen|[2210.09670v1](http://arxiv.org/abs/2210.09670v1)|null|
 |**2022-10-17**|**Attention Attention Everywhere: Monocular Depth Prediction with Skip Attention**|Ashutosh Agarwal, Chetan Arora|[2210.09071v1](http://arxiv.org/abs/2210.09071v1)|**[link](https://github.com/ashutosh1807/pixelformer)**|
 |**2022-10-17**|**Event-based Stereo Depth Estimation from Ego-motion using Ray Density Fusion**|Suman Ghosh, Guillermo Gallego|[2210.08927v1](http://arxiv.org/abs/2210.08927v1)|null|
@@ -131,6 +131,8 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-20**|**Self-Supervised Learning via Maximum Entropy Coding**|Xin Liu, Zhongdao Wang, Yali Li, Shengjin Wang|[2210.11464v1](http://arxiv.org/abs/2210.11464v1)|null|
+|**2022-10-20**|**Cell tracking for live-cell microscopy using an activity-prioritized assignment strategy**|Karina Ruzaeva, Jan-Christopher Cohrs, Keitaro Kasahara, Dietrich Kohlheyer, Katharina Nöh, Benjamin Berkels|[2210.11441v1](http://arxiv.org/abs/2210.11441v1)|null|
 |**2022-10-19**|**RLM-Tracking: Online Multi-Pedestrian Tracking Supported by Relative Location Mapping**|Kai Ren, Chuanping Hu|[2210.10477v1](http://arxiv.org/abs/2210.10477v1)|null|
 |**2022-10-18**|**The Brain-Inspired Cooperative Shared Control for Brain-Machine Interface**|Shengjie Zheng, Ling Liu, Junjie Yang, Lang Qian, Gang Gao, Xin Chen, Wenqi Jin, Chunshan Deng, Xiaojian Li|[2210.09531v1](http://arxiv.org/abs/2210.09531v1)|null|
 |**2022-10-17**|**Track Targets by Dense Spatio-Temporal Position Encoding**|Jinkun Cao, Hao Wu, Kris Kitani|[2210.09455v1](http://arxiv.org/abs/2210.09455v1)|null|
@@ -139,8 +141,6 @@
 |**2022-10-16**|**OST: Efficient One-stream Network for 3D Single Object Tracking in Point Clouds**|Xiantong Zhao, Yinan Han, Shengjing Tian, Jian Liu, Xiuping Liu|[2210.08518v1](http://arxiv.org/abs/2210.08518v1)|null|
 |**2022-10-15**|**Improving the Intra-class Long-tail in 3D Detection via Rare Example Mining**|Chiyu Max Jiang, Mahyar Najibi, Charles R. Qi, Yin Zhou, Dragomir Anguelov|[2210.08375v1](http://arxiv.org/abs/2210.08375v1)|null|
 |**2022-10-14**|**Instance Segmentation with Cross-Modal Consistency**|Alex Zihao Zhu, Vincent Casser, Reza Mahjourian, Henrik Kretzschmar, Sören Pirk|[2210.08113v1](http://arxiv.org/abs/2210.08113v1)|null|
-|**2022-10-14**|**Quo Vadis: Is Trajectory Forecasting the Key Towards Long-Term Multi-Object Tracking?**|Patrick Dendorfer, Vladimir Yugay, Aljoša Ošep, Laura Leal-Taixé|[2210.07681v1](http://arxiv.org/abs/2210.07681v1)|null|
-|**2022-10-12**|**QDTrack: Quasi-Dense Similarity Learning for Appearance-Only Multiple Object Tracking**|Tobias Fischer, Jiangmiao Pang, Thomas E. Huang, Linlu Qiu, Haofeng Chen, Trevor Darrell, Fisher Yu|[2210.06984v1](http://arxiv.org/abs/2210.06984v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
