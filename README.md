@@ -131,8 +131,8 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-10-20**|**Self-Supervised Learning via Maximum Entropy Coding**|Xin Liu, Zhongdao Wang, Yali Li, Shengjin Wang|[2210.11464v1](http://arxiv.org/abs/2210.11464v1)|null|
-|**2022-10-20**|**Cell tracking for live-cell microscopy using an activity-prioritized assignment strategy**|Karina Ruzaeva, Jan-Christopher Cohrs, Keitaro Kasahara, Dietrich Kohlheyer, Katharina Nöh, Benjamin Berkels|[2210.11441v1](http://arxiv.org/abs/2210.11441v1)|null|
+|**2022-10-20**|**Self-Supervised Learning via Maximum Entropy Coding**|Xin Liu, Zhongdao Wang, Yali Li, Shengjin Wang|[2210.11464v1](http://arxiv.org/abs/2210.11464v1)|**[link](https://github.com/xinliu20/mec)**|
+|**2022-10-20**|**Cell tracking for live-cell microscopy using an activity-prioritized assignment strategy**|Karina Ruzaeva, Jan-Christopher Cohrs, Keitaro Kasahara, Dietrich Kohlheyer, Katharina Nöh, Benjamin Berkels|[2210.11441v1](http://arxiv.org/abs/2210.11441v1)|**[link](https://github.com/kruzaeva/activity-cell-tracking)**|
 |**2022-10-19**|**RLM-Tracking: Online Multi-Pedestrian Tracking Supported by Relative Location Mapping**|Kai Ren, Chuanping Hu|[2210.10477v1](http://arxiv.org/abs/2210.10477v1)|null|
 |**2022-10-18**|**The Brain-Inspired Cooperative Shared Control for Brain-Machine Interface**|Shengjie Zheng, Ling Liu, Junjie Yang, Lang Qian, Gang Gao, Xin Chen, Wenqi Jin, Chunshan Deng, Xiaojian Li|[2210.09531v1](http://arxiv.org/abs/2210.09531v1)|null|
 |**2022-10-17**|**Track Targets by Dense Spatio-Temporal Position Encoding**|Jinkun Cao, Hao Wu, Kris Kitani|[2210.09455v1](http://arxiv.org/abs/2210.09455v1)|null|
