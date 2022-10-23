@@ -109,7 +109,7 @@
 |**2022-10-19**|**High-Resolution Depth Estimation for 360-degree Panoramas through Perspective and Panoramic Depth Images Registration**|Chi-Han Peng, Jiayao Zhang|[2210.10414v2](http://arxiv.org/abs/2210.10414v2)|null|
 |**2022-10-18**|**Hierarchical Normalization for Robust Monocular Depth Estimation**|Chi Zhang, Wei Yin, Zhibin Wang, Gang Yu, Bin Fu, Chunhua Shen|[2210.09670v1](http://arxiv.org/abs/2210.09670v1)|null|
 |**2022-10-17**|**Attention Attention Everywhere: Monocular Depth Prediction with Skip Attention**|Ashutosh Agarwal, Chetan Arora|[2210.09071v1](http://arxiv.org/abs/2210.09071v1)|**[link](https://github.com/ashutosh1807/pixelformer)**|
-|**2022-10-17**|**Event-based Stereo Depth Estimation from Ego-motion using Ray Density Fusion**|Suman Ghosh, Guillermo Gallego|[2210.08927v1](http://arxiv.org/abs/2210.08927v1)|null|
+|**2022-10-17**|**Event-based Stereo Depth Estimation from Ego-motion using Ray Density Fusion**|Suman Ghosh, Guillermo Gallego|[2210.08927v1](http://arxiv.org/abs/2210.08927v1)|**[link](https://github.com/tub-rip/dvs_mcemvs)**|
 |**2022-10-14**|**Stroke-based Rendering and Planning for Robotic Performance of Artistic Drawing**|Ivaylo Ilinkin, Daeun Song, Young J. Kim|[2210.07590v1](http://arxiv.org/abs/2210.07590v1)|null|
 |**2022-10-14**|**MonoDVPS: A Self-Supervised Monocular Depth Estimation Approach to Depth-aware Video Panoptic Segmentation**|Andra Petrovai, Sergiu Nedevschi|[2210.07577v1](http://arxiv.org/abs/2210.07577v1)|null|
 |**2022-10-13**|**Composite Learning for Robust and Effective Dense Predictions**|Menelaos Kanakis, Thomas E. Huang, David Bruggemann, Fisher Yu, Luc Van Gool|[2210.07239v1](http://arxiv.org/abs/2210.07239v1)|null|
