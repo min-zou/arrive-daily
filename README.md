@@ -1,16 +1,16 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-23**|**VP-SLAM: A Monocular Real-time Visual SLAM with Points, Lines and Vanishing Points**|Andreas Georgis, Panagiotis Mermigkas, Petros Maragos|[2210.12756v1](http://arxiv.org/abs/2210.12756v1)|null|
+|**2022-10-22**|**SLAM: Semantic Learning based Activation Map for Weakly Supervised Semantic Segmentation**|Junliang Chen, Xiaodong Zhao, Minmin Liu, Linlin Shen|[2210.12417v1](http://arxiv.org/abs/2210.12417v1)|null|
 |**2022-10-21**|**DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**|Shipeng Zhong, Yuhua Qi, Zhiqiang Chen, Jin Wu, Hongbo Chen, Ming Liu|[2210.11978v1](http://arxiv.org/abs/2210.11978v1)|null|
 |**2022-10-21**|**Motion Primitives Based Kinodynamic RRT for Autonomous Vehicle Navigation in Complex Environments**|Shubham Kedia, Sambhu Harimanas Karumanchi|[2210.11652v1](http://arxiv.org/abs/2210.11652v1)|null|
-|**2022-10-19**|**Visual SLAM: What are the Current Trends and What to Expect?**|Ali Tourani, Hriday Bavle, Jose Luis Sanchez-Lopez, Holger Voos|[2210.10491v1](http://arxiv.org/abs/2210.10491v1)|null|
+|**2022-10-19**|**Visual SLAM: What are the Current Trends and What to Expect?**|Ali Tourani, Hriday Bavle, Jose Luis Sanchez-Lopez, Holger Voos|[2210.10491v2](http://arxiv.org/abs/2210.10491v2)|null|
 |**2022-10-18**|**Split-KalmanNet: A Robust Model-Based Deep Learning Approach for SLAM**|Geon Choi, Jeonghun Park, Nir Shlezinger, Yonina C. Eldar, Namyoon Lee|[2210.09636v1](http://arxiv.org/abs/2210.09636v1)|null|
 |**2022-10-16**|**D2SLAM: Semantic visual SLAM based on the influence of Depth for Dynamic environments**|Ayman Beghdadi, Malik Mallem, Lotfi Beji|[2210.08647v1](http://arxiv.org/abs/2210.08647v1)|null|
 |**2022-10-16**|**Indoor Smartphone SLAM with Learned Echoic Location Features**|Wenjie Luo, Qun Song, Zhenyu Yan, Rui Tan, Guosheng Lin|[2210.08493v1](http://arxiv.org/abs/2210.08493v1)|null|
 |**2022-10-15**|**Self-Improving SLAM in Dynamic Environments: Learning When to Mask**|Adrian Bojko, Romain Dupont, Mohamed Tamaazousti, Hervé Le Borgne|[2210.08350v1](http://arxiv.org/abs/2210.08350v1)|null|
 |**2022-10-13**|**Design and Evaluation of a Generic Visual SLAM Framework for Multi-Camera Systems**|Pushyami Kaveti, Arvind Thamilchelvan, Hanumant Singh|[2210.07315v1](http://arxiv.org/abs/2210.07315v1)|null|
-|**2022-10-12**|**RING++: Roto-translation Invariant Gram for Global Localization on a Sparse Scan Map**|Xuecheng Xu, Sha Lu, Jun Wu, Haojian Lu, Qiuguo Zhu, Yiyi Liao, Rong Xiong, Yue Wang|[2210.05984v1](http://arxiv.org/abs/2210.05984v1)|**[link](https://github.com/MaverickPeter/MR_SLAM)**|
-|**2022-10-11**|**Observability Analysis of Graph SLAM-Based Joint Calibration of Multiple Microphone Arrays and Sound Source Localization**|Yuanzheng He, Jiang Wang, Daobilige Su, Kazuhiro Nakadai, Junfeng Wu, Shoudong Huang, Youfu Li, He Kong|[2210.05600v1](http://arxiv.org/abs/2210.05600v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,9 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-24**|**Learning Neural Radiance Fields from Multi-View Geometry**|Marco Orsingher, Paolo Zani, Paolo Medici, Massimo Bertozzi|[2210.13041v1](http://arxiv.org/abs/2210.13041v1)|null|
+|**2022-10-23**|**Multislice Electron Tomography using 4D-STEM**|Juhyeok Lee, Moosung Lee, YongKeun Park, Colin Ophus, Yongsoo Yang|[2210.12636v1](http://arxiv.org/abs/2210.12636v1)|null|
+|**2022-10-23**|**3D Reconstruction of unstained cells from a single defocused hologram**|Sunaina Rajora, Mansi Butola, Kedar Khare|[2210.12594v1](http://arxiv.org/abs/2210.12594v1)|null|
 |**2022-10-21**|**Neural Fields for Robotic Object Manipulation from a Single Image**|Valts Blukis, Taeyeop Lee, Jonathan Tremblay, Bowen Wen, In So Kweon, Kuk-Jin Yoon, Dieter Fox, Stan Birchfield|[2210.12126v1](http://arxiv.org/abs/2210.12126v1)|null|
 |**2022-10-20**|**Multi-View Guided Multi-View Stereo**|Matteo Poggi, Andrea Conti, Stefano Mattoccia|[2210.11467v1](http://arxiv.org/abs/2210.11467v1)|**[link](https://github.com/andreaconti/multi-view-guided-multi-view-stereo)**|
 |**2022-10-19**|**CLOINet: Ocean state reconstructions through remote-sensing, in-situ sparse observations and Deep Learning**|Eugenio Cutolo, Ananda Pascual, Simon Ruiz, Nikolaos Zarokanellos, Ronan Fablet|[2210.10767v1](http://arxiv.org/abs/2210.10767v1)|null|
@@ -99,13 +102,11 @@
 |**2022-10-17**|**Pruning-based Topology Refinement of 3D Mesh using a 2D Alpha Mask**|Gaëtan Landreau, Mohamed Tamaazousti|[2210.09148v1](http://arxiv.org/abs/2210.09148v1)|null|
 |**2022-10-17**|**PCGen: Point Cloud Generator for LiDAR Simulation**|Chenqi Li, Yuan Ren, Bingbing Liu|[2210.08738v1](http://arxiv.org/abs/2210.08738v1)|null|
 |**2022-10-17**|**VoxelCache: Accelerating Online Mapping in Robotics and 3D Reconstruction Tasks**|Sankeerth Durvasula, Raymond Kiguru, Samarth Mathur, Jenny Xu, Jimmy Lin, Nandita Vijaykumar|[2210.08729v1](http://arxiv.org/abs/2210.08729v1)|null|
-|**2022-10-15**|**SPIDR: SDF-based Neural Point Fields for Illumination and Deformation**|Ruofan Liang, Jiahao Zhang, Haoda Li, Chen Yang, Nandita Vijaykumar|[2210.08398v1](http://arxiv.org/abs/2210.08398v1)|null|
-|**2022-10-15**|**Bidirectional Semi-supervised Dual-branch CNN for Robust 3D Reconstruction of Stereo Endoscopic Images via Adaptive Cross and Parallel Supervisions**|Hongkuan Shi, Zhiwei Wang, Ying Zhou, Dun Li, Xin Yang, Qiang Li|[2210.08291v2](http://arxiv.org/abs/2210.08291v2)|null|
-|**2022-10-13**|**3D GAN Inversion with Pose Optimization**|Jaehoon Ko, Kyusun Cho, Daewon Choi, Kwangrok Ryoo, Seungryong Kim|[2210.07301v2](http://arxiv.org/abs/2210.07301v2)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-10-21**|**Context-Enhanced Stereo Transformer**|Weiyu Guo, Zhaoshuo Li, Yongkui Yang, Zheng Wang, Russell H. Taylor, Mathias Unberath, Alan Yuille, Yingwei Li|[2210.11719v1](http://arxiv.org/abs/2210.11719v1)|null|
+|**2022-10-23**|**Photo-realistic Neural Domain Randomization**|Sergey Zakharov, Rares Ambrus, Vitor Guizilini, Wadim Kehl, Adrien Gaidon|[2210.12682v1](http://arxiv.org/abs/2210.12682v1)|null|
+|**2022-10-21**|**Context-Enhanced Stereo Transformer**|Weiyu Guo, Zhaoshuo Li, Yongkui Yang, Zheng Wang, Russell H. Taylor, Mathias Unberath, Alan Yuille, Yingwei Li|[2210.11719v1](http://arxiv.org/abs/2210.11719v1)|**[link](https://github.com/guoweiyu/context-enhanced-stereo-transformer)**|
 |**2022-10-19**|**CroCo: Self-Supervised Pre-training for 3D Vision Tasks by Cross-View Completion**|Philippe Weinzaepfel, Vincent Leroy, Thomas Lucas, Romain Brégier, Yohann Cabon, Vaibhav Arora, Leonid Antsfeld, Boris Chidlovskii, Gabriela Csurka, Jérôme Revaud|[2210.10716v1](http://arxiv.org/abs/2210.10716v1)|null|
 |**2022-10-19**|**High-Resolution Depth Estimation for 360-degree Panoramas through Perspective and Panoramic Depth Images Registration**|Chi-Han Peng, Jiayao Zhang|[2210.10414v2](http://arxiv.org/abs/2210.10414v2)|null|
 |**2022-10-18**|**Hierarchical Normalization for Robust Monocular Depth Estimation**|Chi Zhang, Wei Yin, Zhibin Wang, Gang Yu, Bin Fu, Chunhua Shen|[2210.09670v1](http://arxiv.org/abs/2210.09670v1)|null|
@@ -114,7 +115,6 @@
 |**2022-10-14**|**Stroke-based Rendering and Planning for Robotic Performance of Artistic Drawing**|Ivaylo Ilinkin, Daeun Song, Young J. Kim|[2210.07590v1](http://arxiv.org/abs/2210.07590v1)|null|
 |**2022-10-14**|**MonoDVPS: A Self-Supervised Monocular Depth Estimation Approach to Depth-aware Video Panoptic Segmentation**|Andra Petrovai, Sergiu Nedevschi|[2210.07577v1](http://arxiv.org/abs/2210.07577v1)|null|
 |**2022-10-13**|**Composite Learning for Robust and Effective Dense Predictions**|Menelaos Kanakis, Thomas E. Huang, David Bruggemann, Fisher Yu, Luc Van Gool|[2210.07239v1](http://arxiv.org/abs/2210.07239v1)|null|
-|**2022-10-13**|**Multiplane NeRF-Supervised Disentanglement of Depth and Camera Pose from Videos**|Yang Fu, Ishan Misra, Xiaolong Wang|[2210.07181v1](http://arxiv.org/abs/2210.07181v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,16 +131,16 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-22**|**A Flexible-Frame-Rate Vision-Aided Inertial Object Tracking System for Mobile Devices**|Yo-Chung Lau, Kuan-Wei Tseng, I-Ju Hsieh, Hsiao-Ching Tseng, Yi-Ping Hung|[2210.12476v1](http://arxiv.org/abs/2210.12476v1)|null|
 |**2022-10-20**|**Self-Supervised Learning via Maximum Entropy Coding**|Xin Liu, Zhongdao Wang, Yali Li, Shengjin Wang|[2210.11464v1](http://arxiv.org/abs/2210.11464v1)|**[link](https://github.com/xinliu20/mec)**|
 |**2022-10-20**|**Cell tracking for live-cell microscopy using an activity-prioritized assignment strategy**|Karina Ruzaeva, Jan-Christopher Cohrs, Keitaro Kasahara, Dietrich Kohlheyer, Katharina Nöh, Benjamin Berkels|[2210.11441v1](http://arxiv.org/abs/2210.11441v1)|**[link](https://github.com/kruzaeva/activity-cell-tracking)**|
+|**2022-10-20**|**A Complete Recipe for Bayesian Knowledge Transfer: Object Tracking**|Bahman Moraffah, Antonia Papandreou-Suppappola|[2210.13232v1](http://arxiv.org/abs/2210.13232v1)|null|
 |**2022-10-19**|**RT-MOT: Confidence-Aware Real-Time Scheduling Framework for Multi-Object Tracking Tasks**|Donghwa Kang, Seunghoon Lee, Hoon Sung Chwa, Seung-Hwan Bae, Chang Mook Kang, Jinkyu Lee, Hyeongboo Baek|[2210.11946v1](http://arxiv.org/abs/2210.11946v1)|null|
 |**2022-10-19**|**RLM-Tracking: Online Multi-Pedestrian Tracking Supported by Relative Location Mapping**|Kai Ren, Chuanping Hu|[2210.10477v1](http://arxiv.org/abs/2210.10477v1)|null|
 |**2022-10-18**|**The Brain-Inspired Cooperative Shared Control for Brain-Machine Interface**|Shengjie Zheng, Ling Liu, Junjie Yang, Lang Qian, Gang Gao, Xin Chen, Wenqi Jin, Chunshan Deng, Xiaojian Li|[2210.09531v1](http://arxiv.org/abs/2210.09531v1)|null|
 |**2022-10-17**|**Track Targets by Dense Spatio-Temporal Position Encoding**|Jinkun Cao, Hao Wu, Kris Kitani|[2210.09455v1](http://arxiv.org/abs/2210.09455v1)|null|
 |**2022-10-16**|**AttTrack: Online Deep Attention Transfer for Multi-object Tracking**|Keivan Nalaie, Rong Zheng|[2210.08648v1](http://arxiv.org/abs/2210.08648v1)|null|
 |**2022-10-16**|**Data-Model-Circuit Tri-Design for Ultra-Light Video Intelligence on Edge Devices**|Yimeng Zhang, Akshay Karkal Kamath, Qiucheng Wu, Zhiwen Fan, Wuyang Chen, Zhangyang Wang, Shiyu Chang, Sijia Liu, Cong Hao|[2210.08578v2](http://arxiv.org/abs/2210.08578v2)|null|
-|**2022-10-16**|**OST: Efficient One-stream Network for 3D Single Object Tracking in Point Clouds**|Xiantong Zhao, Yinan Han, Shengjing Tian, Jian Liu, Xiuping Liu|[2210.08518v1](http://arxiv.org/abs/2210.08518v1)|null|
-|**2022-10-15**|**Improving the Intra-class Long-tail in 3D Detection via Rare Example Mining**|Chiyu Max Jiang, Mahyar Najibi, Charles R. Qi, Yin Zhou, Dragomir Anguelov|[2210.08375v1](http://arxiv.org/abs/2210.08375v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -170,6 +170,7 @@
 ## Visual Odometry
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-24**|**A geometry method for LED mapping**|Junlin Huang, Shangsheng Wen, Weipeng Guan|[2210.13031v1](http://arxiv.org/abs/2210.13031v1)|null|
 |**2022-10-18**|**Initial Orbit Determination from Only Heading Measurements**|John A. Christian|[2210.10120v1](http://arxiv.org/abs/2210.10120v1)|null|
 |**2022-10-18**|**Vision-based GNSS-Free Localization for UAVs in the Wild**|Marius-Mihail Gurgu, Jorge Peña Queralta, Tomi Westerlund|[2210.09727v1](http://arxiv.org/abs/2210.09727v1)|**[link](https://github.com/tiers/wildnav)**|
 |**2022-10-04**|**Dense Prediction Transformer for Scale Estimation in Monocular Visual Odometry**|André O. Françani, Marcos R. O. A. Maximo|[2210.01723v1](http://arxiv.org/abs/2210.01723v1)|**[link](https://github.com/aofrancani/dpt-vo)**|
@@ -179,10 +180,11 @@
 |**2022-09-17**|**DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**|Shihao Shen, Yilin Cai, Wenshan Wang, Sebastian Scherer|[2209.08430v2](http://arxiv.org/abs/2209.08430v2)|**[link](https://github.com/geniussh/dytanvo)**|
 |**2022-09-05**|**Neuromorphic Visual Odometry with Resonator Networks**|Alpha Renner, Lazar Supic, Andreea Danielescu, Giacomo Indiveri, E. Paxon Frady, Friedrich T. Sommer, Yulia Sandamirskaya|[2209.02000v2](http://arxiv.org/abs/2209.02000v2)|null|
 |**2022-09-05**|**Analysis of the Effect of Time Delay for Unmanned Aerial Vehicles with Applications to Vision Based Navigation**|Muhammad Ahmed Humais, Mohamad Chehadeh, Igor Boiko, Yahya Zweiri|[2209.01933v1](http://arxiv.org/abs/2209.01933v1)|null|
-|**2022-09-04**|**Pseudo-LiDAR for Visual Odometry**|Huiying Deng, Guangming Wang, Zhiheng Feng, Chaokang Jiang, Xinrui Wu, Yanzi Miao, Hesheng Wang|[2209.01567v1](http://arxiv.org/abs/2209.01567v1)|null|
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-23**|**Feedback Assisted Adversarial Learning to Improve the Quality of Cone-beam CT Images**|Takumi Hase, Megumi Nakao, Mitsuhiro Nakamura, Tetsuya Matsuda|[2210.12578v1](http://arxiv.org/abs/2210.12578v1)|null|
+|**2022-10-21**|**Error-Covariance Analysis of Monocular Pose Estimation Using Total Least Squares**|Saeed Maleki, John Crassidis, Yang Cheng, Matthias Schmid|[2210.12157v1](http://arxiv.org/abs/2210.12157v1)|null|
 |**2022-10-18**|**SA-DNet: A on-demand semantic object registration network adapting to non-rigid deformation**|Housheng Xie, Junhui Qiu, Yang Yang, Yukuan Zhang|[2210.09900v1](http://arxiv.org/abs/2210.09900v1)|null|
 |**2022-10-18**|**A Real-Time Fusion Framework for Long-term Visual Localization**|Yuchen Yang, Xudong Zhang, Shuang Gao, Jixiang Wan, Yishan Ping, Yuyue Liu, Jijunnan Li, Yandong Guo|[2210.09757v1](http://arxiv.org/abs/2210.09757v1)|null|
 |**2022-10-18**|**Homogeneous Multi-modal Feature Fusion and Interaction for 3D Object Detection**|Xin Li, Botian Shi, Yuenan Hou, Xingjiao Wu, Tianlong Ma, Yikang Li, Liang He|[2210.09615v1](http://arxiv.org/abs/2210.09615v1)|null|
@@ -191,13 +193,11 @@
 |**2022-10-17**|**Natural Scene Image Annotation Using Local Semantic Concepts and Spatial Bag of Visual Words**|Yousef Alqasrawi|[2210.09045v1](http://arxiv.org/abs/2210.09045v1)|null|
 |**2022-10-15**|**Self-Improving SLAM in Dynamic Environments: Learning When to Mask**|Adrian Bojko, Romain Dupont, Mohamed Tamaazousti, Hervé Le Borgne|[2210.08350v1](http://arxiv.org/abs/2210.08350v1)|null|
 |**2022-10-15**|**Providing Error Detection for Deep Learning Image Classifiers Using Self-Explainability**|Mohammad Mahdi Karimi, Azin Heidarshenas, William W. Edmonson|[2210.08210v1](http://arxiv.org/abs/2210.08210v1)|null|
-|**2022-10-13**|**Novel applications of Generative Adversarial Networks (GANs) and Convolutional Neural Networks (CNNs) in the analysis of ultrafast electron diffraction (UED) images**|Hazem Daoud, Dhruv Sirohi, Endri Mjeku, John Feng, Saeed Oghbaey, R. J. Dwayne Miller|[2210.07279v1](http://arxiv.org/abs/2210.07279v1)|null|
-|**2022-10-12**|**Latency-aware Spatial-wise Dynamic Networks**|Yizeng Han, Zhihang Yuan, Yifan Pu, Chenhao Xue, Shiji Song, Guangyu Sun, Gao Huang|[2210.06223v1](http://arxiv.org/abs/2210.06223v1)|**[link](https://github.com/leaplabthu/lasnet)**|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-10-21**|**DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**|Shipeng Zhong, Yuhua Qi, Zhiqiang Chen, Jin Wu, Hongbo Chen, Ming Liu|[2210.11978v1](http://arxiv.org/abs/2210.11978v1)|null|
-|**2022-10-18**|**Edge-based Monocular Thermal-Inertial Odometry in Visually Degraded Environments**|Yu Wang, Haoyao Chen, Yufeng Liu, Shiwu Zhang|[2210.10033v1](http://arxiv.org/abs/2210.10033v1)|null|
+|**2022-10-18**|**Edge-based Monocular Thermal-Inertial Odometry in Visually Degraded Environments**|Yu Wang, Haoyao Chen, Yufeng Liu, Shiwu Zhang|[2210.10033v2](http://arxiv.org/abs/2210.10033v2)|null|
 |**2022-10-09**|**VoLTA: Vision-Language Transformer with Weakly-Supervised Local-Feature Alignment**|Shraman Pramanick, Li Jing, Sayan Nag, Jiachen Zhu, Hardik Shah, Yann LeCun, Rama Chellappa|[2210.04135v1](http://arxiv.org/abs/2210.04135v1)|null|
 |**2022-10-04**|**DGORL: Distributed Graph Optimization based Relative Localization of Multi-Robot Systems**|Ehsan Latif, Ramviyas Parasuraman|[2210.01662v1](http://arxiv.org/abs/2210.01662v1)|**[link](https://github.com/herolab-uga/DGORL)**|
 |**2022-09-24**|**Large-Scale LiDAR Consistent Mapping using Hierachical LiDAR Bundle Adjustment**|Xiyuan Liu, Zheng Liu, Fanze Kong, Fu Zhang|[2209.11939v1](http://arxiv.org/abs/2209.11939v1)|null|
