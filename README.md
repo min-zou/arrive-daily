@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-07**|**Common Pets in 3D: Dynamic New-View Synthesis of Real-Life Deformable Categories**|Samarth Sinha, Roman Shapovalov, Jeremy Reizenstein, Ignacio Rocco, Natalia Neverova, Andrea Vedaldi, David Novotny|[2211.03889v1](http://arxiv.org/abs/2211.03889v1)|null|
 |**2022-11-04**|**GARNet: Global-Aware Multi-View 3D Reconstruction Network and the Cost-Performance Tradeoff**|Zhenwei Zhu, Liying Yang, Xuxin Lin, Chaohao Jiang, Ning Li, Lin Yang, Yanyan Liang|[2211.02299v1](http://arxiv.org/abs/2211.02299v1)|null|
 |**2022-11-03**|**3D Reconstruction of Multiple Objects by mmWave Radar on UAV**|Yue Sun, Zhuoming Huang, Honggang Zhang, Xiaohui Liang|[2211.02150v1](http://arxiv.org/abs/2211.02150v1)|null|
 |**2022-10-29**|**Semantic-SuPer: A Semantic-aware Surgical Perception Framework for Endoscopic Tissue Classification, Reconstruction, and Tracking**|Shan Lin, Albert J. Miao, Jingpei Lu, Shunkai Yu, Zih-Yun Chiu, Florian Richter, Michael C. Yip|[2210.16674v1](http://arxiv.org/abs/2210.16674v1)|null|
@@ -101,10 +102,10 @@
 |**2022-10-26**|**PERGAMO: Personalized 3D Garments from Monocular Video**|Andrés Casado-Elvira, Marc Comino Trinidad, Dan Casas|[2210.15040v1](http://arxiv.org/abs/2210.15040v1)|null|
 |**2022-10-24**|**Learning Neural Radiance Fields from Multi-View Geometry**|Marco Orsingher, Paolo Zani, Paolo Medici, Massimo Bertozzi|[2210.13041v1](http://arxiv.org/abs/2210.13041v1)|null|
 |**2022-10-23**|**Multislice Electron Tomography using 4D-STEM**|Juhyeok Lee, Moosung Lee, YongKeun Park, Colin Ophus, Yongsoo Yang|[2210.12636v1](http://arxiv.org/abs/2210.12636v1)|null|
-|**2022-10-23**|**3D Reconstruction of unstained cells from a single defocused hologram**|Sunaina Rajora, Mansi Butola, Kedar Khare|[2210.12594v1](http://arxiv.org/abs/2210.12594v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-08**|**Detection and depth estimation for domestic waste in outdoor environments by sensors fusion**|Ignacio de L. Páez-Ubieta, Edison Velasco-Sánchez, Santiago T. Puente, Francisco A. Candelas|[2211.04085v1](http://arxiv.org/abs/2211.04085v1)|null|
 |**2022-11-07**|**SC-DepthV3: Robust Self-supervised Monocular Depth Estimation for Dynamic Scenes**|Libo Sun, Jia-Wang Bian, Huangying Zhan, Wei Yin, Ian Reid, Chunhua Shen|[2211.03660v1](http://arxiv.org/abs/2211.03660v1)|**[link](https://github.com/JiawangBian/sc_depth_pl)**|
 |**2022-11-04**|**RCDPT: Radar-Camera fusion Dense Prediction Transformer**|Chen-Chou Lo, Patrick Vandewalle|[2211.02432v1](http://arxiv.org/abs/2211.02432v1)|null|
 |**2022-11-02**|**OPA-3D: Occlusion-Aware Pixel-Wise Aggregation for Monocular 3D Object Detection**|Yongzhi Su, Yan Di, Fabian Manhardt, Guangyao Zhai, Jason Rambach, Benjamin Busam, Didier Stricker, Federico Tombari|[2211.01142v1](http://arxiv.org/abs/2211.01142v1)|null|
@@ -114,7 +115,6 @@
 |**2022-10-27**|**Robust Monocular Localization of Drones by Adapting Domain Maps to Depth Prediction Inaccuracies**|Priyesh Shukla, Sureshkumar S., Alex C. Stutts, Sathya Ravi, Theja Tulabandhula, Amit R. Trivedi|[2210.15559v1](http://arxiv.org/abs/2210.15559v1)|null|
 |**2022-10-27**|**2T-UNET: A Two-Tower UNet with Depth Clues for Robust Stereo Depth Estimation**|Rohit Choudhary, Mansi Sharma, Rithvik Anil|[2210.15374v1](http://arxiv.org/abs/2210.15374v1)|null|
 |**2022-10-23**|**Photo-realistic Neural Domain Randomization**|Sergey Zakharov, Rares Ambrus, Vitor Guizilini, Wadim Kehl, Adrien Gaidon|[2210.12682v1](http://arxiv.org/abs/2210.12682v1)|null|
-|**2022-10-21**|**Context-Enhanced Stereo Transformer**|Weiyu Guo, Zhaoshuo Li, Yongkui Yang, Zheng Wang, Russell H. Taylor, Mathias Unberath, Alan Yuille, Yingwei Li|[2210.11719v1](http://arxiv.org/abs/2210.11719v1)|**[link](https://github.com/guoweiyu/context-enhanced-stereo-transformer)**|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-08**|**ShaSTA: Modeling Shape and Spatio-Temporal Affinities for 3D Multi-Object Tracking**|Tara Sadjadpour, Jie Li, Rares Ambrus, Jeannette Bohg|[2211.03919v1](http://arxiv.org/abs/2211.03919v1)|null|
 |**2022-11-06**|**A Deep-Unfolded Spatiotemporal RPCA Network For L+S Decomposition**|Shoaib Imran, Muhammad Tahir, Zubair Khalid, Momin Uppal|[2211.03184v1](http://arxiv.org/abs/2211.03184v1)|null|
 |**2022-11-06**|**Learning Dual-Fused Modality-Aware Representations for RGBD Tracking**|Shang Gao, Jinyu Yang, Zhe Li, Feng Zheng, Aleš Leonardis, Jingkuan Song|[2211.03055v1](http://arxiv.org/abs/2211.03055v1)|**[link](https://github.com/shanggaog/dmtracker)**|
 |**2022-11-04**|**Development and evaluation of automated localization and reconstruction of all fruits on tomato plants in a greenhouse based on multi-view perception and 3D multi-object tracking**|David Rapado Rincon, Eldert J. van Henten, Gert Kootstra|[2211.02760v1](http://arxiv.org/abs/2211.02760v1)|null|
@@ -140,7 +141,6 @@
 |**2022-10-28**|**TripletTrack: 3D Object Tracking using Triplet Embeddings and LSTM**|Nicola Marinello, Marc Proesmans, Luc Van Gool|[2210.16204v1](http://arxiv.org/abs/2210.16204v1)|null|
 |**2022-10-27**|**ProContEXT: Exploring Progressive Context Transformer for Tracking**|Jin-Peng Lan, Zhi-Qi Cheng, Jun-Yan He, Chenyang Li, Bin Luo, Xu Bao, Wangmeng Xiang, Yifeng Geng, Xuansong Xie|[2210.15511v1](http://arxiv.org/abs/2210.15511v1)|null|
 |**2022-10-27**|**The 1st-place Solution for ECCV 2022 Multiple People Tracking in Group Dance Challenge**|Yuang Zhang, Tiancai Wang, Weiyao Lin, Xiangyu Zhang|[2210.15281v1](http://arxiv.org/abs/2210.15281v1)|null|
-|**2022-10-26**|**End-to-end Tracking with a Multi-query Transformer**|Bruno Korbar, Andrew Zisserman|[2210.14601v1](http://arxiv.org/abs/2210.14601v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
