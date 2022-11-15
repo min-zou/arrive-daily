@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-11**|**Multi-domain Cooperative SLAM: The Enabler for Integrated Sensing and Communications**|Jie Yang, Chao-Kai Wen, Xi Yang, Jing Xu, Tao Du, Shi Jin|[2211.05982v1](http://arxiv.org/abs/2211.05982v1)|null|
 |**2022-11-10**|**Online Stochastic Variational Gaussian Process Mapping for Large-Scale SLAM in Real Time**|Ignacio Torroba, Marco Chella, Aldo Teran, Niklas Rolleberg, John Folkesson|[2211.05601v1](http://arxiv.org/abs/2211.05601v1)|null|
 |**2022-11-07**|**When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**|Gerhard Kurz, Sebastian A. Scherer, Peter Biber, David Fleer|[2211.03484v1](http://arxiv.org/abs/2211.03484v1)|null|
 |**2022-11-07**|**Detecting Invalid Map Merges in Lifelong SLAM**|Matthias Holoch, Gerhard Kurz, Peter Biber|[2211.03423v1](http://arxiv.org/abs/2211.03423v1)|null|
@@ -10,7 +11,6 @@
 |**2022-11-03**|**Enhanced Visual Feedback with Decoupled Viewpoint Control in Immersive Humanoid Robot Teleoperation using SLAM**|Yang Chen, Leyuan Sun, Mehdi Benallegue, Rafael Cisneros, Rohan P. Singh, Kenji Kaneko, Arnaud Tanguy, Guillaume Caron, Kenji Suzuki, Abderrahmane Kheddar, Fumio Kanehiro|[2211.01749v1](http://arxiv.org/abs/2211.01749v1)|null|
 |**2022-11-03**|**$D^2$SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**|Hao Xu, Peize Liu, Xinyi Chen, Shaojie Shen|[2211.01538v2](http://arxiv.org/abs/2211.01538v2)|null|
 |**2022-11-02**|**Semantic SuperPoint: A Deep Semantic Descriptor**|Gabriel S. Gama, Nícolas S. Rosa, Valdir Grassi Jr|[2211.01098v1](http://arxiv.org/abs/2211.01098v1)|**[link](https://github.com/gabriel-sgama/semantic-superpoint)**|
-|**2022-11-02**|**Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation**|Myung-Hwan Jeon, Jeongyun Kim, Jee-Hwan Ryu, Ayoung Kim|[2211.00960v1](http://arxiv.org/abs/2211.00960v1)|**[link](https://github.com/rpmsnu/prima6d)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-11**|**HOReeNet: 3D-aware Hand-Object Grasping Reenactment**|Changhwa Lee, Junuk Cha, Hansol Lee, Seongyeong Lee, Donguk Kim, Seungryul Baek|[2211.06195v1](http://arxiv.org/abs/2211.06195v1)|null|
 |**2022-11-07**|**Common Pets in 3D: Dynamic New-View Synthesis of Real-Life Deformable Categories**|Samarth Sinha, Roman Shapovalov, Jeremy Reizenstein, Ignacio Rocco, Natalia Neverova, Andrea Vedaldi, David Novotny|[2211.03889v1](http://arxiv.org/abs/2211.03889v1)|null|
 |**2022-11-04**|**GARNet: Global-Aware Multi-View 3D Reconstruction Network and the Cost-Performance Tradeoff**|Zhenwei Zhu, Liying Yang, Xuxin Lin, Chaohao Jiang, Ning Li, Lin Yang, Yanyan Liang|[2211.02299v1](http://arxiv.org/abs/2211.02299v1)|null|
 |**2022-11-03**|**3D Reconstruction of Multiple Objects by mmWave Radar on UAV**|Yue Sun, Zhuoming Huang, Honggang Zhang, Xiaohui Liang|[2211.02150v1](http://arxiv.org/abs/2211.02150v1)|null|
@@ -101,7 +102,6 @@
 |**2022-10-27**|**Deep-MDS Framework for Recovering the 3D Shape of 2D Landmarks from a Single Image**|Shima Kamyab, Zohreh Azimifar|[2210.15200v1](http://arxiv.org/abs/2210.15200v1)|**[link](https://github.com/s2kamyab/deepmds)**|
 |**2022-10-26**|**PERGAMO: Personalized 3D Garments from Monocular Video**|Andrés Casado-Elvira, Marc Comino Trinidad, Dan Casas|[2210.15040v1](http://arxiv.org/abs/2210.15040v1)|null|
 |**2022-10-24**|**Learning Neural Radiance Fields from Multi-View Geometry**|Marco Orsingher, Paolo Zani, Paolo Medici, Massimo Bertozzi|[2210.13041v1](http://arxiv.org/abs/2210.13041v1)|null|
-|**2022-10-23**|**Multislice Electron Tomography using 4D-STEM**|Juhyeok Lee, Moosung Lee, YongKeun Park, Colin Ophus, Yongsoo Yang|[2210.12636v1](http://arxiv.org/abs/2210.12636v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-11**|**An Improved End-to-End Multi-Target Tracking Method Based on Transformer Self-Attention**|Yong Hong, Deren Li, Shupei Luo, Xin Chen, Yi Yang, Mi Wang|[2211.06001v1](http://arxiv.org/abs/2211.06001v1)|null|
 |**2022-11-09**|**Efficient Joint Detection and Multiple Object Tracking with Spatially Aware Transformer**|Siddharth Sagar Nijhawan, Leo Hoshikawa, Atsushi Irie, Masakazu Yoshimura, Junji Otsuka, Takeshi Ohashi|[2211.05654v1](http://arxiv.org/abs/2211.05654v1)|null|
 |**2022-11-09**|**MEVID: Multi-view Extended Videos with Identities for Video Person Re-Identification**|Daniel Davila, Dawei Du, Bryon Lewis, Christopher Funk, Joseph Van Pelt, Roderick Collins, Kellie Corona, Matt Brown, Scott McCloskey, Anthony Hoogs, Brian Clipp|[2211.04656v2](http://arxiv.org/abs/2211.04656v2)|null|
 |**2022-11-08**|**Estimation of Appearance and Occupancy Information in Birds Eye View from Surround Monocular Images**|Sarthak Sharma, Unnikrishnan R. Nair, Udit Singh Parihar, Midhun Menon S, Srikanth Vidapanakal|[2211.04557v1](http://arxiv.org/abs/2211.04557v1)|null|
@@ -140,7 +141,6 @@
 |**2022-11-06**|**Learning Dual-Fused Modality-Aware Representations for RGBD Tracking**|Shang Gao, Jinyu Yang, Zhe Li, Feng Zheng, Aleš Leonardis, Jingkuan Song|[2211.03055v1](http://arxiv.org/abs/2211.03055v1)|**[link](https://github.com/shanggaog/dmtracker)**|
 |**2022-11-04**|**Development and evaluation of automated localization and reconstruction of all fruits on tomato plants in a greenhouse based on multi-view perception and 3D multi-object tracking**|David Rapado Rincon, Eldert J. van Henten, Gert Kootstra|[2211.02760v1](http://arxiv.org/abs/2211.02760v1)|null|
 |**2022-11-03**|**Large Scale Real-World Multi-Person Tracking**|Bing Shuai, Alessandro Bergamo, Uta Buechler, Andrew Berneshawi, Alyssa Boden, Joseph Tighe|[2211.02175v1](http://arxiv.org/abs/2211.02175v1)|null|
-|**2022-11-03**|**DyOb-SLAM : Dynamic Object Tracking SLAM System**|Rushmian Annoy Wadud, Wei Sun|[2211.01941v1](http://arxiv.org/abs/2211.01941v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -157,7 +157,7 @@
 ## PointCloud
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-11-07**|**3D Harmonic Loss: Towards Task-consistent and Time-friendly 3D Object Detection on Edge for Intelligent Transportation System**|Haolin Zhang, M S Mekala, Zulkar Nain, Ju H. Park, Ho-Youl Jung|[2211.03407v1](http://arxiv.org/abs/2211.03407v1)|**[link](https://github.com/XJTU-Haolin/TT3D)**|
+|**2022-11-07**|**3D Harmonic Loss: Towards Task-consistent and Time-friendly 3D Object Detection on Edge for V2X Orchestration**|Haolin Zhang, M S Mekala, Zulkar Nain, Dongfang Yang, Ju H. Park, Ho-Youl Jung|[2211.03407v2](http://arxiv.org/abs/2211.03407v2)|**[link](https://github.com/XJTU-Haolin/TT3D)**|
 |**2022-11-02**|**Cluster-Based Autoencoders for Volumetric Point Clouds**|Stephan Antholzer, Martin Berger, Tobias Hell|[2211.01009v1](http://arxiv.org/abs/2211.01009v1)|**[link](https://github.com/antholzer/pointcloudmatcher)**|
 |**2022-10-24**|**SphNet: A Spherical Network for Semantic Pointcloud Segmentation**|Lukas Bernreiter, Lionel Ott, Roland Siegwart, Cesar Cadena|[2210.13992v1](http://arxiv.org/abs/2210.13992v1)|null|
 |**2022-10-21**|**HDHumans: A Hybrid Approach for High-fidelity Digital Humans**|Marc Habermann, Lingjie Liu, Weipeng Xu, Gerard Pons-Moll, Michael Zollhoefer, Christian Theobalt|[2210.12003v1](http://arxiv.org/abs/2210.12003v1)|null|
