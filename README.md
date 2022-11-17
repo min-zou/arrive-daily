@@ -27,6 +27,7 @@
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-14**|**Degeneracy removal of spin bands in antiferromagnets with non-interconvertible spin motif pair**|Lin-Ding Yuan, Alex Zunger|[2211.07803v1](http://arxiv.org/abs/2211.07803v1)|null|
 |**2022-11-06**|**A Geometrically Constrained Point Matching based on View-invariant Cross-ratios, and Homography**|Yueh-Cheng Huang, Ching-Huai Yang, Chen-Tao Hsu, Jen-Hui Chuang|[2211.03007v1](http://arxiv.org/abs/2211.03007v1)|null|
 |**2022-11-02**|**Optimizing Fiducial Marker Placement for Improved Visual Localization**|Qiangqiang Huang, Joseph DeGol, Victor Fragoso, Sudipta N. Sinha, John J. Leonard|[2211.01513v1](http://arxiv.org/abs/2211.01513v1)|null|
 |**2022-10-18**|**A Real-Time Fusion Framework for Long-term Visual Localization**|Yuchen Yang, Xudong Zhang, Shuang Gao, Jixiang Wan, Yishan Ping, Yuyue Liu, Jijunnan Li, Yandong Guo|[2210.09757v1](http://arxiv.org/abs/2210.09757v1)|null|
@@ -36,7 +37,6 @@
 |**2022-09-14**|**iSimLoc: Visual Global Localization for Previously Unseen Environments with Simulated Images**|Peng Yin, Ivan Cisneros, Ji Zhang, Howie Choset, Sebastian Scherer|[2209.06376v1](http://arxiv.org/abs/2209.06376v1)|null|
 |**2022-09-04**|**CloudVision: DNN-based Visual Localization of Autonomous Robots using Prebuilt LiDAR Point Cloud**|Evgeny Yudin, Pavel Karpyshev, Mikhail Kurenkov, Alena Savinykh, Andrei Potapov, Evgeny Kruzhkov, Dzmitry Tsetserukou|[2209.01605v1](http://arxiv.org/abs/2209.01605v1)|null|
 |**2022-08-14**|**Visual Localization via Few-Shot Scene Region Classification**|Siyan Dong, Shuzhe Wang, Yixin Zhuang, Juho Kannala, Marc Pollefeys, Baoquan Chen|[2208.06933v1](http://arxiv.org/abs/2208.06933v1)|**[link](https://github.com/siyandong/src)**|
-|**2022-08-13**|**Finding Point with Image: An End-to-End Benchmark for Vision-based UAV Localization**|Ming Dai, Jiahao Chen, Yusheng Lu, Wenlong Hao, Enhui Zheng|[2208.06561v1](http://arxiv.org/abs/2208.06561v1)|null|
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-14**|**3D Reconstruction-Based Seed Counting of Sorghum Panicles for Agricultural Inspection**|Harry Freeman, Eric Schneider, Chung Hee Kim, Moonyoung Lee, George Kantor|[2211.07748v1](http://arxiv.org/abs/2211.07748v1)|null|
 |**2022-11-14**|**Detecting Line Segments in Motion-blurred Images with Events**|Huai Yu, Hao Li, Wen Yang, Lei Yu, Gui-Song Xia|[2211.07365v1](http://arxiv.org/abs/2211.07365v1)|**[link](https://github.com/lh9171338/FE-LSD)**|
 |**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas, Stella Graßhof, Sami S. Brandt|[2211.07195v1](http://arxiv.org/abs/2211.07195v1)|null|
 |**2022-11-13**|**FIRES: Fast Imaging and 3D Reconstruction of Archaeological Sherds**|Jiepeng Wang, Congyi Zhang, Peng Wang, Xin Li, Peter J. Cobb, Christian Theobalt, Wenping Wang|[2211.06897v1](http://arxiv.org/abs/2211.06897v1)|null|
@@ -101,10 +102,10 @@
 |**2022-11-03**|**3D Reconstruction of Multiple Objects by mmWave Radar on UAV**|Yue Sun, Zhuoming Huang, Honggang Zhang, Xiaohui Liang|[2211.02150v1](http://arxiv.org/abs/2211.02150v1)|null|
 |**2022-10-29**|**Semantic-SuPer: A Semantic-aware Surgical Perception Framework for Endoscopic Tissue Classification, Reconstruction, and Tracking**|Shan Lin, Albert J. Miao, Jingpei Lu, Shunkai Yu, Zih-Yun Chiu, Florian Richter, Michael C. Yip|[2210.16674v1](http://arxiv.org/abs/2210.16674v1)|null|
 |**2022-10-28**|**History of two mass loss processes in VY CMa. Fast outflows carving older ejecta**|G. Quintana-Lacaci, L. Velilla-Prieto, M. Agúndez, J. P. Fonfría, J. Cernicharo, L. Decin, A. Castro-Carrizo|[2210.16135v1](http://arxiv.org/abs/2210.16135v1)|null|
-|**2022-10-27**|**State of the Art in Dense Monocular Non-Rigid 3D Reconstruction**|Edith Tretschk, Navami Kairanda, Mallikarjun B R, Rishabh Dabral, Adam Kortylewski, Bernhard Egger, Marc Habermann, Pascal Fua, Christian Theobalt, Vladislav Golyanik|[2210.15664v1](http://arxiv.org/abs/2210.15664v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-15**|**Reconfigurable Intelligent Surface Aided Wireless Sensing for Scene Depth Estimation**|Abdelrahman Taha, Hao Luo, Ahmed Alkhateeb|[2211.08210v1](http://arxiv.org/abs/2211.08210v1)|null|
 |**2022-11-10**|**Unifying Flow, Stereo and Depth Estimation**|Haofei Xu, Jing Zhang, Jianfei Cai, Hamid Rezatofighi, Fisher Yu, Dacheng Tao, Andreas Geiger|[2211.05783v1](http://arxiv.org/abs/2211.05783v1)|**[link](https://github.com/autonomousvision/unimatch)**|
 |**2022-11-08**|**Detection and depth estimation for domestic waste in outdoor environments by sensors fusion**|Ignacio de L. Páez-Ubieta, Edison Velasco-Sánchez, Santiago T. Puente, Francisco A. Candelas|[2211.04085v1](http://arxiv.org/abs/2211.04085v1)|null|
 |**2022-11-07**|**Efficient Single-Image Depth Estimation on Mobile Devices, Mobile AI & AIM 2022 Challenge: Report**|Andrey Ignatov, Grigory Malivenko, Radu Timofte, Lukasz Treszczotko, Xin Chang, Piotr Ksiazek, Michal Lopuszynski, Maciej Pioro, Rafal Rudnicki, Maciej Smyl, Yujie Ma, Zhenyu Li, Zehui Chen, Jialei Xu, Xianming Liu, Junjun Jiang, XueChao Shi, Difan Xu, Yanan Li, Xiaotao Wang, Lei Lei, Ziyu Zhang, Yicheng Wang, Zilong Huang, Guozhong Luo, Gang Yu, Bin Fu, Jiaqi Li, Yiran Wang, Zihao Huang, Zhiguo Cao, Marcos V. Conde, Denis Sapozhnikov, Byeong Hyun Lee, Dongwon Park, Seongmin Hong, Joonhee Lee, Seunggyu Lee, Se Young Chun|[2211.04470v1](http://arxiv.org/abs/2211.04470v1)|null|
@@ -114,7 +115,6 @@
 |**2022-10-31**|**Multi-Camera Calibration Free BEV Representation for 3D Object Detection**|Hongxiang Jiang, Wenming Meng, Hongmei Zhu, Qian Zhang, Jihao Yin|[2210.17252v1](http://arxiv.org/abs/2210.17252v1)|null|
 |**2022-10-29**|**Boosting Monocular 3D Object Detection with Object-Centric Auxiliary Depth Supervision**|Youngseok Kim, Sanmin Kim, Sangmin Sim, Jun Won Choi, Dongsuk Kum|[2210.16574v1](http://arxiv.org/abs/2210.16574v1)|null|
 |**2022-10-28**|**Matching entropy based disparity estimation from light field**|Ligen Shi, Chang Liu, Di He, Xing Zhao, Jun Qiu|[2210.15948v1](http://arxiv.org/abs/2210.15948v1)|null|
-|**2022-10-27**|**Robust Monocular Localization of Drones by Adapting Domain Maps to Depth Prediction Inaccuracies**|Priyesh Shukla, Sureshkumar S., Alex C. Stutts, Sathya Ravi, Theja Tulabandhula, Amit R. Trivedi|[2210.15559v1](http://arxiv.org/abs/2210.15559v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-15**|**A Low-Shot Object Counting Network With Iterative Prototype Adaptation**|Nikola Djukic, Alan Lukezic, Vitjan Zavrtanik, Matej Kristan|[2211.08217v1](http://arxiv.org/abs/2211.08217v1)|null|
 |**2022-11-12**|**Prediction of Geometric Transformation on Cardiac MRI via Convolutional Neural Network**|Xin Gao|[2211.06641v1](http://arxiv.org/abs/2211.06641v1)|**[link](https://github.com/gaoxin492/geometric_transformation_cmr)**|
 |**2022-11-03**|**SAP-DETR: Bridging the Gap Between Salient Points and Queries-Based Transformer Detector for Fast Model Convergency**|Yang Liu, Yao Zhang, Yixin Wang, Yang Zhang, Jiang Tian, Zhongchao Shi, Jianping Fan, Zhiqiang He|[2211.02006v1](http://arxiv.org/abs/2211.02006v1)|null|
 |**2022-10-31**|**Rethinking Generalization: The Impact of Annotation Style on Medical Image Segmentation**|Brennan Nichyporuk, Jillian Cardinell, Justin Szeto, Raghav Mehta, Jean-Pierre R. Falet, Douglas L. Arnold, Sotirios A. Tsaftaris, Tal Arbel|[2210.17398v1](http://arxiv.org/abs/2210.17398v1)|null|
@@ -192,7 +193,6 @@
 |**2022-10-29**|**ImplantFormer: Vision Transformer based Implant Position Regression Using Dental CBCT Data**|Xinquan Yang, Xuguang Li, Xuechen Li, Peixi Wu, Linlin Shen, Xin Li, Yongqiang Deng|[2210.16467v1](http://arxiv.org/abs/2210.16467v1)|null|
 |**2022-10-28**|**Hyper-Connected Transformer Network for Co-Learning Multi-Modality PET-CT Features**|Lei Bi, Xiaohang Fu, Qiufang Liu, Shaoli Song, David Dagan Feng, Michael Fulham, Jinman Kim|[2210.15808v1](http://arxiv.org/abs/2210.15808v1)|null|
 |**2022-10-27**|**Jointly Resampling and Reconstructing Corrupted Images for Image Classification**|Viktoria Heimann, Andreas Spruck, André Kaup|[2210.15444v2](http://arxiv.org/abs/2210.15444v2)|null|
-|**2022-10-23**|**Feedback Assisted Adversarial Learning to Improve the Quality of Cone-beam CT Images**|Takumi Hase, Megumi Nakao, Mitsuhiro Nakamura, Tetsuya Matsuda|[2210.12578v1](http://arxiv.org/abs/2210.12578v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
