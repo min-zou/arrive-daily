@@ -106,7 +106,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-11-16**|**Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**|Hao Qu, Lilian Zhang, Xiaoping Hu, Xiaofeng He, Xianfei Pan, Changhao Chen|[2211.08904v1](http://arxiv.org/abs/2211.08904v1)|null|
-|**2022-11-16**|**LightDepth: A Resource Efficient Depth Estimation Approach for Dealing with Ground Truth Sparsity via Curriculum Learning**|Fatemeh Karimi, Amir Mehrpanah, Reza Rawassizadeh|[2211.08608v1](http://arxiv.org/abs/2211.08608v1)|null|
+|**2022-11-16**|**LightDepth: A Resource Efficient Depth Estimation Approach for Dealing with Ground Truth Sparsity via Curriculum Learning**|Fatemeh Karimi, Amir Mehrpanah, Reza Rawassizadeh|[2211.08608v1](http://arxiv.org/abs/2211.08608v1)|**[link](https://github.com/fatemehkarimii/lightdepth)**|
 |**2022-11-15**|**Reconfigurable Intelligent Surface Aided Wireless Sensing for Scene Depth Estimation**|Abdelrahman Taha, Hao Luo, Ahmed Alkhateeb|[2211.08210v1](http://arxiv.org/abs/2211.08210v1)|null|
 |**2022-11-10**|**Unifying Flow, Stereo and Depth Estimation**|Haofei Xu, Jing Zhang, Jianfei Cai, Hamid Rezatofighi, Fisher Yu, Dacheng Tao, Andreas Geiger|[2211.05783v1](http://arxiv.org/abs/2211.05783v1)|**[link](https://github.com/autonomousvision/unimatch)**|
 |**2022-11-08**|**Detection and depth estimation for domestic waste in outdoor environments by sensors fusion**|Ignacio de L. Páez-Ubieta, Edison Velasco-Sánchez, Santiago T. Puente, Francisco A. Candelas|[2211.04085v1](http://arxiv.org/abs/2211.04085v1)|null|
