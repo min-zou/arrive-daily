@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-23**|**ActiveRMAP: Radiance Field for Active Mapping And Planning**|Huangying Zhan, Jiyang Zheng, Yi Xu, Ian Reid, Hamid Rezatofighi|[2211.12656v1](http://arxiv.org/abs/2211.12656v1)|null|
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez, Suren Jayasuriya, Andreas Spanias|[2211.11836v1](http://arxiv.org/abs/2211.11836v1)|null|
 |**2022-11-21**|**ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**|Mohammad Mahdi Johari, Camilla Carta, François Fleuret|[2211.11704v1](http://arxiv.org/abs/2211.11704v1)|null|
 |**2022-11-16**|**Data Fusion for Multipath-Based SLAM**|Erik Leitinger, Alexander Venus, Bryan Teague, Florian Meyer|[2211.09241v1](http://arxiv.org/abs/2211.09241v1)|null|
@@ -10,7 +11,6 @@
 |**2022-11-12**|**Active View Planning for Visual SLAM in Outdoor Environments Based on Continuous Information Modeling**|Zhihao Wang, Haoyao Chen, Shiwu Zhang, Yunjiang Lou|[2211.06557v1](http://arxiv.org/abs/2211.06557v1)|null|
 |**2022-11-11**|**Multi-domain Cooperative SLAM: The Enabler for Integrated Sensing and Communications**|Jie Yang, Chao-Kai Wen, Xi Yang, Jing Xu, Tao Du, Shi Jin|[2211.05982v1](http://arxiv.org/abs/2211.05982v1)|null|
 |**2022-11-10**|**Online Stochastic Variational Gaussian Process Mapping for Large-Scale SLAM in Real Time**|Ignacio Torroba, Marco Chella, Aldo Teran, Niklas Rolleberg, John Folkesson|[2211.05601v1](http://arxiv.org/abs/2211.05601v1)|**[link](https://github.com/ignaciotb/uwexploration)**|
-|**2022-11-07**|**When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**|Gerhard Kurz, Sebastian A. Scherer, Peter Biber, David Fleer|[2211.03484v1](http://arxiv.org/abs/2211.03484v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,8 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-23**|**BAD-NeRF: Bundle Adjusted Deblur Neural Radiance Fields**|Peng Wang, Lingzhe Zhao, Ruijie Ma, Peidong Liu|[2211.12853v1](http://arxiv.org/abs/2211.12853v1)|null|
+|**2022-11-23**|**ActiveRMAP: Radiance Field for Active Mapping And Planning**|Huangying Zhan, Jiyang Zheng, Yi Xu, Ian Reid, Hamid Rezatofighi|[2211.12656v1](http://arxiv.org/abs/2211.12656v1)|null|
 |**2022-11-22**|**Multi-task Learning for Camera Calibration**|Talha Hanif Butt, Murtaza Taj|[2211.12432v1](http://arxiv.org/abs/2211.12432v1)|**[link](https://github.com/thanif/Camera-Calibration-through-Camera-Projection-Loss)**|
 |**2022-11-22**|**Deblurred Neural Radiance Field with Physical Scene Priors**|Dogyoon Lee, Minhyeok Lee, Chajin Shin, Sangyoun Lee|[2211.12046v1](http://arxiv.org/abs/2211.12046v1)|null|
 |**2022-11-22**|**Level-S$^2$fM: Structure from Motion on Neural Level Set of Implicit Surfaces**|Yuxi Xiao, Nan Xue, Tianfu Wu, Gui-Song Xia|[2211.12018v1](http://arxiv.org/abs/2211.12018v1)|null|
@@ -100,11 +102,10 @@
 |**2022-11-21**|**Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion**|Dario Pavllo, David Joseph Tan, Marie-Julie Rakotosaona, Federico Tombari|[2211.11674v1](http://arxiv.org/abs/2211.11674v1)|null|
 |**2022-11-21**|**Efficient Second-Order Plane Adjustment**|Lipu Zhou|[2211.11542v1](http://arxiv.org/abs/2211.11542v1)|null|
 |**2022-11-21**|**SegNeRF: 3D Part Segmentation with Neural Radiance Fields**|Jesus Zarzar, Sara Rojas, Silvio Giancola, Bernard Ghanem|[2211.11215v2](http://arxiv.org/abs/2211.11215v2)|null|
-|**2022-11-20**|**IC3D: Image-Conditioned 3D Diffusion for Shape Generation**|Cristian Sbrolli, Paolo Cudrano, Matteo Frosi, Matteo Matteucci|[2211.10865v1](http://arxiv.org/abs/2211.10865v1)|null|
-|**2022-11-17**|**RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation**|Titas Anciukevičius, Zexiang Xu, Matthew Fisher, Paul Henderson, Hakan Bilen, Niloy J. Mitra, Paul Guerrero|[2211.09869v1](http://arxiv.org/abs/2211.09869v1)|**[link](https://github.com/anciukevicius/renderdiffusion)**|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-23**|**Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation**|Ning Zhang, Francesco Nex, George Vosselman, Norman Kerle|[2211.13202v1](http://arxiv.org/abs/2211.13202v1)|**[link](https://github.com/noahzn/lite-mono)**|
 |**2022-11-22**|**Depth-Supervised NeRF for Multi-View RGB-D Operating Room Images**|Beerend G. A. Gerats, Jelmer M. Wolterink, Ivo A. M. J. Broeders|[2211.12436v1](http://arxiv.org/abs/2211.12436v1)|null|
 |**2022-11-22**|**Event Transformer+. A multi-purpose solution for efficient event data processing**|Alberto Sabater, Luis Montesano, Ana C. Murillo|[2211.12222v1](http://arxiv.org/abs/2211.12222v1)|null|
 |**2022-11-22**|**The Monocular Depth Estimation Challenge**|Jaime Spencer, C. Stella Qian, Chris Russell, Simon Hadfield, Erich Graf, Wendy Adams, Andrew J. Schofield, James Elder, Richard Bowden, Heng Cong, Stefano Mattoccia, Matteo Poggi, Zeeshan Khan Suri, Yang Tang, Fabio Tosi, Hao Wang, Youmin Zhang, Yusheng Zhang, Chaoqiang Zhao|[2211.12174v1](http://arxiv.org/abs/2211.12174v1)|null|
@@ -114,7 +115,6 @@
 |**2022-11-16**|**Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**|Hao Qu, Lilian Zhang, Xiaoping Hu, Xiaofeng He, Xianfei Pan, Changhao Chen|[2211.08904v1](http://arxiv.org/abs/2211.08904v1)|null|
 |**2022-11-16**|**LightDepth: A Resource Efficient Depth Estimation Approach for Dealing with Ground Truth Sparsity via Curriculum Learning**|Fatemeh Karimi, Amir Mehrpanah, Reza Rawassizadeh|[2211.08608v2](http://arxiv.org/abs/2211.08608v2)|**[link](https://github.com/fatemehkarimii/lightdepth)**|
 |**2022-11-15**|**Reconfigurable Intelligent Surface Aided Wireless Sensing for Scene Depth Estimation**|Abdelrahman Taha, Hao Luo, Ahmed Alkhateeb|[2211.08210v1](http://arxiv.org/abs/2211.08210v1)|null|
-|**2022-11-10**|**Unifying Flow, Stereo and Depth Estimation**|Haofei Xu, Jing Zhang, Jianfei Cai, Hamid Rezatofighi, Fisher Yu, Dacheng Tao, Andreas Geiger|[2211.05783v1](http://arxiv.org/abs/2211.05783v1)|**[link](https://github.com/autonomousvision/unimatch)**|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-22**|**$β$-Multivariational Autoencoder for Entangled Representation Learning in Video Frames**|Fatemeh Nouri, Robert Bergevin|[2211.12627v1](http://arxiv.org/abs/2211.12627v1)|**[link](https://github.com/fatemehN/entangled_representation)**|
 |**2022-11-21**|**PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework**|Bowen Li, Ziyuan Huang, Junjie Ye, Yiming Li, Sebastian Scherer, Hang Zhao, Changhong Fu|[2211.11629v1](http://arxiv.org/abs/2211.11629v1)|null|
 |**2022-11-20**|**A Unified Model for Tracking and Image-Video Detection Has More Power**|Peirong Liu, Rui Wang, Pengchuan Zhang, Omid Poursaeed, Yipin Zhou, Xuefei Cao, Sreya Dutta Roy, Ashish Shah, Ser-Nam Lim|[2211.11077v1](http://arxiv.org/abs/2211.11077v1)|null|
 |**2022-11-20**|**Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric**|Chuanming Tang, Xiao Wang, Ju Huang, Bo Jiang, Lin Zhu, Jianlin Zhang, Yaowei Wang, Yonghong Tian|[2211.11010v1](http://arxiv.org/abs/2211.11010v1)|null|
@@ -140,7 +141,6 @@
 |**2022-11-16**|**Robust Online Video Instance Segmentation with Track Queries**|Zitong Zhan, Daniel McKee, Svetlana Lazebnik|[2211.09108v1](http://arxiv.org/abs/2211.09108v1)|null|
 |**2022-11-16**|**SMILEtrack: SiMIlarity LEarning for Multiple Object Tracking**|Yu-Hsiang Wang, Jun-Wei Hsieh, Ping-Yang Chen, Ming-Ching Chang|[2211.08824v2](http://arxiv.org/abs/2211.08824v2)|null|
 |**2022-11-16**|**Semantic keypoint extraction for scanned animals using multi-depth-camera systems**|Raphael Falque, Teresa Vidal-Calleja, Alen Alempijevic|[2211.08634v1](http://arxiv.org/abs/2211.08634v1)|null|
-|**2022-11-14**|**SportsTrack: An Innovative Method for Tracking Athletes in Sports Scenes**|Jie Wang, Yuzhou Peng, Xiaodong Yang, Ting Wang, Yanming Zhang|[2211.07173v1](http://arxiv.org/abs/2211.07173v1)|**[link](https://github.com/vghost2008/sportstrack)**|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -209,6 +209,7 @@
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-23**|**ManVatar : Fast 3D Head Avatar Reconstruction Using Motion-Aware Neural Voxels**|Yuelang Xu, Lizhen Wang, Xiaochen Zhao, Hongwen Zhang, Yebin Liu|[2211.13206v1](http://arxiv.org/abs/2211.13206v1)|null|
 |**2022-11-20**|**DynIBaR: Neural Dynamic Image-Based Rendering**|Zhengqi Li, Qianqian Wang, Forrester Cole, Richard Tucker, Noah Snavely|[2211.11082v1](http://arxiv.org/abs/2211.11082v1)|null|
 |**2022-11-03**|**Video Event Extraction via Tracking Visual States of Arguments**|Guang Yang, Manling Li, Jiajie Zhang, Xudong Lin, Shih-Fu Chang, Heng Ji|[2211.01781v2](http://arxiv.org/abs/2211.01781v2)|null|
 |**2022-10-29**|**SearchTrack: Multiple Object Tracking with Object-Customized Search and Motion-Aware Features**|Zhong-Min Tsai, Yu-Ju Tsai, Chien-Yao Wang, Hong-Yuan Liao, Youn-Long Lin, Yung-Yu Chuang|[2210.16572v1](http://arxiv.org/abs/2210.16572v1)|**[link](https://github.com/qa276390/searchtrack)**|
@@ -218,4 +219,3 @@
 |**2022-10-09**|**Self-supervised Video Representation Learning with Motion-Aware Masked Autoencoders**|Haosen Yang, Deng Huang, Bin Wen, Jiannan Wu, Hongxun Yao, Yi Jiang, Xiatian Zhu, Zehuan Yuan|[2210.04154v1](http://arxiv.org/abs/2210.04154v1)|**[link](https://github.com/happy-hsy/motionmae)**|
 |**2022-09-24**|**Facilitating Self-monitored Physical Rehabilitation with Virtual Reality and Haptic feedback**|Yu Jiang, Zhipeng Li, Ziyue Dang, Yuntao Wang, Yukang Yan, Y Zhang, Xinguang Wang, Yansong Li, Mouwang Zhou, Hua Tian, Yuanchun Shi|[2209.12018v2](http://arxiv.org/abs/2209.12018v2)|null|
 |**2022-08-24**|**Event-based Image Deblurring with Dynamic Motion Awareness**|Patricia Vitoria, Stamatios Georgoulis, Stepan Tulyakov, Alfredo Bochicchio, Julius Erbach, Yuanyou Li|[2208.11398v1](http://arxiv.org/abs/2208.11398v1)|null|
-|**2022-08-10**|**TagTeam: Towards Wearable-Assisted, Implicit Guidance for Human--Drone Teams**|Kasthuri Jayarajah, Aryya Gangopadhyay, Nicholas Waytowich|[2208.05410v1](http://arxiv.org/abs/2208.05410v1)|null|
