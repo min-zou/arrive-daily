@@ -4,7 +4,7 @@
 |**2022-11-23**|**ActiveRMAP: Radiance Field for Active Mapping And Planning**|Huangying Zhan, Jiyang Zheng, Yi Xu, Ian Reid, Hamid Rezatofighi|[2211.12656v1](http://arxiv.org/abs/2211.12656v1)|null|
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez, Suren Jayasuriya, Andreas Spanias|[2211.11836v1](http://arxiv.org/abs/2211.11836v1)|null|
 |**2022-11-21**|**ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**|Mohammad Mahdi Johari, Camilla Carta, François Fleuret|[2211.11704v1](http://arxiv.org/abs/2211.11704v1)|null|
-|**2022-11-16**|**Data Fusion for Multipath-Based SLAM**|Erik Leitinger, Alexander Venus, Bryan Teague, Florian Meyer|[2211.09241v1](http://arxiv.org/abs/2211.09241v1)|null|
+|**2022-11-16**|**Data Fusion for Multipath-Based SLAM: Combing Information from Multiple Propagation Paths**|Erik Leitinger, Alexander Venus, Bryan Teague, Florian Meyer|[2211.09241v2](http://arxiv.org/abs/2211.09241v2)|null|
 |**2022-11-16**|**Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**|Hao Qu, Lilian Zhang, Xiaoping Hu, Xiaofeng He, Xianfei Pan, Changhao Chen|[2211.08904v1](http://arxiv.org/abs/2211.08904v1)|null|
 |**2022-11-14**|**Detecting Line Segments in Motion-blurred Images with Events**|Huai Yu, Hao Li, Wen Yang, Lei Yu, Gui-Song Xia|[2211.07365v2](http://arxiv.org/abs/2211.07365v2)|**[link](https://github.com/lh9171338/FE-LSD)**|
 |**2022-11-13**|**Automatic Eye-in-Hand Calibration using EKF**|Aditya Ramakrishnan, Chinmay Garg, Haoyang He, Shravan Kumar Gulvadi, Sandeep Keshavegowda|[2211.06881v1](http://arxiv.org/abs/2211.06881v1)|null|
@@ -15,7 +15,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-11-21**|**ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**|Mohammad Mahdi Johari, Camilla Carta, François Fleuret|[2211.11704v1](http://arxiv.org/abs/2211.11704v1)|null|
-|**2022-11-21**|**NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization**|Shitao Tang, Sicong Tang, Andrea Tagliasacchi, Ping Tan, Yasutaka Furukawa|[2211.11177v1](http://arxiv.org/abs/2211.11177v1)|null|
+|**2022-11-21**|**NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization**|Shitao Tang, Sicong Tang, Andrea Tagliasacchi, Ping Tan, Yasutaka Furukawa|[2211.11177v1](http://arxiv.org/abs/2211.11177v1)|**[link](https://github.com/tangshitao/neumap)**|
 |**2022-11-02**|**A comparison of uncertainty estimation approaches for DNN-based camera localization**|Matteo Vaghi, Augusto Luis Ballardini, Simone Fontana, Domenico Giorgio Sorrenti|[2211.01234v1](http://arxiv.org/abs/2211.01234v1)|null|
 |**2022-08-07**|**CVLNet: Cross-View Semantic Correspondence Learning for Video-based Camera Localization**|Yujiao Shi, Xin Yu, Shan Wang, Hongdong Li|[2208.03660v1](http://arxiv.org/abs/2208.03660v1)|null|
 |**2022-07-13**|**Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**|Fangwen Shu, Jiaxuan Wang, Alain Pagani, Didier Stricker|[2207.06058v2](http://arxiv.org/abs/2207.06058v2)|**[link](https://github.com/peterfws/structure-plp-slam)**|
@@ -183,7 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-11-22**|**TranViT: An Integrated Vision Transformer Framework for Discrete Transit Travel Time Range Prediction**|Awad Abdelhalim, Jinhua Zhao|[2211.12322v1](http://arxiv.org/abs/2211.12322v1)|null|
+|**2022-11-22**|**TranViT: An Integrated Vision Transformer Framework for Discrete Transit Travel Time Range Prediction**|Awad Abdelhalim, Jinhua Zhao|[2211.12322v2](http://arxiv.org/abs/2211.12322v2)|null|
 |**2022-11-21**|**Self-Supervised Pre-training of 3D Point Cloud Networks with Image Data**|Andrej Janda, Brandon Wagstaff, Edwin G. Ng, Jonathan Kelly|[2211.11801v1](http://arxiv.org/abs/2211.11801v1)|null|
 |**2022-11-21**|**ProSFDA: Prompt Learning based Source-free Domain Adaptation for Medical Image Segmentation**|Shishuai Hu, Zehui Liao, Yong Xia|[2211.11514v1](http://arxiv.org/abs/2211.11514v1)|null|
 |**2022-11-19**|**TORE: Token Reduction for Efficient Human Mesh Recovery with Transformer**|Zhiyang Dou, Qingxuan Wu, Cheng Lin, Zeyu Cao, Qiangqiang Wu, Weilin Wan, Taku Komura, Wenping Wang|[2211.10705v2](http://arxiv.org/abs/2211.10705v2)|null|
