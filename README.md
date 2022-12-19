@@ -107,7 +107,7 @@
 |---|---|---|---|---|
 |**2022-12-15**|**Solve the Puzzle of Instance Segmentation in Videos: A Weakly Supervised Framework with Spatio-Temporal Collaboration**|Liqi Yan, Qifan Wang, Siqi Ma, Jingang Wang, Changbin Yu|[2212.07592v1](http://arxiv.org/abs/2212.07592v1)|null|
 |**2022-12-12**|**Towards Practical Plug-and-Play Diffusion Models**|Hyojun Go, Yunsung Lee, Jin-Young Kim, Seunghyun Lee, Myeongho Jeong, Hyun Seung Lee, Seungtaek Choi|[2212.05973v1](http://arxiv.org/abs/2212.05973v1)|null|
-|**2022-12-12**|**ROIFormer: Semantic-Aware Region of Interest Transformer for Efficient Self-Supervised Monocular Depth Estimation**|Daitao Xing, Jinglin Shen, Chiuman Ho, Anthony Tzes|[2212.05729v1](http://arxiv.org/abs/2212.05729v1)|null|
+|**2022-12-12**|**ROIFormer: Semantic-Aware Region of Interest Transformer for Efficient Self-Supervised Monocular Depth Estimation**|Daitao Xing, Jinglin Shen, Chiuman Ho, Anthony Tzes|[2212.05729v2](http://arxiv.org/abs/2212.05729v2)|null|
 |**2022-12-10**|**Mind The Edge: Refining Depth Edges in Sparsely-Supervised Monocular Depth Estimation**|Lior Talker, Aviad Cohen, Erez Yosef, Alexandra Dana, Michael Dinerstein|[2212.05315v1](http://arxiv.org/abs/2212.05315v1)|null|
 |**2022-12-09**|**4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions**|Zhongshu Wang, Lingzhi Li, Zhen Shen, Li Shen, Liefeng Bo|[2212.04701v1](http://arxiv.org/abs/2212.04701v1)|**[link](https://github.com/frozoul/4k-nerf)**|
 |**2022-12-06**|**Event-based Monocular Dense Depth Estimation with Recurrent Transformers**|Xu Liu, Jianing Li, Xiaopeng Fan, Yonghong Tian|[2212.02791v1](http://arxiv.org/abs/2212.02791v1)|null|
