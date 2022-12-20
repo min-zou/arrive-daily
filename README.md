@@ -1,16 +1,16 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-16**|**Cartographer_glass: 2D Graph SLAM Framework using LiDAR for Glass Environments**|Lasitha Weerakoon, Gurtajbir Singh Herr, Jasmine Blunt, Miao Yu, Nikhil Chopra|[2212.08633v1](http://arxiv.org/abs/2212.08633v1)|null|
+|**2022-12-16**|**rWiFiSLAM: Effective WiFi Ranging based SLAM System in Ambient Environments**|Bo Wei, Mingcen Gao, Chengwen Luo, Sen Wang, Jin Zhang|[2212.08418v1](http://arxiv.org/abs/2212.08418v1)|null|
 |**2022-12-14**|**Autonomous Vehicle Navigation with LIDAR using Path Planning**|Rahul M K, Sumukh B, Praveen L Uppunda, Vinayaka Raju, C Gururaj|[2212.07155v1](http://arxiv.org/abs/2212.07155v1)|null|
 |**2022-12-14**|**RIS-Enabled and Access-Point-Free Simultaneous Radio Localization and Mapping**|Hyowon Kim, Hui Chen, Musa Furkan Keskin, Yu Ge, Kamran Keykhosravi, George C. Alexandropoulos, Sunwoo Kim, Henk Wymeersch|[2212.07141v1](http://arxiv.org/abs/2212.07141v1)|null|
 |**2022-12-13**|**Know What You Don't Know: Consistency in Sliding Window Filtering with Unobservable States Applied to Visual-Inertial SLAM (Extended Version)**|Daniil Lisus, Mitchell Cohen, James Richard Forbes|[2212.06923v1](http://arxiv.org/abs/2212.06923v1)|null|
 |**2022-12-13**|**SST: Real-time End-to-end Monocular 3D Reconstruction via Sparse Spatial-Temporal Guidance**|Chenyangguang Zhang, Zhiqiang Lou, Yan Di, Federico Tombari, Xiangyang Ji|[2212.06524v1](http://arxiv.org/abs/2212.06524v1)|null|
 |**2022-12-13**|**Localization and Navigation System for Indoor Mobile Robot**|Yanbaihui Liu|[2212.06391v1](http://arxiv.org/abs/2212.06391v1)|null|
 |**2022-12-12**|**Evaluation of RGB-D SLAM in Large Indoor Environments**|Kirill Muravyev, Konstantin Yakovlev|[2212.05980v1](http://arxiv.org/abs/2212.05980v1)|null|
-|**2022-12-12**|**A Light-Weight LiDAR-Inertial SLAM System with Loop Closing**|Kangcheng Liu, Huosen Ou|[2212.05743v1](http://arxiv.org/abs/2212.05743v1)|**[link](https://github.com/KangchengLiu/deep-learning-localization-mapping)**|
+|**2022-12-12**|**A Light-Weight LiDAR-Inertial SLAM System with Loop Closing**|Kangcheng Liu, Huosen Ou|[2212.05743v2](http://arxiv.org/abs/2212.05743v2)|**[link](https://github.com/KangchengLiu/deep-learning-localization-mapping)**|
 |**2022-12-12**|**An Integrated LiDAR-SLAM System for Complex Environment with Noisy Point Clouds**|Kangcheng Liu|[2212.05705v1](http://arxiv.org/abs/2212.05705v1)|**[link](https://github.com/KangchengLiu/deep-learning-localization-mapping)**|
-|**2022-12-09**|**SLAM for Visually Impaired People: A Survey**|Marziyeh Bamdad, Davide Scaramuzza, Alireza Darvishy|[2212.04745v1](http://arxiv.org/abs/2212.04745v1)|null|
-|**2022-12-09**|**Ego-Body Pose Estimation via Ego-Head Pose Estimation**|Jiaman Li, C. Karen Liu, Jiajun Wu|[2212.04636v1](http://arxiv.org/abs/2212.04636v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,8 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-16**|**Detection-aware multi-object tracking evaluation**|Juan C. SanMiguel, Jorge Muñoz, Fabio Poiesi|[2212.08536v1](http://arxiv.org/abs/2212.08536v1)|null|
+|**2022-12-16**|**Neural Enhanced Belief Propagation for Multiobject Tracking**|Mingchao Liang, Florian Meyer|[2212.08340v1](http://arxiv.org/abs/2212.08340v1)|null|
 |**2022-12-15**|**Learning a Fast 3D Spectral Approach to Object Segmentation and Tracking over Space and Time**|Elena Burceanu, Marius Leordeanu|[2212.08058v1](http://arxiv.org/abs/2212.08058v1)|null|
 |**2022-12-15**|**Event-based Visual Tracking in Dynamic Environments**|Irene Perez-Salesa, Rodrigo Aldana-Lopez, Carlos Sagues|[2212.07754v1](http://arxiv.org/abs/2212.07754v1)|**[link](https://github.com/ireneperezsalesa/event_tracking)**|
 |**2022-12-12**|**CountingMOT: Joint Counting, Detection and Re-Identification for Multiple Object Tracking**|Weihong Ren, Bowen Chen, Yuhang Shi, Weibo Jiang, Honghai Liu|[2212.05861v1](http://arxiv.org/abs/2212.05861v1)|null|
@@ -139,8 +141,6 @@
 |**2022-12-06**|**Objects as Spatio-Temporal 2.5D points**|Paridhi Singh, Gaurav Singh, Arun Kumar|[2212.02755v2](http://arxiv.org/abs/2212.02755v2)|null|
 |**2022-12-05**|**DL-SLOT: Dynamic LiDAR SLAM and object tracking based on collaborative graph optimization**|Xuebo Tian, Zhongyang Zhu, Junqiao Zhao, Gengxuan Tian, Chen Ye|[2212.02077v1](http://arxiv.org/abs/2212.02077v1)|null|
 |**2022-12-03**|**Generalizing Multiple Object Tracking to Unseen Domains by Introducing Natural Language Representation**|En Yu, Songtao Liu, Zhuoling Li, Jinrong Yang, Zeming li, Shoudong Han, Wenbing Tao|[2212.01568v1](http://arxiv.org/abs/2212.01568v1)|null|
-|**2022-12-02**|**CC-3DT: Panoramic 3D Object Tracking via Cross-Camera Fusion**|Tobias Fischer, Yung-Hsu Yang, Suryansh Kumar, Min Sun, Fisher Yu|[2212.01247v1](http://arxiv.org/abs/2212.01247v1)|null|
-|**2022-11-26**|**Siamese Object Tracking for Vision-Based UAM Approaching with Pairwise Scale-Channel Attention**|Guangze Zheng, Changhong Fu, Junjie Ye, Bowen Li, Geng Lu, Jia Pan|[2211.14564v1](http://arxiv.org/abs/2211.14564v1)|**[link](https://github.com/vision4robotics/siamsa)**|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,16 +183,16 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-16**|**Attentive Mask CLIP**|Yifan Yang, Weiquan Huang, Yixuan Wei, Houwen Peng, Xinyang Jiang, Huiqiang Jiang, Fangyun Wei, Yin Wang, Han Hu, Lili Qiu, Yuqing Yang|[2212.08653v1](http://arxiv.org/abs/2212.08653v1)|null|
+|**2022-12-16**|**Efficient Conditionally Invariant Representation Learning**|Roman Pogodin, Namrata Deka, Yazhe Li, Danica J. Sutherland, Victor Veitch, Arthur Gretton|[2212.08645v1](http://arxiv.org/abs/2212.08645v1)|**[link](https://github.com/namratadeka/circe)**|
 |**2022-12-15**|**DETR4D: Direct Multi-View 3D Object Detection with Sparse Attention**|Zhipeng Luo, Changqing Zhou, Gongjie Zhang, Shijian Lu|[2212.07849v1](http://arxiv.org/abs/2212.07849v1)|null|
 |**2022-12-13**|**Structured 3D Features for Reconstructing Relightable and Animatable Avatars**|Enric Corona, Mihai Zanfir, Thiemo Alldieck, Eduard Gabriel Bazavan, Andrei Zanfir, Cristian Sminchisescu|[2212.06820v1](http://arxiv.org/abs/2212.06820v1)|null|
 |**2022-12-13**|**GPViT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation**|Chenhongyi Yang, Jiarui Xu, Shalini De Mello, Elliot J. Crowley, Xiaolong Wang|[2212.06795v1](http://arxiv.org/abs/2212.06795v1)|**[link](https://github.com/chenhongyiyang/gpvit)**|
 |**2022-12-13**|**Deep Neural Networks integrating genomics and histopathological images for predicting stages and survival time-to-event in colon cancer**|Olalekan Ogundipe, Zeyneb Kurt, Wai Lok Woo|[2212.06834v1](http://arxiv.org/abs/2212.06834v1)|**[link](https://github.com/ogundipe-l/edcnn)**|
-|**2022-12-12**|**DeepCut: Unsupervised Segmentation using Graph Neural Networks Clustering**|Amit Aflalo, Shai Bagon, Tamar Kashti, Yonina eldar|[2212.05853v1](http://arxiv.org/abs/2212.05853v1)|null|
+|**2022-12-12**|**DeepCut: Unsupervised Segmentation using Graph Neural Networks Clustering**|Amit Aflalo, Shai Bagon, Tamar Kashti, Yonina Eldar|[2212.05853v2](http://arxiv.org/abs/2212.05853v2)|null|
 |**2022-12-12**|**Z-SSMNet: A Zonal-aware Self-Supervised Mesh Network for Prostate Cancer Detection and Diagnosis in bpMRI**|Yuan Yuan, Euijoon Ahn, Dagan Feng, Mohamad Khadra, Jinman Kim|[2212.05808v1](http://arxiv.org/abs/2212.05808v1)|null|
 |**2022-12-08**|**A Scale-Arbitrary Image Super-Resolution Network Using Frequency-domain Information**|Jing Fang, Yinbo Yu, Zhongyuan Wang, Xin Ding, Ruimin Hu|[2212.04314v1](http://arxiv.org/abs/2212.04314v1)|null|
 |**2022-12-07**|**Few-shot Medical Image Segmentation with Cycle-resemblance Attention**|Hao Ding, Changchang Sun, Hao Tang, Dawen Cai, Yan Yan|[2212.03967v1](http://arxiv.org/abs/2212.03967v1)|null|
-|**2022-12-06**|**Semantically Enhanced Global Reasoning for Semantic Segmentation**|Mir Rayat Imtiaz Hossain, Leonid Sigal, James J. Little|[2212.03338v1](http://arxiv.org/abs/2212.03338v1)|null|
-|**2022-12-06**|**Video Object of Interest Segmentation**|Siyuan Zhou, Chunru Zhan, Biao Wang, Tiezheng Ge, Yuning Jiang, Li Niu|[2212.02871v1](http://arxiv.org/abs/2212.02871v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
