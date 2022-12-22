@@ -53,6 +53,7 @@
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-20**|**Seafloor-Invariant Caustics Removal from Underwater Imagery**|Panagiotis Agrafiotis, Konstantinos Karantzalos, Andreas Georgopoulos|[2212.10167v1](http://arxiv.org/abs/2212.10167v1)|null|
 |**2022-12-14**|**Shared Coupling-bridge for Weakly Supervised Local Feature Learning**|Jiayuan Sun, Jiewen Zhu, Luping Ji|[2212.07047v1](http://arxiv.org/abs/2212.07047v1)|**[link](https://github.com/sunjiayuanro/scfeat)**|
 |**2022-12-05**|**Real Time Incremental Image Mosaicking Without Use of Any Camera Parameter**|Suleyman Melih Portakal, Ahmet Alp Kindiroglu, Mahiye Uluyagmur Ozturk|[2212.02302v1](http://arxiv.org/abs/2212.02302v1)|null|
 |**2022-11-30**|**Self-Supervised Feature Learning for Long-Term Metric Visual Localization**|Yuxuan Chen, Timothy D. Barfoot|[2212.00122v1](http://arxiv.org/abs/2212.00122v1)|null|
@@ -62,7 +63,6 @@
 |**2022-10-25**|**A Comparative Study on Deep-Learning Methods for Dense Image Matching of Multi-angle and Multi-date Remote Sensing Stereo Images**|Hessah Albanwan, Rongjun Qin|[2210.14031v1](http://arxiv.org/abs/2210.14031v1)|null|
 |**2022-10-11**|**DeepMLE: A Robust Deep Maximum Likelihood Estimator for Two-view Structure from Motion**|Yuxi Xiao, Li Li, Xiaodi Li, Jian Yao|[2210.05517v1](http://arxiv.org/abs/2210.05517v1)|null|
 |**2022-10-07**|**Mars Rover Localization Based on A2G Obstacle Distribution Pattern Matching**|Lang Zhou, Zhitai Zhang, Hongliang Wang|[2210.03398v1](http://arxiv.org/abs/2210.03398v1)|**[link](https://github.com/Mars-Rover-Localization/A2G-Localization)**|
-|**2022-09-27**|**Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**|Hao Dong, Xieyuanli Chen, Mihai Dusmanu, Viktor Larsson, Marc Pollefeys, Cyrill Stachniss|[2209.13586v1](http://arxiv.org/abs/2209.13586v1)|**[link](https://github.com/prbonn/descriptor-dr)**|
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,8 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-20**|**High-resolution canopy height map in the Landes forest (France) based on GEDI, Sentinel-1, and Sentinel-2 data with a deep learning approach**|Martin Schwartz, Philippe Ciais, Catherine Ottlé, Aurelien De Truchis, Cedric Vega, Ibrahim Fayad, Martin Brandt, Rasmus Fensholt, Nicolas Baghdadi, François Morneau, David Morin, Dominique Guyon, Sylvia Dayau, Jean-Pierre Wigneron|[2212.10265v1](http://arxiv.org/abs/2212.10265v1)|null|
+|**2022-12-20**|**Seafloor-Invariant Caustics Removal from Underwater Imagery**|Panagiotis Agrafiotis, Konstantinos Karantzalos, Andreas Georgopoulos|[2212.10167v1](http://arxiv.org/abs/2212.10167v1)|null|
 |**2022-12-14**|**Shared Coupling-bridge for Weakly Supervised Local Feature Learning**|Jiayuan Sun, Jiewen Zhu, Luping Ji|[2212.07047v1](http://arxiv.org/abs/2212.07047v1)|**[link](https://github.com/sunjiayuanro/scfeat)**|
 |**2022-12-14**|**Localizing Objects in 3D from Egocentric Videos with Visual Queries**|Jinjie Mai, Abdullah Hamdi, Silvio Giancola, Chen Zhao, Bernard Ghanem|[2212.06969v1](http://arxiv.org/abs/2212.06969v1)|null|
 |**2022-12-13**|**Structured 3D Features for Reconstructing Relightable and Animatable Avatars**|Enric Corona, Mihai Zanfir, Thiemo Alldieck, Eduard Gabriel Bazavan, Andrei Zanfir, Cristian Sminchisescu|[2212.06820v1](http://arxiv.org/abs/2212.06820v1)|null|
@@ -100,8 +102,6 @@
 |**2022-12-08**|**Multi-View Mesh Reconstruction with Neural Deferred Shading**|Markus Worchel, Rodrigo Diaz, Weiwen Hu, Oliver Schreer, Ingo Feldmann, Peter Eisert|[2212.04386v1](http://arxiv.org/abs/2212.04386v1)|null|
 |**2022-12-08**|**ALTO: Alternating Latent Topologies for Implicit 3D Reconstruction**|Zhen Wang, Shijie Zhou, Jeong Joon Park, Despoina Paschalidou, Suya You, Gordon Wetzstein, Leonidas Guibas, Achuta Kadambi|[2212.04096v1](http://arxiv.org/abs/2212.04096v1)|null|
 |**2022-12-06**|**NeRDi: Single-View NeRF Synthesis with Language-Guided Diffusion as General Image Priors**|Congyue Deng, Chiyu "Max'' Jiang, Charles R. Qi, Xinchen Yan, Yin Zhou, Leonidas Guibas, Dragomir Anguelov|[2212.03267v1](http://arxiv.org/abs/2212.03267v1)|null|
-|**2022-12-05**|**SceneRF: Self-Supervised Monocular 3D Scene Reconstruction with Radiance Fields**|Anh-Quan Cao, Raoul de Charette|[2212.02501v1](http://arxiv.org/abs/2212.02501v1)|**[link](https://github.com/astra-vision/SceneRF)**|
-|**2022-12-05**|**Real Time Incremental Image Mosaicking Without Use of Any Camera Parameter**|Suleyman Melih Portakal, Ahmet Alp Kindiroglu, Mahiye Uluyagmur Ozturk|[2212.02302v1](http://arxiv.org/abs/2212.02302v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-20**|**Tracking by Associating Clips**|Sanghyun Woo, Kwanyong Park, Seoung Wug Oh, In So Kweon, Joon-Young Lee|[2212.10149v1](http://arxiv.org/abs/2212.10149v1)|null|
 |**2022-12-16**|**Detection-aware multi-object tracking evaluation**|Juan C. SanMiguel, Jorge Muñoz, Fabio Poiesi|[2212.08536v1](http://arxiv.org/abs/2212.08536v1)|null|
 |**2022-12-16**|**Neural Enhanced Belief Propagation for Multiobject Tracking**|Mingchao Liang, Florian Meyer|[2212.08340v1](http://arxiv.org/abs/2212.08340v1)|null|
 |**2022-12-15**|**Learning a Fast 3D Spectral Approach to Object Segmentation and Tracking over Space and Time**|Elena Burceanu, Marius Leordeanu|[2212.08058v1](http://arxiv.org/abs/2212.08058v1)|null|
@@ -140,7 +141,6 @@
 |**2022-12-06**|**Sparse Message Passing Network with Feature Integration for Online Multiple Object Tracking**|Bisheng Wang, Horst Possegger, Horst Bischof, Guo Cao|[2212.02992v1](http://arxiv.org/abs/2212.02992v1)|null|
 |**2022-12-06**|**Objects as Spatio-Temporal 2.5D points**|Paridhi Singh, Gaurav Singh, Arun Kumar|[2212.02755v2](http://arxiv.org/abs/2212.02755v2)|null|
 |**2022-12-05**|**DL-SLOT: Dynamic LiDAR SLAM and object tracking based on collaborative graph optimization**|Xuebo Tian, Zhongyang Zhu, Junqiao Zhao, Gengxuan Tian, Chen Ye|[2212.02077v1](http://arxiv.org/abs/2212.02077v1)|null|
-|**2022-12-03**|**Generalizing Multiple Object Tracking to Unseen Domains by Introducing Natural Language Representation**|En Yu, Songtao Liu, Zhuoling Li, Jinrong Yang, Zeming li, Shoudong Han, Wenbing Tao|[2212.01568v1](http://arxiv.org/abs/2212.01568v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,9 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-20**|**UNO-QA: An Unsupervised Anomaly-Aware Framework with Test-Time Clustering for OCTA Image Quality Assessment**|Juntao Chen, Li Lin, Pujin Cheng, Yijin Huang, Xiaoying Tang|[2212.10541v1](http://arxiv.org/abs/2212.10541v1)|null|
+|**2022-12-20**|**ADAS: A Simple Active-and-Adaptive Baseline for Cross-Domain 3D Semantic Segmentation**|Ben Fei, Siyuan Huang, Jiakang Yuan, Botian Shi, Bo Zhang, Tao Chen, Min Dou, Yu Qiao|[2212.10390v2](http://arxiv.org/abs/2212.10390v2)|**[link](https://github.com/fayeben/adas)**|
+|**2022-12-20**|**Galaxy Image Classification using Hierarchical Data Learning with Weighted Sampling and Label Smoothing**|Xiaohua Ma, Xiangru Li, Ali Luo, Jinqu Zhang, Hui Li|[2212.10081v1](http://arxiv.org/abs/2212.10081v1)|**[link](https://github.com/xrli/hiwl)**|
 |**2022-12-19**|**Model Predictive Spherical Image-Based Visual Servoing On $SO(3)$ for Aggressive Aerial Tracking**|Chao Qin, Qiuyu Yu, Hugh H. T. Liu|[2212.09613v1](http://arxiv.org/abs/2212.09613v1)|null|
 |**2022-12-19**|**TAS-NIR: A VIS+NIR Dataset for Fine-grained Semantic Segmentation in Unstructured Outdoor Environments**|Peter Mortimer, Hans-Joachim Wuensche|[2212.09368v1](http://arxiv.org/abs/2212.09368v1)|null|
 |**2022-12-16**|**Attentive Mask CLIP**|Yifan Yang, Weiquan Huang, Yixuan Wei, Houwen Peng, Xinyang Jiang, Huiqiang Jiang, Fangyun Wei, Yin Wang, Han Hu, Lili Qiu, Yuqing Yang|[2212.08653v1](http://arxiv.org/abs/2212.08653v1)|null|
@@ -190,9 +193,6 @@
 |**2022-12-15**|**DETR4D: Direct Multi-View 3D Object Detection with Sparse Attention**|Zhipeng Luo, Changqing Zhou, Gongjie Zhang, Shijian Lu|[2212.07849v1](http://arxiv.org/abs/2212.07849v1)|null|
 |**2022-12-13**|**Structured 3D Features for Reconstructing Relightable and Animatable Avatars**|Enric Corona, Mihai Zanfir, Thiemo Alldieck, Eduard Gabriel Bazavan, Andrei Zanfir, Cristian Sminchisescu|[2212.06820v1](http://arxiv.org/abs/2212.06820v1)|null|
 |**2022-12-13**|**GPViT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation**|Chenhongyi Yang, Jiarui Xu, Shalini De Mello, Elliot J. Crowley, Xiaolong Wang|[2212.06795v1](http://arxiv.org/abs/2212.06795v1)|**[link](https://github.com/chenhongyiyang/gpvit)**|
-|**2022-12-13**|**Deep Neural Networks integrating genomics and histopathological images for predicting stages and survival time-to-event in colon cancer**|Olalekan Ogundipe, Zeyneb Kurt, Wai Lok Woo|[2212.06834v1](http://arxiv.org/abs/2212.06834v1)|**[link](https://github.com/ogundipe-l/edcnn)**|
-|**2022-12-12**|**DeepCut: Unsupervised Segmentation using Graph Neural Networks Clustering**|Amit Aflalo, Shai Bagon, Tamar Kashti, Yonina Eldar|[2212.05853v2](http://arxiv.org/abs/2212.05853v2)|null|
-|**2022-12-12**|**Z-SSMNet: A Zonal-aware Self-Supervised Mesh Network for Prostate Cancer Detection and Diagnosis in bpMRI**|Yuan Yuan, Euijoon Ahn, Dagan Feng, Mohamad Khadra, Jinman Kim|[2212.05808v1](http://arxiv.org/abs/2212.05808v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -209,7 +209,7 @@
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-12-01**|**MGTANet: Encoding Sequential LiDAR Points Using Long Short-Term Motion-Guided Temporal Attention for 3D Object Detection**|Junho Koh, Junhyung Lee, Youngwoo Lee, Jaekyum Kim, Jun Won Choi|[2212.00442v1](http://arxiv.org/abs/2212.00442v1)|**[link](https://github.com/hyjhkoh/mgtanet)**|
+|**2022-12-01**|**MGTANet: Encoding Sequential LiDAR Points Using Long Short-Term Motion-Guided Temporal Attention for 3D Object Detection**|Junho Koh, Junhyung Lee, Youngwoo Lee, Jaekyum Kim, Jun Won Choi|[2212.00442v2](http://arxiv.org/abs/2212.00442v2)|**[link](https://github.com/hyjhkoh/mgtanet)**|
 |**2022-11-23**|**ManVatar : Fast 3D Head Avatar Reconstruction Using Motion-Aware Neural Voxels**|Yuelang Xu, Lizhen Wang, Xiaochen Zhao, Hongwen Zhang, Yebin Liu|[2211.13206v1](http://arxiv.org/abs/2211.13206v1)|null|
 |**2022-11-20**|**DynIBaR: Neural Dynamic Image-Based Rendering**|Zhengqi Li, Qianqian Wang, Forrester Cole, Richard Tucker, Noah Snavely|[2211.11082v2](http://arxiv.org/abs/2211.11082v2)|null|
 |**2022-11-03**|**Video Event Extraction via Tracking Visual States of Arguments**|Guang Yang, Manling Li, Jiajie Zhang, Xudong Lin, Shih-Fu Chang, Heng Ji|[2211.01781v2](http://arxiv.org/abs/2211.01781v2)|null|
