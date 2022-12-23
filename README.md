@@ -92,6 +92,9 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-21**|**Hi-LASSIE: High-Fidelity Articulated Shape and Skeleton Discovery from Sparse Image Ensemble**|Chun-Han Yao, Wei-Chih Hung, Yuanzhen Li, Michael Rubinstein, Ming-Hsuan Yang, Varun Jampani|[2212.11042v1](http://arxiv.org/abs/2212.11042v1)|null|
+|**2022-12-21**|**Incremental Learning for Neural Radiance Field with Uncertainty-Filtered Knowledge Distillation**|Mengqi Guo, Chen Li, Gim Hee Lee|[2212.10950v1](http://arxiv.org/abs/2212.10950v1)|null|
+|**2022-12-21**|**PaletteNeRF: Palette-based Appearance Editing of Neural Radiance Fields**|Zhengfei Kuang, Fujun Luan, Sai Bi, Zhixin Shu, Gordon Wetzstein, Kalyan Sunkavalli|[2212.10699v1](http://arxiv.org/abs/2212.10699v1)|null|
 |**2022-12-20**|**High-resolution canopy height map in the Landes forest (France) based on GEDI, Sentinel-1, and Sentinel-2 data with a deep learning approach**|Martin Schwartz, Philippe Ciais, Catherine Ottlé, Aurelien De Truchis, Cedric Vega, Ibrahim Fayad, Martin Brandt, Rasmus Fensholt, Nicolas Baghdadi, François Morneau, David Morin, Dominique Guyon, Sylvia Dayau, Jean-Pierre Wigneron|[2212.10265v1](http://arxiv.org/abs/2212.10265v1)|null|
 |**2022-12-20**|**Seafloor-Invariant Caustics Removal from Underwater Imagery**|Panagiotis Agrafiotis, Konstantinos Karantzalos, Andreas Georgopoulos|[2212.10167v1](http://arxiv.org/abs/2212.10167v1)|null|
 |**2022-12-14**|**Shared Coupling-bridge for Weakly Supervised Local Feature Learning**|Jiayuan Sun, Jiewen Zhu, Luping Ji|[2212.07047v1](http://arxiv.org/abs/2212.07047v1)|**[link](https://github.com/sunjiayuanro/scfeat)**|
@@ -99,12 +102,10 @@
 |**2022-12-13**|**Structured 3D Features for Reconstructing Relightable and Animatable Avatars**|Enric Corona, Mihai Zanfir, Thiemo Alldieck, Eduard Gabriel Bazavan, Andrei Zanfir, Cristian Sminchisescu|[2212.06820v1](http://arxiv.org/abs/2212.06820v1)|null|
 |**2022-12-13**|**SST: Real-time End-to-end Monocular 3D Reconstruction via Sparse Spatial-Temporal Guidance**|Chenyangguang Zhang, Zhiqiang Lou, Yan Di, Federico Tombari, Xiangyang Ji|[2212.06524v1](http://arxiv.org/abs/2212.06524v1)|null|
 |**2022-12-08**|**SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation**|Yen-Chi Cheng, Hsin-Ying Lee, Sergey Tulyakov, Alexander Schwing, Liangyan Gui|[2212.04493v1](http://arxiv.org/abs/2212.04493v1)|**[link](https://github.com/yccyenchicheng/SDFusion)**|
-|**2022-12-08**|**Multi-View Mesh Reconstruction with Neural Deferred Shading**|Markus Worchel, Rodrigo Diaz, Weiwen Hu, Oliver Schreer, Ingo Feldmann, Peter Eisert|[2212.04386v1](http://arxiv.org/abs/2212.04386v1)|null|
-|**2022-12-08**|**ALTO: Alternating Latent Topologies for Implicit 3D Reconstruction**|Zhen Wang, Shijie Zhou, Jeong Joon Park, Despoina Paschalidou, Suya You, Gordon Wetzstein, Leonidas Guibas, Achuta Kadambi|[2212.04096v1](http://arxiv.org/abs/2212.04096v1)|null|
-|**2022-12-06**|**NeRDi: Single-View NeRF Synthesis with Language-Guided Diffusion as General Image Priors**|Congyue Deng, Chiyu "Max'' Jiang, Charles R. Qi, Xinchen Yan, Yin Zhou, Leonidas Guibas, Dragomir Anguelov|[2212.03267v1](http://arxiv.org/abs/2212.03267v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-21**|**Semi-Supervised Learning of Monocular Depth Estimation via Consistency Regularization with K-way Disjoint Masking**|Jongbeom Baek, Gyeongnyeon Kim, Seonghoon Park, Honggyu An, Matteo Poggi, Seungryong Kim|[2212.10806v2](http://arxiv.org/abs/2212.10806v2)|**[link](https://github.com/ku-cvlab/maskingdepth)**|
 |**2022-12-17**|**Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark**|Xiaofeng Wang, Zheng Zhu, Yunpeng Zhang, Guan Huang, Yun Ye, Wenbo Xu, Ziwei Chen, Xingang Wang|[2212.08914v1](http://arxiv.org/abs/2212.08914v1)|**[link](https://github.com/jeffwang987/asap)**|
 |**2022-12-17**|**DAG: Depth-Aware Guidance with Denoising Diffusion Probabilistic Models**|Gyeongnyeon Kim, Wooseok Jang, Gyuseong Lee, Susung Hong, Junyoung Seo, Seungryong Kim|[2212.08861v1](http://arxiv.org/abs/2212.08861v1)|null|
 |**2022-12-15**|**Solve the Puzzle of Instance Segmentation in Videos: A Weakly Supervised Framework with Spatio-Temporal Collaboration**|Liqi Yan, Qifan Wang, Siqi Ma, Jingang Wang, Changbin Yu|[2212.07592v1](http://arxiv.org/abs/2212.07592v1)|null|
@@ -114,7 +115,6 @@
 |**2022-12-09**|**4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions**|Zhongshu Wang, Lingzhi Li, Zhen Shen, Li Shen, Liefeng Bo|[2212.04701v1](http://arxiv.org/abs/2212.04701v1)|**[link](https://github.com/frozoul/4k-nerf)**|
 |**2022-12-06**|**Event-based Monocular Dense Depth Estimation with Recurrent Transformers**|Xu Liu, Jianing Li, Xiaopeng Fan, Yonghong Tian|[2212.02791v1](http://arxiv.org/abs/2212.02791v1)|null|
 |**2022-12-05**|**GARF:Geometry-Aware Generalized Neural Radiance Field**|Yue Shi, Dingyi Rong, Bingbing Ni, Chang Chen, Wenjun Zhang|[2212.02280v2](http://arxiv.org/abs/2212.02280v2)|null|
-|**2022-12-04**|**3D Object Aided Self-Supervised Monocular Depth Estimation**|Songlin Wei, Guodong Chen, Wenzheng Chi, Zhenhua Wang, Lining Sun|[2212.01768v1](http://arxiv.org/abs/2212.01768v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
