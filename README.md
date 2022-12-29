@@ -6,7 +6,7 @@
 |**2022-12-23**|**Implementation of a Blind navigation method in outdoors/indoors areas**|Mohammad Javadian Farzaneh, Hossein Mahvash Mohammadi|[2212.12185v1](http://arxiv.org/abs/2212.12185v1)|null|
 |**2022-12-22**|**S-Graphs+: Real-time Localization and Mapping leveraging Hierarchical Representations**|Hriday Bavle, Jose Luis Sanchez-Lopez, Muhammad Shaheer, Javier Civera, Holger Voos|[2212.11770v1](http://arxiv.org/abs/2212.11770v1)|null|
 |**2022-12-22**|**Active SLAM: A Review On Last Decade**|Muhammad Farhan Ahmed, Khayyam Masood, Vincent Fremont|[2212.11654v1](http://arxiv.org/abs/2212.11654v1)|null|
-|**2022-12-22**|**Motion, Unit Dual Quaternion and Motion Optimization**|Liqun Qi|[2212.11593v1](http://arxiv.org/abs/2212.11593v1)|null|
+|**2022-12-22**|**Motion, Unit Dual Quaternion and Motion Optimization**|Liqun Qi|[2212.11593v2](http://arxiv.org/abs/2212.11593v2)|null|
 |**2022-12-22**|**Vision-Based Environmental Perception for Autonomous Driving**|Fei Liu, Zihao Lu, Xianke Lin|[2212.11453v1](http://arxiv.org/abs/2212.11453v1)|null|
 |**2022-12-19**|**Mu$^{2}$SLAM: Multitask, Multilingual Speech and Language Models**|Yong Cheng, Yu Zhang, Melvin Johnson, Wolfgang Macherey, Ankur Bapna|[2212.09553v1](http://arxiv.org/abs/2212.09553v1)|null|
 |**2022-12-16**|**Cartographer_glass: 2D Graph SLAM Framework using LiDAR for Glass Environments**|Lasitha Weerakoon, Gurtajbir Singh Herr, Jasmine Blunt, Miao Yu, Nikhil Chopra|[2212.08633v1](http://arxiv.org/abs/2212.08633v1)|null|
@@ -95,7 +95,7 @@
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao, Yusuke Monno, Masatoshi Okutomi|[2212.12721v1](http://arxiv.org/abs/2212.12721v1)|null|
 |**2022-12-22**|**Coded Illumination for 3D Lensless Imaging**|Yucheng Zheng, M. Salman Asif|[2212.11891v1](http://arxiv.org/abs/2212.11891v1)|null|
 |**2022-12-21**|**Lightweight Monocular Depth Estimation**|Ruilin Ma, Shiyao Chen, Qin Zhang|[2212.11363v1](http://arxiv.org/abs/2212.11363v1)|null|
-|**2022-12-21**|**Hi-LASSIE: High-Fidelity Articulated Shape and Skeleton Discovery from Sparse Image Ensemble**|Chun-Han Yao, Wei-Chih Hung, Yuanzhen Li, Michael Rubinstein, Ming-Hsuan Yang, Varun Jampani|[2212.11042v1](http://arxiv.org/abs/2212.11042v1)|null|
+|**2022-12-21**|**Hi-LASSIE: High-Fidelity Articulated Shape and Skeleton Discovery from Sparse Image Ensemble**|Chun-Han Yao, Wei-Chih Hung, Yuanzhen Li, Michael Rubinstein, Ming-Hsuan Yang, Varun Jampani|[2212.11042v2](http://arxiv.org/abs/2212.11042v2)|null|
 |**2022-12-21**|**Incremental Learning for Neural Radiance Field with Uncertainty-Filtered Knowledge Distillation**|Mengqi Guo, Chen Li, Gim Hee Lee|[2212.10950v1](http://arxiv.org/abs/2212.10950v1)|null|
 |**2022-12-21**|**PaletteNeRF: Palette-based Appearance Editing of Neural Radiance Fields**|Zhengfei Kuang, Fujun Luan, Sai Bi, Zhixin Shu, Gordon Wetzstein, Kalyan Sunkavalli|[2212.10699v1](http://arxiv.org/abs/2212.10699v1)|null|
 |**2022-12-20**|**High-resolution canopy height map in the Landes forest (France) based on GEDI, Sentinel-1, and Sentinel-2 data with a deep learning approach**|Martin Schwartz, Philippe Ciais, Catherine Ottlé, Aurelien De Truchis, Cedric Vega, Ibrahim Fayad, Martin Brandt, Rasmus Fensholt, Nicolas Baghdadi, François Morneau, David Morin, Dominique Guyon, Sylvia Dayau, Jean-Pierre Wigneron|[2212.10265v1](http://arxiv.org/abs/2212.10265v1)|null|
@@ -170,7 +170,7 @@
 ## Visual Odometry
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-12-26**|**ESVIO: Event-based Stereo Visual Inertial Odometry**|Peiyu Chen, Weipeng Guan, Peng Lu|[2212.13184v1](http://arxiv.org/abs/2212.13184v1)|null|
+|**2022-12-26**|**ESVIO: Event-based Stereo Visual Inertial Odometry**|Peiyu Chen, Weipeng Guan, Peng Lu|[2212.13184v1](http://arxiv.org/abs/2212.13184v1)|**[link](https://github.com/arclab-hku/event_based_vo-vio-slam)**|
 |**2022-12-15**|**AirVO: An Illumination-Robust Point-Line Visual Odometry**|Kuan Xu, Yuefan Hao, Chen Wang, Lihua Xie|[2212.07595v1](http://arxiv.org/abs/2212.07595v1)|**[link](https://github.com/xukuanHIT/AirVO)**|
 |**2022-12-14**|**Autonomous Vehicle Navigation with LIDAR using Path Planning**|Rahul M K, Sumukh B, Praveen L Uppunda, Vinayaka Raju, C Gururaj|[2212.07155v1](http://arxiv.org/abs/2212.07155v1)|null|
 |**2022-11-28**|**Safety-quantifiable Line Feature-based Monocular Visual Localization with 3D Prior Map**|Xi Zheng, Weisong Wen, Li-Ta Hsu|[2211.15127v1](http://arxiv.org/abs/2211.15127v1)|null|
