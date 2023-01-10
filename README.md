@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-06**|**CyberLoc: Towards Accurate Long-term Visual Localization**|Liu Liu, Yukai Lin, Xiao Liang, Qichao Xu, Miao Jia, Yangdong Liu, Yuxiang Wen, Wei Luo, Jiangwei Li|[2301.02403v1](http://arxiv.org/abs/2301.02403v1)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi, Juho Kannala, Esa Rahtu, Li Liu, Janne Heikkilä|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi, Mohammad Reza Ahmadzadeh|[2301.00618v1](http://arxiv.org/abs/2301.00618v1)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel, Nan Yang, Rui Wang, Niclas Zeller, Daniel Cremers|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
@@ -10,7 +11,6 @@
 |**2022-12-24**|**A Comprehensive Review on Autonomous Navigation**|Saeid Nahavandi, Roohallah Alizadehsani, Darius Nahavandi, Shady Mohamed, Navid Mohajer, Mohammad Rokonuzzaman, Ibrahim Hossain|[2212.12808v1](http://arxiv.org/abs/2212.12808v1)|null|
 |**2022-12-23**|**Radio SLAM for 6G Systems at THz Frequencies: Design and Experimental Validation**|Marina Lotti, Gianni Pasolini, Anna Guerra, Francesco Guidi, Raffaele D'Errico, Davide Dardari|[2212.12388v1](http://arxiv.org/abs/2212.12388v1)|null|
 |**2022-12-23**|**Implementation of a Blind navigation method in outdoors/indoors areas**|Mohammad Javadian Farzaneh, Hossein Mahvash Mohammadi|[2212.12185v1](http://arxiv.org/abs/2212.12185v1)|null|
-|**2022-12-22**|**S-Graphs+: Real-time Localization and Mapping leveraging Hierarchical Representations**|Hriday Bavle, Jose Luis Sanchez-Lopez, Muhammad Shaheer, Javier Civera, Holger Voos|[2212.11770v1](http://arxiv.org/abs/2212.11770v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -27,6 +27,7 @@
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-06**|**CyberLoc: Towards Accurate Long-term Visual Localization**|Liu Liu, Yukai Lin, Xiao Liang, Qichao Xu, Miao Jia, Yangdong Liu, Yuxiang Wen, Wei Luo, Jiangwei Li|[2301.02403v1](http://arxiv.org/abs/2301.02403v1)|null|
 |**2023-01-05**|**A Probabilistic Framework for Visual Localization in Ambiguous Scenes**|Fereidoon Zangeneh, Leonard Bruns, Amit Dekel, Alessandro Pieropan, Patric Jensfelt|[2301.02086v1](http://arxiv.org/abs/2301.02086v1)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel, Nan Yang, Rui Wang, Niclas Zeller, Daniel Cremers|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-23**|**SuperGF: Unifying Local and Global Features for Visual Localization**|Wenzheng Song, Ran Yan, Boshu Lei, Takayuki Okatani|[2212.13105v1](http://arxiv.org/abs/2212.13105v1)|null|
@@ -36,7 +37,6 @@
 |**2022-12-04**|**Privacy-Preserving Visual Localization with Event Cameras**|Junho Kim, Young Min Kim, Yicheng Wu, Ramzi Zahreddine, Weston A. Welge, Gurunandan Krishnan, Sizhuo Ma, Jian Wang|[2212.03177v2](http://arxiv.org/abs/2212.03177v2)|**[link](https://github.com/82magnolia/event_localization)**|
 |**2022-11-30**|**Self-Supervised Feature Learning for Long-Term Metric Visual Localization**|Yuxuan Chen, Timothy D. Barfoot|[2212.00122v1](http://arxiv.org/abs/2212.00122v1)|null|
 |**2022-11-28**|**Safety-quantifiable Line Feature-based Monocular Visual Localization with 3D Prior Map**|Xi Zheng, Weisong Wen, Li-Ta Hsu|[2211.15127v1](http://arxiv.org/abs/2211.15127v1)|null|
-|**2022-11-28**|**FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**|Xinjiang Wang, Zeyu Liu, Yu Hu, Wei Xi, Wenxian Yu, Danping Zou|[2211.15069v1](http://arxiv.org/abs/2211.15069v1)|null|
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-06**|**High-Speed High-Accuracy Spatial Curve Tracking Using Motion Primitives in Industrial Robots**|Honglu He, Chen-lung Lu, Yunshi Wen, Glenn Saunders, Pinghai Yang, Jeffrey Schoonover, Agung Julius, John T. Wen|[2301.02348v1](http://arxiv.org/abs/2301.02348v1)|null|
 |**2023-01-05**|**Small Moving Object Detection Algorithm Based on Motion Information**|Ziwei Sun, Zexi Hua, Hengcao Li|[2301.01917v1](http://arxiv.org/abs/2301.01917v1)|null|
 |**2023-01-04**|**Motion-based Post-Processing: Using Kalman Filter to Exclude Similar Targets in Underwater Object Tracking**|Yunfeng Li, Bo Wang, Ye Li, Wei Huo, Zhuoyan Liu|[2301.01482v1](http://arxiv.org/abs/2301.01482v1)|**[link](https://github.com/liyunfenglyf/kf_in_underwater_trackers)**|
 |**2022-12-31**|**Tracking Passengers and Baggage Items using Multiple Overhead Cameras at Security Checkpoints**|Abubakar Siddique, Henry Medeiros|[2301.00190v1](http://arxiv.org/abs/2301.00190v1)|null|
@@ -140,7 +141,6 @@
 |**2022-12-20**|**Tracking by Associating Clips**|Sanghyun Woo, Kwanyong Park, Seoung Wug Oh, In So Kweon, Joon-Young Lee|[2212.10149v1](http://arxiv.org/abs/2212.10149v1)|null|
 |**2022-12-16**|**Detection-aware multi-object tracking evaluation**|Juan C. SanMiguel, Jorge Muñoz, Fabio Poiesi|[2212.08536v1](http://arxiv.org/abs/2212.08536v1)|null|
 |**2022-12-16**|**Neural Enhanced Belief Propagation for Multiobject Tracking**|Mingchao Liang, Florian Meyer|[2212.08340v1](http://arxiv.org/abs/2212.08340v1)|null|
-|**2022-12-15**|**Learning a Fast 3D Spectral Approach to Object Segmentation and Tracking over Space and Time**|Elena Burceanu, Marius Leordeanu|[2212.08058v1](http://arxiv.org/abs/2212.08058v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
