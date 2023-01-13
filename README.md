@@ -1,6 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-11**|**AdaptSLAM: Edge-Assisted Adaptive SLAM with Resource Constraints via Uncertainty Minimization**|Ying Chen, Hazer Inaltekin, Maria Gorlatova|[2301.04620v1](http://arxiv.org/abs/2301.04620v1)|null|
+|**2023-01-11**|**TBV Radar SLAM -- trust but verify loop candidates**|Daniel Adolfsson, Mattias Karlsson, Vladimír Kubelka, Martin Magnusson, Henrik Andreasson|[2301.04397v2](http://arxiv.org/abs/2301.04397v2)|null|
 |**2023-01-09**|**Motion Addition and Motion Optimization**|Liqun Qi|[2301.03174v1](http://arxiv.org/abs/2301.03174v1)|null|
 |**2023-01-08**|**Towards Open World NeRF-Based SLAM**|Daniil Lisus, Connor Holmes|[2301.03102v1](http://arxiv.org/abs/2301.03102v1)|null|
 |**2023-01-06**|**CyberLoc: Towards Accurate Long-term Visual Localization**|Liu Liu, Yukai Lin, Xiao Liang, Qichao Xu, Miao Jia, Yangdong Liu, Yuxiang Wen, Wei Luo, Jiangwei Li|[2301.02403v1](http://arxiv.org/abs/2301.02403v1)|null|
@@ -9,8 +11,6 @@
 |**2022-12-31**|**Digital Twin-Enabled Domain Adaptation for Zero-Touch UAV Networks: Survey and Challenges**|Maxwell McManus, Yuqing Cui, Josh, Zhang, Jiangqi Hu, Sabarish Krishna Moorthy, Zhangyu Guan, Nicholas Mastronarde, Elizabeth Serena Bentley, Michael Medley|[2301.03359v1](http://arxiv.org/abs/2301.03359v1)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel, Nan Yang, Rui Wang, Niclas Zeller, Daniel Cremers|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-29**|**An Enhanced LiDAR-Inertial SLAM System for Robotics Localization and Mapping**|Kangcheng Liu|[2212.14209v1](http://arxiv.org/abs/2212.14209v1)|**[link](https://github.com/KangchengLiu/slam_resources)**|
-|**2022-12-27**|**Clock and Orientation-Robust Simultaneous Radio Localization and Mapping at Millimeter Wave Bands**|Felipe Gómez-Cuba, Gonzalo Feijoo-Rodríguez, Nuria González-Prelcic|[2212.13477v1](http://arxiv.org/abs/2212.13477v1)|**[link](https://github.com/gomezcuba/castro-5g)**|
-|**2022-12-25**|**A Combined Approach Toward Consistent Reconstructions of Indoor Spaces Based on 6D RGB-D Odometry and KinectFusion**|Nadia Figueroa, Haiwei Dong, Abdulmotaleb El Saddik|[2212.14772v1](http://arxiv.org/abs/2212.14772v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -27,6 +27,7 @@
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-10**|**Pix2Map: Cross-modal Retrieval for Inferring Street Maps from Images**|Xindi Wu, KwunFung Lau, Francesco Ferroni, Aljoša Ošep, Deva Ramanan|[2301.04224v1](http://arxiv.org/abs/2301.04224v1)|null|
 |**2023-01-06**|**CyberLoc: Towards Accurate Long-term Visual Localization**|Liu Liu, Yukai Lin, Xiao Liang, Qichao Xu, Miao Jia, Yangdong Liu, Yuxiang Wen, Wei Luo, Jiangwei Li|[2301.02403v1](http://arxiv.org/abs/2301.02403v1)|null|
 |**2023-01-05**|**A Probabilistic Framework for Visual Localization in Ambiguous Scenes**|Fereidoon Zangeneh, Leonard Bruns, Amit Dekel, Alessandro Pieropan, Patric Jensfelt|[2301.02086v1](http://arxiv.org/abs/2301.02086v1)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel, Nan Yang, Rui Wang, Niclas Zeller, Daniel Cremers|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
@@ -36,7 +37,6 @@
 |**2022-12-06**|**Attention-Enhanced Cross-modal Localization Between 360 Images and Point Clouds**|Zhipeng Zhao, Huai Yu, Chenwei Lyv, Wen Yang, Sebastian Scherer|[2212.02757v1](http://arxiv.org/abs/2212.02757v1)|null|
 |**2022-12-04**|**Privacy-Preserving Visual Localization with Event Cameras**|Junho Kim, Young Min Kim, Yicheng Wu, Ramzi Zahreddine, Weston A. Welge, Gurunandan Krishnan, Sizhuo Ma, Jian Wang|[2212.03177v2](http://arxiv.org/abs/2212.03177v2)|**[link](https://github.com/82magnolia/event_localization)**|
 |**2022-11-30**|**Self-Supervised Feature Learning for Long-Term Metric Visual Localization**|Yuxuan Chen, Timothy D. Barfoot|[2212.00122v1](http://arxiv.org/abs/2212.00122v1)|null|
-|**2022-11-28**|**Safety-quantifiable Line Feature-based Monocular Visual Localization with 3D Prior Map**|Xi Zheng, Weisong Wen, Li-Ta Hsu|[2211.15127v1](http://arxiv.org/abs/2211.15127v1)|null|
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,8 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-11**|**Elevation Estimation-Driven Building 3D Reconstruction from Single-View Remote Sensing Imagery**|Yongqiang Mao, Kaiqiang Chen, Liangjin Zhao, Wei Chen, Deke Tang, Wenjie Liu, Zhirui Wang, Wenhui Diao, Xian Sun, Kun Fu|[2301.04581v1](http://arxiv.org/abs/2301.04581v1)|null|
+|**2023-01-11**|**First 3D reconstruction of a blast furnace using muography**|Amélie Cohu, Antoine Chevalier, Oleksandr Nechyporuk, Andreas Franzen, Jan Sauerwald, Jean-Christophe Ianigro, Jacques Marteau|[2301.04354v1](http://arxiv.org/abs/2301.04354v1)|null|
 |**2023-01-08**|**Automatic Diagnosis of Carotid Atherosclerosis Using a Portable Freehand 3D Ultrasound Imaging System**|Jiawen Li, Yunqian Huang, Sheng Song, Hongbo Chen, Junni Shi, Duo Xu, Haibin Zhang, Man Chen, Rui Zheng|[2301.03081v1](http://arxiv.org/abs/2301.03081v1)|null|
 |**2023-01-04**|**Towards a Pipeline for Real-Time Visualization of Faces for VR-based Telepresence and Live Broadcasting Utilizing Neural Rendering**|Philipp Ladwig, Rene Ebertowski, Alexander Pech, Ralf Dörner, Christian Geiger|[2301.01490v1](http://arxiv.org/abs/2301.01490v1)|**[link](https://github.com/mirevi/face-synthesizer-jvrb)**|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi, Juho Kannala, Esa Rahtu, Li Liu, Janne Heikkilä|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
@@ -100,8 +102,6 @@
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao, Yusuke Monno, Masatoshi Okutomi|[2212.12721v1](http://arxiv.org/abs/2212.12721v1)|null|
 |**2022-12-22**|**Coded Illumination for 3D Lensless Imaging**|Yucheng Zheng, M. Salman Asif|[2212.11891v1](http://arxiv.org/abs/2212.11891v1)|null|
 |**2022-12-21**|**Lightweight Monocular Depth Estimation**|Ruilin Ma, Shiyao Chen, Qin Zhang|[2212.11363v1](http://arxiv.org/abs/2212.11363v1)|null|
-|**2022-12-21**|**Hi-LASSIE: High-Fidelity Articulated Shape and Skeleton Discovery from Sparse Image Ensemble**|Chun-Han Yao, Wei-Chih Hung, Yuanzhen Li, Michael Rubinstein, Ming-Hsuan Yang, Varun Jampani|[2212.11042v2](http://arxiv.org/abs/2212.11042v2)|null|
-|**2022-12-21**|**Incremental Learning for Neural Radiance Field with Uncertainty-Filtered Knowledge Distillation**|Mengqi Guo, Chen Li, Gim Hee Lee|[2212.10950v1](http://arxiv.org/abs/2212.10950v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,7 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-01-09**|**EgoTracks: A Long-term Egocentric Visual Object Tracking Dataset**|Hao Tang, Kevin Liang, Kristen Grauman, Matt Feiszli, Weiyao Wang|[2301.03213v1](http://arxiv.org/abs/2301.03213v1)|null|
+|**2023-01-09**|**EgoTracks: A Long-term Egocentric Visual Object Tracking Dataset**|Hao Tang, Kevin Liang, Kristen Grauman, Matt Feiszli, Weiyao Wang|[2301.03213v2](http://arxiv.org/abs/2301.03213v2)|null|
 |**2023-01-06**|**High-Speed High-Accuracy Spatial Curve Tracking Using Motion Primitives in Industrial Robots**|Honglu He, Chen-lung Lu, Yunshi Wen, Glenn Saunders, Pinghai Yang, Jeffrey Schoonover, Agung Julius, John T. Wen|[2301.02348v1](http://arxiv.org/abs/2301.02348v1)|null|
 |**2023-01-05**|**Small Moving Object Detection Algorithm Based on Motion Information**|Ziwei Sun, Zexi Hua, Hengcao Li|[2301.01917v1](http://arxiv.org/abs/2301.01917v1)|null|
 |**2023-01-04**|**Motion-based Post-Processing: Using Kalman Filter to Exclude Similar Targets in Underwater Object Tracking**|Yunfeng Li, Bo Wang, Ye Li, Wei Huo, Zhuoyan Liu|[2301.01482v1](http://arxiv.org/abs/2301.01482v1)|**[link](https://github.com/liyunfenglyf/kf_in_underwater_trackers)**|
