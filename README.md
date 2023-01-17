@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-13**|**A LiDAR-Inertial-Visual SLAM System with Loop Detection**|Kangcheng Liu|[2301.05604v1](http://arxiv.org/abs/2301.05604v1)|null|
 |**2023-01-11**|**AdaptSLAM: Edge-Assisted Adaptive SLAM with Resource Constraints via Uncertainty Minimization**|Ying Chen, Hazer Inaltekin, Maria Gorlatova|[2301.04620v1](http://arxiv.org/abs/2301.04620v1)|**[link](https://github.com/i3tyc/adaptslam)**|
 |**2023-01-11**|**TBV Radar SLAM -- trust but verify loop candidates**|Daniel Adolfsson, Mattias Karlsson, Vladimír Kubelka, Martin Magnusson, Henrik Andreasson|[2301.04397v2](http://arxiv.org/abs/2301.04397v2)|null|
 |**2023-01-09**|**Motion Addition and Motion Optimization**|Liqun Qi|[2301.03174v1](http://arxiv.org/abs/2301.03174v1)|null|
@@ -10,7 +11,6 @@
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi, Mohammad Reza Ahmadzadeh|[2301.00618v2](http://arxiv.org/abs/2301.00618v2)|null|
 |**2022-12-31**|**Digital Twin-Enabled Domain Adaptation for Zero-Touch UAV Networks: Survey and Challenges**|Maxwell McManus, Yuqing Cui, Josh, Zhang, Jiangqi Hu, Sabarish Krishna Moorthy, Zhangyu Guan, Nicholas Mastronarde, Elizabeth Serena Bentley, Michael Medley|[2301.03359v1](http://arxiv.org/abs/2301.03359v1)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel, Nan Yang, Rui Wang, Niclas Zeller, Daniel Cremers|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
-|**2022-12-29**|**An Enhanced LiDAR-Inertial SLAM System for Robotics Localization and Mapping**|Kangcheng Liu|[2212.14209v1](http://arxiv.org/abs/2212.14209v1)|**[link](https://github.com/KangchengLiu/slam_resources)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-12**|**Salient Object Detection for Images Taken by People With Vision Impairments**|Jarek Reynolds, Chandra Kanth Nagesh, Danna Gurari|[2301.05323v1](http://arxiv.org/abs/2301.05323v1)|null|
 |**2023-01-12**|**CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP**|Runnan Chen, Youquan Liu, Lingdong Kong, Xinge Zhu, Yuexin Ma, Yikang Li, Yuenan Hou, Yu Qiao, Wenping Wang|[2301.04926v1](http://arxiv.org/abs/2301.04926v1)|null|
 |**2023-01-07**|**Deep Learning-Based UAV Aerial Triangulation without Image Control Points**|Jiageng Zhong, Ming Li, Jiangying Qin, Hanqi Zhang|[2301.02869v1](http://arxiv.org/abs/2301.02869v1)|null|
 |**2023-01-04**|**A deep local attention network for pre-operative lymph node metastasis prediction in pancreatic cancer via multiphase CT imaging**|Zhilin Zheng, Xu Fang, Jiawen Yao, Mengmeng Zhu, Le Lu, Lingyun Huang, Jing Xiao, Yu Shi, Hong Lu, Jianping Lu, Ling Zhang, Chengwei Shao, Yun Bian|[2301.01448v1](http://arxiv.org/abs/2301.01448v1)|null|
@@ -192,7 +193,6 @@
 |**2022-12-29**|**A Unified Object Counting Network with Object Occupation Prior**|Shengqin Jiang, Qing Wang, Fengna Cheng, Yuankai Qi, Qingshan Liu|[2212.14193v1](http://arxiv.org/abs/2212.14193v1)|null|
 |**2022-12-28**|**Shape-Aware Fine-Grained Classification of Erythroid Cells**|Ye Wang, Rui Ma, Xiaoqing Ma, Honghua Cui, Yubin Xiao, Xuan Wu, You Zhou|[2212.13695v1](http://arxiv.org/abs/2212.13695v1)|**[link](https://github.com/wangye8899/bmec)**|
 |**2022-12-25**|**Adaptive Blind Watermarking Using Psychovisual Image Features**|Arezoo PariZanganeh, Ghazaleh Ghorbanzadeh, Zahra Nabizadeh ShahreBabak, Nader Karimi, Shadrokh Samavi|[2212.12864v1](http://arxiv.org/abs/2212.12864v1)|null|
-|**2022-12-24**|**DiP: Learning Discriminative Implicit Parts for Person Re-Identification**|Dengjie Li, Siyu Chen, Yujie Zhong, Fan Liang, Lin Ma|[2212.13906v1](http://arxiv.org/abs/2212.13906v1)|**[link](https://github.com/siyuch-fdu/DiP)**|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
