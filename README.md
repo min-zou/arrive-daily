@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-16**|**Swarm-SLAM : Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems**|Pierre-Yves Lajoie, Giovanni Beltrame|[2301.06230v1](http://arxiv.org/abs/2301.06230v1)|null|
 |**2023-01-13**|**A LiDAR-Inertial-Visual SLAM System with Loop Detection**|Kangcheng Liu|[2301.05604v1](http://arxiv.org/abs/2301.05604v1)|null|
 |**2023-01-11**|**AdaptSLAM: Edge-Assisted Adaptive SLAM with Resource Constraints via Uncertainty Minimization**|Ying Chen, Hazer Inaltekin, Maria Gorlatova|[2301.04620v1](http://arxiv.org/abs/2301.04620v1)|**[link](https://github.com/i3tyc/adaptslam)**|
 |**2023-01-11**|**TBV Radar SLAM -- trust but verify loop candidates**|Daniel Adolfsson, Mattias Karlsson, Vladimír Kubelka, Martin Magnusson, Henrik Andreasson|[2301.04397v2](http://arxiv.org/abs/2301.04397v2)|null|
@@ -10,7 +11,6 @@
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi, Juho Kannala, Esa Rahtu, Li Liu, Janne Heikkilä|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi, Mohammad Reza Ahmadzadeh|[2301.00618v2](http://arxiv.org/abs/2301.00618v2)|null|
 |**2022-12-31**|**Digital Twin-Enabled Domain Adaptation for Zero-Touch UAV Networks: Survey and Challenges**|Maxwell McManus, Yuqing Cui, Josh, Zhang, Jiangqi Hu, Sabarish Krishna Moorthy, Zhangyu Guan, Nicholas Mastronarde, Elizabeth Serena Bentley, Michael Medley|[2301.03359v1](http://arxiv.org/abs/2301.03359v1)|null|
-|**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel, Nan Yang, Rui Wang, Niclas Zeller, Daniel Cremers|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -53,6 +53,7 @@
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-17**|**Feature-based Image Matching for Identifying Individual Kākā**|Fintan O'Sullivan, Kirita-Rose Escott, Rachael Shaw, Andrew Lensen|[2301.06678v1](http://arxiv.org/abs/2301.06678v1)|null|
 |**2023-01-07**|**Deep Learning-Based UAV Aerial Triangulation without Image Control Points**|Jiageng Zhong, Ming Li, Jiangying Qin, Hanqi Zhang|[2301.02869v1](http://arxiv.org/abs/2301.02869v1)|null|
 |**2023-01-06**|**The UNCOVER Survey: A first-look HST+JWST catalog of 50,000 galaxies near Abell 2744 and beyond**|John R. Weaver, Sam E. Cutler, Richard Pan, Katherine E. Whitaker, Ivo Labbe, Sedona H. Price, Rachel Bezanson, Gabriel Brammer, Danilo Marchesini, Joel Leja, Bingjie Wang, Lukas J. Furtak, Adi Zitrin, Hakim Atek, Dan Coe, Pratika Dayal, Pieter van Dokkum, Robert Feldmann, Natascha Forster Schreiber, Marijn Franx, Seiji Fujimoto, Yoshinobu Fudamoto, Karl Glazebrook, Anna de Graaff, Jenny E. Greene, Stephanie Juneau, Susan Kassin, Mariska Kriek, Gourav Khullar, Michael Maseda, Lamiya A. Mowla, Adam Muzzin, Themiya Nanayakkara, Erica J. Nelson, Pascal A. Oesch, Camilla Pacifici, Casey Papovich, David Setton, Alice E. Shapley, Renske Smit, Mauro Stefanon, Edward N. Taylor, Andrea Weibel, Christina C. Williams|[2301.02671v1](http://arxiv.org/abs/2301.02671v1)|null|
 |**2022-12-31**|**Translating Text Synopses to Video Storyboards**|Xu Gu, Yuchong Sun, Feiyue Ni, Shizhe Chen, Ruihua Song, Boyuan Li, Xiang Cao|[2301.00135v1](http://arxiv.org/abs/2301.00135v1)|null|
@@ -62,7 +63,6 @@
 |**2022-12-14**|**Shared Coupling-bridge for Weakly Supervised Local Feature Learning**|Jiayuan Sun, Jiewen Zhu, Luping Ji|[2212.07047v1](http://arxiv.org/abs/2212.07047v1)|**[link](https://github.com/sunjiayuanro/scfeat)**|
 |**2022-12-05**|**Real Time Incremental Image Mosaicking Without Use of Any Camera Parameter**|Suleyman Melih Portakal, Ahmet Alp Kindiroglu, Mahiye Uluyagmur Ozturk|[2212.02302v1](http://arxiv.org/abs/2212.02302v1)|null|
 |**2022-11-30**|**Self-Supervised Feature Learning for Long-Term Metric Visual Localization**|Yuxuan Chen, Timothy D. Barfoot|[2212.00122v1](http://arxiv.org/abs/2212.00122v1)|null|
-|**2022-11-28**|**FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**|Xinjiang Wang, Zeyu Liu, Yu Hu, Wei Xi, Wenxian Yu, Danping Zou|[2211.15069v1](http://arxiv.org/abs/2211.15069v1)|null|
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -105,6 +105,9 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-17**|**SwinDepth: Unsupervised Depth Estimation using Monocular Sequences via Swin Transformer and Densely Cascaded Network**|Dongseok Shim, H. Jin Kim|[2301.06715v1](http://arxiv.org/abs/2301.06715v1)|null|
+|**2023-01-14**|**Dyna-DepthFormer: Multi-frame Transformer for Self-Supervised Depth Estimation in Dynamic Scenes**|Songchun Zhang, Chunhui Zhao|[2301.05871v1](http://arxiv.org/abs/2301.05871v1)|null|
+|**2023-01-14**|**${S}^{2}$Net: Accurate Panorama Depth Estimation on Spherical Surface**|Meng Li, Senbo Wang, Weihao Yuan, Weichao Shen, Zhe Sheng, Zilong Dong|[2301.05845v1](http://arxiv.org/abs/2301.05845v1)|null|
 |**2023-01-09**|**Deep Planar Parallax for Monocular Depth Estimation**|Haoqian Liang, Zhichao Li, Ya Yang, Naiyan Wang|[2301.03178v1](http://arxiv.org/abs/2301.03178v1)|null|
 |**2023-01-09**|**A Study on the Generality of Neural Network Structures for Monocular Depth Estimation**|Jinwoo Bae, Kyumin Hwang, Sunghoon Im|[2301.03169v2](http://arxiv.org/abs/2301.03169v2)|null|
 |**2023-01-05**|**All in Tokens: Unifying Output Space of Visual Tasks via Soft Token**|Jia Ning, Chen Li, Zheng Zhang, Zigang Geng, Qi Dai, Kun He, Han Hu|[2301.02229v1](http://arxiv.org/abs/2301.02229v1)|**[link](https://github.com/swintransformer/ait)**|
@@ -112,9 +115,6 @@
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi, Juho Kannala, Esa Rahtu, Li Liu, Janne Heikkilä|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi, Alexander Hermans, Bastian Leibe|[2212.14474v1](http://arxiv.org/abs/2212.14474v1)|null|
 |**2022-12-24**|**HandsOff: Labeled Dataset Generation With No Additional Human Annotations**|Austin Xu, Mariya I. Vasileva, Achal Dave, Arjun Seshadri|[2212.12645v1](http://arxiv.org/abs/2212.12645v1)|null|
-|**2022-12-22**|**Shakes on a Plane: Unsupervised Depth Estimation from Unstabilized Photography**|Ilya Chugunov, Yuxuan Zhang, Felix Heide|[2212.12324v1](http://arxiv.org/abs/2212.12324v1)|null|
-|**2022-12-22**|**Depth Estimation maps of lidar and stereo images**|Fei Wu, Luoyu Chen|[2212.11741v1](http://arxiv.org/abs/2212.11741v1)|null|
-|**2022-12-22**|**Vision-Based Environmental Perception for Autonomous Driving**|Fei Liu, Zihao Lu, Xianke Lin|[2212.11453v1](http://arxiv.org/abs/2212.11453v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,16 +183,16 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-17**|**SwinDepth: Unsupervised Depth Estimation using Monocular Sequences via Swin Transformer and Densely Cascaded Network**|Dongseok Shim, H. Jin Kim|[2301.06715v1](http://arxiv.org/abs/2301.06715v1)|null|
+|**2023-01-17**|**Distribution Aligned Feature Clustering for Zero-Shot Sketch-Based Image Retrieval**|Yuchen Wu, Kun Song, Fangzheng Zhao, Jiansheng Chen, Huimin Ma|[2301.06685v1](http://arxiv.org/abs/2301.06685v1)|null|
+|**2023-01-16**|**Learning Aligned Cross-modal Representations for Referring Image Segmentation**|Zhichao Wei, Xiaohao Chen, Mingqiang Chen, Siyu Zhu|[2301.06429v1](http://arxiv.org/abs/2301.06429v1)|null|
+|**2023-01-15**|**Segmenting thalamic nuclei from manifold projections of multi-contrast MRI**|Chang Yan, Muhan Shao, Zhangxing Bian, Anqi Feng, Yuan Xue, Jiachen Zhuo, Rao P. Gullapalli, Aaron Carass, Jerry L. Prince|[2301.06114v1](http://arxiv.org/abs/2301.06114v1)|null|
 |**2023-01-12**|**Salient Object Detection for Images Taken by People With Vision Impairments**|Jarek Reynolds, Chandra Kanth Nagesh, Danna Gurari|[2301.05323v1](http://arxiv.org/abs/2301.05323v1)|null|
+|**2023-01-12**|**Self-Supervised Image-to-Point Distillation via Semantically Tolerant Contrastive Loss**|Anas Mahmoud, Jordan S. K. Hu, Tianshu Kuai, Ali Harakeh, Liam Paull, Steven L. Waslander|[2301.05709v1](http://arxiv.org/abs/2301.05709v1)|null|
 |**2023-01-12**|**CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP**|Runnan Chen, Youquan Liu, Lingdong Kong, Xinge Zhu, Yuexin Ma, Yikang Li, Yuenan Hou, Yu Qiao, Wenping Wang|[2301.04926v1](http://arxiv.org/abs/2301.04926v1)|null|
 |**2023-01-07**|**Deep Learning-Based UAV Aerial Triangulation without Image Control Points**|Jiageng Zhong, Ming Li, Jiangying Qin, Hanqi Zhang|[2301.02869v1](http://arxiv.org/abs/2301.02869v1)|null|
 |**2023-01-04**|**A deep local attention network for pre-operative lymph node metastasis prediction in pancreatic cancer via multiphase CT imaging**|Zhilin Zheng, Xu Fang, Jiawen Yao, Mengmeng Zhu, Le Lu, Lingyun Huang, Jing Xiao, Yu Shi, Hong Lu, Jianping Lu, Ling Zhang, Chengwei Shao, Yun Bian|[2301.01448v1](http://arxiv.org/abs/2301.01448v1)|null|
 |**2023-01-03**|**Further Improving Weakly-supervised Object Localization via Causal Knowledge Distillation**|Feifei Shao, Yawei Luo, Shengjian Wu, Qiyi Li, Fei Gao, Yi Yang, Jun Xiao|[2301.01060v1](http://arxiv.org/abs/2301.01060v1)|**[link](https://github.com/shaofeifei11/kd-ci-cam)**|
-|**2023-01-02**|**Spectral Bandwidth Recovery of Optical Coherence Tomography Images using Deep Learning**|Timothy T. Yu, Da Ma, Jayden Cole, Myeong Jin Ju, Mirza F. Beg, Marinko V. Sarunic|[2301.00504v1](http://arxiv.org/abs/2301.00504v1)|null|
-|**2022-12-30**|**Image-Coupled Volume Propagation for Stereo Matching**|Oh-Hun Kwon, Eduard Zell|[2301.00695v1](http://arxiv.org/abs/2301.00695v1)|null|
-|**2022-12-29**|**A Unified Object Counting Network with Object Occupation Prior**|Shengqin Jiang, Qing Wang, Fengna Cheng, Yuankai Qi, Qingshan Liu|[2212.14193v1](http://arxiv.org/abs/2212.14193v1)|null|
-|**2022-12-28**|**Shape-Aware Fine-Grained Classification of Erythroid Cells**|Ye Wang, Rui Ma, Xiaoqing Ma, Honghua Cui, Yubin Xiao, Xuan Wu, You Zhou|[2212.13695v1](http://arxiv.org/abs/2212.13695v1)|**[link](https://github.com/wangye8899/bmec)**|
-|**2022-12-25**|**Adaptive Blind Watermarking Using Psychovisual Image Features**|Arezoo PariZanganeh, Ghazaleh Ghorbanzadeh, Zahra Nabizadeh ShahreBabak, Nader Karimi, Shadrokh Samavi|[2212.12864v1](http://arxiv.org/abs/2212.12864v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
