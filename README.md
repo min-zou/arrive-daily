@@ -8,7 +8,7 @@
 |**2023-01-21**|**Dense RGB SLAM with Neural Implicit Maps**|Heng Li, Xiaodong Gu, Weihao Yuan, Luwei Yang, Zilong Dong, Ping Tan|[2301.08930v1](http://arxiv.org/abs/2301.08930v1)|null|
 |**2023-01-18**|**Extended FastSLAM Using Cellular Multipath Component Delays and Angular Information**|Junshi Chen, Russ Whiton, Fredrik Tufvesson|[2301.07560v1](http://arxiv.org/abs/2301.07560v1)|null|
 |**2023-01-17**|**COVINS-G: A Generic Back-end for Collaborative Visual-Inertial SLAM**|Manthan Patel, Marco Karrer, Philipp Bänninger, Margarita Chli|[2301.07147v1](http://arxiv.org/abs/2301.07147v1)|null|
-|**2023-01-16**|**Swarm-SLAM : Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems**|Pierre-Yves Lajoie, Giovanni Beltrame|[2301.06230v1](http://arxiv.org/abs/2301.06230v1)|**[link](https://github.com/mistlab/swarm-slam)**|
+|**2023-01-16**|**Swarm-SLAM : Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems**|Pierre-Yves Lajoie, Giovanni Beltrame|[2301.06230v2](http://arxiv.org/abs/2301.06230v2)|**[link](https://github.com/mistlab/swarm-slam)**|
 |**2023-01-13**|**A LiDAR-Inertial-Visual SLAM System with Loop Detection**|Kangcheng Liu|[2301.05604v1](http://arxiv.org/abs/2301.05604v1)|null|
 |**2023-01-11**|**AdaptSLAM: Edge-Assisted Adaptive SLAM with Resource Constraints via Uncertainty Minimization**|Ying Chen, Hazer Inaltekin, Maria Gorlatova|[2301.04620v1](http://arxiv.org/abs/2301.04620v1)|**[link](https://github.com/i3tyc/adaptslam)**|
 ## Camera Localization
@@ -66,6 +66,7 @@
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-28**|**AdaSfM: From Coarse Global to Fine Incremental Adaptive Structure from Motion**|Yu Chen, Zihao Yu, Shu Song, Tianning Yu, Jianming Li, Gim Hee Lee|[2301.12135v1](http://arxiv.org/abs/2301.12135v1)|null|
 |**2023-01-20**|**A vision-based autonomous UAV inspection framework for unknown tunnel construction sites with dynamic obstacles**|Zhefan Xu, Baihan Chen, Xiaoyang Zhan, Yumeng Xiu, Christopher Suzuki, Kenji Shimada|[2301.08422v1](http://arxiv.org/abs/2301.08422v1)|null|
 |**2023-01-18**|**OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models**|Xingyi He, Jiaming Sun, Yuang Wang, Di Huang, Hujun Bao, Xiaowei Zhou|[2301.07673v1](http://arxiv.org/abs/2301.07673v1)|null|
 |**2023-01-05**|**Robust Dynamic Radiance Fields**|Yu-Lun Liu, Chen Gao, Andreas Meuleman, Hung-Yu Tseng, Ayush Saraf, Changil Kim, Yung-Yu Chuang, Johannes Kopf, Jia-Bin Huang|[2301.02239v1](http://arxiv.org/abs/2301.02239v1)|null|
@@ -75,10 +76,10 @@
 |**2022-12-02**|**Sparse SPN: Depth Completion from Sparse Keypoints**|Yuqun Wu, Jae Yong Lee, Derek Hoiem|[2212.00987v1](http://arxiv.org/abs/2212.00987v1)|null|
 |**2022-11-29**|**Morphology & Environment's Role on the Star Formation Rate -- Stellar Mass Relation in COSMOS from 0 < z < 3.5**|Kevin C. Cooke, Jeyhan S. Kartaltepe, Caitlin Rose, K. D. Tyler, Behnam Darvish, Sarah K. Leslie, Ying-jie Peng, Boris Häußler, Anton M. Koekemoer|[2211.16527v1](http://arxiv.org/abs/2211.16527v1)|null|
 |**2022-11-24**|**SfM-TTR: Using Structure from Motion for Test-Time Refinement of Single-View Depth Networks**|Sergio Izquierdo, Javier Civera|[2211.13551v1](http://arxiv.org/abs/2211.13551v1)|null|
-|**2022-11-22**|**Level-S$^2$fM: Structure from Motion on Neural Level Set of Implicit Surfaces**|Yuxi Xiao, Nan Xue, Tianfu Wu, Gui-Song Xia|[2211.12018v1](http://arxiv.org/abs/2211.12018v1)|null|
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-28**|**AdaSfM: From Coarse Global to Fine Incremental Adaptive Structure from Motion**|Yu Chen, Zihao Yu, Shu Song, Tianning Yu, Jianming Li, Gim Hee Lee|[2301.12135v1](http://arxiv.org/abs/2301.12135v1)|null|
 |**2023-01-20**|**A vision-based autonomous UAV inspection framework for unknown tunnel construction sites with dynamic obstacles**|Zhefan Xu, Baihan Chen, Xiaoyang Zhan, Yumeng Xiu, Christopher Suzuki, Kenji Shimada|[2301.08422v1](http://arxiv.org/abs/2301.08422v1)|null|
 |**2023-01-05**|**Robust Dynamic Radiance Fields**|Yu-Lun Liu, Chen Gao, Andreas Meuleman, Hung-Yu Tseng, Ayush Saraf, Changil Kim, Yung-Yu Chuang, Johannes Kopf, Jia-Bin Huang|[2301.02239v1](http://arxiv.org/abs/2301.02239v1)|null|
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao, Yusuke Monno, Masatoshi Okutomi|[2212.12721v1](http://arxiv.org/abs/2212.12721v1)|null|
@@ -88,11 +89,10 @@
 |**2022-11-28**|**FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**|Xinjiang Wang, Zeyu Liu, Yu Hu, Wei Xi, Wenxian Yu, Danping Zou|[2211.15069v1](http://arxiv.org/abs/2211.15069v1)|null|
 |**2022-11-24**|**JigsawPlan: Room Layout Jigsaw Puzzle Extreme Structure from Motion using Diffusion Models**|Sepidehsadat Hosseini, Mohammad Amin Shabani, Saghar Irandoust, Yasutaka Furukawa|[2211.13785v1](http://arxiv.org/abs/2211.13785v1)|null|
 |**2022-11-24**|**SfM-TTR: Using Structure from Motion for Test-Time Refinement of Single-View Depth Networks**|Sergio Izquierdo, Javier Civera|[2211.13551v1](http://arxiv.org/abs/2211.13551v1)|null|
-|**2022-11-22**|**Level-S$^2$fM: Structure from Motion on Neural Level Set of Implicit Surfaces**|Yuxi Xiao, Nan Xue, Tianfu Wu, Gui-Song Xia|[2211.12018v1](http://arxiv.org/abs/2211.12018v1)|null|
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-01-27**|**3D genome reconstruction from partially phased Hi-C data**|Diego Cifuentes, Jan Draisma, Oskar Henriksson, Annachiara Korchmaros, Kaie Kubjas|[2301.11764v1](http://arxiv.org/abs/2301.11764v1)|null|
+|**2023-01-27**|**3D genome reconstruction from partially phased Hi-C data**|Diego Cifuentes, Jan Draisma, Oskar Henriksson, Annachiara Korchmaros, Kaie Kubjas|[2301.11764v1](http://arxiv.org/abs/2301.11764v1)|**[link](https://github.com/kaiekubjas/3d-genome-reconstruction-from-partially-phased-hic-data)**|
 |**2023-01-27**|**A Comparison of Tiny-nerf versus Spatial Representations for 3d Reconstruction**|Saulo Abraham Gante, Juan Irving Vasquez, Marco Antonio Valencia, Mauricio Olguín Carbajal|[2301.11522v1](http://arxiv.org/abs/2301.11522v1)|null|
 |**2023-01-25**|**Local Feature Extraction from Salient Regions by Feature Map Transformation**|Yerim Jung, Nur Suriza Syazwany Binti Ahmad Nizam, Sang-Chul Lee|[2301.10413v1](http://arxiv.org/abs/2301.10413v1)|null|
 |**2023-01-23**|**Two-stage 2D-to-3D reconstruction of realistic microstructures: Implementation and numerical validation by effective properties**|Paul Seibert, Alexander Raßloff, Karl Kalina, Joachim Gussone, Katrin Bugelnig, Martin Diehl, Markus Kästner|[2301.09313v1](http://arxiv.org/abs/2301.09313v1)|null|
@@ -105,6 +105,7 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-30**|**AudioEar: Single-View Ear Reconstruction for Personalized Spatial Audio**|Xiaoyang Huang, Yanjun Wang, Yang Liu, Bingbing Ni, Wenjun Zhang, Jinxian Liu, Teng Li|[2301.12613v1](http://arxiv.org/abs/2301.12613v1)|**[link](https://github.com/seanywang0408/audioear)**|
 |**2023-01-27**|**HDPV-SLAM: Hybrid Depth-augmented Panoramic Visual SLAM for Mobile Mapping System with Tilted LiDAR and Panoramic Visual Camera**|Mostafa Ahmadi, Amin Alizadeh Naeini, Zahra Arjmandi, Yujia Zhang, Mohammad Moein Sheikholeslami, Gunho Sohn|[2301.11823v1](http://arxiv.org/abs/2301.11823v1)|null|
 |**2023-01-26**|**Learning Good Features to Transfer Across Tasks and Domains**|Pierluigi Zama Ramirez, Adriano Cardace, Luca De Luigi, Alessio Tonioni, Samuele Salti, Luigi Di Stefano|[2301.11310v1](http://arxiv.org/abs/2301.11310v1)|null|
 |**2023-01-25**|**On the Adversarial Robustness of Camera-based 3D Object Detection**|Shaoyuan Xie, Zichao Li, Zeyu Wang, Cihang Xie|[2301.10766v1](http://arxiv.org/abs/2301.10766v1)|null|
@@ -114,7 +115,6 @@
 |**2023-01-19**|**SoftEnNet: Symbiotic Monocular Depth Estimation and Lumen Segmentation for Colonoscopy Endorobots**|Alwyn Mathew, Ludovic Magerand, Emanuele Trucco, Luigi Manfredi|[2301.08157v1](http://arxiv.org/abs/2301.08157v1)|null|
 |**2023-01-17**|**SwinDepth: Unsupervised Depth Estimation using Monocular Sequences via Swin Transformer and Densely Cascaded Network**|Dongseok Shim, H. Jin Kim|[2301.06715v1](http://arxiv.org/abs/2301.06715v1)|null|
 |**2023-01-14**|**Dyna-DepthFormer: Multi-frame Transformer for Self-Supervised Depth Estimation in Dynamic Scenes**|Songchun Zhang, Chunhui Zhao|[2301.05871v1](http://arxiv.org/abs/2301.05871v1)|null|
-|**2023-01-14**|**${S}^{2}$Net: Accurate Panorama Depth Estimation on Spherical Surface**|Meng Li, Senbo Wang, Weihao Yuan, Weichao Shen, Zhe Sheng, Zilong Dong|[2301.05845v1](http://arxiv.org/abs/2301.05845v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-28**|**Object Preserving Siamese Network for Single Object Tracking on Point Clouds**|Kaijie Zhao, Haitao Zhao, Zhongze Wang, Jingchao Peng, Zhengwei Hu|[2301.12057v1](http://arxiv.org/abs/2301.12057v1)|null|
 |**2023-01-26**|**Compact Transformer Tracker with Correlative Masked Modeling**|Zikai Song, Run Luo, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang|[2301.10938v1](http://arxiv.org/abs/2301.10938v1)|**[link](https://github.com/hustdml/cttrack)**|
 |**2023-01-25**|**An Efficient Semi-Automated Scheme for Infrastructure LiDAR Annotation**|Aotian Wu, Pan He, Xiao Li, Ke Chen, Sanjay Ranka, Anand Rangarajan|[2301.10732v1](http://arxiv.org/abs/2301.10732v1)|null|
 |**2023-01-25**|**Tracking Different Ant Species: An Unsupervised Domain Adaptation Framework and a Dataset for Multi-object Tracking**|Chamath Abeysinghe, Chris Reid, Hamid Rezatofighi, Bernd Meyer|[2301.10559v1](http://arxiv.org/abs/2301.10559v1)|null|
@@ -138,9 +139,8 @@
 |**2023-01-19**|**Benchmarking YOLOv5 and YOLOv7 models with DeepSORT for droplet tracking applications**|Mihir Durve, Sibilla Orsini, Adriano Tiribocchi, Andrea Montessori, Jean-Michel Tucny, Marco Lauricella, Andrea Camposeo, Dario Pisignano, Sauro Succi|[2301.08189v1](http://arxiv.org/abs/2301.08189v1)|null|
 |**2023-01-09**|**EgoTracks: A Long-term Egocentric Visual Object Tracking Dataset**|Hao Tang, Kevin Liang, Kristen Grauman, Matt Feiszli, Weiyao Wang|[2301.03213v2](http://arxiv.org/abs/2301.03213v2)|null|
 |**2023-01-06**|**High-Speed High-Accuracy Spatial Curve Tracking Using Motion Primitives in Industrial Robots**|Honglu He, Chen-lung Lu, Yunshi Wen, Glenn Saunders, Pinghai Yang, Jeffrey Schoonover, Agung Julius, John T. Wen|[2301.02348v1](http://arxiv.org/abs/2301.02348v1)|null|
-|**2023-01-05**|**Small Moving Object Detection Algorithm Based on Motion Information**|Ziwei Sun, Zexi Hua, Hengcao Li|[2301.01917v1](http://arxiv.org/abs/2301.01917v1)|null|
+|**2023-01-05**|**Small Moving Object Detection Algorithm in Surveillance Video Based on Motion Information**|Ziwei Sun, Zexi Hua, Hengcao Li, Haiyan Zhong|[2301.01917v2](http://arxiv.org/abs/2301.01917v2)|null|
 |**2023-01-04**|**Motion-based Post-Processing: Using Kalman Filter to Exclude Similar Targets in Underwater Object Tracking**|Yunfeng Li, Bo Wang, Ye Li, Wei Huo, Zhuoyan Liu|[2301.01482v2](http://arxiv.org/abs/2301.01482v2)|**[link](https://github.com/liyunfenglyf/kf_in_underwater_trackers)**|
-|**2022-12-31**|**Tracking Passengers and Baggage Items using Multiple Overhead Cameras at Security Checkpoints**|Abubakar Siddique, Henry Medeiros|[2301.00190v1](http://arxiv.org/abs/2301.00190v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,16 +183,16 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-29**|**Fast-BEV: A Fast and Strong Bird's-Eye View Perception Baseline**|Yangguang Li, Bin Huang, Zeren Chen, Yufeng Cui, Feng Liang, Mingzhu Shen, Fenggang Liu, Enze Xie, Lu Sheng, Wanli Ouyang, Jing Shao|[2301.12511v1](http://arxiv.org/abs/2301.12511v1)|**[link](https://github.com/sense-gvt/fast-bev)**|
+|**2023-01-29**|**The Influences of Color and Shape Features in Visual Contrastive Learning**|Xiaoqi Zhuang|[2301.12459v1](http://arxiv.org/abs/2301.12459v1)|null|
+|**2023-01-28**|**Neural Gas Network Image Features and Segmentation for Brain Tumor Detection Using Magnetic Resonance Imaging Data**|S. Muhammad Hossein Mousavi|[2301.12176v1](http://arxiv.org/abs/2301.12176v1)|null|
+|**2023-01-28**|**POSTER V2: A simpler and stronger facial expression recognition network**|Jiawei Mao, Rui Xu, Xuesong Yin, Yuanqi Chang, Binling Nie, Aibin Huang|[2301.12149v1](http://arxiv.org/abs/2301.12149v1)|**[link](https://github.com/talented-q/poster_v2)**|
 |**2023-01-27**|**Multi-scale and Multi-directional VLBI Imaging with CLEAN**|Hendrik Müller, Andrei Lobanov|[2301.11681v1](http://arxiv.org/abs/2301.11681v1)|null|
 |**2023-01-26**|**Semantic Segmentation Enhanced Transformer Model for Human Attention Prediction**|Shuo Zhang|[2301.11022v1](http://arxiv.org/abs/2301.11022v1)|null|
 |**2023-01-18**|**Contrastive Learning for Self-Supervised Pre-Training of Point Cloud Segmentation Networks With Image Data**|Andrej Janda, Brandon Wagstaff, Edwin G. Ng, Jonathan Kelly|[2301.07283v1](http://arxiv.org/abs/2301.07283v1)|null|
 |**2023-01-17**|**SwinDepth: Unsupervised Depth Estimation using Monocular Sequences via Swin Transformer and Densely Cascaded Network**|Dongseok Shim, H. Jin Kim|[2301.06715v1](http://arxiv.org/abs/2301.06715v1)|null|
 |**2023-01-17**|**Distribution Aligned Feature Clustering for Zero-Shot Sketch-Based Image Retrieval**|Yuchen Wu, Kun Song, Fangzheng Zhao, Jiansheng Chen, Huimin Ma|[2301.06685v1](http://arxiv.org/abs/2301.06685v1)|null|
 |**2023-01-16**|**Learning Aligned Cross-modal Representations for Referring Image Segmentation**|Zhichao Wei, Xiaohao Chen, Mingqiang Chen, Siyu Zhu|[2301.06429v1](http://arxiv.org/abs/2301.06429v1)|null|
-|**2023-01-15**|**Segmenting thalamic nuclei from manifold projections of multi-contrast MRI**|Chang Yan, Muhan Shao, Zhangxing Bian, Anqi Feng, Yuan Xue, Jiachen Zhuo, Rao P. Gullapalli, Aaron Carass, Jerry L. Prince|[2301.06114v2](http://arxiv.org/abs/2301.06114v2)|null|
-|**2023-01-12**|**Salient Object Detection for Images Taken by People With Vision Impairments**|Jarek Reynolds, Chandra Kanth Nagesh, Danna Gurari|[2301.05323v1](http://arxiv.org/abs/2301.05323v1)|null|
-|**2023-01-12**|**Self-Supervised Image-to-Point Distillation via Semantically Tolerant Contrastive Loss**|Anas Mahmoud, Jordan S. K. Hu, Tianshu Kuai, Ali Harakeh, Liam Paull, Steven L. Waslander|[2301.05709v1](http://arxiv.org/abs/2301.05709v1)|null|
-|**2023-01-12**|**CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP**|Runnan Chen, Youquan Liu, Lingdong Kong, Xinge Zhu, Yuexin Ma, Yikang Li, Yuenan Hou, Yu Qiao, Wenping Wang|[2301.04926v1](http://arxiv.org/abs/2301.04926v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
