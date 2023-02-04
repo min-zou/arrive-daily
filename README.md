@@ -105,6 +105,7 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-02**|**STEPS: Joint Self-supervised Nighttime Image Enhancement and Depth Estimation**|Yupeng Zheng, Chengliang Zhong, Pengfei Li, Huan-ang Gao, Yuhang Zheng, Bu Jin, Ling Wang, Hao Zhao, Guyue Zhou, Qichao Zhang, Dongbin Zhao|[2302.01334v1](http://arxiv.org/abs/2302.01334v1)|**[link](https://github.com/ucaszyp/steps)**|
 |**2023-02-01**|**Uncertainty-Driven Dense Two-View Structure from Motion**|Weirong Chen, Suryansh Kumar, Fisher Yu|[2302.00523v1](http://arxiv.org/abs/2302.00523v1)|null|
 |**2023-01-31**|**Adversarial Training of Self-supervised Monocular Depth Estimation against Physical-World Attacks**|Zhiyuan Cheng, James Liang, Guanhong Tao, Dongfang Liu, Xiangyu Zhang|[2301.13487v1](http://arxiv.org/abs/2301.13487v1)|null|
 |**2023-01-31**|**Recurrent Structure Attention Guidance for Depth Super-Resolution**|Jiayi Yuan, Haobo Jiang, Xiang Li, Jianjun Qian, Jun Li, Jian Yang|[2301.13419v1](http://arxiv.org/abs/2301.13419v1)|null|
@@ -114,7 +115,6 @@
 |**2023-01-25**|**On the Adversarial Robustness of Camera-based 3D Object Detection**|Shaoyuan Xie, Zichao Li, Zeyu Wang, Cihang Xie|[2301.10766v1](http://arxiv.org/abs/2301.10766v1)|null|
 |**2023-01-20**|**Unsupervised Light Field Depth Estimation via Multi-view Feature Matching with Occlusion Prediction**|Shansi Zhang, Nan Meng, Edmund Y. Lam|[2301.08433v1](http://arxiv.org/abs/2301.08433v1)|null|
 |**2023-01-20**|**FG-Depth: Flow-Guided Unsupervised Monocular Depth Estimation**|Junyu Zhu, Lina Liu, Yong Liu, Wanlong Li, Feng Wen, Hongbo Zhang|[2301.08414v1](http://arxiv.org/abs/2301.08414v1)|null|
-|**2023-01-19**|**Booster: a Benchmark for Depth from Images of Specular and Transparent Surfaces**|Pierluigi Zama Ramirez, Alex Costanzino, Fabio Tosi, Matteo Poggi, Samuele Salti, Stefano Mattoccia, Luigi Di Stefano|[2301.08245v1](http://arxiv.org/abs/2301.08245v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,8 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-02**|**Local implicit neural representations for multi-sequence MRI translation**|Yunjie Chen, Marius Staring, Jelmer M. Wolterink, Qian Tao|[2302.01031v1](http://arxiv.org/abs/2302.01031v1)|null|
+|**2023-02-02**|**Vision Transformer-based Feature Extraction for Generalized Zero-Shot Learning**|Jiseob Kim, Kyuhong Shim, Junhan Kim, Byonghyo Shim|[2302.00875v1](http://arxiv.org/abs/2302.00875v1)|null|
 |**2023-02-01**|**Continual Segment: Towards a Single, Unified and Accessible Continual Segmentation Model of 143 Whole-body Organs in CT Scans**|Zhanghexuan Ji, Dazhou Guo, Puyang Wang, Ke Yan, Jia Ge, Xianghua Ye, Minfeng Xu, Jingren Zhou, Le Lu, Mingchen Gao, Dakai Jin|[2302.00162v1](http://arxiv.org/abs/2302.00162v1)|null|
 |**2023-01-31**|**Priors are Powerful: Improving a Transformer for Multi-camera 3D Detection with 2D Priors**|Di Feng, Francesco Ferroni|[2301.13592v1](http://arxiv.org/abs/2301.13592v1)|null|
 |**2023-01-31**|**Recurrent Structure Attention Guidance for Depth Super-Resolution**|Jiayi Yuan, Haobo Jiang, Xiang Li, Jianjun Qian, Jun Li, Jian Yang|[2301.13419v1](http://arxiv.org/abs/2301.13419v1)|null|
@@ -191,11 +193,10 @@
 |**2023-01-28**|**Neural Gas Network Image Features and Segmentation for Brain Tumor Detection Using Magnetic Resonance Imaging Data**|S. Muhammad Hossein Mousavi|[2301.12176v1](http://arxiv.org/abs/2301.12176v1)|null|
 |**2023-01-28**|**POSTER V2: A simpler and stronger facial expression recognition network**|Jiawei Mao, Rui Xu, Xuesong Yin, Yuanqi Chang, Binling Nie, Aibin Huang|[2301.12149v1](http://arxiv.org/abs/2301.12149v1)|**[link](https://github.com/talented-q/poster_v2)**|
 |**2023-01-27**|**Multi-scale and Multi-directional VLBI Imaging with CLEAN**|Hendrik Müller, Andrei Lobanov|[2301.11681v1](http://arxiv.org/abs/2301.11681v1)|null|
-|**2023-01-26**|**Semantic Segmentation Enhanced Transformer Model for Human Attention Prediction**|Shuo Zhang|[2301.11022v1](http://arxiv.org/abs/2301.11022v1)|null|
-|**2023-01-18**|**Contrastive Learning for Self-Supervised Pre-Training of Point Cloud Segmentation Networks With Image Data**|Andrej Janda, Brandon Wagstaff, Edwin G. Ng, Jonathan Kelly|[2301.07283v1](http://arxiv.org/abs/2301.07283v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-02**|**CREPES: Cooperative RElative Pose EStimation towards Real-World Multi-Robot Systems**|Zhiren Xun, Jian Huang, Zhehan Li, Chao Xu, Fei Gao, Yanjun Cao|[2302.01036v1](http://arxiv.org/abs/2302.01036v1)|null|
 |**2023-01-31**|**CMLCompiler: A Unified Compiler for Classical Machine Learning**|Xu Wen, Wanling Gao, Anzheng Li, Lei Wang, Zihan Jiang, Jianfeng Zhan|[2301.13441v2](http://arxiv.org/abs/2301.13441v2)|null|
 |**2023-01-23**|**Real-Time Simultaneous Localization and Mapping with LiDAR intensity**|Wenqiang Du, Giovanni Beltrame|[2301.09257v1](http://arxiv.org/abs/2301.09257v1)|null|
 |**2022-12-29**|**Trajectory Smoothing Using GNSS/PDR Integration Via Factor Graph Optimization in Urban Canyons**|Yihan Zhong, Weisong Wen, Li-Ta Hsu|[2212.14264v1](http://arxiv.org/abs/2212.14264v1)|null|
@@ -205,7 +206,6 @@
 |**2022-12-11**|**3D LiDAR Aided GNSS NLOS Mitigation for Reliable GNSS-RTK Positioning in Urban Canyons**|Xikun Liu, Weisong Wen, Feng Huang, Han Gao, Yongliang Wang, Li-Ta Hsu|[2212.05477v1](http://arxiv.org/abs/2212.05477v1)|null|
 |**2022-12-05**|**DL-SLOT: Dynamic LiDAR SLAM and object tracking based on collaborative graph optimization**|Xuebo Tian, Zhongyang Zhu, Junqiao Zhao, Gengxuan Tian, Chen Ye|[2212.02077v1](http://arxiv.org/abs/2212.02077v1)|null|
 |**2022-12-02**|**AGO: Boosting Mobile AI Inference Performance by Removing Constraints on Graph Optimization**|Zhiying Xu, Hongding Peng, Wei Wang|[2212.01005v1](http://arxiv.org/abs/2212.01005v1)|null|
-|**2022-12-01**|**Bayesian Heuristics for Robust Spatial Perception**|Aamir Hussain Chughtai, Muhammad Tahir, Momin Uppal|[2212.00344v1](http://arxiv.org/abs/2212.00344v1)|null|
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
