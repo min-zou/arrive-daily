@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-03**|**vMAP: Vectorised Object Mapping for Neural Field SLAM**|Xin Kong, Shikun Liu, Marwan Taher, Andrew J. Davison|[2302.01838v1](http://arxiv.org/abs/2302.01838v1)|null|
 |**2023-02-01**|**A Projective Geometric View for 6D Pose Estimation in mmWave MIMO Systems**|Shengqiang Shen, Henk Wymeersch|[2302.00227v2](http://arxiv.org/abs/2302.00227v2)|null|
 |**2023-01-27**|**HDPV-SLAM: Hybrid Depth-augmented Panoramic Visual SLAM for Mobile Mapping System with Tilted LiDAR and Panoramic Visual Camera**|Mostafa Ahmadi, Amin Alizadeh Naeini, Zahra Arjmandi, Yujia Zhang, Mohammad Moein Sheikholeslami, Gunho Sohn|[2301.11823v1](http://arxiv.org/abs/2301.11823v1)|null|
 |**2023-01-26**|**Distributed Optimization Methods for Multi-Robot Systems: Part I -- A Tutorial**|Ola Shorinwa, Trevor Halsted, Javier Yu, Mac Schwager|[2301.11313v1](http://arxiv.org/abs/2301.11313v1)|null|
@@ -10,7 +11,6 @@
 |**2023-01-18**|**Extended FastSLAM Using Cellular Multipath Component Delays and Angular Information**|Junshi Chen, Russ Whiton, Fredrik Tufvesson|[2301.07560v1](http://arxiv.org/abs/2301.07560v1)|null|
 |**2023-01-17**|**COVINS-G: A Generic Back-end for Collaborative Visual-Inertial SLAM**|Manthan Patel, Marco Karrer, Philipp Bänninger, Margarita Chli|[2301.07147v1](http://arxiv.org/abs/2301.07147v1)|null|
 |**2023-01-16**|**Swarm-SLAM : Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems**|Pierre-Yves Lajoie, Giovanni Beltrame|[2301.06230v2](http://arxiv.org/abs/2301.06230v2)|**[link](https://github.com/mistlab/swarm-slam)**|
-|**2023-01-13**|**A LiDAR-Inertial-Visual SLAM System with Loop Detection**|Kangcheng Liu|[2301.05604v1](http://arxiv.org/abs/2301.05604v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -40,6 +40,7 @@
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-03**|**Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation**|Jie Yang, Ailing Zeng, Shilong Liu, Feng Li, Ruimao Zhang, Lei Zhang|[2302.01593v1](http://arxiv.org/abs/2302.01593v1)|**[link](https://github.com/idea-research/ed-pose)**|
 |**2023-01-21**|**Vision Aided Environment Semantics Extraction and Its Application in mmWave Beam Selection**|Feiyang Wen, Weihua Xu, Feifei Gao, Chengkang Pan, Guangyi Liu|[2301.08973v1](http://arxiv.org/abs/2301.08973v1)|null|
 |**2023-01-18**|**OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models**|Xingyi He, Jiaming Sun, Yuang Wang, Di Huang, Hujun Bao, Xiaowei Zhou|[2301.07673v1](http://arxiv.org/abs/2301.07673v1)|null|
 |**2023-01-12**|**Towards High Performance One-Stage Human Pose Estimation**|Ling Li, Lin Zhao, Linhao Xu, Jie Xu|[2301.04842v1](http://arxiv.org/abs/2301.04842v1)|null|
@@ -49,10 +50,10 @@
 |**2022-12-13**|**Learning to Detect Good Keypoints to Match Non-Rigid Objects in RGB Images**|Welerson Melo, Guilherme Potje, Felipe Cadar, Renato Martins, Erickson R. Nascimento|[2212.09589v1](http://arxiv.org/abs/2212.09589v1)|null|
 |**2022-12-08**|**DDM-NET: End-to-end learning of keypoint feature Detection, Description and Matching for 3D localization**|Xiangyu Xu, Li Guan, Enrique Dunn, Haoxiang Li, Gang Hua|[2212.04575v2](http://arxiv.org/abs/2212.04575v2)|null|
 |**2022-12-07**|**ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation**|Yufei Xu, Jing Zhang, Qiming Zhang, Dacheng Tao|[2212.04246v1](http://arxiv.org/abs/2212.04246v1)|**[link](https://github.com/vitae-transformer/vitpose)**|
-|**2022-12-06**|**DiffuPose: Monocular 3D Human Pose Estimation via Denoising Diffusion Probabilistic Model**|Jeongjun Choi, Dongseok Shim, H. Jin Kim|[2212.02796v2](http://arxiv.org/abs/2212.02796v2)|null|
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-03**|**Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**|Yingying Zhu, Hongji Yang, Yuxin Lu, Qiang Huang|[2302.01572v1](http://arxiv.org/abs/2302.01572v1)|**[link](https://github.com/yanghongji2007/saig)**|
 |**2023-01-27**|**Harmonizing Flows: Unsupervised MR harmonization based on normalizing flows**|Farzad Beizaee, Christian Desrosiers, Gregory A. Lodygensky, Jose Dolz|[2301.11551v1](http://arxiv.org/abs/2301.11551v1)|**[link](https://github.com/farzad-bz/harmonizing-flows)**|
 |**2023-01-17**|**Feature-based Image Matching for Identifying Individual Kākā**|Fintan O'Sullivan, Kirita-Rose Escott, Rachael C. Shaw, Andrew Lensen|[2301.06678v2](http://arxiv.org/abs/2301.06678v2)|null|
 |**2023-01-07**|**Deep Learning-Based UAV Aerial Triangulation without Image Control Points**|Jiageng Zhong, Ming Li, Jiangying Qin, Hanqi Zhang|[2301.02869v1](http://arxiv.org/abs/2301.02869v1)|null|
@@ -62,7 +63,6 @@
 |**2022-12-23**|**SuperGF: Unifying Local and Global Features for Visual Localization**|Wenzheng Song, Ran Yan, Boshu Lei, Takayuki Okatani|[2212.13105v1](http://arxiv.org/abs/2212.13105v1)|null|
 |**2022-12-20**|**Seafloor-Invariant Caustics Removal from Underwater Imagery**|Panagiotis Agrafiotis, Konstantinos Karantzalos, Andreas Georgopoulos|[2212.10167v1](http://arxiv.org/abs/2212.10167v1)|null|
 |**2022-12-14**|**Shared Coupling-bridge for Weakly Supervised Local Feature Learning**|Jiayuan Sun, Jiewen Zhu, Luping Ji|[2212.07047v1](http://arxiv.org/abs/2212.07047v1)|**[link](https://github.com/sunjiayuanro/scfeat)**|
-|**2022-12-05**|**Real Time Incremental Image Mosaicking Without Use of Any Camera Parameter**|Suleyman Melih Portakal, Ahmet Alp Kindiroglu, Mahiye Uluyagmur Ozturk|[2212.02302v1](http://arxiv.org/abs/2212.02302v1)|null|
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -185,7 +185,7 @@
 |---|---|---|---|---|
 |**2023-02-02**|**Local implicit neural representations for multi-sequence MRI translation**|Yunjie Chen, Marius Staring, Jelmer M. Wolterink, Qian Tao|[2302.01031v1](http://arxiv.org/abs/2302.01031v1)|null|
 |**2023-02-02**|**Vision Transformer-based Feature Extraction for Generalized Zero-Shot Learning**|Jiseob Kim, Kyuhong Shim, Junhan Kim, Byonghyo Shim|[2302.00875v1](http://arxiv.org/abs/2302.00875v1)|null|
-|**2023-02-01**|**Continual Segment: Towards a Single, Unified and Accessible Continual Segmentation Model of 143 Whole-body Organs in CT Scans**|Zhanghexuan Ji, Dazhou Guo, Puyang Wang, Ke Yan, Jia Ge, Xianghua Ye, Minfeng Xu, Jingren Zhou, Le Lu, Mingchen Gao, Dakai Jin|[2302.00162v1](http://arxiv.org/abs/2302.00162v1)|null|
+|**2023-02-01**|**Continual Segment: Towards a Single, Unified and Accessible Continual Segmentation Model of 143 Whole-body Organs in CT Scans**|Zhanghexuan Ji, Dazhou Guo, Puyang Wang, Ke Yan, Le Lu, Minfeng Xu, Jingren Zhou, Qifeng Wang, Jia Ge, Mingchen Gao, Xianghua Ye, Dakai Jin|[2302.00162v2](http://arxiv.org/abs/2302.00162v2)|null|
 |**2023-01-31**|**Priors are Powerful: Improving a Transformer for Multi-camera 3D Detection with 2D Priors**|Di Feng, Francesco Ferroni|[2301.13592v1](http://arxiv.org/abs/2301.13592v1)|null|
 |**2023-01-31**|**Recurrent Structure Attention Guidance for Depth Super-Resolution**|Jiayi Yuan, Haobo Jiang, Xiang Li, Jianjun Qian, Jun Li, Jian Yang|[2301.13419v1](http://arxiv.org/abs/2301.13419v1)|null|
 |**2023-01-29**|**Fast-BEV: A Fast and Strong Bird's-Eye View Perception Baseline**|Yangguang Li, Bin Huang, Zeren Chen, Yufeng Cui, Feng Liang, Mingzhu Shen, Fenggang Liu, Enze Xie, Lu Sheng, Wanli Ouyang, Jing Shao|[2301.12511v1](http://arxiv.org/abs/2301.12511v1)|**[link](https://github.com/sense-gvt/fast-bev)**|
@@ -196,6 +196,7 @@
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-03**|**Acyclic Chromatic Index of Chordless Graphs**|Manu Basavaraju, Suresh Manjanath Hegde, Shashanka Kulamarva|[2302.01638v1](http://arxiv.org/abs/2302.01638v1)|null|
 |**2023-02-02**|**CREPES: Cooperative RElative Pose EStimation towards Real-World Multi-Robot Systems**|Zhiren Xun, Jian Huang, Zhehan Li, Chao Xu, Fei Gao, Yanjun Cao|[2302.01036v1](http://arxiv.org/abs/2302.01036v1)|null|
 |**2023-01-31**|**CMLCompiler: A Unified Compiler for Classical Machine Learning**|Xu Wen, Wanling Gao, Anzheng Li, Lei Wang, Zihan Jiang, Jianfeng Zhan|[2301.13441v2](http://arxiv.org/abs/2301.13441v2)|null|
 |**2023-01-23**|**Real-Time Simultaneous Localization and Mapping with LiDAR intensity**|Wenqiang Du, Giovanni Beltrame|[2301.09257v1](http://arxiv.org/abs/2301.09257v1)|null|
@@ -205,7 +206,6 @@
 |**2022-12-14**|**Verifying term graph optimizations using Isabelle/HOL**|Brae J. Webb, Ian J. Hayes, Mark Utting|[2212.06956v1](http://arxiv.org/abs/2212.06956v1)|null|
 |**2022-12-11**|**3D LiDAR Aided GNSS NLOS Mitigation for Reliable GNSS-RTK Positioning in Urban Canyons**|Xikun Liu, Weisong Wen, Feng Huang, Han Gao, Yongliang Wang, Li-Ta Hsu|[2212.05477v1](http://arxiv.org/abs/2212.05477v1)|null|
 |**2022-12-05**|**DL-SLOT: Dynamic LiDAR SLAM and object tracking based on collaborative graph optimization**|Xuebo Tian, Zhongyang Zhu, Junqiao Zhao, Gengxuan Tian, Chen Ye|[2212.02077v1](http://arxiv.org/abs/2212.02077v1)|null|
-|**2022-12-02**|**AGO: Boosting Mobile AI Inference Performance by Removing Constraints on Graph Optimization**|Zhiying Xu, Hongding Peng, Wei Wang|[2212.01005v1](http://arxiv.org/abs/2212.01005v1)|null|
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
