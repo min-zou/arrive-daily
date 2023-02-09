@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-07**|**NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM**|Zihan Zhu, Songyou Peng, Viktor Larsson, Zhaopeng Cui, Martin R. Oswald, Andreas Geiger, Marc Pollefeys|[2302.03594v1](http://arxiv.org/abs/2302.03594v1)|null|
 |**2023-02-03**|**vMAP: Vectorised Object Mapping for Neural Field SLAM**|Xin Kong, Shikun Liu, Marwan Taher, Andrew J. Davison|[2302.01838v1](http://arxiv.org/abs/2302.01838v1)|null|
 |**2023-02-01**|**A Projective Geometric View for 6D Pose Estimation in mmWave MIMO Systems**|Shengqiang Shen, Henk Wymeersch|[2302.00227v2](http://arxiv.org/abs/2302.00227v2)|null|
 |**2023-01-27**|**HDPV-SLAM: Hybrid Depth-augmented Panoramic Visual SLAM for Mobile Mapping System with Tilted LiDAR and Panoramic Visual Camera**|Mostafa Ahmadi, Amin Alizadeh Naeini, Zahra Arjmandi, Yujia Zhang, Mohammad Moein Sheikholeslami, Gunho Sohn|[2301.11823v1](http://arxiv.org/abs/2301.11823v1)|null|
@@ -10,7 +11,6 @@
 |**2023-01-21**|**Dense RGB SLAM with Neural Implicit Maps**|Heng Li, Xiaodong Gu, Weihao Yuan, Luwei Yang, Zilong Dong, Ping Tan|[2301.08930v1](http://arxiv.org/abs/2301.08930v1)|null|
 |**2023-01-18**|**Extended FastSLAM Using Cellular Multipath Component Delays and Angular Information**|Junshi Chen, Russ Whiton, Fredrik Tufvesson|[2301.07560v1](http://arxiv.org/abs/2301.07560v1)|null|
 |**2023-01-17**|**COVINS-G: A Generic Back-end for Collaborative Visual-Inertial SLAM**|Manthan Patel, Marco Karrer, Philipp Bänninger, Margarita Chli|[2301.07147v1](http://arxiv.org/abs/2301.07147v1)|null|
-|**2023-01-16**|**Swarm-SLAM : Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems**|Pierre-Yves Lajoie, Giovanni Beltrame|[2301.06230v2](http://arxiv.org/abs/2301.06230v2)|**[link](https://github.com/mistlab/swarm-slam)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-07**|**S4R: Self-Supervised Semantic Scene Reconstruction from RGB-D Scans**|Junwen Huang, Alexey Artemorv, Yujin Chen, Shuaifeng Zhi, Kai Xu, Matthias Niessner|[2302.03640v1](http://arxiv.org/abs/2302.03640v1)|null|
 |**2023-01-30**|**Mono-STAR: Mono-camera Scene-level Tracking and Reconstruction**|Haonan Chang, Dhruv Metha Ramesh, Shijie Geng, Yuqiu Gan, Abdeslam Boularias|[2301.13244v1](http://arxiv.org/abs/2301.13244v1)|**[link](https://github.com/changhaonan/mono-star-demo)**|
 |**2023-01-27**|**3D genome reconstruction from partially phased Hi-C data**|Diego Cifuentes, Jan Draisma, Oskar Henriksson, Annachiara Korchmaros, Kaie Kubjas|[2301.11764v1](http://arxiv.org/abs/2301.11764v1)|**[link](https://github.com/kaiekubjas/3d-genome-reconstruction-from-partially-phased-hic-data)**|
 |**2023-01-27**|**A Comparison of Tiny-nerf versus Spatial Representations for 3d Reconstruction**|Saulo Abraham Gante, Juan Irving Vasquez, Marco Antonio Valencia, Mauricio Olguín Carbajal|[2301.11522v1](http://arxiv.org/abs/2301.11522v1)|null|
@@ -101,7 +102,6 @@
 |**2023-01-21**|**Second-Order Coverage Control for Multi-Agent UAV Photogrammetry**|Samuel Mallick, Airlie Chapman, Eric Schoof|[2301.08953v1](http://arxiv.org/abs/2301.08953v1)|null|
 |**2023-01-19**|**Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second**|Kevin C. Zhou, Mark Harfouche, Colin L. Cooke, Jaehee Park, Pavan C. Konda, Lucas Kreiss, Kanghyun Kim, Joakim Jönsson, Jed Doman, Paul Reamey, Veton Saliu, Clare B. Cook, Maxwell Zheng, Jack P. Bechtel, Aurélien Bègue, Matthew McCarroll, Jennifer Bagwell, Gregor Horstmeyer, Michel Bagnat, Roarke Horstmeyer|[2301.08351v1](http://arxiv.org/abs/2301.08351v1)|**[link](https://github.com/kevinczhou/3d-rapid)**|
 |**2023-01-19**|**Multiview Compressive Coding for 3D Reconstruction**|Chao-Yuan Wu, Justin Johnson, Jitendra Malik, Christoph Feichtenhofer, Georgia Gkioxari|[2301.08247v1](http://arxiv.org/abs/2301.08247v1)|**[link](https://github.com/facebookresearch/mcc)**|
-|**2023-01-19**|**Regularizing disparity estimation via multi task learning with structured light reconstruction**|Alistair Weld, Joao Cartucho, Chi Xu, Joseph Davids, Stamatia Giannarou|[2301.08140v1](http://arxiv.org/abs/2301.08140v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -109,7 +109,7 @@
 |**2023-02-05**|**A Disparity Refinement Framework for Learning-based Stereo Matching Methods in Cross-domain Setting for Laparoscopic Images**|Zixin Yang, Richard Simon, Cristian A. Linte|[2302.02294v1](http://arxiv.org/abs/2302.02294v1)|null|
 |**2023-02-02**|**STEPS: Joint Self-supervised Nighttime Image Enhancement and Depth Estimation**|Yupeng Zheng, Chengliang Zhong, Pengfei Li, Huan-ang Gao, Yuhang Zheng, Bu Jin, Ling Wang, Hao Zhao, Guyue Zhou, Qichao Zhang, Dongbin Zhao|[2302.01334v1](http://arxiv.org/abs/2302.01334v1)|**[link](https://github.com/ucaszyp/steps)**|
 |**2023-02-01**|**Uncertainty-Driven Dense Two-View Structure from Motion**|Weirong Chen, Suryansh Kumar, Fisher Yu|[2302.00523v1](http://arxiv.org/abs/2302.00523v1)|null|
-|**2023-01-31**|**Adversarial Training of Self-supervised Monocular Depth Estimation against Physical-World Attacks**|Zhiyuan Cheng, James Liang, Guanhong Tao, Dongfang Liu, Xiangyu Zhang|[2301.13487v1](http://arxiv.org/abs/2301.13487v1)|null|
+|**2023-01-31**|**Adversarial Training of Self-supervised Monocular Depth Estimation against Physical-World Attacks**|Zhiyuan Cheng, James Liang, Guanhong Tao, Dongfang Liu, Xiangyu Zhang|[2301.13487v2](http://arxiv.org/abs/2301.13487v2)|**[link](https://github.com/Bob-cheng/DepthModelHardening)**|
 |**2023-01-31**|**Recurrent Structure Attention Guidance for Depth Super-Resolution**|Jiayi Yuan, Haobo Jiang, Xiang Li, Jianjun Qian, Jun Li, Jian Yang|[2301.13419v1](http://arxiv.org/abs/2301.13419v1)|null|
 |**2023-01-30**|**AudioEar: Single-View Ear Reconstruction for Personalized Spatial Audio**|Xiaoyang Huang, Yanjun Wang, Yang Liu, Bingbing Ni, Wenjun Zhang, Jinxian Liu, Teng Li|[2301.12613v1](http://arxiv.org/abs/2301.12613v1)|**[link](https://github.com/seanywang0408/audioear)**|
 |**2023-01-27**|**HDPV-SLAM: Hybrid Depth-augmented Panoramic Visual SLAM for Mobile Mapping System with Tilted LiDAR and Panoramic Visual Camera**|Mostafa Ahmadi, Amin Alizadeh Naeini, Zahra Arjmandi, Yujia Zhang, Mohammad Moein Sheikholeslami, Gunho Sohn|[2301.11823v1](http://arxiv.org/abs/2301.11823v1)|null|
