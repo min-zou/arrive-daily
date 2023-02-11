@@ -40,6 +40,7 @@
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-09**|**MAPS: A Noise-Robust Progressive Learning Approach for Source-Free Domain Adaptive Keypoint Detection**|Yuhe Ding, Jian Liang, Bo Jiang, Aihua Zheng, Ran He|[2302.04589v1](http://arxiv.org/abs/2302.04589v1)|null|
 |**2023-02-03**|**Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation**|Jie Yang, Ailing Zeng, Shilong Liu, Feng Li, Ruimao Zhang, Lei Zhang|[2302.01593v1](http://arxiv.org/abs/2302.01593v1)|**[link](https://github.com/idea-research/ed-pose)**|
 |**2023-01-21**|**Vision Aided Environment Semantics Extraction and Its Application in mmWave Beam Selection**|Feiyang Wen, Weihua Xu, Feifei Gao, Chengkang Pan, Guangyi Liu|[2301.08973v1](http://arxiv.org/abs/2301.08973v1)|null|
 |**2023-01-18**|**OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models**|Xingyi He, Jiaming Sun, Yuang Wang, Di Huang, Hujun Bao, Xiaowei Zhou|[2301.07673v1](http://arxiv.org/abs/2301.07673v1)|null|
@@ -49,7 +50,6 @@
 |**2022-12-15**|**Learning Markerless Robot-Depth Camera Calibration and End-Effector Pose Estimation**|Bugra C. Sefercik, Baris Akgun|[2212.07567v1](http://arxiv.org/abs/2212.07567v1)|null|
 |**2022-12-13**|**Learning to Detect Good Keypoints to Match Non-Rigid Objects in RGB Images**|Welerson Melo, Guilherme Potje, Felipe Cadar, Renato Martins, Erickson R. Nascimento|[2212.09589v1](http://arxiv.org/abs/2212.09589v1)|null|
 |**2022-12-08**|**DDM-NET: End-to-end learning of keypoint feature Detection, Description and Matching for 3D localization**|Xiangyu Xu, Li Guan, Enrique Dunn, Haoxiang Li, Gang Hua|[2212.04575v2](http://arxiv.org/abs/2212.04575v2)|null|
-|**2022-12-07**|**ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation**|Yufei Xu, Jing Zhang, Qiming Zhang, Dacheng Tao|[2212.04246v1](http://arxiv.org/abs/2212.04246v1)|**[link](https://github.com/vitae-transformer/vitpose)**|
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,8 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-09**|**3D reconstruction of spherical images: A review of techniques, applications, and prospects**|San Jiang, Yaxin Li, Duojie Weng, Kan You, Wu Chen|[2302.04495v1](http://arxiv.org/abs/2302.04495v1)|null|
+|**2023-02-09**|**PredRecon: A Prediction-boosted Planning Framework for Fast and High-quality Autonomous Aerial Reconstruction**|Chen Feng, Haojia Li, Fei Gao, Boyu Zhou, Shaojie Shen|[2302.04488v1](http://arxiv.org/abs/2302.04488v1)|null|
 |**2023-02-07**|**S4R: Self-Supervised Semantic Scene Reconstruction from RGB-D Scans**|Junwen Huang, Alexey Artemorv, Yujin Chen, Shuaifeng Zhi, Kai Xu, Matthias Niessner|[2302.03640v1](http://arxiv.org/abs/2302.03640v1)|null|
 |**2023-01-30**|**Mono-STAR: Mono-camera Scene-level Tracking and Reconstruction**|Haonan Chang, Dhruv Metha Ramesh, Shijie Geng, Yuqiu Gan, Abdeslam Boularias|[2301.13244v1](http://arxiv.org/abs/2301.13244v1)|**[link](https://github.com/changhaonan/mono-star-demo)**|
 |**2023-01-27**|**3D genome reconstruction from partially phased Hi-C data**|Diego Cifuentes, Jan Draisma, Oskar Henriksson, Annachiara Korchmaros, Kaie Kubjas|[2301.11764v1](http://arxiv.org/abs/2301.11764v1)|**[link](https://github.com/kaiekubjas/3d-genome-reconstruction-from-partially-phased-hic-data)**|
@@ -100,8 +102,6 @@
 |**2023-01-23**|**Two-stage 2D-to-3D reconstruction of realistic microstructures: Implementation and numerical validation by effective properties**|Paul Seibert, Alexander Raßloff, Karl Kalina, Joachim Gussone, Katrin Bugelnig, Martin Diehl, Markus Kästner|[2301.09313v1](http://arxiv.org/abs/2301.09313v1)|null|
 |**2023-01-22**|**3D Reconstruction of Non-cooperative Resident Space Objects using Instant NGP-accelerated NeRF and D-NeRF**|Trupti Mahendrakar, Basilio Caruso, Van Minh Nguyen, Ryan T. White, Todd Steffen|[2301.09060v2](http://arxiv.org/abs/2301.09060v2)|null|
 |**2023-01-21**|**Second-Order Coverage Control for Multi-Agent UAV Photogrammetry**|Samuel Mallick, Airlie Chapman, Eric Schoof|[2301.08953v1](http://arxiv.org/abs/2301.08953v1)|null|
-|**2023-01-19**|**Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second**|Kevin C. Zhou, Mark Harfouche, Colin L. Cooke, Jaehee Park, Pavan C. Konda, Lucas Kreiss, Kanghyun Kim, Joakim Jönsson, Jed Doman, Paul Reamey, Veton Saliu, Clare B. Cook, Maxwell Zheng, Jack P. Bechtel, Aurélien Bègue, Matthew McCarroll, Jennifer Bagwell, Gregor Horstmeyer, Michel Bagnat, Roarke Horstmeyer|[2301.08351v1](http://arxiv.org/abs/2301.08351v1)|**[link](https://github.com/kevinczhou/3d-rapid)**|
-|**2023-01-19**|**Multiview Compressive Coding for 3D Reconstruction**|Chao-Yuan Wu, Justin Johnson, Jitendra Malik, Christoph Feichtenhofer, Georgia Gkioxari|[2301.08247v1](http://arxiv.org/abs/2301.08247v1)|**[link](https://github.com/facebookresearch/mcc)**|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,7 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-07**|**Standing Between Past and Future: Spatio-Temporal Modeling for Multi-Camera 3D Multi-Object Tracking**|Ziqi Pang, Jie Li, Pavel Tokmakov, Dian Chen, Sergey Zagoruyko, Yu-Xiong Wang|[2302.03802v1](http://arxiv.org/abs/2302.03802v1)|null|
+|**2023-02-07**|**Standing Between Past and Future: Spatio-Temporal Modeling for Multi-Camera 3D Multi-Object Tracking**|Ziqi Pang, Jie Li, Pavel Tokmakov, Dian Chen, Sergey Zagoruyko, Yu-Xiong Wang|[2302.03802v1](http://arxiv.org/abs/2302.03802v1)|**[link](https://github.com/tri-ml/pf-track)**|
 |**2023-02-07**|**Self-Supervised Unseen Object Instance Segmentation via Long-Term Robot Interaction**|Yangxiao Lu, Ninad Khargonkar, Zesheng Xu, Charles Averill, Kamalesh Palanisamy, Kaiyu Hang, Yunhui Guo, Nicholas Ruozzi, Yu Xiang|[2302.03793v1](http://arxiv.org/abs/2302.03793v1)|null|
 |**2023-02-06**|**MixFormer: End-to-End Tracking with Iterative Mixed Attention**|Yutao Cui, Cheng Jiang, Gangshan Wu, Limin Wang|[2302.02814v2](http://arxiv.org/abs/2302.02814v2)|**[link](https://github.com/MCG-NJU/MixFormer)**|
 |**2023-02-06**|**Uncertainty Calibration and its Application to Object Detection**|Fabian Küppers|[2302.02622v1](http://arxiv.org/abs/2302.02622v1)|null|
@@ -183,7 +183,8 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-08**|**Gestalt-Guided Image Understanding for Few-Shot Learning**|Kun Song, Yuchen Wu, Jiansheng Chen, Tianyu Hu, Huimin Ma|[2302.03922v1](http://arxiv.org/abs/2302.03922v1)|null|
+|**2023-02-09**|**IH-ViT: Vision Transformer-based Integrated Circuit Appear-ance Defect Detection**|Xiaoibin Wang, Shuang Gao, Yuntao Zou, Jianlan Guo, Chu Wang|[2302.04521v1](http://arxiv.org/abs/2302.04521v1)|null|
+|**2023-02-08**|**Gestalt-Guided Image Understanding for Few-Shot Learning**|Kun Song, Yuchen Wu, Jiansheng Chen, Tianyu Hu, Huimin Ma|[2302.03922v1](http://arxiv.org/abs/2302.03922v1)|**[link](https://github.com/skingorz/ggiu)**|
 |**2023-02-05**|**CECT: Controllable Ensemble CNN and Transformer for COVID-19 image classification by capturing both local and global image features**|Zhaoshan Liu, Lei Shen|[2302.02314v1](http://arxiv.org/abs/2302.02314v1)|null|
 |**2023-02-02**|**Local implicit neural representations for multi-sequence MRI translation**|Yunjie Chen, Marius Staring, Jelmer M. Wolterink, Qian Tao|[2302.01031v1](http://arxiv.org/abs/2302.01031v1)|null|
 |**2023-02-02**|**Vision Transformer-based Feature Extraction for Generalized Zero-Shot Learning**|Jiseob Kim, Kyuhong Shim, Junhan Kim, Byonghyo Shim|[2302.00875v1](http://arxiv.org/abs/2302.00875v1)|null|
@@ -192,7 +193,6 @@
 |**2023-01-31**|**Recurrent Structure Attention Guidance for Depth Super-Resolution**|Jiayi Yuan, Haobo Jiang, Xiang Li, Jianjun Qian, Jun Li, Jian Yang|[2301.13419v1](http://arxiv.org/abs/2301.13419v1)|null|
 |**2023-01-29**|**Fast-BEV: A Fast and Strong Bird's-Eye View Perception Baseline**|Yangguang Li, Bin Huang, Zeren Chen, Yufeng Cui, Feng Liang, Mingzhu Shen, Fenggang Liu, Enze Xie, Lu Sheng, Wanli Ouyang, Jing Shao|[2301.12511v1](http://arxiv.org/abs/2301.12511v1)|**[link](https://github.com/sense-gvt/fast-bev)**|
 |**2023-01-29**|**The Influences of Color and Shape Features in Visual Contrastive Learning**|Xiaoqi Zhuang|[2301.12459v1](http://arxiv.org/abs/2301.12459v1)|null|
-|**2023-01-28**|**Neural Gas Network Image Features and Segmentation for Brain Tumor Detection Using Magnetic Resonance Imaging Data**|S. Muhammad Hossein Mousavi|[2301.12176v1](http://arxiv.org/abs/2301.12176v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
