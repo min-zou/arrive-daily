@@ -93,7 +93,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-02-09**|**3D reconstruction of spherical images: A review of techniques, applications, and prospects**|San Jiang, Yaxin Li, Duojie Weng, Kan You, Wu Chen|[2302.04495v1](http://arxiv.org/abs/2302.04495v1)|null|
-|**2023-02-09**|**PredRecon: A Prediction-boosted Planning Framework for Fast and High-quality Autonomous Aerial Reconstruction**|Chen Feng, Haojia Li, Fei Gao, Boyu Zhou, Shaojie Shen|[2302.04488v1](http://arxiv.org/abs/2302.04488v1)|null|
+|**2023-02-09**|**PredRecon: A Prediction-boosted Planning Framework for Fast and High-quality Autonomous Aerial Reconstruction**|Chen Feng, Haojia Li, Fei Gao, Boyu Zhou, Shaojie Shen|[2302.04488v1](http://arxiv.org/abs/2302.04488v1)|**[link](https://github.com/hkust-aerial-robotics/predrecon)**|
 |**2023-02-07**|**S4R: Self-Supervised Semantic Scene Reconstruction from RGB-D Scans**|Junwen Huang, Alexey Artemorv, Yujin Chen, Shuaifeng Zhi, Kai Xu, Matthias Niessner|[2302.03640v1](http://arxiv.org/abs/2302.03640v1)|null|
 |**2023-01-30**|**Mono-STAR: Mono-camera Scene-level Tracking and Reconstruction**|Haonan Chang, Dhruv Metha Ramesh, Shijie Geng, Yuqiu Gan, Abdeslam Boularias|[2301.13244v1](http://arxiv.org/abs/2301.13244v1)|**[link](https://github.com/changhaonan/mono-star-demo)**|
 |**2023-01-27**|**3D genome reconstruction from partially phased Hi-C data**|Diego Cifuentes, Jan Draisma, Oskar Henriksson, Annachiara Korchmaros, Kaie Kubjas|[2301.11764v1](http://arxiv.org/abs/2301.11764v1)|**[link](https://github.com/kaiekubjas/3d-genome-reconstruction-from-partially-phased-hic-data)**|
