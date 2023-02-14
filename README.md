@@ -53,20 +53,20 @@
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-10**|**General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox**|Kenji Koide, Shuji Oishi, Masashi Yokozuka, Atsuhiko Banno|[2302.05094v1](http://arxiv.org/abs/2302.05094v1)|null|
 |**2023-02-03**|**Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**|Yingying Zhu, Hongji Yang, Yuxin Lu, Qiang Huang|[2302.01572v1](http://arxiv.org/abs/2302.01572v1)|**[link](https://github.com/yanghongji2007/saig)**|
 |**2023-01-27**|**Harmonizing Flows: Unsupervised MR harmonization based on normalizing flows**|Farzad Beizaee, Christian Desrosiers, Gregory A. Lodygensky, Jose Dolz|[2301.11551v1](http://arxiv.org/abs/2301.11551v1)|**[link](https://github.com/farzad-bz/harmonizing-flows)**|
 |**2023-01-17**|**Feature-based Image Matching for Identifying Individual Kākā**|Fintan O'Sullivan, Kirita-Rose Escott, Rachael C. Shaw, Andrew Lensen|[2301.06678v2](http://arxiv.org/abs/2301.06678v2)|null|
 |**2023-01-07**|**Deep Learning-Based UAV Aerial Triangulation without Image Control Points**|Jiageng Zhong, Ming Li, Jiangying Qin, Hanqi Zhang|[2301.02869v1](http://arxiv.org/abs/2301.02869v1)|null|
 |**2023-01-06**|**The UNCOVER Survey: A first-look HST+JWST catalog of 50,000 galaxies near Abell 2744 and beyond**|John R. Weaver, Sam E. Cutler, Richard Pan, Katherine E. Whitaker, Ivo Labbe, Sedona H. Price, Rachel Bezanson, Gabriel Brammer, Danilo Marchesini, Joel Leja, Bingjie Wang, Lukas J. Furtak, Adi Zitrin, Hakim Atek, Dan Coe, Pratika Dayal, Pieter van Dokkum, Robert Feldmann, Natascha Forster Schreiber, Marijn Franx, Seiji Fujimoto, Yoshinobu Fudamoto, Karl Glazebrook, Anna de Graaff, Jenny E. Greene, Stephanie Juneau, Susan Kassin, Mariska Kriek, Gourav Khullar, Michael Maseda, Lamiya A. Mowla, Adam Muzzin, Themiya Nanayakkara, Erica J. Nelson, Pascal A. Oesch, Camilla Pacifici, Casey Papovich, David Setton, Alice E. Shapley, Renske Smit, Mauro Stefanon, Edward N. Taylor, Andrea Weibel, Christina C. Williams|[2301.02671v1](http://arxiv.org/abs/2301.02671v1)|null|
-|**2022-12-31**|**Translating Text Synopses to Video Storyboards**|Xu Gu, Yuchong Sun, Feiyue Ni, Shizhe Chen, Ruihua Song, Boyuan Li, Xiang Cao|[2301.00135v1](http://arxiv.org/abs/2301.00135v1)|null|
+|**2022-12-31**|**Translating Text Synopses to Video Storyboards**|Xu Gu, Yuchong Sun, Feiyue Ni, Shizhe Chen, Ruihua Song, Boyuan Li, Xiang Cao|[2301.00135v2](http://arxiv.org/abs/2301.00135v2)|null|
 |**2022-12-26**|**Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**|Weizhi Du, Harvery Tian|[2212.13068v1](http://arxiv.org/abs/2212.13068v1)|null|
 |**2022-12-23**|**SuperGF: Unifying Local and Global Features for Visual Localization**|Wenzheng Song, Ran Yan, Boshu Lei, Takayuki Okatani|[2212.13105v1](http://arxiv.org/abs/2212.13105v1)|null|
 |**2022-12-20**|**Seafloor-Invariant Caustics Removal from Underwater Imagery**|Panagiotis Agrafiotis, Konstantinos Karantzalos, Andreas Georgopoulos|[2212.10167v1](http://arxiv.org/abs/2212.10167v1)|null|
-|**2022-12-14**|**Shared Coupling-bridge for Weakly Supervised Local Feature Learning**|Jiayuan Sun, Jiewen Zhu, Luping Ji|[2212.07047v1](http://arxiv.org/abs/2212.07047v1)|**[link](https://github.com/sunjiayuanro/scfeat)**|
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-01**|**Uncertainty-Driven Dense Two-View Structure from Motion**|Weirong Chen, Suryansh Kumar, Fisher Yu|[2302.00523v1](http://arxiv.org/abs/2302.00523v1)|null|
+|**2023-02-01**|**Uncertainty-Driven Dense Two-View Structure from Motion**|Weirong Chen, Suryansh Kumar, Fisher Yu|[2302.00523v2](http://arxiv.org/abs/2302.00523v2)|null|
 |**2023-01-28**|**AdaSfM: From Coarse Global to Fine Incremental Adaptive Structure from Motion**|Yu Chen, Zihao Yu, Shu Song, Tianning Yu, Jianming Li, Gim Hee Lee|[2301.12135v1](http://arxiv.org/abs/2301.12135v1)|null|
 |**2023-01-20**|**A vision-based autonomous UAV inspection framework for unknown tunnel construction sites with dynamic obstacles**|Zhefan Xu, Baihan Chen, Xiaoyang Zhan, Yumeng Xiu, Christopher Suzuki, Kenji Shimada|[2301.08422v1](http://arxiv.org/abs/2301.08422v1)|null|
 |**2023-01-18**|**OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models**|Xingyi He, Jiaming Sun, Yuang Wang, Di Huang, Hujun Bao, Xiaowei Zhou|[2301.07673v1](http://arxiv.org/abs/2301.07673v1)|null|
@@ -79,7 +79,7 @@
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-01**|**Uncertainty-Driven Dense Two-View Structure from Motion**|Weirong Chen, Suryansh Kumar, Fisher Yu|[2302.00523v1](http://arxiv.org/abs/2302.00523v1)|null|
+|**2023-02-01**|**Uncertainty-Driven Dense Two-View Structure from Motion**|Weirong Chen, Suryansh Kumar, Fisher Yu|[2302.00523v2](http://arxiv.org/abs/2302.00523v2)|null|
 |**2023-01-28**|**AdaSfM: From Coarse Global to Fine Incremental Adaptive Structure from Motion**|Yu Chen, Zihao Yu, Shu Song, Tianning Yu, Jianming Li, Gim Hee Lee|[2301.12135v1](http://arxiv.org/abs/2301.12135v1)|null|
 |**2023-01-20**|**A vision-based autonomous UAV inspection framework for unknown tunnel construction sites with dynamic obstacles**|Zhefan Xu, Baihan Chen, Xiaoyang Zhan, Yumeng Xiu, Christopher Suzuki, Kenji Shimada|[2301.08422v1](http://arxiv.org/abs/2301.08422v1)|null|
 |**2023-01-05**|**Robust Dynamic Radiance Fields**|Yu-Lun Liu, Chen Gao, Andreas Meuleman, Hung-Yu Tseng, Ayush Saraf, Changil Kim, Yung-Yu Chuang, Johannes Kopf, Jia-Bin Huang|[2301.02239v1](http://arxiv.org/abs/2301.02239v1)|null|
@@ -110,7 +110,7 @@
 |**2023-02-06**|**Structure and Content-Guided Video Synthesis with Diffusion Models**|Patrick Esser, Johnathan Chiu, Parmida Atighehchian, Jonathan Granskog, Anastasis Germanidis|[2302.03011v1](http://arxiv.org/abs/2302.03011v1)|null|
 |**2023-02-05**|**A Disparity Refinement Framework for Learning-based Stereo Matching Methods in Cross-domain Setting for Laparoscopic Images**|Zixin Yang, Richard Simon, Cristian A. Linte|[2302.02294v1](http://arxiv.org/abs/2302.02294v1)|null|
 |**2023-02-02**|**STEPS: Joint Self-supervised Nighttime Image Enhancement and Depth Estimation**|Yupeng Zheng, Chengliang Zhong, Pengfei Li, Huan-ang Gao, Yuhang Zheng, Bu Jin, Ling Wang, Hao Zhao, Guyue Zhou, Qichao Zhang, Dongbin Zhao|[2302.01334v1](http://arxiv.org/abs/2302.01334v1)|**[link](https://github.com/ucaszyp/steps)**|
-|**2023-02-01**|**Uncertainty-Driven Dense Two-View Structure from Motion**|Weirong Chen, Suryansh Kumar, Fisher Yu|[2302.00523v1](http://arxiv.org/abs/2302.00523v1)|null|
+|**2023-02-01**|**Uncertainty-Driven Dense Two-View Structure from Motion**|Weirong Chen, Suryansh Kumar, Fisher Yu|[2302.00523v2](http://arxiv.org/abs/2302.00523v2)|null|
 |**2023-01-31**|**Adversarial Training of Self-supervised Monocular Depth Estimation against Physical-World Attacks**|Zhiyuan Cheng, James Liang, Guanhong Tao, Dongfang Liu, Xiangyu Zhang|[2301.13487v2](http://arxiv.org/abs/2301.13487v2)|**[link](https://github.com/Bob-cheng/DepthModelHardening)**|
 |**2023-01-31**|**Recurrent Structure Attention Guidance for Depth Super-Resolution**|Jiayi Yuan, Haobo Jiang, Xiang Li, Jianjun Qian, Jun Li, Jian Yang|[2301.13419v1](http://arxiv.org/abs/2301.13419v1)|null|
 |**2023-01-30**|**AudioEar: Single-View Ear Reconstruction for Personalized Spatial Audio**|Xiaoyang Huang, Yanjun Wang, Yang Liu, Bingbing Ni, Wenjun Zhang, Jinxian Liu, Teng Li|[2301.12613v1](http://arxiv.org/abs/2301.12613v1)|**[link](https://github.com/seanywang0408/audioear)**|
@@ -137,10 +137,10 @@
 |**2023-02-06**|**Uncertainty Calibration and its Application to Object Detection**|Fabian Küppers|[2302.02622v1](http://arxiv.org/abs/2302.02622v1)|null|
 |**2023-02-05**|**Spatio-Temporal Point Process for Multiple Object Tracking**|Tao Wang, Kean Chen, Weiyao Lin, John See, Zenghui Zhang, Qian Xu, Xia Jia|[2302.02444v1](http://arxiv.org/abs/2302.02444v1)|null|
 |**2023-01-28**|**Object Preserving Siamese Network for Single Object Tracking on Point Clouds**|Kaijie Zhao, Haitao Zhao, Zhongze Wang, Jingchao Peng, Zhengwei Hu|[2301.12057v1](http://arxiv.org/abs/2301.12057v1)|null|
+|**2023-01-27**|**Deep Learning Based Object Tracking in Walking Droplet and Granular Intruder Experiments**|Erdi Kara, George Zhang, Joseph J. Williams, Gonzalo Ferrandez-Quinto, Leviticus J. Rhoden, Maximilian Kim, J. Nathan Kutz, Aminur Rahman|[2302.05425v1](http://arxiv.org/abs/2302.05425v1)|**[link](https://github.com/erkara/trackingdroplets)**|
 |**2023-01-26**|**Compact Transformer Tracker with Correlative Masked Modeling**|Zikai Song, Run Luo, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang|[2301.10938v1](http://arxiv.org/abs/2301.10938v1)|**[link](https://github.com/hustdml/cttrack)**|
 |**2023-01-25**|**An Efficient Semi-Automated Scheme for Infrastructure LiDAR Annotation**|Aotian Wu, Pan He, Xiao Li, Ke Chen, Sanjay Ranka, Anand Rangarajan|[2301.10732v1](http://arxiv.org/abs/2301.10732v1)|null|
 |**2023-01-25**|**Tracking Different Ant Species: An Unsupervised Domain Adaptation Framework and a Dataset for Multi-object Tracking**|Chamath Abeysinghe, Chris Reid, Hamid Rezatofighi, Bernd Meyer|[2301.10559v1](http://arxiv.org/abs/2301.10559v1)|null|
-|**2023-01-24**|**Planar Object Tracking via Weighted Optical Flow**|Jonas Serych, Jiri Matas|[2301.10057v1](http://arxiv.org/abs/2301.10057v1)|**[link](https://github.com/serycjon/WOFT)**|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-10**|**Data-Driven Stochastic Motion Evaluation and Optimization with Image by Spatially-Aligned Temporal Encoding**|Takeru Oba, Norimichi Ukita|[2302.05041v1](http://arxiv.org/abs/2302.05041v1)|null|
 |**2023-02-09**|**IH-ViT: Vision Transformer-based Integrated Circuit Appear-ance Defect Detection**|Xiaoibin Wang, Shuang Gao, Yuntao Zou, Jianlan Guo, Chu Wang|[2302.04521v1](http://arxiv.org/abs/2302.04521v1)|null|
 |**2023-02-08**|**Gestalt-Guided Image Understanding for Few-Shot Learning**|Kun Song, Yuchen Wu, Jiansheng Chen, Tianyu Hu, Huimin Ma|[2302.03922v1](http://arxiv.org/abs/2302.03922v1)|**[link](https://github.com/skingorz/ggiu)**|
 |**2023-02-05**|**CECT: Controllable Ensemble CNN and Transformer for COVID-19 image classification by capturing both local and global image features**|Zhaoshan Liu, Lei Shen|[2302.02314v1](http://arxiv.org/abs/2302.02314v1)|null|
@@ -192,7 +193,6 @@
 |**2023-01-31**|**Priors are Powerful: Improving a Transformer for Multi-camera 3D Detection with 2D Priors**|Di Feng, Francesco Ferroni|[2301.13592v1](http://arxiv.org/abs/2301.13592v1)|null|
 |**2023-01-31**|**Recurrent Structure Attention Guidance for Depth Super-Resolution**|Jiayi Yuan, Haobo Jiang, Xiang Li, Jianjun Qian, Jun Li, Jian Yang|[2301.13419v1](http://arxiv.org/abs/2301.13419v1)|null|
 |**2023-01-29**|**Fast-BEV: A Fast and Strong Bird's-Eye View Perception Baseline**|Yangguang Li, Bin Huang, Zeren Chen, Yufeng Cui, Feng Liang, Mingzhu Shen, Fenggang Liu, Enze Xie, Lu Sheng, Wanli Ouyang, Jing Shao|[2301.12511v1](http://arxiv.org/abs/2301.12511v1)|**[link](https://github.com/sense-gvt/fast-bev)**|
-|**2023-01-29**|**The Influences of Color and Shape Features in Visual Contrastive Learning**|Xiaoqi Zhuang|[2301.12459v1](http://arxiv.org/abs/2301.12459v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
