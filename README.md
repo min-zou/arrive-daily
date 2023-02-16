@@ -1,6 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-14**|**ConceptFusion: Open-set Multimodal 3D Mapping**|Krishna Murthy Jatavallabhula, Alihusein Kuwajerwala, Qiao Gu, Mohd Omama, Tao Chen, Shuang Li, Ganesh Iyer, Soroush Saryazdi, Nikhil Keetha, Ayush Tewari, Joshua B. Tenenbaum, Celso Miguel de Melo, Madhava Krishna, Liam Paull, Florian Shkurti, Antonio Torralba|[2302.07241v2](http://arxiv.org/abs/2302.07241v2)|null|
+|**2023-02-13**|**Simplified Continuous High Dimensional Belief Space Planning with Adaptive Probabilistic Belief-dependent Constraints**|Andrey Zhitnikov, Vadim Indelman|[2302.06697v1](http://arxiv.org/abs/2302.06697v1)|null|
 |**2023-02-13**|**Mini bot 3D: A ROS based Gazebo Simulation**|B. Udugama|[2302.06368v1](http://arxiv.org/abs/2302.06368v1)|null|
 |**2023-02-13**|**Evolution of SLAM: Toward the Robust-Perception of Autonomy**|B. Udugama|[2302.06365v1](http://arxiv.org/abs/2302.06365v1)|null|
 |**2023-02-08**|**Task Space Control of Robot Manipulators based on Visual SLAM**|Seyed Hamed Hashemi, Jouni Mattila|[2302.04163v1](http://arxiv.org/abs/2302.04163v1)|null|
@@ -9,8 +11,6 @@
 |**2023-02-03**|**vMAP: Vectorised Object Mapping for Neural Field SLAM**|Xin Kong, Shikun Liu, Marwan Taher, Andrew J. Davison|[2302.01838v1](http://arxiv.org/abs/2302.01838v1)|null|
 |**2023-02-01**|**A Projective Geometric View for 6D Pose Estimation in mmWave MIMO Systems**|Shengqiang Shen, Henk Wymeersch|[2302.00227v2](http://arxiv.org/abs/2302.00227v2)|null|
 |**2023-01-27**|**HDPV-SLAM: Hybrid Depth-augmented Panoramic Visual SLAM for Mobile Mapping System with Tilted LiDAR and Panoramic Visual Camera**|Mostafa Ahmadi, Amin Alizadeh Naeini, Zahra Arjmandi, Yujia Zhang, Mohammad Moein Sheikholeslami, Gunho Sohn|[2301.11823v1](http://arxiv.org/abs/2301.11823v1)|null|
-|**2023-01-26**|**Distributed Optimization Methods for Multi-Robot Systems: Part I -- A Tutorial**|Ola Shorinwa, Trevor Halsted, Javier Yu, Mac Schwager|[2301.11313v1](http://arxiv.org/abs/2301.11313v1)|null|
-|**2023-01-24**|**Generalized Object Search**|Kaiyu Zheng|[2301.10121v1](http://arxiv.org/abs/2301.10121v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-14**|**HR-NeuS: Recovering High-Frequency Surface Geometry via Neural Implicit Surfaces**|Erich Liang, Kenan Deng, Xi Zhang, Chun-Kai Wang|[2302.06793v1](http://arxiv.org/abs/2302.06793v1)|null|
 |**2023-02-13**|**Boosted ab initio Cryo-EM 3D Reconstruction with ACE-EM**|Lin Yao, Ruihan Xu, Zhifeng Gao, Guolin Ke, Yuhang Wang|[2302.06091v2](http://arxiv.org/abs/2302.06091v2)|null|
 |**2023-02-11**|**3D Colored Shape Reconstruction from a Single RGB Image through Diffusion**|Bo Li, Xiaolin Wei, Fengwei Chen, Bin Liu|[2302.05573v1](http://arxiv.org/abs/2302.05573v1)|null|
 |**2023-02-09**|**3D reconstruction of spherical images: A review of techniques, applications, and prospects**|San Jiang, Yaxin Li, Duojie Weng, Kan You, Wu Chen|[2302.04495v1](http://arxiv.org/abs/2302.04495v1)|null|
@@ -101,7 +102,6 @@
 |**2023-01-27**|**3D genome reconstruction from partially phased Hi-C data**|Diego Cifuentes, Jan Draisma, Oskar Henriksson, Annachiara Korchmaros, Kaie Kubjas|[2301.11764v1](http://arxiv.org/abs/2301.11764v1)|**[link](https://github.com/kaiekubjas/3d-genome-reconstruction-from-partially-phased-hic-data)**|
 |**2023-01-27**|**A Comparison of Tiny-nerf versus Spatial Representations for 3d Reconstruction**|Saulo Abraham Gante, Juan Irving Vasquez, Marco Antonio Valencia, Mauricio Olguín Carbajal|[2301.11522v1](http://arxiv.org/abs/2301.11522v1)|null|
 |**2023-01-25**|**Local Feature Extraction from Salient Regions by Feature Map Transformation**|Yerim Jung, Nur Suriza Syazwany Binti Ahmad Nizam, Sang-Chul Lee|[2301.10413v1](http://arxiv.org/abs/2301.10413v1)|null|
-|**2023-01-23**|**Two-stage 2D-to-3D reconstruction of realistic microstructures: Implementation and numerical validation by effective properties**|Paul Seibert, Alexander Raßloff, Karl Kalina, Joachim Gussone, Katrin Bugelnig, Martin Diehl, Markus Kästner|[2301.09313v1](http://arxiv.org/abs/2301.09313v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-14**|**Classification of Lung Pathologies in Neonates using Dual Tree Complex Wavelet Transform**|Sagarjit Aujla, Adel Mohamed, Ryan Tan, Randy Tan, Lei Gao, Naimul Khan, Karthikeyan Umapathy|[2302.07157v1](http://arxiv.org/abs/2302.07157v1)|null|
 |**2023-02-10**|**LAPTNet-FPN: Multi-scale LiDAR-aided Projective Transform Network for Real Time Semantic Grid Prediction**|Manuel Alejandro Diaz-Zapata, David Sierra González, Özgür Erkent, Jilles Dibangoye, Christian Laugier|[2302.06414v1](http://arxiv.org/abs/2302.06414v1)|null|
 |**2023-02-10**|**Data-Driven Stochastic Motion Evaluation and Optimization with Image by Spatially-Aligned Temporal Encoding**|Takeru Oba, Norimichi Ukita|[2302.05041v1](http://arxiv.org/abs/2302.05041v1)|null|
 |**2023-02-09**|**IH-ViT: Vision Transformer-based Integrated Circuit Appear-ance Defect Detection**|Xiaoibin Wang, Shuang Gao, Yuntao Zou, Jianlan Guo, Chu Wang|[2302.04521v1](http://arxiv.org/abs/2302.04521v1)|null|
@@ -192,7 +193,6 @@
 |**2023-02-02**|**Vision Transformer-based Feature Extraction for Generalized Zero-Shot Learning**|Jiseob Kim, Kyuhong Shim, Junhan Kim, Byonghyo Shim|[2302.00875v1](http://arxiv.org/abs/2302.00875v1)|null|
 |**2023-02-01**|**Continual Segment: Towards a Single, Unified and Accessible Continual Segmentation Model of 143 Whole-body Organs in CT Scans**|Zhanghexuan Ji, Dazhou Guo, Puyang Wang, Ke Yan, Le Lu, Minfeng Xu, Jingren Zhou, Qifeng Wang, Jia Ge, Mingchen Gao, Xianghua Ye, Dakai Jin|[2302.00162v2](http://arxiv.org/abs/2302.00162v2)|null|
 |**2023-01-31**|**Priors are Powerful: Improving a Transformer for Multi-camera 3D Detection with 2D Priors**|Di Feng, Francesco Ferroni|[2301.13592v1](http://arxiv.org/abs/2301.13592v1)|null|
-|**2023-01-31**|**Recurrent Structure Attention Guidance for Depth Super-Resolution**|Jiayi Yuan, Haobo Jiang, Xiang Li, Jianjun Qian, Jun Li, Jian Yang|[2301.13419v1](http://arxiv.org/abs/2301.13419v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
