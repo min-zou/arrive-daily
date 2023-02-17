@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-15**|**Continuous-Time Fixed-Lag Smoothing for LiDAR-Inertial-Camera SLAM**|Jiajun Lv, Xiaolei Lang, Jinhong Xu, Mengmeng Wang, Yong Liu, Xingxing Zuo|[2302.07456v1](http://arxiv.org/abs/2302.07456v1)|null|
 |**2023-02-14**|**ConceptFusion: Open-set Multimodal 3D Mapping**|Krishna Murthy Jatavallabhula, Alihusein Kuwajerwala, Qiao Gu, Mohd Omama, Tao Chen, Shuang Li, Ganesh Iyer, Soroush Saryazdi, Nikhil Keetha, Ayush Tewari, Joshua B. Tenenbaum, Celso Miguel de Melo, Madhava Krishna, Liam Paull, Florian Shkurti, Antonio Torralba|[2302.07241v2](http://arxiv.org/abs/2302.07241v2)|null|
 |**2023-02-13**|**Simplified Continuous High Dimensional Belief Space Planning with Adaptive Probabilistic Belief-dependent Constraints**|Andrey Zhitnikov, Vadim Indelman|[2302.06697v1](http://arxiv.org/abs/2302.06697v1)|null|
 |**2023-02-13**|**Mini bot 3D: A ROS based Gazebo Simulation**|B. Udugama|[2302.06368v1](http://arxiv.org/abs/2302.06368v1)|null|
@@ -10,7 +11,6 @@
 |**2023-02-07**|**NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM**|Zihan Zhu, Songyou Peng, Viktor Larsson, Zhaopeng Cui, Martin R. Oswald, Andreas Geiger, Marc Pollefeys|[2302.03594v1](http://arxiv.org/abs/2302.03594v1)|null|
 |**2023-02-03**|**vMAP: Vectorised Object Mapping for Neural Field SLAM**|Xin Kong, Shikun Liu, Marwan Taher, Andrew J. Davison|[2302.01838v1](http://arxiv.org/abs/2302.01838v1)|null|
 |**2023-02-01**|**A Projective Geometric View for 6D Pose Estimation in mmWave MIMO Systems**|Shengqiang Shen, Henk Wymeersch|[2302.00227v2](http://arxiv.org/abs/2302.00227v2)|null|
-|**2023-01-27**|**HDPV-SLAM: Hybrid Depth-augmented Panoramic Visual SLAM for Mobile Mapping System with Tilted LiDAR and Panoramic Visual Camera**|Mostafa Ahmadi, Amin Alizadeh Naeini, Zahra Arjmandi, Yujia Zhang, Mohammad Moein Sheikholeslami, Gunho Sohn|[2301.11823v1](http://arxiv.org/abs/2301.11823v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-15**|**DIVOTrack: A Novel Dataset and Baseline Method for Cross-View Multi-Object Tracking in DIVerse Open Scenes**|Shenghao Hao, Peiyuan Liu, Yibing Zhan, Kaixun Jin, Zuozhu Liu, Mingli Song, Jenq-Neng Hwang, Gaoang Wang|[2302.07676v1](http://arxiv.org/abs/2302.07676v1)|null|
 |**2023-02-12**|**Digital Twin Tracking Dataset (DTTD): A New RGB+Depth 3D Dataset for Longer-Range Object Tracking Applications**|Weiyu Feng, Seth Z. Zhao, Chuanyu Pan, Adam Chang, Yichen Chen, Zekun Wang, Allen Y. Yang|[2302.05991v1](http://arxiv.org/abs/2302.05991v1)|**[link](https://github.com/augcog/dttdv1)**|
 |**2023-02-12**|**Variational Voxel Pseudo Image Tracking**|Illia Oleksiienko, Paraskevi Nousi, Nikolaos Passalis, Anastasios Tefas, Alexandros Iosifidis|[2302.05914v1](http://arxiv.org/abs/2302.05914v1)|**[link](https://gitlab.au.dk/maleci/opendr/variational-voxel-3d-detetction)**|
 |**2023-02-07**|**Standing Between Past and Future: Spatio-Temporal Modeling for Multi-Camera 3D Multi-Object Tracking**|Ziqi Pang, Jie Li, Pavel Tokmakov, Dian Chen, Sergey Zagoruyko, Yu-Xiong Wang|[2302.03802v1](http://arxiv.org/abs/2302.03802v1)|**[link](https://github.com/tri-ml/pf-track)**|
@@ -140,7 +141,6 @@
 |**2023-02-05**|**Spatio-Temporal Point Process for Multiple Object Tracking**|Tao Wang, Kean Chen, Weiyao Lin, John See, Zenghui Zhang, Qian Xu, Xia Jia|[2302.02444v1](http://arxiv.org/abs/2302.02444v1)|null|
 |**2023-01-28**|**Object Preserving Siamese Network for Single Object Tracking on Point Clouds**|Kaijie Zhao, Haitao Zhao, Zhongze Wang, Jingchao Peng, Zhengwei Hu|[2301.12057v1](http://arxiv.org/abs/2301.12057v1)|null|
 |**2023-01-27**|**Deep Learning Based Object Tracking in Walking Droplet and Granular Intruder Experiments**|Erdi Kara, George Zhang, Joseph J. Williams, Gonzalo Ferrandez-Quinto, Leviticus J. Rhoden, Maximilian Kim, J. Nathan Kutz, Aminur Rahman|[2302.05425v1](http://arxiv.org/abs/2302.05425v1)|**[link](https://github.com/erkara/trackingdroplets)**|
-|**2023-01-26**|**Compact Transformer Tracker with Correlative Masked Modeling**|Zikai Song, Run Luo, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang|[2301.10938v1](http://arxiv.org/abs/2301.10938v1)|**[link](https://github.com/hustdml/cttrack)**|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-15**|**Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction**|Yuanhui Huang, Wenzhao Zheng, Yunpeng Zhang, Jie Zhou, Jiwen Lu|[2302.07817v1](http://arxiv.org/abs/2302.07817v1)|**[link](https://github.com/wzzheng/tpvformer)**|
 |**2023-02-14**|**Classification of Lung Pathologies in Neonates using Dual Tree Complex Wavelet Transform**|Sagarjit Aujla, Adel Mohamed, Ryan Tan, Randy Tan, Lei Gao, Naimul Khan, Karthikeyan Umapathy|[2302.07157v1](http://arxiv.org/abs/2302.07157v1)|null|
 |**2023-02-10**|**LAPTNet-FPN: Multi-scale LiDAR-aided Projective Transform Network for Real Time Semantic Grid Prediction**|Manuel Alejandro Diaz-Zapata, David Sierra González, Özgür Erkent, Jilles Dibangoye, Christian Laugier|[2302.06414v1](http://arxiv.org/abs/2302.06414v1)|null|
 |**2023-02-10**|**Data-Driven Stochastic Motion Evaluation and Optimization with Image by Spatially-Aligned Temporal Encoding**|Takeru Oba, Norimichi Ukita|[2302.05041v1](http://arxiv.org/abs/2302.05041v1)|null|
@@ -192,10 +193,10 @@
 |**2023-02-02**|**Local implicit neural representations for multi-sequence MRI translation**|Yunjie Chen, Marius Staring, Jelmer M. Wolterink, Qian Tao|[2302.01031v1](http://arxiv.org/abs/2302.01031v1)|null|
 |**2023-02-02**|**Vision Transformer-based Feature Extraction for Generalized Zero-Shot Learning**|Jiseob Kim, Kyuhong Shim, Junhan Kim, Byonghyo Shim|[2302.00875v1](http://arxiv.org/abs/2302.00875v1)|null|
 |**2023-02-01**|**Continual Segment: Towards a Single, Unified and Accessible Continual Segmentation Model of 143 Whole-body Organs in CT Scans**|Zhanghexuan Ji, Dazhou Guo, Puyang Wang, Ke Yan, Le Lu, Minfeng Xu, Jingren Zhou, Qifeng Wang, Jia Ge, Mingchen Gao, Xianghua Ye, Dakai Jin|[2302.00162v2](http://arxiv.org/abs/2302.00162v2)|null|
-|**2023-01-31**|**Priors are Powerful: Improving a Transformer for Multi-camera 3D Detection with 2D Priors**|Di Feng, Francesco Ferroni|[2301.13592v1](http://arxiv.org/abs/2301.13592v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-15**|**Continuous-Time Fixed-Lag Smoothing for LiDAR-Inertial-Camera SLAM**|Jiajun Lv, Xiaolei Lang, Jinhong Xu, Mengmeng Wang, Yong Liu, Xingxing Zuo|[2302.07456v1](http://arxiv.org/abs/2302.07456v1)|null|
 |**2023-02-06**|**Geometry of contact: contact planning for multi-legged robots via spin models duality**|Baxi Chong, Di Luo, Tianyu Wang, Gabriel Margolis, Juntao He, Pulkit Agrawal, Marin Soljačić, Daniel I. Goldman|[2302.03019v2](http://arxiv.org/abs/2302.03019v2)|null|
 |**2023-02-03**|**Acyclic Chromatic Index of Chordless Graphs**|Manu Basavaraju, Suresh Manjanath Hegde, Shashanka Kulamarva|[2302.01638v1](http://arxiv.org/abs/2302.01638v1)|null|
 |**2023-02-02**|**CREPES: Cooperative RElative Pose EStimation towards Real-World Multi-Robot Systems**|Zhiren Xun, Jian Huang, Zhehan Li, Chao Xu, Fei Gao, Yanjun Cao|[2302.01036v1](http://arxiv.org/abs/2302.01036v1)|null|
@@ -205,7 +206,6 @@
 |**2022-12-15**|**AirVO: An Illumination-Robust Point-Line Visual Odometry**|Kuan Xu, Yuefan Hao, Chen Wang, Lihua Xie|[2212.07595v1](http://arxiv.org/abs/2212.07595v1)|**[link](https://github.com/xukuanHIT/AirVO)**|
 |**2022-12-14**|**RAGO: Recurrent Graph Optimizer For Multiple Rotation Averaging**|Heng Li, Zhaopeng Cui, Shuaicheng Liu, Ping Tan|[2212.07211v1](http://arxiv.org/abs/2212.07211v1)|**[link](https://github.com/sfu-gruvi-3dv/rago)**|
 |**2022-12-14**|**Verifying term graph optimizations using Isabelle/HOL**|Brae J. Webb, Ian J. Hayes, Mark Utting|[2212.06956v1](http://arxiv.org/abs/2212.06956v1)|null|
-|**2022-12-11**|**3D LiDAR Aided GNSS NLOS Mitigation for Reliable GNSS-RTK Positioning in Urban Canyons**|Xikun Liu, Weisong Wen, Feng Huang, Han Gao, Yongliang Wang, Li-Ta Hsu|[2212.05477v1](http://arxiv.org/abs/2212.05477v1)|null|
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
