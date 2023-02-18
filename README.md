@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-16**|**Augmenting Inertial Motion Capture with SLAM Using EKF and SRUKF Data Fusion Algorithms**|Mohammad Mahdi Azarbeik, Hamidreza Razavi, Kaveh Merat, Hassan Salarieh|[2302.08294v1](http://arxiv.org/abs/2302.08294v1)|null|
 |**2023-02-15**|**Continuous-Time Fixed-Lag Smoothing for LiDAR-Inertial-Camera SLAM**|Jiajun Lv, Xiaolei Lang, Jinhong Xu, Mengmeng Wang, Yong Liu, Xingxing Zuo|[2302.07456v1](http://arxiv.org/abs/2302.07456v1)|null|
 |**2023-02-14**|**ConceptFusion: Open-set Multimodal 3D Mapping**|Krishna Murthy Jatavallabhula, Alihusein Kuwajerwala, Qiao Gu, Mohd Omama, Tao Chen, Shuang Li, Ganesh Iyer, Soroush Saryazdi, Nikhil Keetha, Ayush Tewari, Joshua B. Tenenbaum, Celso Miguel de Melo, Madhava Krishna, Liam Paull, Florian Shkurti, Antonio Torralba|[2302.07241v2](http://arxiv.org/abs/2302.07241v2)|null|
 |**2023-02-13**|**Simplified Continuous High Dimensional Belief Space Planning with Adaptive Probabilistic Belief-dependent Constraints**|Andrey Zhitnikov, Vadim Indelman|[2302.06697v1](http://arxiv.org/abs/2302.06697v1)|null|
@@ -10,7 +11,6 @@
 |**2023-02-08**|**SLaM: Student-Label Mixing for Semi-Supervised Knowledge Distillation**|Vasilis Kontonis, Fotis Iliopoulos, Khoa Trinh, Cenk Baykal, Gaurav Menghani, Erik Vee|[2302.03806v1](http://arxiv.org/abs/2302.03806v1)|null|
 |**2023-02-07**|**NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM**|Zihan Zhu, Songyou Peng, Viktor Larsson, Zhaopeng Cui, Martin R. Oswald, Andreas Geiger, Marc Pollefeys|[2302.03594v1](http://arxiv.org/abs/2302.03594v1)|null|
 |**2023-02-03**|**vMAP: Vectorised Object Mapping for Neural Field SLAM**|Xin Kong, Shikun Liu, Marwan Taher, Andrew J. Davison|[2302.01838v1](http://arxiv.org/abs/2302.01838v1)|null|
-|**2023-02-01**|**A Projective Geometric View for 6D Pose Estimation in mmWave MIMO Systems**|Shengqiang Shen, Henk Wymeersch|[2302.00227v2](http://arxiv.org/abs/2302.00227v2)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-16**|**A Simplified 3D Ultrasound Freehand Imaging Framework Using 1D Linear Probe and Low-Cost Mechanical Track**|Antony Jerald, A. N. Madhavanunni, Gayathri Malamal, Pisharody Harikrishnan Gopalakrishnan, Mahesh Raveendranatha Panicker|[2302.08297v1](http://arxiv.org/abs/2302.08297v1)|null|
 |**2023-02-14**|**HR-NeuS: Recovering High-Frequency Surface Geometry via Neural Implicit Surfaces**|Erich Liang, Kenan Deng, Xi Zhang, Chun-Kai Wang|[2302.06793v1](http://arxiv.org/abs/2302.06793v1)|null|
 |**2023-02-13**|**Boosted ab initio Cryo-EM 3D Reconstruction with ACE-EM**|Lin Yao, Ruihan Xu, Zhifeng Gao, Guolin Ke, Yuhang Wang|[2302.06091v2](http://arxiv.org/abs/2302.06091v2)|null|
 |**2023-02-11**|**3D Colored Shape Reconstruction from a Single RGB Image through Diffusion**|Bo Li, Xiaolin Wei, Fengwei Chen, Bin Liu|[2302.05573v1](http://arxiv.org/abs/2302.05573v1)|null|
@@ -101,10 +102,11 @@
 |**2023-01-30**|**Mono-STAR: Mono-camera Scene-level Tracking and Reconstruction**|Haonan Chang, Dhruv Metha Ramesh, Shijie Geng, Yuqiu Gan, Abdeslam Boularias|[2301.13244v1](http://arxiv.org/abs/2301.13244v1)|**[link](https://github.com/changhaonan/mono-star-demo)**|
 |**2023-01-27**|**3D genome reconstruction from partially phased Hi-C data**|Diego Cifuentes, Jan Draisma, Oskar Henriksson, Annachiara Korchmaros, Kaie Kubjas|[2301.11764v1](http://arxiv.org/abs/2301.11764v1)|**[link](https://github.com/kaiekubjas/3d-genome-reconstruction-from-partially-phased-hic-data)**|
 |**2023-01-27**|**A Comparison of Tiny-nerf versus Spatial Representations for 3d Reconstruction**|Saulo Abraham Gante, Juan Irving Vasquez, Marco Antonio Valencia, Mauricio Olguín Carbajal|[2301.11522v1](http://arxiv.org/abs/2301.11522v1)|null|
-|**2023-01-25**|**Local Feature Extraction from Salient Regions by Feature Map Transformation**|Yerim Jung, Nur Suriza Syazwany Binti Ahmad Nizam, Sang-Chul Lee|[2301.10413v1](http://arxiv.org/abs/2301.10413v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-16**|**URCDC-Depth: Uncertainty Rectified Cross-Distillation with CutFlip for Monocular Depth Estimation**|Shuwei Shao, Zhongcai Pei, Weihai Chen, Ran Li, Zhong Liu, Zhengguo Li|[2302.08149v1](http://arxiv.org/abs/2302.08149v1)|**[link](https://github.com/shuweishao/urcdc-depth)**|
+|**2023-02-16**|**Spectral 3D Computer Vision -- A Review**|Yajie Sun, Ali Zia, Vivien Rolland, Charissa Yu, Jun Zhou|[2302.08054v1](http://arxiv.org/abs/2302.08054v1)|null|
 |**2023-02-08**|**SkyEye: Self-Supervised Bird's-Eye-View Semantic Mapping Using Monocular Frontal View Images**|Nikhil Gosala, Kürsat Petek, Paulo L. J. Drews-Jr, Wolfram Burgard, Abhinav Valada|[2302.04233v1](http://arxiv.org/abs/2302.04233v1)|null|
 |**2023-02-08**|**EVEN: An Event-Based Framework for Monocular Depth Estimation at Adverse Night Conditions**|Peilun Shi, Jiachuan Peng, Jianing Qiu, Xinwei Ju, Frank Po Wen Lo, Benny Lo|[2302.03860v1](http://arxiv.org/abs/2302.03860v1)|null|
 |**2023-02-06**|**Structure and Content-Guided Video Synthesis with Diffusion Models**|Patrick Esser, Johnathan Chiu, Parmida Atighehchian, Jonathan Granskog, Anastasis Germanidis|[2302.03011v1](http://arxiv.org/abs/2302.03011v1)|null|
@@ -113,8 +115,6 @@
 |**2023-02-01**|**Uncertainty-Driven Dense Two-View Structure from Motion**|Weirong Chen, Suryansh Kumar, Fisher Yu|[2302.00523v2](http://arxiv.org/abs/2302.00523v2)|null|
 |**2023-01-31**|**Adversarial Training of Self-supervised Monocular Depth Estimation against Physical-World Attacks**|Zhiyuan Cheng, James Liang, Guanhong Tao, Dongfang Liu, Xiangyu Zhang|[2301.13487v2](http://arxiv.org/abs/2301.13487v2)|**[link](https://github.com/Bob-cheng/DepthModelHardening)**|
 |**2023-01-31**|**Recurrent Structure Attention Guidance for Depth Super-Resolution**|Jiayi Yuan, Haobo Jiang, Xiang Li, Jianjun Qian, Jun Li, Jian Yang|[2301.13419v1](http://arxiv.org/abs/2301.13419v1)|null|
-|**2023-01-30**|**AudioEar: Single-View Ear Reconstruction for Personalized Spatial Audio**|Xiaoyang Huang, Yanjun Wang, Yang Liu, Bingbing Ni, Wenjun Zhang, Jinxian Liu, Teng Li|[2301.12613v1](http://arxiv.org/abs/2301.12613v1)|**[link](https://github.com/seanywang0408/audioear)**|
-|**2023-01-27**|**HDPV-SLAM: Hybrid Depth-augmented Panoramic Visual SLAM for Mobile Mapping System with Tilted LiDAR and Panoramic Visual Camera**|Mostafa Ahmadi, Amin Alizadeh Naeini, Zahra Arjmandi, Yujia Zhang, Mohammad Moein Sheikholeslami, Gunho Sohn|[2301.11823v1](http://arxiv.org/abs/2301.11823v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,7 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-15**|**DIVOTrack: A Novel Dataset and Baseline Method for Cross-View Multi-Object Tracking in DIVerse Open Scenes**|Shenghao Hao, Peiyuan Liu, Yibing Zhan, Kaixun Jin, Zuozhu Liu, Mingli Song, Jenq-Neng Hwang, Gaoang Wang|[2302.07676v1](http://arxiv.org/abs/2302.07676v1)|null|
+|**2023-02-15**|**DIVOTrack: A Novel Dataset and Baseline Method for Cross-View Multi-Object Tracking in DIVerse Open Scenes**|Shenghao Hao, Peiyuan Liu, Yibing Zhan, Kaixun Jin, Zuozhu Liu, Mingli Song, Jenq-Neng Hwang, Gaoang Wang|[2302.07676v1](http://arxiv.org/abs/2302.07676v1)|**[link](https://github.com/shengyuhao/divotrack)**|
 |**2023-02-12**|**Digital Twin Tracking Dataset (DTTD): A New RGB+Depth 3D Dataset for Longer-Range Object Tracking Applications**|Weiyu Feng, Seth Z. Zhao, Chuanyu Pan, Adam Chang, Yichen Chen, Zekun Wang, Allen Y. Yang|[2302.05991v1](http://arxiv.org/abs/2302.05991v1)|**[link](https://github.com/augcog/dttdv1)**|
 |**2023-02-12**|**Variational Voxel Pseudo Image Tracking**|Illia Oleksiienko, Paraskevi Nousi, Nikolaos Passalis, Anastasios Tefas, Alexandros Iosifidis|[2302.05914v1](http://arxiv.org/abs/2302.05914v1)|**[link](https://gitlab.au.dk/maleci/opendr/variational-voxel-3d-detetction)**|
 |**2023-02-07**|**Standing Between Past and Future: Spatio-Temporal Modeling for Multi-Camera 3D Multi-Object Tracking**|Ziqi Pang, Jie Li, Pavel Tokmakov, Dian Chen, Sergey Zagoruyko, Yu-Xiong Wang|[2302.03802v1](http://arxiv.org/abs/2302.03802v1)|**[link](https://github.com/tri-ml/pf-track)**|
@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-16**|**Learning Multi-Object Positional Relationships via Emergent Communication**|Yicheng Feng, Boshi An, Zongqing Lu|[2302.08084v1](http://arxiv.org/abs/2302.08084v1)|null|
 |**2023-02-15**|**Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction**|Yuanhui Huang, Wenzhao Zheng, Yunpeng Zhang, Jie Zhou, Jiwen Lu|[2302.07817v1](http://arxiv.org/abs/2302.07817v1)|**[link](https://github.com/wzzheng/tpvformer)**|
 |**2023-02-14**|**Classification of Lung Pathologies in Neonates using Dual Tree Complex Wavelet Transform**|Sagarjit Aujla, Adel Mohamed, Ryan Tan, Randy Tan, Lei Gao, Naimul Khan, Karthikeyan Umapathy|[2302.07157v1](http://arxiv.org/abs/2302.07157v1)|null|
 |**2023-02-10**|**LAPTNet-FPN: Multi-scale LiDAR-aided Projective Transform Network for Real Time Semantic Grid Prediction**|Manuel Alejandro Diaz-Zapata, David Sierra González, Özgür Erkent, Jilles Dibangoye, Christian Laugier|[2302.06414v1](http://arxiv.org/abs/2302.06414v1)|null|
@@ -192,7 +193,6 @@
 |**2023-02-05**|**CECT: Controllable Ensemble CNN and Transformer for COVID-19 image classification by capturing both local and global image features**|Zhaoshan Liu, Lei Shen|[2302.02314v1](http://arxiv.org/abs/2302.02314v1)|null|
 |**2023-02-02**|**Local implicit neural representations for multi-sequence MRI translation**|Yunjie Chen, Marius Staring, Jelmer M. Wolterink, Qian Tao|[2302.01031v1](http://arxiv.org/abs/2302.01031v1)|null|
 |**2023-02-02**|**Vision Transformer-based Feature Extraction for Generalized Zero-Shot Learning**|Jiseob Kim, Kyuhong Shim, Junhan Kim, Byonghyo Shim|[2302.00875v1](http://arxiv.org/abs/2302.00875v1)|null|
-|**2023-02-01**|**Continual Segment: Towards a Single, Unified and Accessible Continual Segmentation Model of 143 Whole-body Organs in CT Scans**|Zhanghexuan Ji, Dazhou Guo, Puyang Wang, Ke Yan, Le Lu, Minfeng Xu, Jingren Zhou, Qifeng Wang, Jia Ge, Mingchen Gao, Xianghua Ye, Dakai Jin|[2302.00162v2](http://arxiv.org/abs/2302.00162v2)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
