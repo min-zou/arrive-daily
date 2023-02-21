@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-17**|**Probabilistic Qualitative Localization and Mapping**|Roee Mor, Vadim Indelman|[2302.08735v1](http://arxiv.org/abs/2302.08735v1)|null|
 |**2023-02-16**|**Augmenting Inertial Motion Capture with SLAM Using EKF and SRUKF Data Fusion Algorithms**|Mohammad Mahdi Azarbeik, Hamidreza Razavi, Kaveh Merat, Hassan Salarieh|[2302.08294v1](http://arxiv.org/abs/2302.08294v1)|null|
 |**2023-02-15**|**Continuous-Time Fixed-Lag Smoothing for LiDAR-Inertial-Camera SLAM**|Jiajun Lv, Xiaolei Lang, Jinhong Xu, Mengmeng Wang, Yong Liu, Xingxing Zuo|[2302.07456v1](http://arxiv.org/abs/2302.07456v1)|**[link](https://github.com/april-zju/clic)**|
 |**2023-02-14**|**ConceptFusion: Open-set Multimodal 3D Mapping**|Krishna Murthy Jatavallabhula, Alihusein Kuwajerwala, Qiao Gu, Mohd Omama, Tao Chen, Shuang Li, Ganesh Iyer, Soroush Saryazdi, Nikhil Keetha, Ayush Tewari, Joshua B. Tenenbaum, Celso Miguel de Melo, Madhava Krishna, Liam Paull, Florian Shkurti, Antonio Torralba|[2302.07241v2](http://arxiv.org/abs/2302.07241v2)|null|
@@ -10,7 +11,6 @@
 |**2023-02-08**|**Task Space Control of Robot Manipulators based on Visual SLAM**|Seyed Hamed Hashemi, Jouni Mattila|[2302.04163v1](http://arxiv.org/abs/2302.04163v1)|null|
 |**2023-02-08**|**SLaM: Student-Label Mixing for Semi-Supervised Knowledge Distillation**|Vasilis Kontonis, Fotis Iliopoulos, Khoa Trinh, Cenk Baykal, Gaurav Menghani, Erik Vee|[2302.03806v1](http://arxiv.org/abs/2302.03806v1)|null|
 |**2023-02-07**|**NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM**|Zihan Zhu, Songyou Peng, Viktor Larsson, Zhaopeng Cui, Martin R. Oswald, Andreas Geiger, Marc Pollefeys|[2302.03594v1](http://arxiv.org/abs/2302.03594v1)|null|
-|**2023-02-03**|**vMAP: Vectorised Object Mapping for Neural Field SLAM**|Xin Kong, Shikun Liu, Marwan Taher, Andrew J. Davison|[2302.01838v1](http://arxiv.org/abs/2302.01838v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -105,6 +105,8 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-17**|**Long Range Object-Level Monocular Depth Estimation for UAVs**|David Silva, Nicolas Jourdan, Nils Gählert|[2302.08943v1](http://arxiv.org/abs/2302.08943v1)|null|
+|**2023-02-17**|**MixNeRF: Modeling a Ray with Mixture Density for Novel View Synthesis from Sparse Inputs**|Seunghyeon Seo, Donghoon Han, Yeonjin Chang, Nojun Kwak|[2302.08788v1](http://arxiv.org/abs/2302.08788v1)|null|
 |**2023-02-16**|**URCDC-Depth: Uncertainty Rectified Cross-Distillation with CutFlip for Monocular Depth Estimation**|Shuwei Shao, Zhongcai Pei, Weihai Chen, Ran Li, Zhong Liu, Zhengguo Li|[2302.08149v2](http://arxiv.org/abs/2302.08149v2)|**[link](https://github.com/shuweishao/urcdc-depth)**|
 |**2023-02-16**|**Spectral 3D Computer Vision -- A Review**|Yajie Sun, Ali Zia, Vivien Rolland, Charissa Yu, Jun Zhou|[2302.08054v1](http://arxiv.org/abs/2302.08054v1)|null|
 |**2023-02-08**|**SkyEye: Self-Supervised Bird's-Eye-View Semantic Mapping Using Monocular Frontal View Images**|Nikhil Gosala, Kürsat Petek, Paulo L. J. Drews-Jr, Wolfram Burgard, Abhinav Valada|[2302.04233v1](http://arxiv.org/abs/2302.04233v1)|null|
@@ -113,8 +115,6 @@
 |**2023-02-05**|**A Disparity Refinement Framework for Learning-based Stereo Matching Methods in Cross-domain Setting for Laparoscopic Images**|Zixin Yang, Richard Simon, Cristian A. Linte|[2302.02294v1](http://arxiv.org/abs/2302.02294v1)|null|
 |**2023-02-02**|**STEPS: Joint Self-supervised Nighttime Image Enhancement and Depth Estimation**|Yupeng Zheng, Chengliang Zhong, Pengfei Li, Huan-ang Gao, Yuhang Zheng, Bu Jin, Ling Wang, Hao Zhao, Guyue Zhou, Qichao Zhang, Dongbin Zhao|[2302.01334v1](http://arxiv.org/abs/2302.01334v1)|**[link](https://github.com/ucaszyp/steps)**|
 |**2023-02-01**|**Uncertainty-Driven Dense Two-View Structure from Motion**|Weirong Chen, Suryansh Kumar, Fisher Yu|[2302.00523v2](http://arxiv.org/abs/2302.00523v2)|null|
-|**2023-01-31**|**Adversarial Training of Self-supervised Monocular Depth Estimation against Physical-World Attacks**|Zhiyuan Cheng, James Liang, Guanhong Tao, Dongfang Liu, Xiangyu Zhang|[2301.13487v2](http://arxiv.org/abs/2301.13487v2)|**[link](https://github.com/Bob-cheng/DepthModelHardening)**|
-|**2023-01-31**|**Recurrent Structure Attention Guidance for Depth Super-Resolution**|Jiayi Yuan, Haobo Jiang, Xiang Li, Jianjun Qian, Jun Li, Jian Yang|[2301.13419v1](http://arxiv.org/abs/2301.13419v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,8 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-17**|**Self-Supervised Representation Learning from Temporal Ordering of Automated Driving Sequences**|Christopher Lang, Alexander Braun, Lars Schillingmann, Karsten Haug, Abhinav Valada|[2302.09043v1](http://arxiv.org/abs/2302.09043v1)|null|
+|**2023-02-17**|**Long Range Object-Level Monocular Depth Estimation for UAVs**|David Silva, Nicolas Jourdan, Nils Gählert|[2302.08943v1](http://arxiv.org/abs/2302.08943v1)|null|
 |**2023-02-15**|**DIVOTrack: A Novel Dataset and Baseline Method for Cross-View Multi-Object Tracking in DIVerse Open Scenes**|Shenghao Hao, Peiyuan Liu, Yibing Zhan, Kaixun Jin, Zuozhu Liu, Mingli Song, Jenq-Neng Hwang, Gaoang Wang|[2302.07676v1](http://arxiv.org/abs/2302.07676v1)|**[link](https://github.com/shengyuhao/divotrack)**|
 |**2023-02-12**|**Digital Twin Tracking Dataset (DTTD): A New RGB+Depth 3D Dataset for Longer-Range Object Tracking Applications**|Weiyu Feng, Seth Z. Zhao, Chuanyu Pan, Adam Chang, Yichen Chen, Zekun Wang, Allen Y. Yang|[2302.05991v1](http://arxiv.org/abs/2302.05991v1)|**[link](https://github.com/augcog/dttdv1)**|
 |**2023-02-12**|**Variational Voxel Pseudo Image Tracking**|Illia Oleksiienko, Paraskevi Nousi, Nikolaos Passalis, Anastasios Tefas, Alexandros Iosifidis|[2302.05914v1](http://arxiv.org/abs/2302.05914v1)|**[link](https://gitlab.au.dk/maleci/opendr/variational-voxel-3d-detetction)**|
@@ -139,8 +141,6 @@
 |**2023-02-06**|**MixFormer: End-to-End Tracking with Iterative Mixed Attention**|Yutao Cui, Cheng Jiang, Gangshan Wu, Limin Wang|[2302.02814v2](http://arxiv.org/abs/2302.02814v2)|**[link](https://github.com/MCG-NJU/MixFormer)**|
 |**2023-02-06**|**Uncertainty Calibration and its Application to Object Detection**|Fabian Küppers|[2302.02622v1](http://arxiv.org/abs/2302.02622v1)|null|
 |**2023-02-05**|**Spatio-Temporal Point Process for Multiple Object Tracking**|Tao Wang, Kean Chen, Weiyao Lin, John See, Zenghui Zhang, Qian Xu, Xia Jia|[2302.02444v1](http://arxiv.org/abs/2302.02444v1)|null|
-|**2023-01-28**|**Object Preserving Siamese Network for Single Object Tracking on Point Clouds**|Kaijie Zhao, Haitao Zhao, Zhongze Wang, Jingchao Peng, Zhengwei Hu|[2301.12057v1](http://arxiv.org/abs/2301.12057v1)|null|
-|**2023-01-27**|**Deep Learning Based Object Tracking in Walking Droplet and Granular Intruder Experiments**|Erdi Kara, George Zhang, Joseph J. Williams, Gonzalo Ferrandez-Quinto, Leviticus J. Rhoden, Maximilian Kim, J. Nathan Kutz, Aminur Rahman|[2302.05425v1](http://arxiv.org/abs/2302.05425v1)|**[link](https://github.com/erkara/trackingdroplets)**|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-16**|**Fashion Image Retrieval with Multi-Granular Alignment**|Jinkuan Zhu, Hao Huang, Qiao Deng|[2302.08902v1](http://arxiv.org/abs/2302.08902v1)|null|
 |**2023-02-16**|**Learning Multi-Object Positional Relationships via Emergent Communication**|Yicheng Feng, Boshi An, Zongqing Lu|[2302.08084v1](http://arxiv.org/abs/2302.08084v1)|null|
 |**2023-02-15**|**Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction**|Yuanhui Huang, Wenzhao Zheng, Yunpeng Zhang, Jie Zhou, Jiwen Lu|[2302.07817v1](http://arxiv.org/abs/2302.07817v1)|**[link](https://github.com/wzzheng/tpvformer)**|
 |**2023-02-14**|**Classification of Lung Pathologies in Neonates using Dual Tree Complex Wavelet Transform**|Sagarjit Aujla, Adel Mohamed, Ryan Tan, Randy Tan, Lei Gao, Naimul Khan, Karthikeyan Umapathy|[2302.07157v2](http://arxiv.org/abs/2302.07157v2)|null|
@@ -192,7 +193,6 @@
 |**2023-02-08**|**Gestalt-Guided Image Understanding for Few-Shot Learning**|Kun Song, Yuchen Wu, Jiansheng Chen, Tianyu Hu, Huimin Ma|[2302.03922v1](http://arxiv.org/abs/2302.03922v1)|**[link](https://github.com/skingorz/ggiu)**|
 |**2023-02-05**|**CECT: Controllable Ensemble CNN and Transformer for COVID-19 image classification by capturing both local and global image features**|Zhaoshan Liu, Lei Shen|[2302.02314v1](http://arxiv.org/abs/2302.02314v1)|null|
 |**2023-02-02**|**Local implicit neural representations for multi-sequence MRI translation**|Yunjie Chen, Marius Staring, Jelmer M. Wolterink, Qian Tao|[2302.01031v1](http://arxiv.org/abs/2302.01031v1)|null|
-|**2023-02-02**|**Vision Transformer-based Feature Extraction for Generalized Zero-Shot Learning**|Jiseob Kim, Kyuhong Shim, Junhan Kim, Byonghyo Shim|[2302.00875v1](http://arxiv.org/abs/2302.00875v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
