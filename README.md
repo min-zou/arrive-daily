@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-21**|**MultiVehicle Simulator (MVSim): lightweight dynamics simulator for multiagents and mobile robotics research**|José-Luis Blanco-Claraco, Borys Tymchenko, Francisco José Mañas-Alvarez, Fernando Cañadas-Aránega, Ángel López-Gázquez, José Carlos Moreno|[2302.11033v1](http://arxiv.org/abs/2302.11033v1)|null|
 |**2023-02-17**|**Probabilistic Qualitative Localization and Mapping**|Roee Mor, Vadim Indelman|[2302.08735v1](http://arxiv.org/abs/2302.08735v1)|null|
 |**2023-02-16**|**Augmenting Inertial Motion Capture with SLAM Using EKF and SRUKF Data Fusion Algorithms**|Mohammad Mahdi Azarbeik, Hamidreza Razavi, Kaveh Merat, Hassan Salarieh|[2302.08294v1](http://arxiv.org/abs/2302.08294v1)|null|
 |**2023-02-15**|**Continuous-Time Fixed-Lag Smoothing for LiDAR-Inertial-Camera SLAM**|Jiajun Lv, Xiaolei Lang, Jinhong Xu, Mengmeng Wang, Yong Liu, Xingxing Zuo|[2302.07456v1](http://arxiv.org/abs/2302.07456v1)|**[link](https://github.com/april-zju/clic)**|
@@ -10,7 +11,6 @@
 |**2023-02-13**|**Evolution of SLAM: Toward the Robust-Perception of Autonomy**|B. Udugama|[2302.06365v1](http://arxiv.org/abs/2302.06365v1)|null|
 |**2023-02-08**|**Task Space Control of Robot Manipulators based on Visual SLAM**|Seyed Hamed Hashemi, Jouni Mattila|[2302.04163v1](http://arxiv.org/abs/2302.04163v1)|null|
 |**2023-02-08**|**SLaM: Student-Label Mixing for Semi-Supervised Knowledge Distillation**|Vasilis Kontonis, Fotis Iliopoulos, Khoa Trinh, Cenk Baykal, Gaurav Menghani, Erik Vee|[2302.03806v1](http://arxiv.org/abs/2302.03806v1)|null|
-|**2023-02-07**|**NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM**|Zihan Zhu, Songyou Peng, Viktor Larsson, Zhaopeng Cui, Martin R. Oswald, Andreas Geiger, Marc Pollefeys|[2302.03594v1](http://arxiv.org/abs/2302.03594v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,8 +92,9 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-21**|**$PC^2$: Projection-Conditioned Point Cloud Diffusion for Single-Image 3D Reconstruction**|Luke Melas-Kyriazi, Christian Rupprecht, Andrea Vedaldi|[2302.10668v1](http://arxiv.org/abs/2302.10668v1)|null|
-|**2023-02-21**|**RealFusion: 360° Reconstruction of Any Object from a Single Image**|Luke Melas-Kyriazi, Christian Rupprecht, Iro Laina, Andrea Vedaldi|[2302.10663v1](http://arxiv.org/abs/2302.10663v1)|null|
+|**2023-02-22**|**View Consistency Aware Holistic Triangulation for 3D Human Pose Estimation**|Xiaoyue Wan, Zhuo Chen, Xu Zhao|[2302.11301v2](http://arxiv.org/abs/2302.11301v2)|null|
+|**2023-02-21**|**$PC^2$: Projection-Conditioned Point Cloud Diffusion for Single-Image 3D Reconstruction**|Luke Melas-Kyriazi, Christian Rupprecht, Andrea Vedaldi|[2302.10668v2](http://arxiv.org/abs/2302.10668v2)|null|
+|**2023-02-21**|**RealFusion: 360° Reconstruction of Any Object from a Single Image**|Luke Melas-Kyriazi, Christian Rupprecht, Iro Laina, Andrea Vedaldi|[2302.10663v2](http://arxiv.org/abs/2302.10663v2)|null|
 |**2023-02-20**|**UAVStereo: A Multiple Resolution Dataset for Stereo Matching in UAV Scenarios**|Zhang Xiaoyi, Cao Xuefeng, Yu Anzhu, Yu Wenshuai, Li Zhenqi, Quan Yujun|[2302.10082v1](http://arxiv.org/abs/2302.10082v1)|null|
 |**2023-02-20**|**3D Target Detection and Spectral Classification for Single-photon LiDAR Data**|Mohamed Amir Alaa Belmekki, Jonathan Leach, Rachael Tobin, Gerald S. Buller, Stephen Mclaughlin, Abderrahim Halimi|[2302.09730v1](http://arxiv.org/abs/2302.09730v1)|null|
 |**2023-02-16**|**A Simplified 3D Ultrasound Freehand Imaging Framework Using 1D Linear Probe and Low-Cost Mechanical Track**|Antony Jerald, A. N. Madhavanunni, Gayathri Malamal, Pisharody Harikrishnan Gopalakrishnan, Mahesh Raveendranatha Panicker|[2302.08297v1](http://arxiv.org/abs/2302.08297v1)|null|
@@ -101,7 +102,6 @@
 |**2023-02-13**|**Boosted ab initio Cryo-EM 3D Reconstruction with ACE-EM**|Lin Yao, Ruihan Xu, Zhifeng Gao, Guolin Ke, Yuhang Wang|[2302.06091v2](http://arxiv.org/abs/2302.06091v2)|null|
 |**2023-02-11**|**3D Colored Shape Reconstruction from a Single RGB Image through Diffusion**|Bo Li, Xiaolin Wei, Fengwei Chen, Bin Liu|[2302.05573v1](http://arxiv.org/abs/2302.05573v1)|null|
 |**2023-02-09**|**3D reconstruction of spherical images: A review of techniques, applications, and prospects**|San Jiang, Yaxin Li, Duojie Weng, Kan You, Wu Chen|[2302.04495v1](http://arxiv.org/abs/2302.04495v1)|null|
-|**2023-02-09**|**PredRecon: A Prediction-boosted Planning Framework for Fast and High-quality Autonomous Aerial Reconstruction**|Chen Feng, Haojia Li, Fei Gao, Boyu Zhou, Shaojie Shen|[2302.04488v1](http://arxiv.org/abs/2302.04488v1)|**[link](https://github.com/hkust-aerial-robotics/predrecon)**|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-22**|**Fusing Visual Appearance and Geometry for Multi-modality 6DoF Object Tracking**|Manuel Stoiber, Mariam Elsayed, Anne E. Reichert, Florian Steidle, Dongheui Lee, Rudolph Triebel|[2302.11458v1](http://arxiv.org/abs/2302.11458v1)|**[link](https://github.com/dlr-rm/3dobjecttracking)**|
 |**2023-02-21**|**BrackishMOT: The Brackish Multi-Object Tracking Dataset**|Malte Pedersen, Daniel Lehotský, Ivan Nikolov, Thomas B. Moeslund|[2302.10645v1](http://arxiv.org/abs/2302.10645v1)|**[link](https://github.com/daniellehot/Underwater-Fish-Environment)**|
 |**2023-02-17**|**Self-Supervised Representation Learning from Temporal Ordering of Automated Driving Sequences**|Christopher Lang, Alexander Braun, Lars Schillingmann, Karsten Haug, Abhinav Valada|[2302.09043v1](http://arxiv.org/abs/2302.09043v1)|null|
 |**2023-02-17**|**Long Range Object-Level Monocular Depth Estimation for UAVs**|David Silva, Nicolas Jourdan, Nils Gählert|[2302.08943v1](http://arxiv.org/abs/2302.08943v1)|null|
@@ -140,7 +141,6 @@
 |**2023-02-07**|**Standing Between Past and Future: Spatio-Temporal Modeling for Multi-Camera 3D Multi-Object Tracking**|Ziqi Pang, Jie Li, Pavel Tokmakov, Dian Chen, Sergey Zagoruyko, Yu-Xiong Wang|[2302.03802v1](http://arxiv.org/abs/2302.03802v1)|**[link](https://github.com/tri-ml/pf-track)**|
 |**2023-02-07**|**Self-Supervised Unseen Object Instance Segmentation via Long-Term Robot Interaction**|Yangxiao Lu, Ninad Khargonkar, Zesheng Xu, Charles Averill, Kamalesh Palanisamy, Kaiyu Hang, Yunhui Guo, Nicholas Ruozzi, Yu Xiang|[2302.03793v1](http://arxiv.org/abs/2302.03793v1)|null|
 |**2023-02-06**|**MixFormer: End-to-End Tracking with Iterative Mixed Attention**|Yutao Cui, Cheng Jiang, Gangshan Wu, Limin Wang|[2302.02814v2](http://arxiv.org/abs/2302.02814v2)|**[link](https://github.com/MCG-NJU/MixFormer)**|
-|**2023-02-06**|**Uncertainty Calibration and its Application to Object Detection**|Fabian Küppers|[2302.02622v1](http://arxiv.org/abs/2302.02622v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,16 +183,16 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-21**|**SF2Former: Amyotrophic Lateral Sclerosis Identification From Multi-center MRI Data Using Spatial and Frequency Fusion Transformer**|Rafsanjany Kushol, Collin C. Luk, Avyarthana Dey, Michael Benatar, Hannah Briemberg, Annie Dionne, Nicolas Dupré, Richard Frayne, Angela Genge, Summer Gibson, Simon J. Graham, Lawrence Korngut, Peter Seres, Robert C. Welsh, Alan Wilman, Lorne Zinman, Sanjay Kalra, Yee-Hong Yang|[2302.10859v1](http://arxiv.org/abs/2302.10859v1)|null|
-|**2023-02-21**|**$PC^2$: Projection-Conditioned Point Cloud Diffusion for Single-Image 3D Reconstruction**|Luke Melas-Kyriazi, Christian Rupprecht, Andrea Vedaldi|[2302.10668v1](http://arxiv.org/abs/2302.10668v1)|null|
+|**2023-02-22**|**BB-GCN: A Bi-modal Bridged Graph Convolutional Network for Multi-label Chest X-Ray Recognition**|Guoli Wang, Pingping Wang, Jinyu Cong, Kunmeng Liu, Benzheng Wei|[2302.11082v1](http://arxiv.org/abs/2302.11082v1)|null|
+|**2023-02-21**|**SF2Former: Amyotrophic Lateral Sclerosis Identification From Multi-center MRI Data Using Spatial and Frequency Fusion Transformer**|Rafsanjany Kushol, Collin C. Luk, Avyarthana Dey, Michael Benatar, Hannah Briemberg, Annie Dionne, Nicolas Dupré, Richard Frayne, Angela Genge, Summer Gibson, Simon J. Graham, Lawrence Korngut, Peter Seres, Robert C. Welsh, Alan Wilman, Lorne Zinman, Sanjay Kalra, Yee-Hong Yang|[2302.10859v1](http://arxiv.org/abs/2302.10859v1)|**[link](https://github.com/raoyongming/GFNet)**|
+|**2023-02-21**|**$PC^2$: Projection-Conditioned Point Cloud Diffusion for Single-Image 3D Reconstruction**|Luke Melas-Kyriazi, Christian Rupprecht, Andrea Vedaldi|[2302.10668v2](http://arxiv.org/abs/2302.10668v2)|null|
 |**2023-02-21**|**SU-Net: Pose estimation network for non-cooperative spacecraft on-orbit**|Hu Gao, Zhihui Li, Depeng Dang, Ning Wang, Jingfan Yang|[2302.10602v1](http://arxiv.org/abs/2302.10602v1)|null|
 |**2023-02-21**|**MVFusion: Multi-View 3D Object Detection with Semantic-aligned Radar and Camera Fusion**|Zizhang Wu, Guilian Chen, Yuanzhu Gan, Lei Wang, Jian Pu|[2302.10511v1](http://arxiv.org/abs/2302.10511v1)|null|
 |**2023-02-20**|**NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion**|Jiatao Gu, Alex Trevithick, Kai-En Lin, Josh Susskind, Christian Theobalt, Lingjie Liu, Ravi Ramamoorthi|[2302.10109v1](http://arxiv.org/abs/2302.10109v1)|null|
-|**2023-02-16**|**Fashion Image Retrieval with Multi-Granular Alignment**|Jinkuan Zhu, Hao Huang, Qiao Deng|[2302.08902v1](http://arxiv.org/abs/2302.08902v1)|null|
+|**2023-02-16**|**Fashion Image Retrieval with Multi-Granular Alignment**|Jinkuan Zhu, Hao Huang, Qiao Deng, Xiyao Li|[2302.08902v2](http://arxiv.org/abs/2302.08902v2)|null|
 |**2023-02-16**|**Learning Multi-Object Positional Relationships via Emergent Communication**|Yicheng Feng, Boshi An, Zongqing Lu|[2302.08084v1](http://arxiv.org/abs/2302.08084v1)|null|
 |**2023-02-15**|**Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction**|Yuanhui Huang, Wenzhao Zheng, Yunpeng Zhang, Jie Zhou, Jiwen Lu|[2302.07817v1](http://arxiv.org/abs/2302.07817v1)|**[link](https://github.com/wzzheng/tpvformer)**|
 |**2023-02-14**|**Classification of Lung Pathologies in Neonates using Dual Tree Complex Wavelet Transform**|Sagarjit Aujla, Adel Mohamed, Ryan Tan, Randy Tan, Lei Gao, Naimul Khan, Karthikeyan Umapathy|[2302.07157v2](http://arxiv.org/abs/2302.07157v2)|null|
-|**2023-02-10**|**LAPTNet-FPN: Multi-scale LiDAR-aided Projective Transform Network for Real Time Semantic Grid Prediction**|Manuel Alejandro Diaz-Zapata, David Sierra González, Özgür Erkent, Jilles Dibangoye, Christian Laugier|[2302.06414v1](http://arxiv.org/abs/2302.06414v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
