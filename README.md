@@ -196,7 +196,7 @@
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-03-30**|**Online Camera-to-ground Calibration for Autonomous Driving**|Binbin Li, Xinyu Du, Yao Hu, Hao Yu, Wende Zhang|[2303.17137v1](http://arxiv.org/abs/2303.17137v1)|null|
+|**2023-03-30**|**Online Camera-to-ground Calibration for Autonomous Driving**|Binbin Li, Xinyu Du, Yao Hu, Hao Yu, Wende Zhang|[2303.17137v2](http://arxiv.org/abs/2303.17137v2)|null|
 |**2023-03-30**|**Enhanced Stable View Synthesis**|Nishant Jain, Suryansh Kumar, Luc Van Gool|[2303.17094v1](http://arxiv.org/abs/2303.17094v1)|null|
 |**2023-03-28**|**Modularity-Guided Graph Topology Optimization And Self-Boosting Clustering**|Yongyu Wang, Shiqi Hao, Zhangxun Liu, Xiaotian Zhuang|[2303.16103v1](http://arxiv.org/abs/2303.16103v1)|null|
 |**2023-03-24**|**BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects**|Bowen Wen, Jonathan Tremblay, Valts Blukis, Stephen Tyree, Thomas Muller, Alex Evans, Dieter Fox, Jan Kautz, Stan Birchfield|[2303.14158v1](http://arxiv.org/abs/2303.14158v1)|null|
