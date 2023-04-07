@@ -66,6 +66,7 @@
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-05**|**Semantic Validation in Structure from Motion**|Joseph Rowell|[2304.02420v1](http://arxiv.org/abs/2304.02420v1)|**[link](https://github.com/joerowelll/comp0132_rjxz25)**|
 |**2023-03-16**|**Molecular gas in super spiral galaxies**|Ute Lisenfeld, Patrick M. Ogle, Philip N. Appleton, Thomas H. Jarrett, Blanca M. Moncada-Cuadri|[2303.09473v1](http://arxiv.org/abs/2303.09473v1)|null|
 |**2023-03-15**|**RefiNeRF: Modelling dynamic neural radiance fields with inconsistent or missing camera parameters**|Shuja Khalid, Frank Rudzicz|[2303.08695v1](http://arxiv.org/abs/2303.08695v1)|null|
 |**2023-02-21**|**EC-SfM: Efficient Covisibility-based Structure-from-Motion for Both Sequential and Unordered Images**|Zhichao Ye, Chong Bao, Xin Zhou, Haomin Liu, Hujun Bao, Guofeng Zhang|[2302.10544v1](http://arxiv.org/abs/2302.10544v1)|**[link](https://github.com/openxrlab/xrsfm)**|
@@ -75,10 +76,10 @@
 |**2023-01-20**|**A vision-based autonomous UAV inspection framework for unknown tunnel construction sites with dynamic obstacles**|Zhefan Xu, Baihan Chen, Xiaoyang Zhan, Yumeng Xiu, Christopher Suzuki, Kenji Shimada|[2301.08422v1](http://arxiv.org/abs/2301.08422v1)|null|
 |**2023-01-18**|**OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models**|Xingyi He, Jiaming Sun, Yuang Wang, Di Huang, Hujun Bao, Xiaowei Zhou|[2301.07673v1](http://arxiv.org/abs/2301.07673v1)|null|
 |**2023-01-05**|**Robust Dynamic Radiance Fields**|Yu-Lun Liu, Chen Gao, Andreas Meuleman, Hung-Yu Tseng, Ayush Saraf, Changil Kim, Yung-Yu Chuang, Johannes Kopf, Jia-Bin Huang|[2301.02239v2](http://arxiv.org/abs/2301.02239v2)|null|
-|**2022-12-17**|**Specification tests for normal/gamma and stable/gamma stochastic frontier models based on empirical transforms**|Christos K. Papadimitriou, Simos G. Meintanis, Mike G. Tsionas|[2212.08867v1](http://arxiv.org/abs/2212.08867v1)|null|
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-05**|**Semantic Validation in Structure from Motion**|Joseph Rowell|[2304.02420v1](http://arxiv.org/abs/2304.02420v1)|**[link](https://github.com/joerowelll/comp0132_rjxz25)**|
 |**2023-03-31**|**Learning Internal Representations of 3D Transformations from 2D Projected Inputs**|Marissa Connor, Bruno Olshausen, Christopher Rozell|[2303.17776v1](http://arxiv.org/abs/2303.17776v1)|null|
 |**2023-03-30**|**3D Line Mapping Revisited**|Shaohui Liu, Yifan Yu, Rémi Pautrat, Marc Pollefeys, Viktor Larsson|[2303.17504v1](http://arxiv.org/abs/2303.17504v1)|**[link](https://github.com/cvg/limap)**|
 |**2023-03-27**|**TMO: Textured Mesh Acquisition of Objects with a Mobile Device by using Differentiable Rendering**|Jaehoon Choi, Dongki Jung, Taejae Lee, Sangwook Kim, Youngdong Jung, Dinesh Manocha, Donghwan Lee|[2303.15060v1](http://arxiv.org/abs/2303.15060v1)|null|
@@ -88,7 +89,6 @@
 |**2023-03-15**|**RefiNeRF: Modelling dynamic neural radiance fields with inconsistent or missing camera parameters**|Shuja Khalid, Frank Rudzicz|[2303.08695v1](http://arxiv.org/abs/2303.08695v1)|null|
 |**2023-03-09**|**Revisiting Rotation Averaging: Uncertainties and Robust Losses**|Ganlin Zhang, Viktor Larsson, Daniel Barath|[2303.05195v1](http://arxiv.org/abs/2303.05195v1)|**[link](https://github.com/zhangganlin/globalsfmpy)**|
 |**2023-02-28**|**Nonlinear Intensity, Scale and Rotation Invariant Matching for Multimodal Images**|Zhongli Fan, Li Zhang, Yuxuan Liu|[2302.14239v1](http://arxiv.org/abs/2302.14239v1)|**[link](https://github.com/zhongli-fan/nisr)**|
-|**2023-02-27**|**BLiRF: Bandlimited Radiance Fields for Dynamic Scene Modeling**|Sameera Ramasinghe, Violetta Shevchenko, Gil Avraham, Anton Van Den Hengel|[2302.13543v3](http://arxiv.org/abs/2302.13543v3)|null|
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -105,16 +105,16 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-05**|**DEFLOW: Self-supervised 3D Motion Estimation of Debris Flow**|Liyuan Zhu, Yuru Jia, Shengyu Huang, Nicholas Meyer, Andreas Wieser, Konrad Schindler, Jordan Aaron|[2304.02569v1](http://arxiv.org/abs/2304.02569v1)|null|
 |**2023-04-04**|**FineRecon: Depth-aware Feed-forward Network for Detailed 3D Reconstruction**|Noah Stier, Anurag Ranjan, Alex Colburn, Yajie Yan, Liang Yang, Fangchang Ma, Baptiste Angles|[2304.01480v1](http://arxiv.org/abs/2304.01480v1)|null|
-|**2023-04-03**|**Joint 2D-3D Multi-Task Learning on Cityscapes-3D: 3D Detection, Segmentation, and Depth Estimation**|Hanrong Ye|[2304.00971v2](http://arxiv.org/abs/2304.00971v2)|**[link](https://github.com/prismformore/multi-task-transformer)**|
+|**2023-04-03**|**Joint 2D-3D Multi-Task Learning on Cityscapes-3D: 3D Detection, Segmentation, and Depth Estimation**|Hanrong Ye, Dan Xu|[2304.00971v3](http://arxiv.org/abs/2304.00971v3)|**[link](https://github.com/prismformore/multi-task-transformer)**|
 |**2023-03-31**|**SemHint-MD: Learning from Noisy Semantic Labels for Self-Supervised Monocular Depth Estimation**|Shan Lin, Yuheng Zhi, Michael C. Yip|[2303.18219v1](http://arxiv.org/abs/2303.18219v1)|null|
 |**2023-03-31**|**Single Image Depth Prediction Made Better: A Multivariate Gaussian Take**|Ce Liu, Suryansh Kumar, Shuhang Gu, Radu Timofte, Luc Van Gool|[2303.18164v1](http://arxiv.org/abs/2303.18164v1)|null|
 |**2023-03-31**|**3D-aware Image Generation using 2D Diffusion Models**|Jianfeng Xiang, Jiaolong Yang, Binbin Huang, Xin Tong|[2303.17905v1](http://arxiv.org/abs/2303.17905v1)|null|
-|**2023-03-31**|**EA-BEV: Edge-aware Bird' s-Eye-View Projector for 3D Object Detection**|Haotian, Hu, Fanyi, Wang, Jingwen, Su, Laifeng, Hu, Tianpeng, Feng, Zhaokai, Zhang, Wangzhi, Zhang|[2303.17895v1](http://arxiv.org/abs/2303.17895v1)|null|
+|**2023-03-31**|**EA-BEV: Edge-aware Bird' s-Eye-View Projector for 3D Object Detection**|Haotian, Hu, Fanyi, Wang, Jingwen, Su, Laifeng, Hu, Tianpeng, Feng, Zhaokai, Zhang, Wangzhi, Zhang|[2303.17895v1](http://arxiv.org/abs/2303.17895v1)|**[link](https://github.com/hht1996ok/ea-bev)**|
 |**2023-03-31**|**Joint Depth Estimation and Mixture of Rain Removal From a Single Image**|Yongzhen Wang, Xuefeng Yan, Yanbiao Niu, Lina Gong, Yanwen Guo, Mingqiang Wei|[2303.17766v1](http://arxiv.org/abs/2303.17766v1)|**[link](https://github.com/yz-wang/demore-net)**|
 |**2023-03-30**|**TiDy-PSFs: Computational Imaging with Time-Averaged Dynamic Point-Spread-Functions**|Sachin Shah, Sakshum Kulshrestha, Christopher A. Metzler|[2303.17583v1](http://arxiv.org/abs/2303.17583v1)|null|
 |**2023-03-30**|**DDP: Diffusion Model for Dense Visual Prediction**|Yuanfeng Ji, Zhe Chen, Enze Xie, Lanqing Hong, Xihui Liu, Zhaoqiang Liu, Tong Lu, Zhenguo Li, Ping Luo|[2303.17559v1](http://arxiv.org/abs/2303.17559v1)|null|
-|**2023-03-29**|**An intelligent modular real-time vision-based system for environment perception**|Amirhossein Kazerouni, Amirhossein Heydarian, Milad Soltany, Aida Mohammadshahi, Abbas Omidi, Saeed Ebadollahi|[2303.16710v1](http://arxiv.org/abs/2303.16710v1)|**[link](https://github.com/pandas-team/autonomous-vehicle-environment-perception)**|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
