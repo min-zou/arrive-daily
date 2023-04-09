@@ -27,7 +27,7 @@
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-04-06**|**Distributed formation-enforcing control for UAVs robust to observation noise in relative pose measurements**|Viktor Walter, Matouš Vrba, Daniel Bonilla Licea, Martin Saska|[2304.03057v1](http://arxiv.org/abs/2304.03057v1)|null|
+|**2023-04-06**|**Distributed formation-enforcing control for UAVs robust to observation noise in relative pose measurements**|Viktor Walter, Matouš Vrba, Daniel Bonilla Licea, Martin Saska|[2304.03057v1](http://arxiv.org/abs/2304.03057v1)|**[link](https://github.com/ctu-mrs/difec-ron)**|
 |**2023-04-04**|**OrienterNet: Visual Localization in 2D Public Maps with Neural Matching**|Paul-Edouard Sarlin, Daniel DeTone, Tsun-Yi Yang, Armen Avetisyan, Julian Straub, Tomasz Malisiewicz, Samuel Rota Bulo, Richard Newcombe, Peter Kontschieder, Vasileios Balntas|[2304.02009v1](http://arxiv.org/abs/2304.02009v1)|null|
 |**2023-03-30**|**3D Line Mapping Revisited**|Shaohui Liu, Yifan Yu, Rémi Pautrat, Marc Pollefeys, Viktor Larsson|[2303.17504v1](http://arxiv.org/abs/2303.17504v1)|**[link](https://github.com/cvg/limap)**|
 |**2023-03-21**|**Data-efficient Large Scale Place Recognition with Graded Similarity Supervision**|Maria Leyva-Vallina, Nicola Strisciuglio, Nicolai Petkov|[2303.11739v2](http://arxiv.org/abs/2303.11739v2)|**[link](https://github.com/marialeyvallina/generalized_contrastive_loss)**|
@@ -96,12 +96,12 @@
 |**2023-04-06**|**Deep learning-based image exposure enhancement as a pre-processing for an accurate 3D colon surface reconstruction**|Ricardo Espinosa, Carlos Axel Garcia-Vega, Gilberto Ochoa-Ruiz, Dominique Lamarque, Christian Daul|[2304.03171v1](http://arxiv.org/abs/2304.03171v1)|null|
 |**2023-04-06**|**DeLiRa: Self-Supervised Depth, Light, and Radiance Fields**|Vitor Guizilini, Igor Vasiljevic, Jiading Fang, Rares Ambrus, Sergey Zakharov, Vincent Sitzmann, Adrien Gaidon|[2304.02797v1](http://arxiv.org/abs/2304.02797v1)|null|
 |**2023-04-05**|**Image Stabilization for Hololens Camera in Remote Collaboration**|Gowtham Senthil, Siva Vignesh Krishnan, Annamalai Lakshmanan, Florence Kissling|[2304.02736v1](http://arxiv.org/abs/2304.02736v1)|null|
-|**2023-04-05**|**Real-Time Dense 3D Mapping of Underwater Environments**|Weihan Wang, Bharat Joshi, Nathaniel Burgdorfer, Konstantinos Batsos, Alberto Quattrini Li, Philippos Mordohai, Ioannis Rekleitis|[2304.02704v1](http://arxiv.org/abs/2304.02704v1)|null|
+|**2023-04-05**|**Real-Time Dense 3D Mapping of Underwater Environments**|Weihan Wang, Bharat Joshi, Nathaniel Burgdorfer, Konstantinos Batsos, Alberto Quattrini Li, Philippos Mordohai, Ioannis Rekleitis|[2304.02704v1](http://arxiv.org/abs/2304.02704v1)|**[link](https://github.com/kbatsos/real-time-stereo)**|
 |**2023-04-04**|**USTC FLICAR: A Multisensor Fusion Dataset of LiDAR-Inertial-Camera for Heavy-duty Autonomous Aerial Work Robots**|Ziming Wang, Yujiang Liu, Yifan Duan, Xingchen Li, Xinran Zhang, Jianmin Ji, Erbao Dong, Yanyong Zhang|[2304.01986v1](http://arxiv.org/abs/2304.01986v1)|null|
 |**2023-04-04**|**End-to-End Latency Optimization of Multi-view 3D Reconstruction for Disaster Response**|Xiaojie Zhang, Mingjun Li, Andrew Hilton, Amitangshu Pal, Soumyabrata Dey, Saptarshi Debroy|[2304.01488v1](http://arxiv.org/abs/2304.01488v1)|null|
 |**2023-04-04**|**FineRecon: Depth-aware Feed-forward Network for Detailed 3D Reconstruction**|Noah Stier, Anurag Ranjan, Alex Colburn, Yajie Yan, Liang Yang, Fangchang Ma, Baptiste Angles|[2304.01480v1](http://arxiv.org/abs/2304.01480v1)|null|
 |**2023-04-03**|**One-Shot View Planning for Fast and Complete Unknown Object Reconstruction**|Sicong Pan, Hao Hu, Hui Wei, Nils Dengler, Tobias Zaenker, Maren Bennewitz|[2304.00910v1](http://arxiv.org/abs/2304.00910v1)|**[link](https://github.com/psc0628/ma-scvp)**|
-|**2023-04-01**|**Real-Time Tilt Undersampling Optimization during Electron Tomography of Beam Sensitive Samples using Golden Ratio Scanning and RECAST3D**|Timothy M. Craig, Ajinkya A Kadu, Kees Joost Batenburg, Sara Bals|[2304.01221v1](http://arxiv.org/abs/2304.01221v1)|null|
+|**2023-04-01**|**Real-Time Tilt Undersampling Optimization during Electron Tomography of Beam Sensitive Samples using Golden Ratio Scanning and RECAST3D**|Timothy M. Craig, Ajinkya A Kadu, Kees Joost Batenburg, Sara Bals|[2304.01221v1](http://arxiv.org/abs/2304.01221v1)|**[link](https://github.com/cicwi/recast3d)**|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
