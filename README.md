@@ -132,7 +132,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-04-06**|**Instant-NVR: Instant Neural Volumetric Rendering for Human-object Interactions from Monocular RGBD Stream**|Yuheng Jiang, Kaixin Yao, Zhuo Su, Zhehao Shen, Haimin Luo, Lan Xu|[2304.03184v1](http://arxiv.org/abs/2304.03184v1)|null|
-|**2023-04-02**|**DropMAE: Masked Autoencoders with Spatial-Attention Dropout for Tracking Tasks**|Qiangqiang Wu, Tianyu Yang, Ziquan Liu, Baoyuan Wu, Ying Shan, Antoni B. Chan|[2304.00571v1](http://arxiv.org/abs/2304.00571v1)|**[link](https://github.com/jimmy-dq/dropmae)**|
+|**2023-04-02**|**DropMAE: Masked Autoencoders with Spatial-Attention Dropout for Tracking Tasks**|Qiangqiang Wu, Tianyu Yang, Ziquan Liu, Baoyuan Wu, Ying Shan, Antoni B. Chan|[2304.00571v2](http://arxiv.org/abs/2304.00571v2)|**[link](https://github.com/jimmy-dq/dropmae)**|
 |**2023-04-01**|**GLT-T++: Global-Local Transformer for 3D Siamese Tracking with Ranking Loss**|Jiahao Nie, Zhiwei He, Yuxiang Yang, Xudong Lv, Mingyu Gao, Jing Zhang|[2304.00242v1](http://arxiv.org/abs/2304.00242v1)|**[link](https://github.com/haooozi/glt-t)**|
 |**2023-03-30**|**Streaming Video Model**|Yucheng Zhao, Chong Luo, Chuanxin Tang, Dongdong Chen, Noel Codella, Zheng-Jun Zha|[2303.17228v1](http://arxiv.org/abs/2303.17228v1)|**[link](https://github.com/yuzhms/streaming-video-model)**|
 |**2023-03-28**|**Spatiotemporal Self-supervised Learning for Point Clouds in the Wild**|Yanhao Wu, Tong Zhang, Wei Ke, Sabine Süsstrunk, Mathieu Salzmann|[2303.16235v1](http://arxiv.org/abs/2303.16235v1)|**[link](https://github.com/yanhaowu/stssl)**|
