@@ -92,19 +92,20 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-20**|**Reconstructing Signing Avatars From Video Using Linguistic Priors**|Maria-Paola Forte, Peter Kulits, Chun-Hao Huang, Vasileios Choutas, Dimitrios Tzionas, Katherine J. Kuchenbecker, Michael J. Black|[2304.10482v1](http://arxiv.org/abs/2304.10482v1)|null|
+|**2023-04-20**|**A geometry-aware deep network for depth estimation in monocular endoscopy**|Yongming Yang, Shuwei Shao, Tao Yang, Peng Wang, Zhuo Yang, Chengdong Wu, Hao Liu|[2304.10241v1](http://arxiv.org/abs/2304.10241v1)|**[link](https://github.com/yym-sia/lingmi-mr)**|
+|**2023-04-19**|**Tetra-NeRF: Representing Neural Radiance Fields Using Tetrahedra**|Jonas Kulhanek, Torsten Sattler|[2304.09987v1](http://arxiv.org/abs/2304.09987v1)|**[link](https://github.com/jkulhanek/tetra-nerf)**|
+|**2023-04-19**|**Anything-3D: Towards Single-view Anything Reconstruction in the Wild**|Qiuhong Shen, Xingyi Yang, Xinchao Wang|[2304.10261v1](http://arxiv.org/abs/2304.10261v1)|**[link](https://github.com/anything-of-anything/anything-3d)**|
 |**2023-04-19**|**Single-View View Synthesis with Self-Rectified Pseudo-Stereo**|Yang Zhou, Hanjie Wu, Wenxi Liu, Zheng Xiong, Jing Qin, Shengfeng He|[2304.09527v2](http://arxiv.org/abs/2304.09527v2)|null|
 |**2023-04-19**|**3 Dimensional Dense Reconstruction: A Review of Algorithms and Dataset**|Yangming Li|[2304.09371v1](http://arxiv.org/abs/2304.09371v1)|null|
 |**2023-04-18**|**SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes**|Yiming Gao, Yan-Pei Cao, Ying Shan|[2304.08971v1](http://arxiv.org/abs/2304.08971v1)|null|
 |**2023-04-17**|**Learning How To Robustly Estimate Camera Pose in Endoscopic Videos**|Michel Hayoz, Christopher Hahne, Mathias Gallardo, Daniel Candinas, Thomas Kurmann, Maximilian Allan, Raphael Sznitman|[2304.08023v1](http://arxiv.org/abs/2304.08023v1)|**[link](https://github.com/aimi-lab/robust-pose-estimator)**|
 |**2023-04-15**|**Temporally Consistent Online Depth Estimation Using Point-Based Fusion**|Numair Khan, Eric Penner, Douglas Lanman, Lei Xiao|[2304.07435v1](http://arxiv.org/abs/2304.07435v1)|null|
 |**2023-04-13**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen, Jiatao Gu, Anpei Chen, Wei Tian, Zhuowen Tu, Lingjie Liu, Hao Su|[2304.06714v2](http://arxiv.org/abs/2304.06714v2)|null|
-|**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize, Weiyao Wang, Matt Feiszli|[2304.06194v1](http://arxiv.org/abs/2304.06194v1)|**[link](https://github.com/facebookresearch/silk)**|
-|**2023-04-12**|**Dynamic Voxel Grid Optimization for High-Fidelity RGB-D Supervised Surface Reconstruction**|Xiangyu Xu, Lichang Chen, Changjiang Cai, Huangying Zhan, Qingan Yan, Pan Ji, Junsong Yuan, Heng Huang, Yi Xu|[2304.06178v1](http://arxiv.org/abs/2304.06178v1)|null|
-|**2023-04-11**|**EvAC3D: From Event-based Apparent Contours to 3D Models via Continuous Visual Hulls**|Ziyun Wang, Kenneth Chaney, Kostas Daniilidis|[2304.05296v1](http://arxiv.org/abs/2304.05296v1)|**[link](https://github.com/daniilidis-group/EvAC3D)**|
-|**2023-04-10**|**Neural Lens Modeling**|Wenqi Xian, Aljaž Božič, Noah Snavely, Christoph Lassner|[2304.04848v1](http://arxiv.org/abs/2304.04848v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-20**|**A geometry-aware deep network for depth estimation in monocular endoscopy**|Yongming Yang, Shuwei Shao, Tao Yang, Peng Wang, Zhuo Yang, Chengdong Wu, Hao Liu|[2304.10241v1](http://arxiv.org/abs/2304.10241v1)|**[link](https://github.com/yym-sia/lingmi-mr)**|
 |**2023-04-19**|**CrossFusion: Interleaving Cross-modal Complementation for Noise-resistant 3D Object Detection**|Yang Yang, Weijie Ma, Hao Chen, Linlin Ou, Xinyi Yu|[2304.09694v1](http://arxiv.org/abs/2304.09694v1)|null|
 |**2023-04-19**|**Reference-guided Controllable Inpainting of Neural Radiance Fields**|Ashkan Mirzaei, Tristan Aumentado-Armstrong, Marcus A. Brubaker, Jonathan Kelly, Alex Levinshtein, Konstantinos G. Derpanis, Igor Gilitschenski|[2304.09677v2](http://arxiv.org/abs/2304.09677v2)|null|
 |**2023-04-18**|**Learning to Fuse Monocular and Multi-view Cues for Multi-frame Depth Estimation in Dynamic Scenes**|Rui Li, Dong Gong, Wei Yin, Hao Chen, Yu Zhu, Kaixuan Wang, Xiaozhi Chen, Jinqiu Sun, Yanning Zhang|[2304.08993v1](http://arxiv.org/abs/2304.08993v1)|**[link](https://github.com/ruili3/dynamic-multiframe-depth)**|
@@ -114,7 +115,6 @@
 |**2023-04-15**|**Temporally Consistent Online Depth Estimation Using Point-Based Fusion**|Numair Khan, Eric Penner, Douglas Lanman, Lei Xiao|[2304.07435v1](http://arxiv.org/abs/2304.07435v1)|null|
 |**2023-04-14**|**Efficient Incremental Penetration Depth Estimation between Convex Geometries**|Wei Gao|[2304.07357v1](http://arxiv.org/abs/2304.07357v1)|null|
 |**2023-04-14**|**The Second Monocular Depth Estimation Challenge**|Jaime Spencer, C. Stella Qian, Michaela Trescakova, Chris Russell, Simon Hadfield, Erich W. Graf, Wendy J. Adams, Andrew J. Schofield, James Elder, Richard Bowden, Ali Anwar, Hao Chen, Xiaozhi Chen, Kai Cheng, Yuchao Dai, Huynh Thai Hoa, Sadat Hossain, Jianmian Huang, Mohan Jing, Bo Li, Chao Li, Baojun Li, Zhiwen Liu, Stefano Mattoccia, Siegfried Mercelis, Myungwoo Nam, Matteo Poggi, Xiaohua Qi, Jiahui Ren, Yang Tang, Fabio Tosi, Linh Trinh, S. M. Nadim Uddin, Khan Muhammad Umair, Kaixuan Wang, Yufei Wang, Yixing Wang, Mochu Xiang, Guangkai Xu, Wei Yin, Jun Yu, Qi Zhang, Chaoqiang Zhao|[2304.07051v2](http://arxiv.org/abs/2304.07051v2)|null|
-|**2023-04-14**|**Self-Supervised Learning based Depth Estimation from Monocular Images**|Mayank Poddar, Akash Mishra, Mohit Kewlani, Haoyang Pei|[2304.06966v1](http://arxiv.org/abs/2304.06966v1)|**[link](https://github.com/nyu-ce-projects/depth-estimation)**|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,8 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-20**|**Multi-view Vision-Prompt Fusion Network: Can 2D Pre-trained Model Boost 3D Point Cloud Data-scarce Learning?**|Haoyang Peng, Baopu Li, Bo Zhang, Xin Chen, Tao Chen, Hongyuan Zhu|[2304.10224v1](http://arxiv.org/abs/2304.10224v1)|null|
+|**2023-04-19**|**Analyzing the Domain Shift Immunity of Deep Homography Estimation**|Mingzhen Shao, Tolga Tasdizen, Sarang Joshi|[2304.09976v1](http://arxiv.org/abs/2304.09976v1)|null|
 |**2023-04-18**|**Modal-Graph 3D Shape Servoing of Deformable Objects with Raw Point Clouds**|Bohan Yang, Congying Sui, Fangxun Zhong, Yun-Hui Liu|[2304.08822v1](http://arxiv.org/abs/2304.08822v1)|null|
 |**2023-04-17**|**Towards Robust Prompts on Vision-Language Models**|Jindong Gu, Ahmad Beirami, Xuezhi Wang, Alex Beutel, Philip Torr, Yao Qin|[2304.08479v1](http://arxiv.org/abs/2304.08479v1)|null|
 |**2023-04-17**|**Applications of Uncalibrated Image Based Visual Servoing in Micro- and Macroscale Robotics**|Yifan Yin, Yutai Wang, Yunpu Zhang, Russell H. Taylor, Balazs P. Vagvolgyi|[2304.08464v1](http://arxiv.org/abs/2304.08464v1)|null|
@@ -191,8 +193,6 @@
 |**2023-04-17**|**Bootstrapping Objectness from Videos by Relaxed Common Fate and Visual Grouping**|Long Lian, Zhirong Wu, Stella X. Yu|[2304.08025v1](http://arxiv.org/abs/2304.08025v1)|null|
 |**2023-04-17**|**CLIP-Lung: Textual Knowledge-Guided Lung Nodule Malignancy Prediction**|Yiming Lei, Zilong Li, Yan Shen, Junping Zhang, Hongming Shan|[2304.08013v1](http://arxiv.org/abs/2304.08013v1)|null|
 |**2023-04-16**|**Language Guided Local Infiltration for Interactive Image Retrieval**|Fuxiang Huang, Lei Zhang|[2304.07747v1](http://arxiv.org/abs/2304.07747v1)|null|
-|**2023-04-13**|**DynaMITe: Dynamic Query Bootstrapping for Multi-object Interactive Segmentation Transformer**|Amit Kumar Rana, Sabarinath Mahadevan, Alexander Hermans, Bastian Leibe|[2304.06668v1](http://arxiv.org/abs/2304.06668v1)|null|
-|**2023-04-13**|**Intriguing properties of synthetic images: from generative adversarial networks to diffusion models**|Riccardo Corvi, Davide Cozzolino, Giovanni Poggi, Koki Nagano, Luisa Verdoliva|[2304.06408v1](http://arxiv.org/abs/2304.06408v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -209,6 +209,7 @@
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-20**|**High-Fidelity and Freely Controllable Talking Head Video Generation**|Yue Gao, Yuan Zhou, Jinglu Wang, Xiao Li, Xiang Ming, Yan Lu|[2304.10168v1](http://arxiv.org/abs/2304.10168v1)|null|
 |**2023-04-19**|**MAMAF-Net: Motion-Aware and Multi-Attention Fusion Network for Stroke Diagnosis**|Aysen Degerli, Pekka Jakala, Juha Pajula, Miguel Bordallo Lopez|[2304.09466v1](http://arxiv.org/abs/2304.09466v1)|null|
 |**2023-04-17**|**Text2Performer: Text-Driven Human Video Generation**|Yuming Jiang, Shuai Yang, Tong Liang Koh, Wayne Wu, Chen Change Loy, Ziwei Liu|[2304.08483v1](http://arxiv.org/abs/2304.08483v1)|**[link](https://github.com/yumingj/text2performer)**|
 |**2023-04-13**|**RoSI: Recovering 3D Shape Interiors from Few Articulation Images**|Akshay Gadi Patil, Yiming Qian, Shan Yang, Brian Jackson, Eric Bennett, Hao Zhang|[2304.06342v1](http://arxiv.org/abs/2304.06342v1)|null|
@@ -218,4 +219,3 @@
 |**2022-12-01**|**MGTANet: Encoding Sequential LiDAR Points Using Long Short-Term Motion-Guided Temporal Attention for 3D Object Detection**|Junho Koh, Junhyung Lee, Youngwoo Lee, Jaekyum Kim, Jun Won Choi|[2212.00442v2](http://arxiv.org/abs/2212.00442v2)|**[link](https://github.com/hyjhkoh/mgtanet)**|
 |**2022-11-23**|**ManVatar : Fast 3D Head Avatar Reconstruction Using Motion-Aware Neural Voxels**|Yuelang Xu, Lizhen Wang, Xiaochen Zhao, Hongwen Zhang, Yebin Liu|[2211.13206v1](http://arxiv.org/abs/2211.13206v1)|null|
 |**2022-11-20**|**DynIBaR: Neural Dynamic Image-Based Rendering**|Zhengqi Li, Qianqian Wang, Forrester Cole, Richard Tucker, Noah Snavely|[2211.11082v2](http://arxiv.org/abs/2211.11082v2)|null|
-|**2022-11-03**|**Video Event Extraction via Tracking Visual States of Arguments**|Guang Yang, Manling Li, Jiajie Zhang, Xudong Lin, Shih-Fu Chang, Heng Ji|[2211.01781v2](http://arxiv.org/abs/2211.01781v2)|null|
