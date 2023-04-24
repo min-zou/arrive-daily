@@ -4,9 +4,9 @@
 |**2023-04-18**|**Visual-LiDAR Odometry and Mapping with Monocular Scale Correction and Motion Compensation**|Hanyu Cai, Ni Ou, Junzheng Wang|[2304.08978v1](http://arxiv.org/abs/2304.08978v1)|null|
 |**2023-04-18**|**SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes**|Yiming Gao, Yan-Pei Cao, Ying Shan|[2304.08971v1](http://arxiv.org/abs/2304.08971v1)|null|
 |**2023-04-18**|**Autonomous Systems: Autonomous Systems: Indoor Drone Navigation**|Aswin Iyer, Santosh Narayan, Naren M, Manoj kumar Rajagopal|[2304.08893v1](http://arxiv.org/abs/2304.08893v1)|null|
-|**2023-04-18**|**Water Entry of a Simple Harmonic Oscillator**|John T. Antolik, Jesse L. Belden, Nathan B. Speirs, Daniel M. Harris|[2304.08672v1](http://arxiv.org/abs/2304.08672v1)|null|
+|**2023-04-18**|**Water Entry of a Simple Harmonic Oscillator**|John T. Antolik, Jesse L. Belden, Nathan B. Speirs, Daniel M. Harris|[2304.08672v1](http://arxiv.org/abs/2304.08672v1)|**[link](https://github.com/harrislab-brown/waterentrysho)**|
 |**2023-04-17**|**Range-Only Bearing Estimator for Localization and Mapping**|Matteo Marcantoni, Bayu Jayawardhana, Kerstin Bunte|[2304.08182v1](http://arxiv.org/abs/2304.08182v1)|null|
-|**2023-04-17**|**The Stellar Spectra Factory (SSF) Based On SLAM**|Wei Ji, Chao Liu, Bo Zhang|[2304.08089v1](http://arxiv.org/abs/2304.08089v1)|null|
+|**2023-04-17**|**The Stellar Spectra Factory (SSF) Based On SLAM**|Wei Ji, Chao Liu, Bo Zhang|[2304.08089v1](http://arxiv.org/abs/2304.08089v1)|**[link](https://github.com/hypergravity/astroslam)**|
 |**2023-04-17**|**Learning How To Robustly Estimate Camera Pose in Endoscopic Videos**|Michel Hayoz, Christopher Hahne, Mathias Gallardo, Daniel Candinas, Thomas Kurmann, Maximilian Allan, Raphael Sznitman|[2304.08023v1](http://arxiv.org/abs/2304.08023v1)|**[link](https://github.com/aimi-lab/robust-pose-estimator)**|
 |**2023-04-14**|**FM-Loc: Using Foundation Models for Improved Vision-based Localization**|Reihaneh Mirjalili, Michael Krawez, Wolfram Burgard|[2304.07058v1](http://arxiv.org/abs/2304.07058v1)|null|
 |**2023-04-12**|**RO-MAP: Real-Time Multi-Object Mapping with Neural Radiance Fields**|Xiao Han, Houxuan Liu, Yunchao Ding, Lu Yang|[2304.05735v1](http://arxiv.org/abs/2304.05735v1)|**[link](https://github.com/xiaohan-git/ro-map)**|
@@ -184,7 +184,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-04-20**|**Multi-view Vision-Prompt Fusion Network: Can 2D Pre-trained Model Boost 3D Point Cloud Data-scarce Learning?**|Haoyang Peng, Baopu Li, Bo Zhang, Xin Chen, Tao Chen, Hongyuan Zhu|[2304.10224v1](http://arxiv.org/abs/2304.10224v1)|null|
-|**2023-04-19**|**Analyzing the Domain Shift Immunity of Deep Homography Estimation**|Mingzhen Shao, Tolga Tasdizen, Sarang Joshi|[2304.09976v1](http://arxiv.org/abs/2304.09976v1)|null|
+|**2023-04-19**|**Analyzing the Domain Shift Immunity of Deep Homography Estimation**|Mingzhen Shao, Tolga Tasdizen, Sarang Joshi|[2304.09976v1](http://arxiv.org/abs/2304.09976v1)|**[link](https://github.com/MingzhenShao/Homography_estimation)**|
 |**2023-04-18**|**Modal-Graph 3D Shape Servoing of Deformable Objects with Raw Point Clouds**|Bohan Yang, Congying Sui, Fangxun Zhong, Yun-Hui Liu|[2304.08822v1](http://arxiv.org/abs/2304.08822v1)|null|
 |**2023-04-17**|**Towards Robust Prompts on Vision-Language Models**|Jindong Gu, Ahmad Beirami, Xuezhi Wang, Alex Beutel, Philip Torr, Yao Qin|[2304.08479v1](http://arxiv.org/abs/2304.08479v1)|null|
 |**2023-04-17**|**Applications of Uncalibrated Image Based Visual Servoing in Micro- and Macroscale Robotics**|Yifan Yin, Yutai Wang, Yunpu Zhang, Russell H. Taylor, Balazs P. Vagvolgyi|[2304.08464v1](http://arxiv.org/abs/2304.08464v1)|null|
