@@ -1,8 +1,9 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-25**|**Multi-Camera Visual-Inertial Simultaneous Localization and Mapping for Autonomous Valet Parking**|Marcus Abate, Ariel Schwartz, Xue Iuan Wong, Wangdong Luo, Rotem Littman, Marc Klinger, Lars Kuhnert, Douglas Blue, Luca Carlone|[2304.13182v2](http://arxiv.org/abs/2304.13182v2)|null|
 |**2023-04-22**|**Twilight SLAM: A Comparative Study of Low-Light Visual SLAM Pipelines**|Surya Pratap Singh, Billy Mazotti, Sarvesh Mayilvahanan, Guoyuan Li, Dhyey Manish Rajani, Maani Ghaffari|[2304.11310v1](http://arxiv.org/abs/2304.11310v1)|null|
-|**2023-04-21**|**RGB-D Inertial Odometry for a Resource-Restricted Robot in Dynamic Environments**|Jianheng Liu, Xuanfu Li, Yueqian Liu, Haoyao Chen|[2304.10987v1](http://arxiv.org/abs/2304.10987v1)|null|
+|**2023-04-21**|**RGB-D Inertial Odometry for a Resource-Restricted Robot in Dynamic Environments**|Jianheng Liu, Xuanfu Li, Yueqian Liu, Haoyao Chen|[2304.10987v1](http://arxiv.org/abs/2304.10987v1)|**[link](https://github.com/hitsz-nrsl/dynamic-vins)**|
 |**2023-04-18**|**Visual-LiDAR Odometry and Mapping with Monocular Scale Correction and Motion Compensation**|Hanyu Cai, Ni Ou, Junzheng Wang|[2304.08978v1](http://arxiv.org/abs/2304.08978v1)|null|
 |**2023-04-18**|**SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes**|Yiming Gao, Yan-Pei Cao, Ying Shan|[2304.08971v1](http://arxiv.org/abs/2304.08971v1)|null|
 |**2023-04-18**|**Autonomous Systems: Autonomous Systems: Indoor Drone Navigation**|Aswin Iyer, Santosh Narayan, Naren M, Manoj kumar Rajagopal|[2304.08893v1](http://arxiv.org/abs/2304.08893v1)|null|
@@ -10,7 +11,6 @@
 |**2023-04-17**|**Range-Only Bearing Estimator for Localization and Mapping**|Matteo Marcantoni, Bayu Jayawardhana, Kerstin Bunte|[2304.08182v1](http://arxiv.org/abs/2304.08182v1)|null|
 |**2023-04-17**|**The Stellar Spectra Factory (SSF) Based On SLAM**|Wei Ji, Chao Liu, Bo Zhang|[2304.08089v1](http://arxiv.org/abs/2304.08089v1)|**[link](https://github.com/hypergravity/astroslam)**|
 |**2023-04-17**|**Learning How To Robustly Estimate Camera Pose in Endoscopic Videos**|Michel Hayoz, Christopher Hahne, Mathias Gallardo, Daniel Candinas, Thomas Kurmann, Maximilian Allan, Raphael Sznitman|[2304.08023v1](http://arxiv.org/abs/2304.08023v1)|**[link](https://github.com/aimi-lab/robust-pose-estimator)**|
-|**2023-04-14**|**FM-Loc: Using Foundation Models for Improved Vision-based Localization**|Reihaneh Mirjalili, Michael Krawez, Wolfram Burgard|[2304.07058v1](http://arxiv.org/abs/2304.07058v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-25**|**Self-Supervised Multi-Object Tracking From Consistency Across Timescales**|Christopher Lang, Alexander Braun, Lars Schillingmann, Abhinav Valada|[2304.13147v1](http://arxiv.org/abs/2304.13147v1)|null|
 |**2023-04-24**|**MOTLEE: Distributed Mobile Multi-Object Tracking with Localization Error Elimination**|Mason B. Peterson, Parker C. Lusk, Jonathan P. How|[2304.12175v1](http://arxiv.org/abs/2304.12175v1)|null|
 |**2023-04-24**|**Track Anything: Segment Anything Meets Videos**|Jinyu Yang, Mingqi Gao, Zhe Li, Shang Gao, Fangjing Wang, Feng Zheng|[2304.11968v1](http://arxiv.org/abs/2304.11968v1)|**[link](https://github.com/gaomingqi/track-anything)**|
 |**2023-04-23**|**OSP2B: One-Stage Point-to-Box Network for 3D Siamese Tracking**|Jiahao Nie, Zhiwei He, Yuxiang Yang, Zhengyi Bao, Mingyu Gao, Jing Zhang|[2304.11584v1](http://arxiv.org/abs/2304.11584v1)|null|
@@ -139,8 +140,7 @@
 |**2023-04-18**|**You Only Need Two Detectors to Achieve Multi-Modal 3D Multi-Object Tracking**|Xiyang Wang, Jiawei He, Chunyun Fu, Ting Meng, Mingguang Huang|[2304.08709v1](http://arxiv.org/abs/2304.08709v1)|**[link](https://github.com/wangxiyang2022/YONTD-MOT)**|
 |**2023-04-17**|**OVTrack: Open-Vocabulary Multiple Object Tracking**|Siyuan Li, Tobias Fischer, Lei Ke, Henghui Ding, Martin Danelljan, Fisher Yu|[2304.08408v1](http://arxiv.org/abs/2304.08408v1)|null|
 |**2023-04-17**|**The Impact of Frame-Dropping on Performance and Energy Consumption for Multi-Object Tracking**|Matti Henning, Michael Buchholz, Klaus Dietmayer|[2304.08152v1](http://arxiv.org/abs/2304.08152v1)|null|
-|**2023-04-16**|**Handling Heavy Occlusion in Dense Crowd Tracking by Focusing on the Heads**|Yu Zhang, Huaming Chen, Wei Bao, Zhongzheng Lai, Dong Yuan, Zao Zhang|[2304.07705v1](http://arxiv.org/abs/2304.07705v1)|null|
-|**2023-04-13**|**Tracking by 3D Model Estimation of Unknown Objects in Videos**|Denys Rozumnyi, Jiri Matas, Marc Pollefeys, Vittorio Ferrari, Martin R. Oswald|[2304.06419v1](http://arxiv.org/abs/2304.06419v1)|null|
+|**2023-04-16**|**Handling Heavy Occlusion in Dense Crowd Tracking by Focusing on the Heads**|Yu Zhang, Huaming Chen, Wei Bao, Zhongzheng Lai, Zao Zhang, Dong Yuan|[2304.07705v2](http://arxiv.org/abs/2304.07705v2)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,16 +183,16 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-26**|**Cluster Entropy: Active Domain Adaptation in Pathological Image Segmentation**|Xiaoqing Liu, Kengo Araki, Shota Harada, Akihiko Yoshizawa, Kazuhiro Terada, Mariyo Kurata, Naoki Nakajima, Hiroyuki Abe, Tetsuo Ushiku, Ryoma Bise|[2304.13513v1](http://arxiv.org/abs/2304.13513v1)|null|
 |**2023-04-25**|**Face Feature Visualisation of Single Morphing Attack Detection**|Juan Tapia, Christoph Busch|[2304.13021v1](http://arxiv.org/abs/2304.13021v1)|null|
 |**2023-04-25**|**Functional Individualized Treatment Regimes with Imaging Features**|Xinyi Li, Michael R. Kosorok|[2304.13003v1](http://arxiv.org/abs/2304.13003v1)|null|
 |**2023-04-25**|**Pseudo Labels Refinement with Intra-camera Similarity for Unsupervised Person Re-identification**|Pengna Li, Kangyi Wu, Sanping Zhou. Qianxin Huang, Jinjun Wang|[2304.12634v1](http://arxiv.org/abs/2304.12634v1)|null|
 |**2023-04-25**|**Img2Vec: A Teacher of High Token-Diversity Helps Masked AutoEncoders**|Heng Pan, Chenyang Liu, Wenxiao Wang, Li Yuan, Hongfa Wang, Zhifeng Li, Wei Liu|[2304.12535v1](http://arxiv.org/abs/2304.12535v1)|null|
 |**2023-04-24**|**Explicit Correspondence Matching for Generalizable Neural Radiance Fields**|Yuedong Chen, Haofei Xu, Qianyi Wu, Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai|[2304.12294v1](http://arxiv.org/abs/2304.12294v1)|**[link](https://github.com/donydchen/matchnerf)**|
 |**2023-04-24**|**Learning Visibility Field for Detailed 3D Human Reconstruction and Relighting**|Ruichen Zheng, Peng Li, Haoqian Wang, Tao Yu|[2304.11900v1](http://arxiv.org/abs/2304.11900v1)|null|
-|**2023-04-23**|**You Never Get a Second Chance To Make a Good First Impression: Seeding Active Learning for 3D Semantic Segmentation**|Nermin Samet, Oriane Siméoni, Gilles Puy, Georgy Ponimatkin, Renaud Marlet, Vincent Lepetit|[2304.11762v1](http://arxiv.org/abs/2304.11762v1)|null|
+|**2023-04-23**|**You Never Get a Second Chance To Make a Good First Impression: Seeding Active Learning for 3D Semantic Segmentation**|Nermin Samet, Oriane Siméoni, Gilles Puy, Georgy Ponimatkin, Renaud Marlet, Vincent Lepetit|[2304.11762v1](http://arxiv.org/abs/2304.11762v1)|**[link](https://github.com/nerminsamet/seedal)**|
 |**2023-04-22**|**Fast MRI Reconstruction via Edge Attention**|Hanhui Yang, Juncheng Li, Lok Ming Lui, Shihui Ying, Jun Shi, Tieyong Zeng|[2304.11400v1](http://arxiv.org/abs/2304.11400v1)|null|
 |**2023-04-21**|**FindVehicle and VehicleFinder: A NER dataset for natural language-based vehicle retrieval and a keyword-based cross-modal vehicle retrieval system**|Runwei Guan, Ka Lok Man, Feifan Chen, Shanliang Yao, Rongsheng Hu, Xiaohui Zhu, Jeremy Smith, Eng Gee Lim, Yutao Yue|[2304.10893v1](http://arxiv.org/abs/2304.10893v1)|**[link](https://github.com/guanrunwei/vehiclefinder-ctim)**|
-|**2023-04-20**|**Multi-view Vision-Prompt Fusion Network: Can 2D Pre-trained Model Boost 3D Point Cloud Data-scarce Learning?**|Haoyang Peng, Baopu Li, Bo Zhang, Xin Chen, Tao Chen, Hongyuan Zhu|[2304.10224v1](http://arxiv.org/abs/2304.10224v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
