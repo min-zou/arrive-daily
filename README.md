@@ -1,6 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-27**|**Co-SLAM: Joint Coordinate and Sparse Parametric Encodings for Neural Real-Time SLAM**|Hengyi Wang, Jingwen Wang, Lourdes Agapito|[2304.14377v1](http://arxiv.org/abs/2304.14377v1)|null|
+|**2023-04-27**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz, Boris Jutzi, Markus Ulrich, Miriam Jaeger, Patrick Huebner|[2304.14301v1](http://arxiv.org/abs/2304.14301v1)|null|
 |**2023-04-25**|**Multi-Camera Visual-Inertial Simultaneous Localization and Mapping for Autonomous Valet Parking**|Marcus Abate, Ariel Schwartz, Xue Iuan Wong, Wangdong Luo, Rotem Littman, Marc Klinger, Lars Kuhnert, Douglas Blue, Luca Carlone|[2304.13182v2](http://arxiv.org/abs/2304.13182v2)|null|
 |**2023-04-22**|**Twilight SLAM: A Comparative Study of Low-Light Visual SLAM Pipelines**|Surya Pratap Singh, Billy Mazotti, Sarvesh Mayilvahanan, Guoyuan Li, Dhyey Manish Rajani, Maani Ghaffari|[2304.11310v1](http://arxiv.org/abs/2304.11310v1)|null|
 |**2023-04-21**|**RGB-D Inertial Odometry for a Resource-Restricted Robot in Dynamic Environments**|Jianheng Liu, Xuanfu Li, Yueqian Liu, Haoyao Chen|[2304.10987v1](http://arxiv.org/abs/2304.10987v1)|**[link](https://github.com/hitsz-nrsl/dynamic-vins)**|
@@ -9,8 +11,6 @@
 |**2023-04-18**|**Autonomous Systems: Autonomous Systems: Indoor Drone Navigation**|Aswin Iyer, Santosh Narayan, Naren M, Manoj kumar Rajagopal|[2304.08893v1](http://arxiv.org/abs/2304.08893v1)|null|
 |**2023-04-18**|**Water Entry of a Simple Harmonic Oscillator**|John T. Antolik, Jesse L. Belden, Nathan B. Speirs, Daniel M. Harris|[2304.08672v1](http://arxiv.org/abs/2304.08672v1)|**[link](https://github.com/harrislab-brown/waterentrysho)**|
 |**2023-04-17**|**Range-Only Bearing Estimator for Localization and Mapping**|Matteo Marcantoni, Bayu Jayawardhana, Kerstin Bunte|[2304.08182v1](http://arxiv.org/abs/2304.08182v1)|null|
-|**2023-04-17**|**The Stellar Spectra Factory (SSF) Based On SLAM**|Wei Ji, Chao Liu, Bo Zhang|[2304.08089v1](http://arxiv.org/abs/2304.08089v1)|**[link](https://github.com/hypergravity/astroslam)**|
-|**2023-04-17**|**Learning How To Robustly Estimate Camera Pose in Endoscopic Videos**|Michel Hayoz, Christopher Hahne, Mathias Gallardo, Daniel Candinas, Thomas Kurmann, Maximilian Allan, Raphael Sznitman|[2304.08023v1](http://arxiv.org/abs/2304.08023v1)|**[link](https://github.com/aimi-lab/robust-pose-estimator)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,8 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-27**|**Learning Articulated Shape with Keypoint Pseudo-labels from Web Images**|Anastasis Stathopoulos, Georgios Pavlakos, Ligong Han, Dimitris Metaxas|[2304.14396v1](http://arxiv.org/abs/2304.14396v1)|null|
+|**2023-04-27**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz, Boris Jutzi, Markus Ulrich, Miriam Jaeger, Patrick Huebner|[2304.14301v1](http://arxiv.org/abs/2304.14301v1)|null|
 |**2023-04-25**|**Shape-Net: Room Layout Estimation from Panoramic Images Robust to Occlusion using Knowledge Distillation with 3D Shapes as Additional Inputs**|Mizuki Tabata, Kana Kurata, Junichiro Tamamatsu|[2304.12624v1](http://arxiv.org/abs/2304.12624v1)|null|
 |**2023-04-24**|**Instant-3D: Instant Neural Radiance Field Training Towards On-Device AR/VR 3D Reconstruction**|Sixu Li, Chaojian Li, Wenbo Zhu, Boyang, Yu, Yang, Zhao, Cheng Wan, Haoran You, Huihong Shi, Yingyan, Lin|[2304.12467v1](http://arxiv.org/abs/2304.12467v1)|null|
 |**2023-04-24**|**Unsupervised Style-based Explicit 3D Face Reconstruction from Single Image**|Heng Yu, Zoltan A. Milacski, Laszlo A. Jeni|[2304.12455v1](http://arxiv.org/abs/2304.12455v1)|null|
@@ -100,8 +102,6 @@
 |**2023-04-24**|**NoiseTrans: Point Cloud Denoising with Transformers**|Guangzhe Hou, Guihe Qin, Minghui Sun, Yanhua Liang, Jie Yan, Zhonghan Zhang|[2304.11812v1](http://arxiv.org/abs/2304.11812v1)|null|
 |**2023-04-22**|**Statistical Investigation of the Widths of Supra-arcade Downflows Observed During a Solar Flare**|Guangyu Tan, Yijun Hou, Hui Tian|[2304.11307v1](http://arxiv.org/abs/2304.11307v1)|null|
 |**2023-04-20**|**A Comparative Neural Radiance Field (NeRF) 3D Analysis of Camera Poses from HoloLens Trajectories and Structure from Motion**|Miriam Jäger, Patrick Hübner, Dennis Haitz, Boris Jutzi|[2304.10664v1](http://arxiv.org/abs/2304.10664v1)|null|
-|**2023-04-20**|**Reconstructing Signing Avatars From Video Using Linguistic Priors**|Maria-Paola Forte, Peter Kulits, Chun-Hao Huang, Vasileios Choutas, Dimitrios Tzionas, Katherine J. Kuchenbecker, Michael J. Black|[2304.10482v1](http://arxiv.org/abs/2304.10482v1)|null|
-|**2023-04-20**|**A geometry-aware deep network for depth estimation in monocular endoscopy**|Yongming Yang, Shuwei Shao, Tao Yang, Peng Wang, Zhuo Yang, Chengdong Wu, Hao Liu|[2304.10241v1](http://arxiv.org/abs/2304.10241v1)|**[link](https://github.com/yym-sia/lingmi-mr)**|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-27**|**SeqTrack: Sequence to Sequence Learning for Visual Object Tracking**|Xin Chen, Houwen Peng, Dong Wang, Huchuan Lu, Han Hu|[2304.14394v1](http://arxiv.org/abs/2304.14394v1)|**[link](https://github.com/microsoft/videox)**|
 |**2023-04-25**|**Self-Supervised Multi-Object Tracking From Consistency Across Timescales**|Christopher Lang, Alexander Braun, Lars Schillingmann, Abhinav Valada|[2304.13147v1](http://arxiv.org/abs/2304.13147v1)|null|
 |**2023-04-24**|**MOTLEE: Distributed Mobile Multi-Object Tracking with Localization Error Elimination**|Mason B. Peterson, Parker C. Lusk, Jonathan P. How|[2304.12175v1](http://arxiv.org/abs/2304.12175v1)|null|
 |**2023-04-24**|**Track Anything: Segment Anything Meets Videos**|Jinyu Yang, Mingqi Gao, Zhe Li, Shang Gao, Fangjing Wang, Feng Zheng|[2304.11968v1](http://arxiv.org/abs/2304.11968v1)|**[link](https://github.com/gaomingqi/track-anything)**|
@@ -140,7 +141,6 @@
 |**2023-04-18**|**You Only Need Two Detectors to Achieve Multi-Modal 3D Multi-Object Tracking**|Xiyang Wang, Jiawei He, Chunyun Fu, Ting Meng, Mingguang Huang|[2304.08709v1](http://arxiv.org/abs/2304.08709v1)|**[link](https://github.com/wangxiyang2022/YONTD-MOT)**|
 |**2023-04-17**|**OVTrack: Open-Vocabulary Multiple Object Tracking**|Siyuan Li, Tobias Fischer, Lei Ke, Henghui Ding, Martin Danelljan, Fisher Yu|[2304.08408v1](http://arxiv.org/abs/2304.08408v1)|null|
 |**2023-04-17**|**The Impact of Frame-Dropping on Performance and Energy Consumption for Multi-Object Tracking**|Matti Henning, Michael Buchholz, Klaus Dietmayer|[2304.08152v1](http://arxiv.org/abs/2304.08152v1)|null|
-|**2023-04-16**|**Handling Heavy Occlusion in Dense Crowd Tracking by Focusing on the Heads**|Yu Zhang, Huaming Chen, Wei Bao, Zhongzheng Lai, Zao Zhang, Dong Yuan|[2304.07705v2](http://arxiv.org/abs/2304.07705v2)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
