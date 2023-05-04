@@ -1,16 +1,16 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-02**|**EgoLocate: Real-time Motion Capture, Localization, and Mapping with Sparse Body-mounted Sensors**|Xinyu Yi, Yuxiao Zhou, Marc Habermann, Vladislav Golyanik, Shaohua Pan, Christian Theobalt, Feng Xu|[2305.01599v1](http://arxiv.org/abs/2305.01599v1)|null|
 |**2023-04-30**|**LIMOT: A Tightly-Coupled System for LiDAR-Inertial Odometry and Multi-Object Tracking**|Zhongyang Zhu, Junqiao Zhao, Xuebo Tian, Kai Huang, Chen Ye|[2305.00406v1](http://arxiv.org/abs/2305.00406v1)|null|
 |**2023-04-29**|**Modality-invariant Visual Odometry for Embodied Vision**|Marius Memmel, Roman Bachmann, Amir Zamir|[2305.00348v1](http://arxiv.org/abs/2305.00348v1)|**[link](https://github.com/memmelma/vo-transformer)**|
 |**2023-04-27**|**Neural Implicit Dense Semantic SLAM**|Yasaman Haghighi, Suryansh Kumar, Jean Philippe Thiran, Luc Van Gool|[2304.14560v1](http://arxiv.org/abs/2304.14560v1)|null|
 |**2023-04-27**|**Co-SLAM: Joint Coordinate and Sparse Parametric Encodings for Neural Real-Time SLAM**|Hengyi Wang, Jingwen Wang, Lourdes Agapito|[2304.14377v1](http://arxiv.org/abs/2304.14377v1)|null|
-|**2023-04-27**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz, Boris Jutzi, Markus Ulrich, Miriam Jaeger, Patrick Huebner|[2304.14301v1](http://arxiv.org/abs/2304.14301v1)|null|
+|**2023-04-27**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz, Boris Jutzi, Markus Ulrich, Miriam Jaeger, Patrick Huebner|[2304.14301v2](http://arxiv.org/abs/2304.14301v2)|null|
 |**2023-04-25**|**Multi-Camera Visual-Inertial Simultaneous Localization and Mapping for Autonomous Valet Parking**|Marcus Abate, Ariel Schwartz, Xue Iuan Wong, Wangdong Luo, Rotem Littman, Marc Klinger, Lars Kuhnert, Douglas Blue, Luca Carlone|[2304.13182v2](http://arxiv.org/abs/2304.13182v2)|null|
 |**2023-04-22**|**Twilight SLAM: A Comparative Study of Low-Light Visual SLAM Pipelines**|Surya Pratap Singh, Billy Mazotti, Sarvesh Mayilvahanan, Guoyuan Li, Dhyey Manish Rajani, Maani Ghaffari|[2304.11310v2](http://arxiv.org/abs/2304.11310v2)|null|
 |**2023-04-21**|**RGB-D Inertial Odometry for a Resource-Restricted Robot in Dynamic Environments**|Jianheng Liu, Xuanfu Li, Yueqian Liu, Haoyao Chen|[2304.10987v1](http://arxiv.org/abs/2304.10987v1)|**[link](https://github.com/hitsz-nrsl/dynamic-vins)**|
 |**2023-04-18**|**Visual-LiDAR Odometry and Mapping with Monocular Scale Correction and Motion Compensation**|Hanyu Cai, Ni Ou, Junzheng Wang|[2304.08978v1](http://arxiv.org/abs/2304.08978v1)|null|
-|**2023-04-18**|**SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes**|Yiming Gao, Yan-Pei Cao, Ying Shan|[2304.08971v1](http://arxiv.org/abs/2304.08971v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -96,7 +96,7 @@
 |**2023-04-29**|**Non-Linear Phase-Retrieval Algorithms for X-ray Propagation-Based Phase-Contrast Tomography**|K. Aditya Mohan, Jean-Baptiste Forien, Venkatesh Sridhar, Jefferson A. Cuadra, Dilworth Parkinson|[2305.00334v1](http://arxiv.org/abs/2305.00334v1)|null|
 |**2023-04-29**|**NSLF-OL: Online Learning of Neural Surface Light Fields alongside Real-time Incremental 3D Reconstruction**|Yijun Yuan, Andreas Nuchter|[2305.00282v1](http://arxiv.org/abs/2305.00282v1)|null|
 |**2023-04-27**|**Learning Articulated Shape with Keypoint Pseudo-labels from Web Images**|Anastasis Stathopoulos, Georgios Pavlakos, Ligong Han, Dimitris Metaxas|[2304.14396v1](http://arxiv.org/abs/2304.14396v1)|null|
-|**2023-04-27**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz, Boris Jutzi, Markus Ulrich, Miriam Jaeger, Patrick Huebner|[2304.14301v1](http://arxiv.org/abs/2304.14301v1)|null|
+|**2023-04-27**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz, Boris Jutzi, Markus Ulrich, Miriam Jaeger, Patrick Huebner|[2304.14301v2](http://arxiv.org/abs/2304.14301v2)|null|
 |**2023-04-25**|**Shape-Net: Room Layout Estimation from Panoramic Images Robust to Occlusion using Knowledge Distillation with 3D Shapes as Additional Inputs**|Mizuki Tabata, Kana Kurata, Junichiro Tamamatsu|[2304.12624v1](http://arxiv.org/abs/2304.12624v1)|null|
 |**2023-04-24**|**Instant-3D: Instant Neural Radiance Field Training Towards On-Device AR/VR 3D Reconstruction**|Sixu Li, Chaojian Li, Wenbo Zhu, Boyang, Yu, Yang, Zhao, Cheng Wan, Haoran You, Huihong Shi, Yingyan, Lin|[2304.12467v1](http://arxiv.org/abs/2304.12467v1)|null|
 |**2023-04-24**|**Unsupervised Style-based Explicit 3D Face Reconstruction from Single Image**|Heng Yu, Zoltan A. Milacski, Laszlo A. Jeni|[2304.12455v1](http://arxiv.org/abs/2304.12455v1)|null|
@@ -105,6 +105,7 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-02**|**AutoColor: Learned Light Power Control for Multi-Color Holograms**|Yicheng Zhan, Koray Kavaklı, Hakan Urey, Qi Sun, Kaan Akşit|[2305.01611v1](http://arxiv.org/abs/2305.01611v1)|null|
 |**2023-04-28**|**ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields**|Nagabhushan Somraj, Rajiv Soundararajan|[2305.00041v1](http://arxiv.org/abs/2305.00041v1)|null|
 |**2023-04-25**|**Depth-Relative Self Attention for Monocular Depth Estimation**|Kyuhong Shim, Jiyoung Kim, Gusang Lee, Byonghyo Shim|[2304.12849v1](http://arxiv.org/abs/2304.12849v1)|null|
 |**2023-04-25**|**Exploring the Mutual Influence between Self-Supervised Single-Frame and Multi-Frame Depth Estimation**|Jie Xiang, Yun Wang, Lifeng An, Haiyang Liu, Jian Liu|[2304.12685v1](http://arxiv.org/abs/2304.12685v1)|null|
@@ -114,7 +115,6 @@
 |**2023-04-19**|**Reference-guided Controllable Inpainting of Neural Radiance Fields**|Ashkan Mirzaei, Tristan Aumentado-Armstrong, Marcus A. Brubaker, Jonathan Kelly, Alex Levinshtein, Konstantinos G. Derpanis, Igor Gilitschenski|[2304.09677v2](http://arxiv.org/abs/2304.09677v2)|null|
 |**2023-04-18**|**Learning to Fuse Monocular and Multi-view Cues for Multi-frame Depth Estimation in Dynamic Scenes**|Rui Li, Dong Gong, Wei Yin, Hao Chen, Yu Zhu, Kaixuan Wang, Xiaozhi Chen, Jinqiu Sun, Yanning Zhang|[2304.08993v1](http://arxiv.org/abs/2304.08993v1)|**[link](https://github.com/ruili3/dynamic-multiframe-depth)**|
 |**2023-04-18**|**Pose Constraints for Consistent Self-supervised Monocular Depth and Ego-motion**|Zeeshan Khan Suri|[2304.08916v1](http://arxiv.org/abs/2304.08916v1)|null|
-|**2023-04-17**|**360$^\circ$ High-Resolution Depth Estimation via Uncertainty-aware Structural Knowledge Transfer**|Zidong Cao, Hao Ai, Lin Wang|[2304.07967v1](http://arxiv.org/abs/2304.07967v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -196,6 +196,7 @@
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-02**|**The Complexity of Distributed Approximation of Packing and Covering Integer Linear Programs**|Yi-Jun Chang, Zeyong Li|[2305.01324v1](http://arxiv.org/abs/2305.01324v1)|null|
 |**2023-04-14**|**Fusing Structure from Motion and Simulation-Augmented Pose Regression from Optical Flow for Challenging Indoor Environments**|Felix Ott, Lucas Heublein, David Rügamer, Bernd Bischl, Christopher Mutschler|[2304.07250v1](http://arxiv.org/abs/2304.07250v1)|null|
 |**2023-04-11**|**Loop Closure Detection Based on Object-level Spatial Layout and Semantic Consistency**|Xingwu Ji, Peilin Liu, Haochen Niu, Xiang Chen, Rendong Ying, Fei Wen|[2304.05146v2](http://arxiv.org/abs/2304.05146v2)|**[link](https://github.com/jixingwu/ss-lcd)**|
 |**2023-04-10**|**NF-Atlas: Multi-Volume Neural Feature Fields for Large Scale LiDAR Mapping**|Xuan Yu, Yili Liu, Sitong Mao, Shunbo Zhou, Rong Xiong, Yiyi Liao, Yue Wang|[2304.04624v1](http://arxiv.org/abs/2304.04624v1)|null|
@@ -205,7 +206,6 @@
 |**2023-03-24**|**BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects**|Bowen Wen, Jonathan Tremblay, Valts Blukis, Stephen Tyree, Thomas Muller, Alex Evans, Dieter Fox, Jan Kautz, Stan Birchfield|[2303.14158v1](http://arxiv.org/abs/2303.14158v1)|null|
 |**2023-03-20**|**VR-SLAM: A Visual-Range Simultaneous Localization and Mapping System using Monocular Camera and Ultra-wideband Sensors**|Thien Hoang Nguyen, Shenghai Yuan, Lihua Xie|[2303.10903v1](http://arxiv.org/abs/2303.10903v1)|null|
 |**2023-03-13**|**NeuSE: Neural SE(3)-Equivariant Embedding for Consistent Spatial Understanding with Objects**|Jiahui Fu, Yilun Du, Kurran Singh, Joshua B. Tenenbaum, John J. Leonard|[2303.07308v1](http://arxiv.org/abs/2303.07308v1)|null|
-|**2023-03-13**|**Measuring Multi-Source Redundancy in Factor Graphs**|Jesse Milzman, Andre Harrison, Carlos Nieto-Granda, John Rogers|[2303.07105v1](http://arxiv.org/abs/2303.07105v1)|null|
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -217,5 +217,5 @@
 |**2023-03-21**|**Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection**|Shihao Wang, Yingfei Liu, Tiancai Wang, Ying Li, Xiangyu Zhang|[2303.11926v1](http://arxiv.org/abs/2303.11926v1)|**[link](https://github.com/exiawsh/streampetr)**|
 |**2023-03-03**|**MAEVI: Motion Aware Event-Based Video Frame Interpolation**|Ahmet Akman, Onur Selim Kılıç, A. Aydın Alatan|[2303.02025v1](http://arxiv.org/abs/2303.02025v1)|**[link](https://github.com/ahmetakman/maevi)**|
 |**2022-12-01**|**MGTANet: Encoding Sequential LiDAR Points Using Long Short-Term Motion-Guided Temporal Attention for 3D Object Detection**|Junho Koh, Junhyung Lee, Youngwoo Lee, Jaekyum Kim, Jun Won Choi|[2212.00442v2](http://arxiv.org/abs/2212.00442v2)|**[link](https://github.com/hyjhkoh/mgtanet)**|
-|**2022-11-23**|**AvatarMAV: Fast 3D Head Avatar Reconstruction Using Motion-Aware Neural Voxels**|Yuelang Xu, Lizhen Wang, Xiaochen Zhao, Hongwen Zhang, Yebin Liu|[2211.13206v2](http://arxiv.org/abs/2211.13206v2)|null|
+|**2022-11-23**|**AvatarMAV: Fast 3D Head Avatar Reconstruction Using Motion-Aware Neural Voxels**|Yuelang Xu, Lizhen Wang, Xiaochen Zhao, Hongwen Zhang, Yebin Liu|[2211.13206v3](http://arxiv.org/abs/2211.13206v3)|null|
 |**2022-11-20**|**DynIBaR: Neural Dynamic Image-Based Rendering**|Zhengqi Li, Qianqian Wang, Forrester Cole, Richard Tucker, Noah Snavely|[2211.11082v3](http://arxiv.org/abs/2211.11082v3)|null|
