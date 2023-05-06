@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Edge-aware Consistent Stereo Video Depth Estimation**|Elena Kosheleva, Sunil Jaiswal, Faranak Shamsafar, Noshaba Cheema, Klaus Illgner-Fehns, Philipp Slusallek|[2305.02645v1](http://arxiv.org/abs/2305.02645v1)|null|
 |**2023-05-03**|**Direct LiDAR-Inertial Odometry and Mapping: Perceptive and Connective SLAM**|Kenny Chen, Ryan Nemiroff, Brett T. Lopez|[2305.01843v1](http://arxiv.org/abs/2305.01843v1)|null|
 |**2023-05-02**|**EgoLocate: Real-time Motion Capture, Localization, and Mapping with Sparse Body-mounted Sensors**|Xinyu Yi, Yuxiao Zhou, Marc Habermann, Vladislav Golyanik, Shaohua Pan, Christian Theobalt, Feng Xu|[2305.01599v1](http://arxiv.org/abs/2305.01599v1)|null|
 |**2023-04-30**|**LIMOT: A Tightly-Coupled System for LiDAR-Inertial Odometry and Multi-Object Tracking**|Zhongyang Zhu, Junqiao Zhao, Xuebo Tian, Kai Huang, Chen Ye|[2305.00406v1](http://arxiv.org/abs/2305.00406v1)|null|
@@ -10,7 +11,6 @@
 |**2023-04-27**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz, Boris Jutzi, Markus Ulrich, Miriam Jaeger, Patrick Huebner|[2304.14301v2](http://arxiv.org/abs/2304.14301v2)|null|
 |**2023-04-25**|**Multi-Camera Visual-Inertial Simultaneous Localization and Mapping for Autonomous Valet Parking**|Marcus Abate, Ariel Schwartz, Xue Iuan Wong, Wangdong Luo, Rotem Littman, Marc Klinger, Lars Kuhnert, Douglas Blue, Luca Carlone|[2304.13182v2](http://arxiv.org/abs/2304.13182v2)|null|
 |**2023-04-22**|**Twilight SLAM: A Comparative Study of Low-Light Visual SLAM Pipelines**|Surya Pratap Singh, Billy Mazotti, Sarvesh Mayilvahanan, Guoyuan Li, Dhyey Manish Rajani, Maani Ghaffari|[2304.11310v2](http://arxiv.org/abs/2304.11310v2)|null|
-|**2023-04-21**|**RGB-D Inertial Odometry for a Resource-Restricted Robot in Dynamic Environments**|Jianheng Liu, Xuanfu Li, Yueqian Liu, Haoyao Chen|[2304.10987v1](http://arxiv.org/abs/2304.10987v1)|**[link](https://github.com/hitsz-nrsl/dynamic-vins)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,19 +92,20 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**UrbanBIS: a Large-scale Benchmark for Fine-grained Urban Building Instance Segmentation**|Guoqing Yang, Fuyou Xue, Qi Zhang, Ke Xie, Chi-Wing Fu, Hui Huang|[2305.02627v1](http://arxiv.org/abs/2305.02627v1)|null|
+|**2023-05-03**|**Biological Hotspot Mapping in Coral Reefs with Robotic Visual Surveys**|Daniel Yang, Levi Cai, Stewart Jamieson, Yogesh Girdhar|[2305.02330v1](http://arxiv.org/abs/2305.02330v1)|null|
 |**2023-05-02**|**Cortical analysis of heterogeneous clinical brain MRI scans for large-scale neuroimaging studies**|Karthik Gopinath, Douglas N. Greve, Sudeshna Das, Steve Arnold, Colin Magdamo, Juan Eugenio Iglesias|[2305.01827v1](http://arxiv.org/abs/2305.01827v1)|null|
 |**2023-04-30**|**Second-order Anisotropic Gaussian Directional Derivative Filters for Blob Detection**|Jie Ren, Wenya Yu, Jiapan Guo, Weichuan Zhang, Changming Sun|[2305.00435v1](http://arxiv.org/abs/2305.00435v1)|null|
-|**2023-04-29**|**Non-Linear Phase-Retrieval Algorithms for X-ray Propagation-Based Phase-Contrast Tomography**|K. Aditya Mohan, Jean-Baptiste Forien, Venkatesh Sridhar, Jefferson A. Cuadra, Dilworth Parkinson|[2305.00334v1](http://arxiv.org/abs/2305.00334v1)|null|
+|**2023-04-29**|**Non-Linear Phase-Retrieval Algorithms for X-ray Propagation-Based Phase-Contrast Tomography**|K. Aditya Mohan, Jean-Baptiste Forien, Venkatesh Sridhar, Jefferson A. Cuadra, Dilworth Parkinson|[2305.00334v1](http://arxiv.org/abs/2305.00334v1)|**[link](https://github.com/phasetorch/phasetorch)**|
 |**2023-04-29**|**NSLF-OL: Online Learning of Neural Surface Light Fields alongside Real-time Incremental 3D Reconstruction**|Yijun Yuan, Andreas Nuchter|[2305.00282v1](http://arxiv.org/abs/2305.00282v1)|null|
 |**2023-04-27**|**Learning Articulated Shape with Keypoint Pseudo-labels from Web Images**|Anastasis Stathopoulos, Georgios Pavlakos, Ligong Han, Dimitris Metaxas|[2304.14396v1](http://arxiv.org/abs/2304.14396v1)|null|
 |**2023-04-27**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz, Boris Jutzi, Markus Ulrich, Miriam Jaeger, Patrick Huebner|[2304.14301v2](http://arxiv.org/abs/2304.14301v2)|null|
 |**2023-04-25**|**Shape-Net: Room Layout Estimation from Panoramic Images Robust to Occlusion using Knowledge Distillation with 3D Shapes as Additional Inputs**|Mizuki Tabata, Kana Kurata, Junichiro Tamamatsu|[2304.12624v1](http://arxiv.org/abs/2304.12624v1)|null|
 |**2023-04-24**|**Instant-3D: Instant Neural Radiance Field Training Towards On-Device AR/VR 3D Reconstruction**|Sixu Li, Chaojian Li, Wenbo Zhu, Boyang, Yu, Yang, Zhao, Cheng Wan, Haoran You, Huihong Shi, Yingyan, Lin|[2304.12467v1](http://arxiv.org/abs/2304.12467v1)|null|
-|**2023-04-24**|**Unsupervised Style-based Explicit 3D Face Reconstruction from Single Image**|Heng Yu, Zoltan A. Milacski, Laszlo A. Jeni|[2304.12455v1](http://arxiv.org/abs/2304.12455v1)|null|
-|**2023-04-24**|**gSDF: Geometry-Driven Signed Distance Functions for 3D Hand-Object Reconstruction**|Zerui Chen, Shizhe Chen, Cordelia Schmid, Ivan Laptev|[2304.11970v1](http://arxiv.org/abs/2304.11970v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Edge-aware Consistent Stereo Video Depth Estimation**|Elena Kosheleva, Sunil Jaiswal, Faranak Shamsafar, Noshaba Cheema, Klaus Illgner-Fehns, Philipp Slusallek|[2305.02645v1](http://arxiv.org/abs/2305.02645v1)|null|
 |**2023-05-02**|**High-Resolution Synthetic RGB-D Datasets for Monocular Depth Estimation**|Aakash Rajpal, Noshaba Cheema, Klaus Illgner-Fehns, Philipp Slusallek, Sunil Jaiswal|[2305.01732v1](http://arxiv.org/abs/2305.01732v1)|null|
 |**2023-05-02**|**AutoColor: Learned Light Power Control for Multi-Color Holograms**|Yicheng Zhan, Koray Kavaklı, Hakan Urey, Qi Sun, Kaan Akşit|[2305.01611v1](http://arxiv.org/abs/2305.01611v1)|null|
 |**2023-04-28**|**ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields**|Nagabhushan Somraj, Rajiv Soundararajan|[2305.00041v1](http://arxiv.org/abs/2305.00041v1)|null|
@@ -114,7 +115,6 @@
 |**2023-04-20**|**A geometry-aware deep network for depth estimation in monocular endoscopy**|Yongming Yang, Shuwei Shao, Tao Yang, Peng Wang, Zhuo Yang, Chengdong Wu, Hao Liu|[2304.10241v1](http://arxiv.org/abs/2304.10241v1)|**[link](https://github.com/yym-sia/lingmi-mr)**|
 |**2023-04-19**|**CrossFusion: Interleaving Cross-modal Complementation for Noise-resistant 3D Object Detection**|Yang Yang, Weijie Ma, Hao Chen, Linlin Ou, Xinyi Yu|[2304.09694v1](http://arxiv.org/abs/2304.09694v1)|null|
 |**2023-04-19**|**Reference-guided Controllable Inpainting of Neural Radiance Fields**|Ashkan Mirzaei, Tristan Aumentado-Armstrong, Marcus A. Brubaker, Jonathan Kelly, Alex Levinshtein, Konstantinos G. Derpanis, Igor Gilitschenski|[2304.09677v2](http://arxiv.org/abs/2304.09677v2)|null|
-|**2023-04-18**|**Learning to Fuse Monocular and Multi-view Cues for Multi-frame Depth Estimation in Dynamic Scenes**|Rui Li, Dong Gong, Wei Yin, Hao Chen, Yu Zhu, Kaixuan Wang, Xiaozhi Chen, Jinqiu Sun, Yanning Zhang|[2304.08993v1](http://arxiv.org/abs/2304.08993v1)|**[link](https://github.com/ruili3/dynamic-multiframe-depth)**|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,8 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Multi-Modality Deep Network for JPEG Artifacts Reduction**|Xuhao Jiang, Weimin Tan, Qing Lin, Chenxi Ma, Bo Yan, Liquan Shen|[2305.02760v1](http://arxiv.org/abs/2305.02760v1)|null|
+|**2023-05-04**|**FormNetV2: Multimodal Graph Contrastive Learning for Form Document Information Extraction**|Chen-Yu Lee, Chun-Liang Li, Hao Zhang, Timothy Dozat, Vincent Perot, Guolong Su, Xiang Zhang, Kihyuk Sohn, Nikolai Glushnev, Renshen Wang, Joshua Ainslie, Shangbang Long, Siyang Qin, Yasuhisa Fujii, Nan Hua, Tomas Pfister|[2305.02549v1](http://arxiv.org/abs/2305.02549v1)|null|
 |**2023-04-28**|**MASK-CNN-Transformer For Real-Time Multi-Label Weather Recognition**|Shengchao Chen, Ting Shu, Huan Zhao, Yuan Yan Tan|[2304.14857v1](http://arxiv.org/abs/2304.14857v1)|null|
 |**2023-04-28**|**CVRecon: Rethinking 3D Geometric Feature Learning For Neural Reconstruction**|Ziyue Feng, Leon Yang, Pengsheng Guo, Bing Li|[2304.14633v1](http://arxiv.org/abs/2304.14633v1)|null|
 |**2023-04-26**|**Cluster Entropy: Active Domain Adaptation in Pathological Image Segmentation**|Xiaoqing Liu, Kengo Araki, Shota Harada, Akihiko Yoshizawa, Kazuhiro Terada, Mariyo Kurata, Naoki Nakajima, Hiroyuki Abe, Tetsuo Ushiku, Ryoma Bise|[2304.13513v1](http://arxiv.org/abs/2304.13513v1)|null|
@@ -191,11 +193,10 @@
 |**2023-04-25**|**Pseudo Labels Refinement with Intra-camera Similarity for Unsupervised Person Re-identification**|Pengna Li, Kangyi Wu, Sanping Zhou. Qianxin Huang, Jinjun Wang|[2304.12634v1](http://arxiv.org/abs/2304.12634v1)|null|
 |**2023-04-25**|**Img2Vec: A Teacher of High Token-Diversity Helps Masked AutoEncoders**|Heng Pan, Chenyang Liu, Wenxiao Wang, Li Yuan, Hongfa Wang, Zhifeng Li, Wei Liu|[2304.12535v1](http://arxiv.org/abs/2304.12535v1)|null|
 |**2023-04-24**|**Explicit Correspondence Matching for Generalizable Neural Radiance Fields**|Yuedong Chen, Haofei Xu, Qianyi Wu, Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai|[2304.12294v1](http://arxiv.org/abs/2304.12294v1)|**[link](https://github.com/donydchen/matchnerf)**|
-|**2023-04-24**|**Learning Visibility Field for Detailed 3D Human Reconstruction and Relighting**|Ruichen Zheng, Peng Li, Haoqian Wang, Tao Yu|[2304.11900v1](http://arxiv.org/abs/2304.11900v1)|null|
-|**2023-04-23**|**You Never Get a Second Chance To Make a Good First Impression: Seeding Active Learning for 3D Semantic Segmentation**|Nermin Samet, Oriane Siméoni, Gilles Puy, Georgy Ponimatkin, Renaud Marlet, Vincent Lepetit|[2304.11762v1](http://arxiv.org/abs/2304.11762v1)|**[link](https://github.com/nerminsamet/seedal)**|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Simultaneously Calibration of Multi Hand-Eye Robot System Based on Graph**|Zishun Zhou, Liping Ma, Xilong Liu, Zhiqiang Cao, Junzhi Yu|[2305.02518v1](http://arxiv.org/abs/2305.02518v1)|null|
 |**2023-05-02**|**The Complexity of Distributed Approximation of Packing and Covering Integer Linear Programs**|Yi-Jun Chang, Zeyong Li|[2305.01324v1](http://arxiv.org/abs/2305.01324v1)|null|
 |**2023-04-14**|**Fusing Structure from Motion and Simulation-Augmented Pose Regression from Optical Flow for Challenging Indoor Environments**|Felix Ott, Lucas Heublein, David Rügamer, Bernd Bischl, Christopher Mutschler|[2304.07250v1](http://arxiv.org/abs/2304.07250v1)|null|
 |**2023-04-11**|**Loop Closure Detection Based on Object-level Spatial Layout and Semantic Consistency**|Xingwu Ji, Peilin Liu, Haochen Niu, Xiang Chen, Rendong Ying, Fei Wen|[2304.05146v2](http://arxiv.org/abs/2304.05146v2)|**[link](https://github.com/jixingwu/ss-lcd)**|
@@ -205,7 +206,6 @@
 |**2023-03-28**|**Modularity-Guided Graph Topology Optimization And Self-Boosting Clustering**|Yongyu Wang, Shiqi Hao, Zhangxun Liu, Xiaotian Zhuang|[2303.16103v1](http://arxiv.org/abs/2303.16103v1)|null|
 |**2023-03-24**|**BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects**|Bowen Wen, Jonathan Tremblay, Valts Blukis, Stephen Tyree, Thomas Muller, Alex Evans, Dieter Fox, Jan Kautz, Stan Birchfield|[2303.14158v1](http://arxiv.org/abs/2303.14158v1)|null|
 |**2023-03-20**|**VR-SLAM: A Visual-Range Simultaneous Localization and Mapping System using Monocular Camera and Ultra-wideband Sensors**|Thien Hoang Nguyen, Shenghai Yuan, Lihua Xie|[2303.10903v1](http://arxiv.org/abs/2303.10903v1)|null|
-|**2023-03-13**|**NeuSE: Neural SE(3)-Equivariant Embedding for Consistent Spatial Understanding with Objects**|Jiahui Fu, Yilun Du, Kurran Singh, Joshua B. Tenenbaum, John J. Leonard|[2303.07308v1](http://arxiv.org/abs/2303.07308v1)|null|
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
