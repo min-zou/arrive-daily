@@ -92,19 +92,21 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models**|Byungjun Kim, Patrick Kwon, Kwangho Lee, Myunggi Lee, Sookwan Han, Daesik Kim, Hanbyul Joo|[2305.11870v1](http://arxiv.org/abs/2305.11870v1)|null|
+|**2023-05-19**|**Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields**|Jingbo Zhang, Xiaoyu Li, Ziyu Wan, Can Wang, Jing Liao|[2305.11588v1](http://arxiv.org/abs/2305.11588v1)|null|
+|**2023-05-19**|**RGB-D And Thermal Sensor Fusion: A Systematic Literature Review**|Martin Brenner, Napoleon H. Reyes, Teo Susnjak, Andre L. C. Barczak|[2305.11427v1](http://arxiv.org/abs/2305.11427v1)|null|
 |**2023-05-18**|**Progressive Learning of 3D Reconstruction Network from 2D GAN Data**|Aysegul Dundar, Jun Gao, Andrew Tao, Bryan Catanzaro|[2305.11102v1](http://arxiv.org/abs/2305.11102v1)|null|
 |**2023-05-18**|**ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis**|Shoukang Hu, Kaichen Zhou, Kaiyu Li, Longhui Yu, Lanqing Hong, Tianyang Hu, Zhenguo Li, Gim Hee Lee, Ziwei Liu|[2305.11031v1](http://arxiv.org/abs/2305.11031v1)|**[link](https://github.com/skhu101/consistentnerf)**|
 |**2023-05-17**|**Colonoscopy Coverage Revisited: Identifying Scanning Gaps in Real-Time**|G. Leifman, I. Kligvasser, R. Goldenberg, M. Elad, E. Rivlin|[2305.10026v1](http://arxiv.org/abs/2305.10026v1)|null|
-|**2023-05-16**|**3D reconstruction of the magnetization vector via XMCD-PEEM**|Miguel A. Cascales Sandoval, A. Hierro-Rodríguez, S. Ruiz-Gómez, L. Skoric, C. Donnelly, M. A. Niño, D. McGrouther, S. McVitie, S. Flewett, N. Jaouen, M. Foerster, A. Fernández-Pacheco|[2305.09590v2](http://arxiv.org/abs/2305.09590v2)|null|
+|**2023-05-16**|**3D reconstruction of the magnetization vector via XMCD-PEEM**|Miguel A. Cascales Sandoval, A. Hierro-Rodríguez, S. Ruiz-Gómez, L. Skoric, C. Donnelly, M. A. Niño, D. McGrouther, S. McVitie, S. Flewett, N. Jaouen, R. Belkhou, M. Foerster, A. Fernández-Pacheco|[2305.09590v3](http://arxiv.org/abs/2305.09590v3)|null|
 |**2023-05-15**|**AutoRecon: Automated 3D Object Discovery and Reconstruction**|Yuang Wang, Xingyi He, Sida Peng, Haotong Lin, Hujun Bao, Xiaowei Zhou|[2305.08810v1](http://arxiv.org/abs/2305.08810v1)|null|
 |**2023-05-11**|**Towards a Better Understanding of the Computer Vision Research Community in Africa**|Abdul-Hakeem Omotayo, Mai Gamal, Eman Ehab, Gbetondji Dovonon, Zainab Akinjobi, Ismaila Lukman, Houcemeddine Turki, Mahmod Abdien, Idriss Tondji, Abigail Oppong, Yvan Pimi, Karim Gamal, Ro'ya-CV4Africa, Mennatullah Siam|[2305.06773v1](http://arxiv.org/abs/2305.06773v1)|null|
 |**2023-05-10**|**Scan2LoD3: Reconstructing semantic 3D building models at LoD3 using ray casting and Bayesian networks**|Olaf Wysocki, Yan Xia, Magdalena Wysocki, Eleonora Grilli, Ludwig Hoegner, Daniel Cremers, Uwe Stilla|[2305.06314v1](http://arxiv.org/abs/2305.06314v1)|null|
-|**2023-05-09**|**3DInvNet: A Deep Learning-Based 3D Ground-Penetrating Radar Data Inversion**|Qiqi Dai, Yee Hui Lee, Hai-Han Sun, Genevieve Ow, Mohamed Lokman Mohd Yusof, Abdulkadir C. Yucel|[2305.05425v1](http://arxiv.org/abs/2305.05425v1)|**[link](https://github.com/qiqi-dai/3dinvnet)**|
-|**2023-05-08**|**Domain independent post-processing with graph U-nets: Applications to Electrical Impedance Tomographic Imaging**|William Herzberg, Andreas Hauptmann, Sarah J. Hamilton|[2305.05020v1](http://arxiv.org/abs/2305.05020v1)|null|
-|**2023-05-08**|**RelPose++: Recovering 6D Poses from Sparse-view Observations**|Amy Lin, Jason Y. Zhang, Deva Ramanan, Shubham Tulsiani|[2305.04926v1](http://arxiv.org/abs/2305.04926v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields**|Jingbo Zhang, Xiaoyu Li, Ziyu Wan, Can Wang, Jing Liao|[2305.11588v1](http://arxiv.org/abs/2305.11588v1)|null|
+|**2023-05-19**|**Brain Captioning: Decoding human brain activity into images and text**|Matteo Ferrante, Furkan Ozcelik, Tommaso Boccato, Rufin VanRullen, Nicola Toschi|[2305.11560v1](http://arxiv.org/abs/2305.11560v1)|null|
 |**2023-05-16**|**PanelNet: Understanding 360 Indoor Environment via Panel Representation**|Haozheng Yu, Lu He, Bing Jian, Weiwei Feng, Shan Liu|[2305.09078v1](http://arxiv.org/abs/2305.09078v1)|null|
 |**2023-05-13**|**Seeing Through the Grass: Semantic Pointcloud Filter for Support Surface Learning**|Anqiao Li, Chenyu Yang, Jonas Frey, Joonho Lee, Cesar Cadena, Marco Hutter|[2305.07995v1](http://arxiv.org/abs/2305.07995v1)|null|
 |**2023-05-13**|**MetaMorphosis: Task-oriented Privacy Cognizant Feature Generation for Multi-task Learning**|Md Adnan Arefeen, Zhouyu Li, Md Yusuf Sarwar Uddin, Anupam Das|[2305.07815v1](http://arxiv.org/abs/2305.07815v1)|null|
@@ -113,8 +115,6 @@
 |**2023-05-10**|**A Multi-modal Approach to Single-modal Visual Place Classification**|Tomoya Iwasaki, Kanji Tanaka, Kenta Tsukahara|[2305.06179v2](http://arxiv.org/abs/2305.06179v2)|null|
 |**2023-05-10**|**FusionDepth: Complement Self-Supervised Monocular Depth Estimation with Cost Volume**|Zhuofei Huang, Jianlin Liu, Shang Xu, Ying Chen, Yong Liu|[2305.06036v1](http://arxiv.org/abs/2305.06036v1)|null|
 |**2023-05-08**|**Improving 2D face recognition via fine-level facial depth generation and RGB-D complementary feature learning**|Wenhao Hu|[2305.04426v1](http://arxiv.org/abs/2305.04426v1)|null|
-|**2023-05-04**|**Edge-aware Consistent Stereo Video Depth Estimation**|Elena Kosheleva, Sunil Jaiswal, Faranak Shamsafar, Noshaba Cheema, Klaus Illgner-Fehns, Philipp Slusallek|[2305.02645v1](http://arxiv.org/abs/2305.02645v1)|null|
-|**2023-05-02**|**High-Resolution Synthetic RGB-D Datasets for Monocular Depth Estimation**|Aakash Rajpal, Noshaba Cheema, Klaus Illgner-Fehns, Philipp Slusallek, Sunil Jaiswal|[2305.01732v1](http://arxiv.org/abs/2305.01732v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**Few-Shot Learning with Visual Distribution Calibration and Cross-Modal Distribution Alignment**|Runqi Wang, Hao Zheng, Xiaoyue Duan, Jianzhuang Liu, Yuning Lu, Tian Wang, Songcen Xu, Baochang Zhang|[2305.11439v1](http://arxiv.org/abs/2305.11439v1)|**[link](https://github.com/bhrqw/sada)**|
 |**2023-05-18**|**XFormer: Fast and Accurate Monocular 3D Body Capture**|Lihui Qian, Xintong Han, Faqiang Wang, Hongyu Liu, Haoye Dong, Zhiwen Li, Huawei Wei, Zhe Lin, Cheng-Bin Jin|[2305.11101v1](http://arxiv.org/abs/2305.11101v1)|null|
 |**2023-05-17**|**A robust multi-domain network for short-scanning amyloid PET reconstruction**|Hyoung Suk Park, Young Jin Jeong, Kiwan Jeon|[2305.09986v1](http://arxiv.org/abs/2305.09986v1)|null|
 |**2023-05-16**|**A Method for Training-free Person Image Picture Generation**|Tianyu Chen|[2305.09817v1](http://arxiv.org/abs/2305.09817v1)|null|
@@ -192,7 +193,6 @@
 |**2023-05-14**|**SCRNet: a Retinex Structure-based Low-light Enhancement Model Guided by Spatial Consistency**|Miao Zhang, Yiqing Shen, Shenghui Zhong|[2305.08053v1](http://arxiv.org/abs/2305.08053v1)|null|
 |**2023-05-12**|**Learning Monocular Depth in Dynamic Environment via Context-aware Temporal Attention**|Zizhang Wu, Zhuozheng Li, Zhi-Gang Fan, Yunzhe Wu, Yuanzhu Gan, Jian Pu, Xianzhi Li|[2305.07397v1](http://arxiv.org/abs/2305.07397v1)|null|
 |**2023-05-12**|**CLIP-Count: Towards Text-Guided Zero-Shot Object Counting**|Ruixiang Jiang, Lingbo Liu, Changwen Chen|[2305.07304v1](http://arxiv.org/abs/2305.07304v1)|**[link](https://github.com/songrise/clip-count)**|
-|**2023-05-11**|**SalienDet: A Saliency-based Feature Enhancement Algorithm for Object Detection for Autonomous Driving**|Ning Ding, Ce Zhang, Azim Eskandarian|[2305.06940v1](http://arxiv.org/abs/2305.06940v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
