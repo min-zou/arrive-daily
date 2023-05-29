@@ -157,7 +157,7 @@
 ## PointCloud
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-05-25**|**Banana: Banach Fixed-Point Network for Pointcloud Segmentation with Inter-Part Equivariance**|Congyue Deng, Jiahui Lei, Bokui Shen, Kostas Daniilidis, Leonidas Guibas|[2305.16314v1](http://arxiv.org/abs/2305.16314v1)|null|
+|**2023-05-25**|**Banana: Banach Fixed-Point Network for Pointcloud Segmentation with Inter-Part Equivariance**|Congyue Deng, Jiahui Lei, Bokui Shen, Kostas Daniilidis, Leonidas Guibas|[2305.16314v2](http://arxiv.org/abs/2305.16314v2)|null|
 |**2023-05-23**|**Hierarchical Adaptive Voxel-guided Sampling for Real-time Applications in Large-scale Point Clouds**|Junyuan Ouyang, Xiao Liu, Haoyao Chen|[2305.14306v1](http://arxiv.org/abs/2305.14306v1)|**[link](https://github.com/ouyangjunyuan/pointcloud-3d-detector-tensorrt)**|
 |**2023-05-13**|**Seeing Through the Grass: Semantic Pointcloud Filter for Support Surface Learning**|Anqiao Li, Chenyu Yang, Jonas Frey, Joonho Lee, Cesar Cadena, Marco Hutter|[2305.07995v1](http://arxiv.org/abs/2305.07995v1)|null|
 |**2023-04-03**|**PoseMatcher: One-shot 6D Object Pose Estimation by Deep Feature Matching**|Pedro Castro, Tae-Kyun Kim|[2304.01382v1](http://arxiv.org/abs/2304.01382v1)|null|
