@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-30**|**Template-free Articulated Neural Point Clouds for Reposable View Synthesis**|Lukas Uzolas, Elmar Eisemann, Petr Kellnhofer|[2305.19065v1](http://arxiv.org/abs/2305.19065v1)|**[link](https://github.com/lukasuz/articulated-point-nerf)**|
 |**2023-05-29**|**Synfeal: A Data-Driven Simulator for End-to-End Camera Localization**|Daniel Coelho, Miguel Oliveira, Paulo Dias|[2305.18260v1](http://arxiv.org/abs/2305.18260v1)|**[link](https://github.com/danielcoelho112/synfeal)**|
 |**2023-05-26**|**VoxDet: Voxel Learning for Novel Instance Detection**|Bowen Li, Jiashun Wang, Yaoyu Hu, Chen Wang, Sebastian Scherer|[2305.17220v2](http://arxiv.org/abs/2305.17220v2)|null|
 |**2023-05-25**|**Look Ma, No Hands! Agent-Environment Factorization of Egocentric Videos**|Matthew Chang, Aditya Prakash, Saurabh Gupta|[2305.16301v1](http://arxiv.org/abs/2305.16301v1)|null|
@@ -101,10 +102,12 @@
 |**2023-05-23**|**Cross3DVG: Baseline and Dataset for Cross-Dataset 3D Visual Grounding on Different RGB-D Scans**|Taiki Miyanishi, Daichi Azuma, Shuhei Kurita, Motoki Kawanabe|[2305.13876v1](http://arxiv.org/abs/2305.13876v1)|null|
 |**2023-05-22**|**A panoptic view of the Taurus molecular cloud I. The cloud dynamics revealed by gas emission and 3D dust**|J. D. Soler, C. Zucker, J. E. G. Peek, M. Heyer, P. F. Goldsmith, S. C. O. Glover, S. Molinari, R. S. Klessen, P. Hennebelle, L. Testi, T. Colman, M. Benedettini, D. Elia, C. Mininni, S. Pezzuto, E. Schisano, A. Traficante|[2305.13180v1](http://arxiv.org/abs/2305.13180v1)|null|
 |**2023-05-22**|**A three-dimensional MR-STAT protocol for high-resolution multi-parametric quantitative MRI**|Hongyan Liu, Oscar van der Heide, Edwin Versteeg, Martijn Froeling, Miha Fuderer, Fei Xu, Cornelis A. T. van den Berg, Alessandro Sbrizzi|[2305.13022v1](http://arxiv.org/abs/2305.13022v1)|null|
-|**2023-05-22**|**SG-GAN: Fine Stereoscopic-Aware Generation for 3D Brain Point Cloud Up-sampling from a Single Image**|Bowen Hu, Baiying Lei, Shuqiang Wang|[2305.12646v1](http://arxiv.org/abs/2305.12646v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-30**|**DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation**|Jiuhn Song, Seonghoon Park, Honggyu An, Seokju Cho, Min-Seop Kwak, Sungjin Cho, Seungryong Kim|[2305.19201v1](http://arxiv.org/abs/2305.19201v1)|null|
+|**2023-05-30**|**Independent Component Alignment for Multi-Task Learning**|Dmitry Senushkin, Nikolay Patakin, Arseny Kuznetsov, Anton Konushin|[2305.19000v1](http://arxiv.org/abs/2305.19000v1)|null|
+|**2023-05-30**|**HQDec: Self-Supervised Monocular Depth Estimation Based on a High-Quality Decoder**|Fei Wang, Jun Cheng|[2305.18706v1](http://arxiv.org/abs/2305.18706v1)|**[link](https://github.com/fwucas/hqdec)**|
 |**2023-05-28**|**OccCasNet: Occlusion-aware Cascade Cost Volume for Light Field Depth Estimation**|Wentao Chao, Fuqing Duan, Xuechun Wang, Yingqian Wang, Guanghui Wang|[2305.17710v1](http://arxiv.org/abs/2305.17710v1)|**[link](https://github.com/chaowentao/occcasnet)**|
 |**2023-05-27**|**USIM-DAL: Uncertainty-aware Statistical Image Modeling-based Dense Active Learning for Super-resolution**|Vikrant Rangnekar, Uddeshya Upadhyay, Zeynep Akata, Biplab Banerjee|[2305.17520v1](http://arxiv.org/abs/2305.17520v1)|null|
 |**2023-05-26**|**Automatic Surround Camera Calibration Method in Road Scene for Self-driving Car**|Jixiang Li, Jiahao Pi, Guohang Yan, Yikang Li|[2305.16840v1](http://arxiv.org/abs/2305.16840v1)|**[link](https://github.com/opencalib/surroundcameracalib)**|
@@ -112,9 +115,6 @@
 |**2023-05-25**|**SING: A Plug-and-Play DNN Learning Technique**|Adrien Courtois, Damien Scieur, Jean-Michel Morel, Pablo Arias, Thomas Eboli|[2305.15997v1](http://arxiv.org/abs/2305.15997v1)|**[link](https://github.com/adriencourtois/sing)**|
 |**2023-05-25**|**Learning Occupancy for Monocular 3D Object Detection**|Liang Peng, Junkai Xu, Haoran Cheng, Zheng Yang, Xiaopei Wu, Wei Qian, Wenxiao Wang, Boxi Wu, Deng Cai|[2305.15694v1](http://arxiv.org/abs/2305.15694v1)|**[link](https://github.com/spengliang/occupancym3d)**|
 |**2023-05-24**|**Polarimetric Imaging for Perception**|Michael Baltaxe, Tomer Pe'er, Dan Levi|[2305.14787v1](http://arxiv.org/abs/2305.14787v1)|null|
-|**2023-05-24**|**AutoDepthNet: High Frame Rate Depth Map Reconstruction using Commodity Depth and RGB Cameras**|Peyman Gholami, Robert Xiao|[2305.14731v1](http://arxiv.org/abs/2305.14731v1)|null|
-|**2023-05-22**|**FEDORA: Flying Event Dataset fOr Reactive behAvior**|Amogh Joshi, Adarsh Kosta, Wachirawit Ponghiran, Manish Nagaraj, Kaushik Roy|[2305.14392v1](http://arxiv.org/abs/2305.14392v1)|null|
-|**2023-05-22**|**Gated Stereo: Joint Depth Estimation from Gated and Wide-Baseline Active Stereo Cues**|Stefanie Walz, Mario Bijelic, Andrea Ramazzina, Amanpreet Walia, Fahim Mannan, Felix Heide|[2305.12955v1](http://arxiv.org/abs/2305.12955v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,7 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-05-29**|**Reconstructing the Mind's Eye: fMRI-to-Image with Contrastive Learning and Diffusion Priors**|Paul S. Scotti, Atmadeep Banerjee, Jimmie Goode, Stepan Shabalin, Alex Nguyen, Ethan Cohen, Aidan J. Dempster, Nathalie Verlinde, Elad Yundler, David Weisberg, Kenneth A. Norman, Tanishq Mathew Abraham|[2305.18274v1](http://arxiv.org/abs/2305.18274v1)|null|
+|**2023-05-29**|**Reconstructing the Mind's Eye: fMRI-to-Image with Contrastive Learning and Diffusion Priors**|Paul S. Scotti, Atmadeep Banerjee, Jimmie Goode, Stepan Shabalin, Alex Nguyen, Ethan Cohen, Aidan J. Dempster, Nathalie Verlinde, Elad Yundler, David Weisberg, Kenneth A. Norman, Tanishq Mathew Abraham|[2305.18274v1](http://arxiv.org/abs/2305.18274v1)|**[link](https://github.com/medarc-ai/fmri-reconstruction-nsd)**|
 |**2023-05-29**|**Convolutional neural network based on sparse graph attention mechanism for MRI super-resolution**|Xin Hua, Zhijiang Du, Hongjian Yu, Jixin Maa|[2305.17898v1](http://arxiv.org/abs/2305.17898v1)|null|
 |**2023-05-27**|**A Zero-/Few-Shot Anomaly Classification and Segmentation Method for CVPR 2023 VAND Workshop Challenge Tracks 1&2: 1st Place on Zero-shot AD and 4th Place on Few-shot AD**|Xuhai Chen, Yue Han, Jiangning Zhang|[2305.17382v1](http://arxiv.org/abs/2305.17382v1)|null|
 |**2023-05-27**|**WavePF: A Novel Fusion Approach based on Wavelet-guided Pooling for Infrared and Visible Images**|Hui Li, Yongbiao Xiao, Chunyang Cheng, Zhongwei Shen, Xiaoning Song|[2305.17376v1](http://arxiv.org/abs/2305.17376v1)|null|
