@@ -34,7 +34,7 @@
 |**2023-05-13**|**Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance**|Xinyu Lin, Yingjie Zhou, Xun Zhang, Yipeng Liu, Ce Zhu|[2305.07943v1](http://arxiv.org/abs/2305.07943v1)|**[link](https://github.com/roylin1229/IIB_descriptor)**|
 |**2023-05-09**|**Eiffel Tower: A Deep-Sea Underwater Dataset for Long-Term Visual Localization**|Clémentin Boittiaux, Claire Dune, Maxime Ferrera, Aurélien Arnaubec, Ricard Marxer, Marjolaine Matabos, Loïc Van Audenhaege, Vincent Hugel|[2305.05301v1](http://arxiv.org/abs/2305.05301v1)|**[link](https://github.com/clementinboittiaux/sfm-pipeline)**|
 |**2023-05-08**|**Hierarchical Visual Localization Based on Sparse Feature Pyramid for Adaptive Reduction of Keypoint Map Size**|Andrei Potapov, Mikhail Kurenkov, Pavel Karpyshev, Evgeny Yudin, Alena Savinykh, Evgeny Kruzhkov, Dzmitry Tsetserukou|[2305.04856v1](http://arxiv.org/abs/2305.04856v1)|null|
-|**2023-05-08**|**Privacy-Preserving Representations are not Enough -- Recovering Scene Content from Camera Poses**|Kunal Chelani, Torsten Sattler, Fredrik Kahl, Zuzana Kukelova|[2305.04603v1](http://arxiv.org/abs/2305.04603v1)|null|
+|**2023-05-08**|**Privacy-Preserving Representations are not Enough -- Recovering Scene Content from Camera Poses**|Kunal Chelani, Torsten Sattler, Fredrik Kahl, Zuzana Kukelova|[2305.04603v1](http://arxiv.org/abs/2305.04603v1)|**[link](https://github.com/kunalchelani/objectpositioningfromposes)**|
 |**2023-05-05**|**HSCNet++: Hierarchical Scene Coordinate Classification and Regression for Visual Localization with Transformer**|Shuzhe Wang, Zakaria Laskar, Iaroslav Melekhov, Xiaotian Li, Yi Zhao, Giorgos Tolias, Juho Kannala|[2305.03595v1](http://arxiv.org/abs/2305.03595v1)|null|
 |**2023-05-03**|**AV-SAM: Segment Anything Model Meets Audio-Visual Localization and Segmentation**|Shentong Mo, Yapeng Tian|[2305.01836v1](http://arxiv.org/abs/2305.01836v1)|null|
 ## Keypoint Detection
@@ -197,7 +197,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-05-31**|**Spectral Heterogeneous Graph Convolutions via Positive Noncommutative Polynomials**|Mingguo He, Zhewei Wei, Shikun Feng, Zhengjie Huang, Weibin Li, Yu Sun, Dianhai Yu|[2305.19872v1](http://arxiv.org/abs/2305.19872v1)|null|
-|**2023-05-31**|**OVNS: Opportunistic Variable Neighborhood Search for Heaviest Subgraph Problem in Social Networks**|Ville P. Saarinen, Ted Hsuan Yun Chen, Mikko Kivelä|[2305.19729v1](http://arxiv.org/abs/2305.19729v1)|null|
+|**2023-05-31**|**OVNS: Opportunistic Variable Neighborhood Search for Heaviest Subgraph Problem in Social Networks**|Ville P. Saarinen, Ted Hsuan Yun Chen, Mikko Kivelä|[2305.19729v1](http://arxiv.org/abs/2305.19729v1)|**[link](https://github.com/decitizen/ovns)**|
 |**2023-05-16**|**Random Edge Coding: One-Shot Bits-Back Coding of Large Labeled Graphs**|Daniel Severo, James Townsend, Ashish Khisti, Alireza Makhzani|[2305.09705v1](http://arxiv.org/abs/2305.09705v1)|**[link](https://github.com/dsevero/random-edge-coding)**|
 |**2023-05-11**|**Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems**|Nathan Hughes, Yun Chang, Siyi Hu, Rajat Talak, Rumaisa Abdulhai, Jared Strader, Luca Carlone|[2305.07154v1](http://arxiv.org/abs/2305.07154v1)|**[link](https://github.com/mit-spark/hydra)**|
 |**2023-05-11**|**Backdoor to the Hidden Ground State: Planted Vertex Cover Example**|Xin-Yi Fan, Hai-Jun Zhou|[2305.06610v1](http://arxiv.org/abs/2305.06610v1)|null|
