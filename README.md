@@ -97,7 +97,7 @@
 |**2023-05-31**|**Humans in 4D: Reconstructing and Tracking Humans with Transformers**|Shubham Goel, Georgios Pavlakos, Jathushan Rajasegaran, Angjoo Kanazawa, Jitendra Malik|[2305.20091v1](http://arxiv.org/abs/2305.20091v1)|**[link](https://github.com/shubham-goel/4D-Humans)**|
 |**2023-05-30**|**Template-free Articulated Neural Point Clouds for Reposable View Synthesis**|Lukas Uzolas, Elmar Eisemann, Petr Kellnhofer|[2305.19065v1](http://arxiv.org/abs/2305.19065v1)|**[link](https://github.com/lukasuz/articulated-point-nerf)**|
 |**2023-05-29**|**Synfeal: A Data-Driven Simulator for End-to-End Camera Localization**|Daniel Coelho, Miguel Oliveira, Paulo Dias|[2305.18260v1](http://arxiv.org/abs/2305.18260v1)|**[link](https://github.com/danielcoelho112/synfeal)**|
-|**2023-05-26**|**VoxDet: Voxel Learning for Novel Instance Detection**|Bowen Li, Jiashun Wang, Yaoyu Hu, Chen Wang, Sebastian Scherer|[2305.17220v2](http://arxiv.org/abs/2305.17220v2)|null|
+|**2023-05-26**|**VoxDet: Voxel Learning for Novel Instance Detection**|Bowen Li, Jiashun Wang, Yaoyu Hu, Chen Wang, Sebastian Scherer|[2305.17220v3](http://arxiv.org/abs/2305.17220v3)|null|
 |**2023-05-25**|**Look Ma, No Hands! Agent-Environment Factorization of Egocentric Videos**|Matthew Chang, Aditya Prakash, Saurabh Gupta|[2305.16301v1](http://arxiv.org/abs/2305.16301v1)|null|
 |**2023-05-25**|**Domain-Adaptive Full-Face Gaze Estimation via Novel-View-Synthesis and Feature Disentanglement**|Jiawei Qin, Takuru Shimoyama, Xucong Zhang, Yusuke Sugano|[2305.16140v1](http://arxiv.org/abs/2305.16140v1)|null|
 |**2023-05-25**|**Robust Category-Level 3D Pose Estimation from Synthetic Data**|Jiahao Yang, Wufei Ma, Angtian Wang, Xiaoding Yuan, Alan Yuille, Adam Kortylewski|[2305.16124v1](http://arxiv.org/abs/2305.16124v1)|null|
@@ -183,8 +183,8 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-06-02**|**A Novel Vision Transformer with Residual in Self-attention for Biomedical Image Classification**|Arun K. Sharma, Nishchal K. Sharma|[2306.01594v1](http://arxiv.org/abs/2306.01594v1)|null|
-|**2023-06-02**|**A Feature Reuse Framework with Texture-adaptive Aggregation for Reference-based Super-Resolution**|Xiaoyong Mei, Yi Yang, Ming Li, Changqin Huang, Kai Zhang, Pietro Lió|[2306.01500v1](http://arxiv.org/abs/2306.01500v1)|null|
+|**2023-06-02**|**A Novel Vision Transformer with Residual in Self-attention for Biomedical Image Classification**|Arun K. Sharma, Nishchal K. Verma|[2306.01594v2](http://arxiv.org/abs/2306.01594v2)|null|
+|**2023-06-02**|**A Feature Reuse Framework with Texture-adaptive Aggregation for Reference-based Super-Resolution**|Xiaoyong Mei, Yi Yang, Ming Li, Changqin Huang, Kai Zhang, Pietro Lió|[2306.01500v1](http://arxiv.org/abs/2306.01500v1)|**[link](https://github.com/yi-yang355/frfsr)**|
 |**2023-06-01**|**Exploring the Versatility of Zero-Shot CLIP for Interstitial Lung Disease Classification**|Cara Van Uden, Christian Bluethgen, Maayane Attias, Malgorzata Polacin, Haiwei Henry Guo, Neha Simha, Rishi Raj, Curtis Langlotz|[2306.01111v1](http://arxiv.org/abs/2306.01111v1)|null|
 |**2023-05-31**|**F?D: On understanding the role of deep feature spaces on face generation evaluation**|Krish Kabra, Guha Balakrishnan|[2305.20048v2](http://arxiv.org/abs/2305.20048v2)|null|
 |**2023-05-30**|**Contextual Vision Transformers for Robust Representation Learning**|Yujia Bao, Theofanis Karaletsos|[2305.19402v1](http://arxiv.org/abs/2305.19402v1)|null|
