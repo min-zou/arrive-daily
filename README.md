@@ -96,7 +96,7 @@
 |**2023-06-05**|**Image Reconstruction for Accelerated MR Scan with Faster Fourier Convolutional Neural Networks**|Xiaohan Liu, Yanwei Pang, Xuebin Sun, Yiming Liu, Yonghong Hou, Zhenchang Wang, Xuelong Li|[2306.02886v1](http://arxiv.org/abs/2306.02886v1)|null|
 |**2023-06-05**|**Single-Stage 3D Geometry-Preserving Depth Estimation Model Training on Dataset Mixtures with Uncalibrated Stereo Data**|Nikolay Patakin, Mikhail Romanov, Anna Vorontsova, Mikhail Artemyev, Anton Konushin|[2306.02878v1](http://arxiv.org/abs/2306.02878v1)|null|
 |**2023-06-05**|**Computational 3D topographic microscopy from terabytes of data per sample**|Kevin C. Zhou, Mark Harfouche, Maxwell Zheng, Joakim Jönsson, Kyung Chul Lee, Ron Appel, Paul Reamey, Thomas Doman, Veton Saliu, Gregor Horstmeyer, Roarke Horstmeyer|[2306.02634v1](http://arxiv.org/abs/2306.02634v1)|null|
-|**2023-06-02**|**Adaptive Robotic Information Gathering via Non-Stationary Gaussian Processes**|Weizhe Chen, Roni Khardon, Lantao Liu|[2306.01263v1](http://arxiv.org/abs/2306.01263v1)|**[link](https://github.com/weizhe-chen/attentive_kernels)**|
+|**2023-06-02**|**Adaptive Robotic Information Gathering via Non-Stationary Gaussian Processes**|Weizhe Chen, Roni Khardon, Lantao Liu|[2306.01263v2](http://arxiv.org/abs/2306.01263v2)|**[link](https://github.com/weizhe-chen/attentive_kernels)**|
 |**2023-06-01**|**BUOL: A Bottom-Up Framework with Occupancy-aware Lifting for Panoptic 3D Scene Reconstruction From A Single Image**|Tao Chu, Pan Zhang, Qiong Liu, Jiaqi Wang|[2306.00965v1](http://arxiv.org/abs/2306.00965v1)|**[link](https://github.com/chtsy/buol)**|
 |**2023-05-31**|**Humans in 4D: Reconstructing and Tracking Humans with Transformers**|Shubham Goel, Georgios Pavlakos, Jathushan Rajasegaran, Angjoo Kanazawa, Jitendra Malik|[2305.20091v1](http://arxiv.org/abs/2305.20091v1)|**[link](https://github.com/shubham-goel/4D-Humans)**|
 |**2023-05-30**|**Template-free Articulated Neural Point Clouds for Reposable View Synthesis**|Lukas Uzolas, Elmar Eisemann, Petr Kellnhofer|[2305.19065v1](http://arxiv.org/abs/2305.19065v1)|**[link](https://github.com/lukasuz/articulated-point-nerf)**|
@@ -184,7 +184,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-06-07**|**Complex Isotropic α-Stable-Rician Model for Heterogeneous SAR Images**|Mutong Li, Ercan Engin Kuruoglu|[2306.04383v1](http://arxiv.org/abs/2306.04383v1)|null|
-|**2023-06-07**|**TEC-Net: Vision Transformer Embrace Convolutional Neural Networks for Medical Image Segmentation**|Tao Lei, Rui Sun, Yong Wan, Yong Xia, Xiaogang Du, Asoke K. Nandi|[2306.04086v1](http://arxiv.org/abs/2306.04086v1)|null|
+|**2023-06-07**|**TEC-Net: Vision Transformer Embrace Convolutional Neural Networks for Medical Image Segmentation**|Tao Lei, Rui Sun, Yong Wan, Yong Xia, Xiaogang Du, Asoke K. Nandi|[2306.04086v1](http://arxiv.org/abs/2306.04086v1)|**[link](https://github.com/sr0920/tec-net)**|
 |**2023-06-06**|**Emergent Correspondence from Image Diffusion**|Luming Tang, Menglin Jia, Qianqian Wang, Cheng Perng Phoo, Bharath Hariharan|[2306.03881v1](http://arxiv.org/abs/2306.03881v1)|null|
 |**2023-06-06**|**AI-Supported Assessment of Load Safety**|Julius Schöning, Niklas Kruse|[2306.03795v1](http://arxiv.org/abs/2306.03795v1)|null|
 |**2023-06-06**|**CiT-Net: Convolutional Neural Networks Hand in Hand with Vision Transformers for Medical Image Segmentation**|Tao Lei, Rui Sun, Xuan Wang, Yingbo Wang, Xi He, Asoke Nandi|[2306.03373v1](http://arxiv.org/abs/2306.03373v1)|**[link](https://github.com/sr0920/cit-net)**|
