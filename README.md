@@ -4,7 +4,7 @@
 |**2023-06-07**|**Towards Decentralized Heterogeneous Multi-Robot SLAM and Target Tracking**|Ofer Dagan, Tycho L. Cinquini, Luke Morrissey, Kristen Such, Nisar R. Ahmed, Christoffer Heckman|[2306.04570v1](http://arxiv.org/abs/2306.04570v1)|null|
 |**2023-06-06**|**Rao-Blackwellized Particle Smoothing for Simultaneous Localization and Mapping**|Manon Kok, Arno Solin, Thomas B. Schön|[2306.03953v1](http://arxiv.org/abs/2306.03953v1)|null|
 |**2023-06-06**|**PQM: A Point Quality Evaluation Metric for Dense Maps**|Yash Turkar, Pranay Meshram, Charuvahan Adhivarahan, Karthik Dantu|[2306.03660v1](http://arxiv.org/abs/2306.03660v1)|null|
-|**2023-06-04**|**NICE-SLAM with Adaptive Feature Grids**|Ganlin Zhang, Deheng Zhang, Feichi Lu, Anqi Li|[2306.02395v1](http://arxiv.org/abs/2306.02395v1)|**[link](https://github.com/zhangganlin/nice-slam-with-adaptive-feature-grids)**|
+|**2023-06-04**|**NICE-SLAM with Adaptive Feature Grids**|Ganlin Zhang, Deheng Zhang, Feichi Lu, Anqi Li|[2306.02395v2](http://arxiv.org/abs/2306.02395v2)|**[link](https://github.com/zhangganlin/nice-slam-with-adaptive-feature-grids)**|
 |**2023-06-02**|**DH-PTAM: A Deep Hybrid Stereo Events-Frames Parallel Tracking And Mapping System**|Abanob Soliman, Fabien Bonardi, Désiré Sidibé, Samia Bouchafa|[2306.01891v1](http://arxiv.org/abs/2306.01891v1)|null|
 |**2023-06-01**|**BAMF-SLAM: Bundle Adjusted Multi-Fisheye Visual-Inertial SLAM Using Recurrent Field Transforms**|Wei Zhang, Sen Wang, Xingliang Dong, Rongwei Guo, Norbert Haala|[2306.01173v1](http://arxiv.org/abs/2306.01173v1)|null|
 |**2023-06-01**|**FMapping: Factorized Efficient Neural Field Mapping for Real-Time Dense RGB SLAM**|Tongyan Hua, Haotian Bai, Zidong Cao, Lin Wang|[2306.00579v1](http://arxiv.org/abs/2306.00579v1)|null|
@@ -92,7 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-06-09**|**Neural Haircut: Prior-Guided Strand-Based Hair Reconstruction**|Vanessa Sklyarova, Jenya Chelishev, Andreea Dogaru, Igor Medvedev, Victor Lempitsky, Egor Zakharov|[2306.05872v1](http://arxiv.org/abs/2306.05872v1)|null|
+|**2023-06-09**|**Neural Haircut: Prior-Guided Strand-Based Hair Reconstruction**|Vanessa Sklyarova, Jenya Chelishev, Andreea Dogaru, Igor Medvedev, Victor Lempitsky, Egor Zakharov|[2306.05872v2](http://arxiv.org/abs/2306.05872v2)|null|
 |**2023-06-08**|**2D Supervised Monocular 3D Object Detection by Global-to-Local 3D Reconstruction**|Jiawei He, Yuqi Wang, Yuntao Chen, Zhaoxiang Zhang|[2306.05418v1](http://arxiv.org/abs/2306.05418v1)|null|
 |**2023-06-08**|**Enhance-NeRF: Multiple Performance Evaluation for Neural Radiance Fields**|Qianqiu Tan, Tao Liu, Yinling Xie, Shuwan Yu, Baohua Zhang|[2306.05303v1](http://arxiv.org/abs/2306.05303v1)|null|
 |**2023-06-07**|**BU-CVKit: Extendable Computer Vision Framework for Species Independent Tracking and Analysis**|Mahir Patel, Lucas Carstensen, Yiwen Gu, Michael E. Hasselmo, Margrit Betke|[2306.04736v1](http://arxiv.org/abs/2306.04736v1)|null|
@@ -112,7 +112,7 @@
 |**2023-06-08**|**ExtPerFC: An Efficient 2D and 3D Perception Hardware-Software Framework for Mobile Cobot**|Tuan Dang, Khang Nguyen, Manfred Huber|[2306.04853v1](http://arxiv.org/abs/2306.04853v1)|**[link](https://github.com/tuantdang/perception_framework)**|
 |**2023-06-05**|**Single-Stage 3D Geometry-Preserving Depth Estimation Model Training on Dataset Mixtures with Uncalibrated Stereo Data**|Nikolay Patakin, Mikhail Romanov, Anna Vorontsova, Mikhail Artemyev, Anton Konushin|[2306.02878v1](http://arxiv.org/abs/2306.02878v1)|null|
 |**2023-06-02**|**The Surprising Effectiveness of Diffusion Models for Optical Flow and Monocular Depth Estimation**|Saurabh Saxena, Charles Herrmann, Junhwa Hur, Abhishek Kar, Mohammad Norouzi, Deqing Sun, David J. Fleet|[2306.01923v1](http://arxiv.org/abs/2306.01923v1)|null|
-|**2023-06-02**|**Temporal-controlled Frame Swap for Generating High-Fidelity Stereo Driving Data for Autonomy Analysis**|Yedi Luo, Xiangyu Bai, Le Jiang, Aniket Gupta, Eric Mortin, Hanumant Singh Sarah Ostadabbas|[2306.01704v1](http://arxiv.org/abs/2306.01704v1)|**[link](https://github.com/ostadabbas/temporal-controlled-frame-swap-gtav-tefs-)**|
+|**2023-06-02**|**Temporal-controlled Frame Swap for Generating High-Fidelity Stereo Driving Data for Autonomy Analysis**|Yedi Luo, Xiangyu Bai, Le Jiang, Aniket Gupta, Eric Mortin, Hanumant Singh Sarah Ostadabbas|[2306.01704v2](http://arxiv.org/abs/2306.01704v2)|**[link](https://github.com/ostadabbas/temporal-controlled-frame-swap-gtav-tefs-)**|
 |**2023-06-02**|**Towards In-context Scene Understanding**|Ivana Balažević, David Steiner, Nikhil Parthasarathy, Relja Arandjelović, Olivier J. Hénaff|[2306.01667v1](http://arxiv.org/abs/2306.01667v1)|null|
 |**2023-06-02**|**PanoGRF: Generalizable Spherical Radiance Fields for Wide-baseline Panoramas**|Zheng Chen, Yan-Pei Cao, Yuan-Chen Guo, Chen Wang, Ying Shan, Song-Hai Zhang|[2306.01531v1](http://arxiv.org/abs/2306.01531v1)|null|
 ## Long Term Localization
@@ -131,7 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-06-09**|**DetZero: Rethinking Offboard 3D Object Detection with Long-term Sequential Point Clouds**|Tao Ma, Xuemeng Yang, Hongbin Zhou, Xin Li, Botian Shi, Junjie Liu, Yuchen Yang, Zhizheng Liu, Liang He, Yu Qiao, Yikang Li, Hongsheng Li|[2306.06023v1](http://arxiv.org/abs/2306.06023v1)|null|
+|**2023-06-09**|**DetZero: Rethinking Offboard 3D Object Detection with Long-term Sequential Point Clouds**|Tao Ma, Xuemeng Yang, Hongbin Zhou, Xin Li, Botian Shi, Junjie Liu, Yuchen Yang, Zhizheng Liu, Liang He, Yu Qiao, Yikang Li, Hongsheng Li|[2306.06023v1](http://arxiv.org/abs/2306.06023v1)|**[link](https://github.com/pjlab-adg/detzero)**|
 |**2023-06-09**|**TrajectoryFormer: 3D Object Tracking Transformer with Predictive Trajectory Hypotheses**|Xuesong Chen, Shaoshuai Shi, Chao Zhang, Benjin Zhu, Qiang Wang, Ka Chun Cheung, Simon See, Hongsheng Li|[2306.05888v1](http://arxiv.org/abs/2306.05888v1)|null|
 |**2023-06-08**|**Tracking Objects with 3D Representation from Videos**|Jiawei He, Lue Fan, Yuqi Wang, Yuntao Chen, Zehao Huang, Naiyan Wang, Zhaoxiang Zhang|[2306.05416v1](http://arxiv.org/abs/2306.05416v1)|null|
 |**2023-06-08**|**SparseTrack: Multi-Object Tracking by Performing Scene Decomposition based on Pseudo-Depth**|Zelin Liu, Xinggang Wang, Cheng Wang, Wenyu Liu, Xiang Bai|[2306.05238v1](http://arxiv.org/abs/2306.05238v1)|**[link](https://github.com/hustvl/sparsetrack)**|
