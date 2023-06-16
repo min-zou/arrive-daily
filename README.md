@@ -1,7 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-06-13**|**iSLAM: Imperative SLAM**|Taimeng Fu, Shaoshu Su, Chen Wang|[2306.07894v1](http://arxiv.org/abs/2306.07894v1)|null|
+|**2023-06-13**|**iSLAM: Imperative SLAM**|Taimeng Fu, Shaoshu Su, Chen Wang|[2306.07894v2](http://arxiv.org/abs/2306.07894v2)|null|
 |**2023-06-12**|**H-SLAM: Hybrid Direct-Indirect Visual SLAM**|Georges Younes, Douaa Khalil, John Zelek, Daniel Asmar|[2306.07363v1](http://arxiv.org/abs/2306.07363v1)|**[link](https://github.com/aubvrl/fslam_ros_docker)**|
 |**2023-06-12**|**Volume-DROID: A Real-Time Implementation of Volumetric Mapping with DROID-SLAM**|Peter Stratton, Sandilya Sai Garimella, Ashwin Saxena, Nibarkavi Amutha, Emaad Gerami|[2306.06850v1](http://arxiv.org/abs/2306.06850v1)|**[link](https://github.com/peterstratton/volume-droid)**|
 |**2023-06-07**|**Towards Decentralized Heterogeneous Multi-Robot SLAM and Target Tracking**|Ofer Dagan, Tycho L. Cinquini, Luke Morrissey, Kristen Such, Nisar R. Ahmed, Christoffer Heckman|[2306.04570v1](http://arxiv.org/abs/2306.04570v1)|null|
@@ -9,7 +9,7 @@
 |**2023-06-06**|**PQM: A Point Quality Evaluation Metric for Dense Maps**|Yash Turkar, Pranay Meshram, Charuvahan Adhivarahan, Karthik Dantu|[2306.03660v1](http://arxiv.org/abs/2306.03660v1)|null|
 |**2023-06-04**|**NICE-SLAM with Adaptive Feature Grids**|Ganlin Zhang, Deheng Zhang, Feichi Lu, Anqi Li|[2306.02395v2](http://arxiv.org/abs/2306.02395v2)|**[link](https://github.com/zhangganlin/nice-slam-with-adaptive-feature-grids)**|
 |**2023-06-02**|**DH-PTAM: A Deep Hybrid Stereo Events-Frames Parallel Tracking And Mapping System**|Abanob Soliman, Fabien Bonardi, Désiré Sidibé, Samia Bouchafa|[2306.01891v1](http://arxiv.org/abs/2306.01891v1)|null|
-|**2023-06-01**|**BAMF-SLAM: Bundle Adjusted Multi-Fisheye Visual-Inertial SLAM Using Recurrent Field Transforms**|Wei Zhang, Sen Wang, Xingliang Dong, Rongwei Guo, Norbert Haala|[2306.01173v1](http://arxiv.org/abs/2306.01173v1)|null|
+|**2023-06-01**|**BAMF-SLAM: Bundle Adjusted Multi-Fisheye Visual-Inertial SLAM Using Recurrent Field Transforms**|Wei Zhang, Sen Wang, Xingliang Dong, Rongwei Guo, Norbert Haala|[2306.01173v2](http://arxiv.org/abs/2306.01173v2)|null|
 |**2023-06-01**|**FMapping: Factorized Efficient Neural Field Mapping for Real-Time Dense RGB SLAM**|Tongyan Hua, Haotian Bai, Zidong Cao, Lin Wang|[2306.00579v1](http://arxiv.org/abs/2306.00579v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
@@ -93,11 +93,11 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-06-13**|**Viewset Diffusion: (0-)Image-Conditioned 3D Generative Models from 2D Data**|Stanislaw Szymanowicz, Christian Rupprecht, Andrea Vedaldi|[2306.07881v1](http://arxiv.org/abs/2306.07881v1)|null|
-|**2023-06-12**|**SMART: Spatial Modeling Algorithms for Reaction and Transport**|Justin G. Laughlin, Jørgen S. Dokken, Henrik N. T. Finsberg, Emmet A. Francis, Christopher T. Lee, Marie E. Rognes, Padmini Rangamani|[2306.07368v1](http://arxiv.org/abs/2306.07368v1)|null|
+|**2023-06-12**|**SMART: Spatial Modeling Algorithms for Reaction and Transport**|Justin G. Laughlin, Jørgen S. Dokken, Henrik N. T. Finsberg, Emmet A. Francis, Christopher T. Lee, Marie E. Rognes, Padmini Rangamani|[2306.07368v1](http://arxiv.org/abs/2306.07368v1)|**[link](https://github.com/rangamanilabucsd/smart)**|
 |**2023-06-12**|**Reconstructing Heterogeneous Cryo-EM Molecular Structures by Decomposing Them into Polymer Chains**|Bongjin Koo, Julien Martel, Ariana Peck, Axel Levy, Frédéric Poitevin, Nina Miolane|[2306.07274v1](http://arxiv.org/abs/2306.07274v1)|null|
-|**2023-06-10**|**Fast light-field 3D microscopy with out-of-distribution detection and adaptation through Conditional Normalizing Flows**|Josué Page Vizcaíno, Panagiotis Symvoulidis, Zeguan Wang, Jonas Jelten, Paolo Favaro, Edward S. Boyden, Tobias Lasser|[2306.06408v1](http://arxiv.org/abs/2306.06408v1)|null|
+|**2023-06-10**|**Fast light-field 3D microscopy with out-of-distribution detection and adaptation through Conditional Normalizing Flows**|Josué Page Vizcaíno, Panagiotis Symvoulidis, Zeguan Wang, Jonas Jelten, Paolo Favaro, Edward S. Boyden, Tobias Lasser|[2306.06408v2](http://arxiv.org/abs/2306.06408v2)|**[link](https://github.com/pvjosue/cwfa)**|
 |**2023-06-10**|**3D reconstruction using Structure for Motion**|Kshitij Karnawat, Hritvik Choudhari, Abhimanyu Saxena, Mudit Singal, Raajith Gadam|[2306.06360v1](http://arxiv.org/abs/2306.06360v1)|**[link](https://github.com/kshitijkarnawat/structure-from-motion)**|
-|**2023-06-09**|**NERFBK: A High-Quality Benchmark for NERF-Based 3D Reconstruction**|Ali Karami, Simone Rigon, Gabriele Mazzacca, Ziyang Yan, Fabio Remondino|[2306.06300v1](http://arxiv.org/abs/2306.06300v1)|**[link](https://github.com/3dom-fbk/nerfbk)**|
+|**2023-06-09**|**NERFBK: A High-Quality Benchmark for NERF-Based 3D Reconstruction**|Ali Karami, Simone Rigon, Gabriele Mazzacca, Ziyang Yan, Fabio Remondino|[2306.06300v2](http://arxiv.org/abs/2306.06300v2)|**[link](https://github.com/3dom-fbk/nerfbk)**|
 |**2023-06-09**|**Neural Haircut: Prior-Guided Strand-Based Hair Reconstruction**|Vanessa Sklyarova, Jenya Chelishev, Andreea Dogaru, Igor Medvedev, Victor Lempitsky, Egor Zakharov|[2306.05872v2](http://arxiv.org/abs/2306.05872v2)|null|
 |**2023-06-08**|**2D Supervised Monocular 3D Object Detection by Global-to-Local 3D Reconstruction**|Jiawei He, Yuqi Wang, Yuntao Chen, Zhaoxiang Zhang|[2306.05418v1](http://arxiv.org/abs/2306.05418v1)|null|
 |**2023-06-08**|**Enhance-NeRF: Multiple Performance Evaluation for Neural Radiance Fields**|Qianqiu Tan, Tao Liu, Yinling Xie, Shuwan Yu, Baohua Zhang|[2306.05303v1](http://arxiv.org/abs/2306.05303v1)|**[link](https://github.com/tanqianq/enhance-nerf)**|
@@ -196,7 +196,7 @@
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-06-13**|**iSLAM: Imperative SLAM**|Taimeng Fu, Shaoshu Su, Chen Wang|[2306.07894v1](http://arxiv.org/abs/2306.07894v1)|null|
+|**2023-06-13**|**iSLAM: Imperative SLAM**|Taimeng Fu, Shaoshu Su, Chen Wang|[2306.07894v2](http://arxiv.org/abs/2306.07894v2)|null|
 |**2023-05-31**|**Spectral Heterogeneous Graph Convolutions via Positive Noncommutative Polynomials**|Mingguo He, Zhewei Wei, Shikun Feng, Zhengjie Huang, Weibin Li, Yu Sun, Dianhai Yu|[2305.19872v1](http://arxiv.org/abs/2305.19872v1)|**[link](https://github.com/ivam-he/pshgcn)**|
 |**2023-05-31**|**OVNS: Opportunistic Variable Neighborhood Search for Heaviest Subgraph Problem in Social Networks**|Ville P. Saarinen, Ted Hsuan Yun Chen, Mikko Kivelä|[2305.19729v1](http://arxiv.org/abs/2305.19729v1)|**[link](https://github.com/decitizen/ovns)**|
 |**2023-05-16**|**Random Edge Coding: One-Shot Bits-Back Coding of Large Labeled Graphs**|Daniel Severo, James Townsend, Ashish Khisti, Alireza Makhzani|[2305.09705v1](http://arxiv.org/abs/2305.09705v1)|**[link](https://github.com/dsevero/random-edge-coding)**|
