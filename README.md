@@ -66,6 +66,7 @@
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-16**|**Semi-analytical estimates for the chaotic diffusion in the Second Fundamental Model of Resonance. Application to Earth's navigation satellites**|Edoardo Legnaro, Christos Efthymiopoulos, Maria Harsoula|[2306.09847v1](http://arxiv.org/abs/2306.09847v1)|null|
 |**2023-06-15**|**NAVI: Category-Agnostic Image Collections with High-Quality 3D Shape and Pose Annotations**|Varun Jampani, Kevis-Kokitsi Maninis, Andreas Engelhardt, Arjun Karpur, Karen Truong, Kyle Sargent, Stefan Popov, André Araujo, Ricardo Martin-Brualla, Kaushal Patel, Daniel Vlasic, Vittorio Ferrari, Ameesh Makadia, Ce Liu, Yuanzhen Li, Howard Zhou|[2306.09109v1](http://arxiv.org/abs/2306.09109v1)|null|
 |**2023-06-08**|**LU-NeRF: Scene and Pose Estimation by Synchronizing Local Unposed NeRFs**|Zezhou Cheng, Carlos Esteves, Varun Jampani, Abhishek Kar, Subhransu Maji, Ameesh Makadia|[2306.05410v1](http://arxiv.org/abs/2306.05410v1)|null|
 |**2023-05-24**|**InterFormer: Interactive Local and Global Features Fusion for Automatic Speech Recognition**|Zhi-Hao Lai, Tian-Hao Zhang, Qi Liu, Xinyuan Qian, Li-Fang Wei, Song-Lu Chen, Feng Chen, Xu-Cheng Yin|[2305.16342v2](http://arxiv.org/abs/2305.16342v2)|null|
@@ -75,7 +76,6 @@
 |**2023-04-12**|**Visual Localization using Imperfect 3D Models from the Internet**|Vojtech Panek, Zuzana Kukelova, Torsten Sattler|[2304.05947v1](http://arxiv.org/abs/2304.05947v1)|**[link](https://github.com/v-pnk/cadloc)**|
 |**2023-04-08**|**Photometric Correction for Infrared Sensors**|Jincheng Zhang, Andrew R Willis, Kevin Brink|[2304.03930v1](http://arxiv.org/abs/2304.03930v1)|null|
 |**2023-04-07**|**DualRefine: Self-Supervised Depth and Pose Estimation Through Iterative Epipolar Sampling and Refinement Toward Equilibrium**|Antyanta Bangunharcana, Ahmed Magd, Kyung-Soo Kim|[2304.03560v1](http://arxiv.org/abs/2304.03560v1)|**[link](https://github.com/antabangun/dualrefine)**|
-|**2023-04-07**|**Convex Minimization with Integer Minima in $\widetilde O(n^4)$ Time**|Haotian Jiang, Yin Tat Lee, Zhao Song, Lichen Zhang|[2304.03426v1](http://arxiv.org/abs/2304.03426v1)|null|
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -105,6 +105,7 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-16**|**C2F2NeUS: Cascade Cost Frustum Fusion for High Fidelity and Generalizable Neural Surface Reconstruction**|Luoyuan Xu, Tao Guan, Yuesong Wang, Wenkai Liu, Zhaojie Zeng, Junle Wang, Wei Yang|[2306.10003v1](http://arxiv.org/abs/2306.10003v1)|null|
 |**2023-06-14**|**Predict to Detect: Prediction-guided 3D Object Detection using Sequential Images**|Sanmin Kim, Youngseok Kim, In-Jae Lee, Dongsuk Kum|[2306.08528v1](http://arxiv.org/abs/2306.08528v1)|null|
 |**2023-06-09**|**Circular Rectifiction of 3D Video and Efficient Modification of 3D-HEVC**|Jarosław Samelak, Marek Domański|[2306.06285v1](http://arxiv.org/abs/2306.06285v1)|null|
 |**2023-06-09**|**Lightweight Monocular Depth Estimation via Token-Sharing Transformer**|Dong-Jae Lee, Jae Young Lee, Hyounguk Shon, Eojindl Yi, Yeong-Hun Park, Sung-Sik Cho, Junmo Kim|[2306.05682v1](http://arxiv.org/abs/2306.05682v1)|null|
@@ -114,7 +115,6 @@
 |**2023-06-08**|**ExtPerFC: An Efficient 2D and 3D Perception Hardware-Software Framework for Mobile Cobot**|Tuan Dang, Khang Nguyen, Manfred Huber|[2306.04853v1](http://arxiv.org/abs/2306.04853v1)|**[link](https://github.com/tuantdang/perception_framework)**|
 |**2023-06-05**|**Single-Stage 3D Geometry-Preserving Depth Estimation Model Training on Dataset Mixtures with Uncalibrated Stereo Data**|Nikolay Patakin, Mikhail Romanov, Anna Vorontsova, Mikhail Artemyev, Anton Konushin|[2306.02878v1](http://arxiv.org/abs/2306.02878v1)|null|
 |**2023-06-02**|**The Surprising Effectiveness of Diffusion Models for Optical Flow and Monocular Depth Estimation**|Saurabh Saxena, Charles Herrmann, Junhwa Hur, Abhishek Kar, Mohammad Norouzi, Deqing Sun, David J. Fleet|[2306.01923v1](http://arxiv.org/abs/2306.01923v1)|null|
-|**2023-06-02**|**Towards In-context Scene Understanding**|Ivana Balažević, David Steiner, Nikhil Parthasarathy, Relja Arandjelović, Olivier J. Hénaff|[2306.01667v1](http://arxiv.org/abs/2306.01667v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-16**|**UTOPIA: Unconstrained Tracking Objects without Preliminary Examination via Cross-Domain Adaptation**|Pha Nguyen, Kha Gia Quach, John Gauch, Samee U. Khan, Bhiksha Raj, Khoa Luu|[2306.09613v1](http://arxiv.org/abs/2306.09613v1)|null|
 |**2023-06-14**|**A pose and shear-based tactile robotic system for object tracking, surface following and object pushing**|John Lloyd, Nathan Lepora|[2306.08560v1](http://arxiv.org/abs/2306.08560v1)|null|
 |**2023-06-13**|**Marking anything: application of point cloud in extracting video target features**|Xiangchun Xu|[2306.07559v1](http://arxiv.org/abs/2306.07559v1)|null|
 |**2023-06-09**|**DetZero: Rethinking Offboard 3D Object Detection with Long-term Sequential Point Clouds**|Tao Ma, Xuemeng Yang, Hongbin Zhou, Xin Li, Botian Shi, Junjie Liu, Yuchen Yang, Zhizheng Liu, Liang He, Yu Qiao, Yikang Li, Hongsheng Li|[2306.06023v1](http://arxiv.org/abs/2306.06023v1)|**[link](https://github.com/pjlab-adg/detzero)**|
@@ -140,7 +141,6 @@
 |**2023-06-08**|**Deep Learning Method for Object Tracking, Velocity Estimation and Projection of Sensor Data over Time**|Marco Braun, Moritz Luszek, Mirko Meuter, Dominic Spata, Kevin Kollek, Anton Kummert|[2306.06126v1](http://arxiv.org/abs/2306.06126v1)|null|
 |**2023-06-07**|**Contrastive Lift: 3D Object Instance Segmentation by Slow-Fast Contrastive Fusion**|Yash Bhalgat, Iro Laina, João F. Henriques, Andrew Zisserman, Andrea Vedaldi|[2306.04633v1](http://arxiv.org/abs/2306.04633v1)|null|
 |**2023-06-06**|**Benchmarking Robustness of AI-enabled Multi-sensor Fusion Systems: Challenges and Opportunities**|Xinyu Gao, Zhijie Wang, Yang Feng, Lei Ma, Zhenyu Chen, Baowen Xu|[2306.03454v1](http://arxiv.org/abs/2306.03454v1)|null|
-|**2023-06-05**|**MotionTrack: Learning Motion Predictor for Multiple Object Tracking**|Changcheng Xiao, Qiong Cao, Yujie Zhong, Long Lan, Xiang Zhang, Huayue Cai, Zhigang Luo, Dacheng Tao|[2306.02585v1](http://arxiv.org/abs/2306.02585v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-15**|**R2-Diff: Denoising by diffusion as a refinement of retrieved motion for image-based motion prediction**|Takeru Oba, Norimichi Ukita|[2306.09483v1](http://arxiv.org/abs/2306.09483v1)|null|
 |**2023-06-15**|**Diffusion Models for Zero-Shot Open-Vocabulary Segmentation**|Laurynas Karazija, Iro Laina, Andrea Vedaldi, Christian Rupprecht|[2306.09316v1](http://arxiv.org/abs/2306.09316v1)|null|
 |**2023-06-15**|**Text Promptable Surgical Instrument Segmentation with Vision-Language Models**|Zijian Zhou, Oluwatosin Alabi, Meng Wei, Tom Vercauteren, Miaojing Shi|[2306.09244v1](http://arxiv.org/abs/2306.09244v1)|null|
 |**2023-06-15**|**Yes, we CANN: Constrained Approximate Nearest Neighbors for local feature-based visual localization**|Dror Aiger, André Araujo, Simon Lynen|[2306.09012v1](http://arxiv.org/abs/2306.09012v1)|null|
@@ -192,10 +193,10 @@
 |**2023-06-08**|**COURIER: Contrastive User Intention Reconstruction for Large-Scale Pre-Train of Image Features**|Jia-Qi Yang, Chenglei Dai, OU Dan, Ju Huang, De-Chuan Zhan, Qingwen Liu, Xiaoyi Zeng, Yang Yang|[2306.05001v1](http://arxiv.org/abs/2306.05001v1)|null|
 |**2023-06-07**|**Complex Isotropic α-Stable-Rician Model for Heterogeneous SAR Images**|Mutong Li, Ercan Engin Kuruoglu|[2306.04383v1](http://arxiv.org/abs/2306.04383v1)|null|
 |**2023-06-07**|**TEC-Net: Vision Transformer Embrace Convolutional Neural Networks for Medical Image Segmentation**|Tao Lei, Rui Sun, Yong Wan, Yong Xia, Xiaogang Du, Asoke K. Nandi|[2306.04086v1](http://arxiv.org/abs/2306.04086v1)|**[link](https://github.com/sr0920/tec-net)**|
-|**2023-06-06**|**Emergent Correspondence from Image Diffusion**|Luming Tang, Menglin Jia, Qianqian Wang, Cheng Perng Phoo, Bharath Hariharan|[2306.03881v1](http://arxiv.org/abs/2306.03881v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-16**|**Pose Graph Optimization for a MAV Indoor Localization Fusing 5GNR TOA with an IMU**|Meisam Kabiri, Claudio Cimarelli, Hriday Bavle, Jose Luis Sanchez-Lopez, Holger Voos|[2306.09826v1](http://arxiv.org/abs/2306.09826v1)|null|
 |**2023-06-13**|**iSLAM: Imperative SLAM**|Taimeng Fu, Shaoshu Su, Chen Wang|[2306.07894v2](http://arxiv.org/abs/2306.07894v2)|null|
 |**2023-05-31**|**Spectral Heterogeneous Graph Convolutions via Positive Noncommutative Polynomials**|Mingguo He, Zhewei Wei, Shikun Feng, Zhengjie Huang, Weibin Li, Yu Sun, Dianhai Yu|[2305.19872v1](http://arxiv.org/abs/2305.19872v1)|**[link](https://github.com/ivam-he/pshgcn)**|
 |**2023-05-31**|**OVNS: Opportunistic Variable Neighborhood Search for Heaviest Subgraph Problem in Social Networks**|Ville P. Saarinen, Ted Hsuan Yun Chen, Mikko Kivelä|[2305.19729v1](http://arxiv.org/abs/2305.19729v1)|**[link](https://github.com/decitizen/ovns)**|
@@ -205,7 +206,6 @@
 |**2023-05-05**|**Fast Dynamic Programming in Trees in the MPC Model**|Chetan Gupta, Rustam Latypov, Yannic Maus, Shreyas Pai, Simo Särkkä, Jan Studený, Jukka Suomela, Jara Uitto, Hossein Vahidi|[2305.03693v1](http://arxiv.org/abs/2305.03693v1)|null|
 |**2023-05-05**|**Multi S-graphs: A Collaborative Semantic SLAM architecture**|Miguel Fernandez-Cortizas, Hriday Bavle, Jose Luis Sanchez-Lopez, Pascual Campoy, Holger Voos|[2305.03441v1](http://arxiv.org/abs/2305.03441v1)|null|
 |**2023-05-04**|**Simultaneously Calibration of Multi Hand-Eye Robot System Based on Graph**|Zishun Zhou, Liping Ma, Xilong Liu, Zhiqiang Cao, Junzhi Yu|[2305.02518v1](http://arxiv.org/abs/2305.02518v1)|null|
-|**2023-05-02**|**The Complexity of Distributed Approximation of Packing and Covering Integer Linear Programs**|Yi-Jun Chang, Zeyong Li|[2305.01324v1](http://arxiv.org/abs/2305.01324v1)|null|
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
