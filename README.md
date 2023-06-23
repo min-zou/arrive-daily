@@ -105,8 +105,9 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**Self-supervised Multi-task Learning Framework for Safety and Health-Oriented Connected Driving Environment Perception using Onboard Camera**|Shaocheng Jia, Wei Yao|[2306.11822v1](http://arxiv.org/abs/2306.11822v1)|null|
 |**2023-06-20**|**BEVScope: Enhancing Self-Supervised Depth Estimation Leveraging Bird's-Eye-View in Dynamic Scenarios**|Yucheng Mao, Ruowen Zhao, Tianbao Zhang, Hang Zhao|[2306.11598v1](http://arxiv.org/abs/2306.11598v1)|null|
-|**2023-06-20**|**Depth and DOF Cues Make A Better Defocus Blur Detector**|Yuxin Jin, Ming Qian, Jincheng Xiong, Nan Xue, Gui-Song Xia|[2306.11334v1](http://arxiv.org/abs/2306.11334v1)|null|
+|**2023-06-20**|**Depth and DOF Cues Make A Better Defocus Blur Detector**|Yuxin Jin, Ming Qian, Jincheng Xiong, Nan Xue, Gui-Song Xia|[2306.11334v1](http://arxiv.org/abs/2306.11334v1)|**[link](https://github.com/yuxinjin-whu/d-dffnet)**|
 |**2023-06-19**|**Tame a Wild Camera: In-the-Wild Monocular Camera Calibration**|Shengjie Zhu, Abhinav Kumar, Masa Hu, Xiaoming Liu|[2306.10988v1](http://arxiv.org/abs/2306.10988v1)|**[link](https://github.com/shngjz/wildcamera)**|
 |**2023-06-19**|**Understanding Depth Map Progressively: Adaptive Distance Interval Separation for Monocular 3d Object Detection**|Xianhui Cheng, Shoumeng Qiu, Zhikang Zou, Jian Pu, Xiangyang Xue|[2306.10921v1](http://arxiv.org/abs/2306.10921v1)|null|
 |**2023-06-16**|**Deep Learning Guided Autonomous Surgery: Guiding Small Needles into Sub-Millimeter Scale Blood Vessels**|Ji Woong Kim, Peiyao Zhang, Peter Gehlbach, Iulian Iordachita, Marin Kobilarov|[2306.10133v1](http://arxiv.org/abs/2306.10133v1)|null|
@@ -114,7 +115,6 @@
 |**2023-06-14**|**Predict to Detect: Prediction-guided 3D Object Detection using Sequential Images**|Sanmin Kim, Youngseok Kim, In-Jae Lee, Dongsuk Kum|[2306.08528v1](http://arxiv.org/abs/2306.08528v1)|null|
 |**2023-06-09**|**Circular Rectifiction of 3D Video and Efficient Modification of 3D-HEVC**|Jarosław Samelak, Marek Domański|[2306.06285v1](http://arxiv.org/abs/2306.06285v1)|null|
 |**2023-06-09**|**Lightweight Monocular Depth Estimation via Token-Sharing Transformer**|Dong-Jae Lee, Jae Young Lee, Hyounguk Shon, Eojindl Yi, Yeong-Hun Park, Sung-Sik Cho, Junmo Kim|[2306.05682v1](http://arxiv.org/abs/2306.05682v1)|null|
-|**2023-06-08**|**Tracking Objects with 3D Representation from Videos**|Jiawei He, Lue Fan, Yuqi Wang, Yuntao Chen, Zehao Huang, Naiyan Wang, Zhaoxiang Zhang|[2306.05416v1](http://arxiv.org/abs/2306.05416v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,8 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-21**|**Balanced Mixture of SuperNets for Learning the CNN Pooling Architecture**|Mehraveh Javan, Matthew Toews, Marco Pedersoli|[2306.11982v1](http://arxiv.org/abs/2306.11982v1)|null|
+|**2023-06-20**|**Generalization Across Experimental Parameters in Machine Learning Analysis of High Resolution Transmission Electron Microscopy Datasets**|Katherine Sytwu, Luis Rangel DaCosta, Mary C. Scott|[2306.11853v1](http://arxiv.org/abs/2306.11853v1)|null|
 |**2023-06-20**|**Multi-Scale Occ: 4th Place Solution for CVPR 2023 3D Occupancy Prediction Challenge**|Yangyang Ding, Luying Huang, Jiachen Zhong|[2306.11414v1](http://arxiv.org/abs/2306.11414v1)|null|
 |**2023-06-20**|**Dynamic Perceiver for Efficient Visual Recognition**|Yizeng Han, Dongchen Han, Zeyu Liu, Yulin Wang, Xuran Pan, Yifan Pu, Chao Deng, Junlan Feng, Shiji Song, Gao Huang|[2306.11248v1](http://arxiv.org/abs/2306.11248v1)|**[link](https://github.com/leaplabthu/dynamic_perceiver)**|
 |**2023-06-15**|**R2-Diff: Denoising by diffusion as a refinement of retrieved motion for image-based motion prediction**|Takeru Oba, Norimichi Ukita|[2306.09483v1](http://arxiv.org/abs/2306.09483v1)|null|
@@ -191,8 +193,6 @@
 |**2023-06-15**|**Yes, we CANN: Constrained Approximate Nearest Neighbors for local feature-based visual localization**|Dror Aiger, André Araujo, Simon Lynen|[2306.09012v1](http://arxiv.org/abs/2306.09012v1)|null|
 |**2023-06-14**|**Label Noise Robust Image Representation Learning based on Supervised Variational Autoencoders in Remote Sensing**|Gencer Sumbul, Begüm Demir|[2306.08575v1](http://arxiv.org/abs/2306.08575v1)|null|
 |**2023-06-13**|**I See Dead People: Gray-Box Adversarial Attack on Image-To-Text Models**|Raz Lapid, Moshe Sipper|[2306.07591v1](http://arxiv.org/abs/2306.07591v1)|null|
-|**2023-06-13**|**Deep learning radiomics for assessment of gastroesophageal varices in people with compensated advanced chronic liver disease**|Lan Wang, Ruiling He, Lili Zhao, Jia Wang, Zhengzi Geng, Tao Ren, Guo Zhang, Peng Zhang, Kaiqiang Tang, Chaofei Gao, Fei Chen, Liting Zhang, Yonghe Zhou, Xin Li, Fanbin He, Hui Huan, Wenjuan Wang, Yunxiao Liang, Juan Tang, Fang Ai, Tingyu Wang, Liyun Zheng, Zhongwei Zhao, Jiansong Ji, Wei Liu, Jiaojiao Xu, Bo Liu, Xuemei Wang, Yao Zhang, Qiong Yan, Muhan Lv, Xiaomei Chen, Shuhua Zhang, Yihua Wang, Yang Liu, Li Yin, Yanni Liu, Yanqing Huang, Yunfang Liu, Kun Wang, Meiqin Su, Li Bian, Ping An, Xin Zhang, Linxue Qian, Shao Li, Xiaolong Qi|[2306.07505v1](http://arxiv.org/abs/2306.07505v1)|null|
-|**2023-06-08**|**COURIER: Contrastive User Intention Reconstruction for Large-Scale Pre-Train of Image Features**|Jia-Qi Yang, Chenglei Dai, OU Dan, Ju Huang, De-Chuan Zhan, Qingwen Liu, Xiaoyi Zeng, Yang Yang|[2306.05001v1](http://arxiv.org/abs/2306.05001v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
