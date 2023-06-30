@@ -183,16 +183,16 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-28**|**Bridging the Gap: Neural Collapse Inspired Prompt Tuning for Generalization under Class Imbalance**|Didi Zhu, Yinchuan Li, Min Zhang, Junkun Yuan, Jiashuo Liu, Zexi Li, Kun Kuang, Chao Wu|[2306.15955v2](http://arxiv.org/abs/2306.15955v2)|null|
+|**2023-06-28**|**GraSS: Contrastive Learning with Gradient Guided Sampling Strategy for Remote Sensing Image Semantic Segmentation**|Zhaoyang Zhang, Zhen Ren, Chao Tao, Yunsheng Zhang, Chengli Peng, Haifeng Li|[2306.15868v1](http://arxiv.org/abs/2306.15868v1)|null|
 |**2023-06-26**|**Multi-View Attention Learning for Residual Disease Prediction of Ovarian Cancer**|Xiangneng Gao, Shulan Ruan, Jun Shi, Guoqing Hu, Wei Wei|[2306.14646v1](http://arxiv.org/abs/2306.14646v1)|null|
-|**2023-06-26**|**TCEIP: Text Condition Embedded Regression Network for Dental Implant Position Prediction**|Xinquan Yang, Jinheng Xie, Xuguang Li, Xuechen Li, Xin Li, Linlin Shen, Yongqiang Deng|[2306.14406v1](http://arxiv.org/abs/2306.14406v1)|null|
+|**2023-06-26**|**TCEIP: Text Condition Embedded Regression Network for Dental Implant Position Prediction**|Xinquan Yang, Jinheng Xie, Xuguang Li, Xuechen Li, Xin Li, Linlin Shen, Yongqiang Deng|[2306.14406v2](http://arxiv.org/abs/2306.14406v2)|null|
 |**2023-06-25**|**A Gated Cross-domain Collaborative Network for Underwater Object Detection**|Linhui Dai, Hong Liu, Pinhao Song, Mengyuan Liu|[2306.14141v1](http://arxiv.org/abs/2306.14141v1)|null|
 |**2023-06-25**|**SpikeCodec: An End-to-end Learned Compression Framework for Spiking Camera**|Kexiang Feng, Chuanmin Jia, Siwei Ma, Wen Gao|[2306.14108v1](http://arxiv.org/abs/2306.14108v1)|null|
 |**2023-06-21**|**LPFormer: LiDAR Pose Estimation Transformer with Multi-Task Network**|Dongqiangzi Ye, Yufei Xie, Weijia Chen, Zixiang Zhou, Hassan Foroosh|[2306.12525v1](http://arxiv.org/abs/2306.12525v1)|null|
 |**2023-06-21**|**Balanced Mixture of SuperNets for Learning the CNN Pooling Architecture**|Mehraveh Javan, Matthew Toews, Marco Pedersoli|[2306.11982v1](http://arxiv.org/abs/2306.11982v1)|null|
 |**2023-06-20**|**Generalization Across Experimental Parameters in Machine Learning Analysis of High Resolution Transmission Electron Microscopy Datasets**|Katherine Sytwu, Luis Rangel DaCosta, Mary C. Scott|[2306.11853v1](http://arxiv.org/abs/2306.11853v1)|**[link](https://github.com/ScottLabUCB/HRTEM-Generalization)**|
 |**2023-06-20**|**Multi-Scale Occ: 4th Place Solution for CVPR 2023 3D Occupancy Prediction Challenge**|Yangyang Ding, Luying Huang, Jiachen Zhong|[2306.11414v1](http://arxiv.org/abs/2306.11414v1)|null|
-|**2023-06-20**|**Dynamic Perceiver for Efficient Visual Recognition**|Yizeng Han, Dongchen Han, Zeyu Liu, Yulin Wang, Xuran Pan, Yifan Pu, Chao Deng, Junlan Feng, Shiji Song, Gao Huang|[2306.11248v1](http://arxiv.org/abs/2306.11248v1)|**[link](https://github.com/leaplabthu/dynamic_perceiver)**|
-|**2023-06-15**|**R2-Diff: Denoising by diffusion as a refinement of retrieved motion for image-based motion prediction**|Takeru Oba, Norimichi Ukita|[2306.09483v1](http://arxiv.org/abs/2306.09483v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
