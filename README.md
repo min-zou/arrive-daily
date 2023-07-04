@@ -185,7 +185,7 @@
 |---|---|---|---|---|
 |**2023-06-29**|**Learning Structure-Guided Diffusion Model for 2D Human Pose Estimation**|Zhongwei Qiu, Qiansheng Yang, Jian Wang, Xiyu Wang, Chang Xu, Dongmei Fu, Kun Yao, Junyu Han, Errui Ding, Jingdong Wang|[2306.17074v1](http://arxiv.org/abs/2306.17074v1)|null|
 |**2023-06-28**|**Bridging the Gap: Neural Collapse Inspired Prompt Tuning for Generalization under Class Imbalance**|Didi Zhu, Yinchuan Li, Min Zhang, Junkun Yuan, Jiashuo Liu, Zexi Li, Kun Kuang, Chao Wu|[2306.15955v2](http://arxiv.org/abs/2306.15955v2)|null|
-|**2023-06-28**|**GraSS: Contrastive Learning with Gradient Guided Sampling Strategy for Remote Sensing Image Semantic Segmentation**|Zhaoyang Zhang, Zhen Ren, Chao Tao, Yunsheng Zhang, Chengli Peng, Haifeng Li|[2306.15868v1](http://arxiv.org/abs/2306.15868v1)|null|
+|**2023-06-28**|**GraSS: Contrastive Learning with Gradient Guided Sampling Strategy for Remote Sensing Image Semantic Segmentation**|Zhaoyang Zhang, Zhen Ren, Chao Tao, Yunsheng Zhang, Chengli Peng, Haifeng Li|[2306.15868v2](http://arxiv.org/abs/2306.15868v2)|null|
 |**2023-06-26**|**Multi-View Attention Learning for Residual Disease Prediction of Ovarian Cancer**|Xiangneng Gao, Shulan Ruan, Jun Shi, Guoqing Hu, Wei Wei|[2306.14646v1](http://arxiv.org/abs/2306.14646v1)|null|
 |**2023-06-26**|**TCEIP: Text Condition Embedded Regression Network for Dental Implant Position Prediction**|Xinquan Yang, Jinheng Xie, Xuguang Li, Xuechen Li, Xin Li, Linlin Shen, Yongqiang Deng|[2306.14406v2](http://arxiv.org/abs/2306.14406v2)|null|
 |**2023-06-25**|**A Gated Cross-domain Collaborative Network for Underwater Object Detection**|Linhui Dai, Hong Liu, Pinhao Song, Mengyuan Liu|[2306.14141v1](http://arxiv.org/abs/2306.14141v1)|null|
