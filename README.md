@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**Benign landscapes of low-dimensional relaxations for orthogonal synchronization on general graphs**|Andrew D. McRae, Nicolas Boumal|[2307.02941v1](http://arxiv.org/abs/2307.02941v1)|null|
 |**2023-07-03**|**Artifacts Mapping: Multi-Modal Semantic Mapping for Object Detection and 3D Localization**|Federico Rollo, Gennaro Raiola, Andrea Zunino, Nikolaos Tsagarakis, Arash Ajoudani|[2307.01121v1](http://arxiv.org/abs/2307.01121v1)|null|
 |**2023-07-02**|**POV-SLAM: Probabilistic Object-Aware Variational SLAM in Semi-Static Environments**|Jingxing Qian, Veronica Chatrath, James Servos, Aaron Mavrinac, Wolfram Burgard, Steven L. Waslander, Angela P. Schoellig|[2307.00488v1](http://arxiv.org/abs/2307.00488v1)|null|
 |**2023-06-30**|**Locking On: Leveraging Dynamic Vehicle-Imposed Motion Constraints to Improve Visual Localization**|Stephen Hausler, Sourav Garg, Punarjay Chakravarty, Shubham Shrivastava, Ankit Vora, Michael Milford|[2306.17529v1](http://arxiv.org/abs/2306.17529v1)|null|
@@ -10,7 +11,6 @@
 |**2023-06-26**|**MOVESe: MOVablE and Moving LiDAR Scene Segmentation with Improved Navigation in Seg-label free settings**|Prashant Kumar, Onkar Susladkar, Dhruv Makwana, Anurag Mittal, Prem Kumar Kalra|[2306.14812v1](http://arxiv.org/abs/2306.14812v1)|null|
 |**2023-06-25**|**BotanicGarden: A high-quality and large-scale robot navigation dataset in challenging natural environments**|Yuanzhi Liu, Yujia Fu, Minghui Qin, Yufeng Xu, Baoxin Xu, Fengdong Chen, Bart Goossens, Hongwei Yu, Chun Liu, Long Chen, Wei Tao, Hui Zhao|[2306.14137v1](http://arxiv.org/abs/2306.14137v1)|**[link](https://github.com/robot-pesg/botanicgarden)**|
 |**2023-06-22**|**Map Point Selection for Visual SLAM**|Christiaan J. Müller, Corné E. van Daalen|[2306.12901v1](http://arxiv.org/abs/2306.12901v1)|**[link](https://github.com/ChristiaanM/MapSelect)**|
-|**2023-06-22**|**PEBO-SLAM: Observer design for visual inertial SLAM with convergence guarantees**|Bowen Yi, Chi Jin, Lei Wang, Guodong Shi, Viorela Ila, Ian R. Manchester|[2306.12723v1](http://arxiv.org/abs/2306.12723v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -132,6 +132,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-07-05**|**Multi Object Tracking for Predictive Collision Avoidance**|Bruk Gebregziabher|[2307.02161v1](http://arxiv.org/abs/2307.02161v1)|null|
+|**2023-07-05**|**ZJU ReLER Submission for EPIC-KITCHEN Challenge 2023: TREK-150 Single Object Tracking**|Yuanyou Xu, Jiahao Li, Zongxin Yang, Yi Yang, Yueting Zhuang|[2307.02508v1](http://arxiv.org/abs/2307.02508v1)|null|
 |**2023-07-04**|**EANet: Enhanced Attribute-based RGBT Tracker Network**|Abbas Türkoğlu, Erdem Akagündüz|[2307.01893v1](http://arxiv.org/abs/2307.01893v1)|null|
 |**2023-06-30**|**S.T.A.R.-Track: Latent Motion Models for End-to-End 3D Object Tracking with Adaptive Spatio-Temporal Appearance Representations**|Simon Doll, Niklas Hanselmann, Lukas Schneider, Richard Schulz, Markus Enzweiler, Hendrik P. A. Lensch|[2306.17602v1](http://arxiv.org/abs/2306.17602v1)|null|
 |**2023-06-30**|**STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking**|Yubo Cui, Zhiheng Li, Zheng Fang|[2306.17440v1](http://arxiv.org/abs/2306.17440v1)|null|
@@ -140,10 +141,10 @@
 |**2023-06-27**|**On Gibbs Sampling Architecture for Labeled Random Finite Sets Multi-Object Tracking**|Anthony Trezza, Donald J. Bucci Jr., Pramod K. Varshney|[2306.15135v1](http://arxiv.org/abs/2306.15135v1)|null|
 |**2023-06-26**|**Efficient High-Resolution Template Matching with Vector Quantized Nearest Neighbour Fields**|Ankit Gupta, Ida-Maria Sintorn|[2306.15010v1](http://arxiv.org/abs/2306.15010v1)|null|
 |**2023-06-23**|**Segmentation and Tracking of Vegetable Plants by Exploiting Vegetable Shape Feature for Precision Spray of Agricultural Robots**|Nan Hu, Daobilige Su, Shuo Wang, Xuechang Wang, Huiyu Zhong, Zimeng Wang, Yongliang Qiao, Yu Tan|[2306.13518v2](http://arxiv.org/abs/2306.13518v2)|**[link](https://github.com/nanh5837/lettucemots)**|
-|**2023-06-22**|**Iterative Scale-Up ExpansionIoU and Deep Features Association for Multi-Object Tracking in Sports**|Hsiang-Wei Huang, Cheng-Yen Yang, Jenq-Neng Hwang, Chung-I Huang|[2306.13074v1](http://arxiv.org/abs/2306.13074v1)|**[link](https://github.com/hsiangwei0903/Deep-EIoU)**|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**Sequential Neural Barriers for Scalable Dynamic Obstacle Avoidance**|Hongzhan Yu, Chiaki Hirayama, Chenning Yu, Sylvia Herbert, Sicun Gao|[2307.03015v1](http://arxiv.org/abs/2307.03015v1)|null|
 |**2023-02-24**|**Probabilistic Trajectory Planning for Static and Interaction-aware Dynamic Obstacle Avoidance**|Baskın Şenbaşlar, Gaurav S. Sukhatme|[2302.12873v1](http://arxiv.org/abs/2302.12873v1)|null|
 |**2022-12-08**|**Enhanced method for reinforcement learning based dynamic obstacle avoidance by assessment of collision risk**|Fabian Hart, Ostap Okhrin|[2212.04123v1](http://arxiv.org/abs/2212.04123v1)|null|
 |**2022-11-21**|**Safety-critical model predictive control with control barrier function for dynamic obstacle avoidance**|Nhat Nguyen Minh, Stephen McIlvanna, Yuzhu Sun, Yan Jin, Mien Van|[2211.11348v1](http://arxiv.org/abs/2211.11348v1)|null|
@@ -153,7 +154,6 @@
 |**2022-09-11**|**Real-Time Heuristic Framework for Safe Landing of UAVs in Dynamic Scenarios**|Jaskirat Singh, Neel Adwani, Harikumar Kandath, K. Madhava Krishna|[2209.04805v1](http://arxiv.org/abs/2209.04805v1)|**[link](https://github.com/jaskiratsingh2000/research-uavs-safe-landings)**|
 |**2022-09-02**|**3D Path Planning and Obstacle Avoidance Algorithms for Obstacle-Overcoming Robots**|Yuanhao huang, Shi Huang, Hao Wang, Ruifeng Meng|[2209.00871v1](http://arxiv.org/abs/2209.00871v1)|null|
 |**2022-07-26**|**Safe Model Predictive Control Approach for Non-holonomic Mobile Robots**|Xinjie Liu, Vassil Atanassov|[2207.12878v2](http://arxiv.org/abs/2207.12878v2)|null|
-|**2022-07-08**|**Reactive Neural Path Planning with Dynamic Obstacle Avoidance in a Condensed Configuration Space**|Lea Steffen, Tobias Weyer, Stefan Ulbrich, Arne Roennau, Rüdiger Dillmann|[2207.03959v1](http://arxiv.org/abs/2207.03959v1)|null|
 ## PointCloud
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**RefVSR++: Exploiting Reference Inputs for Reference-based Video Super-resolution**|Han Zou, Masanori Suganuma, Takayuki Okatani|[2307.02897v1](http://arxiv.org/abs/2307.02897v1)|null|
 |**2023-07-03**|**Bayesian variable selection using an informed reversible jump in imaging genetics: an application to schizophrenia**|Djidenou Montcho, Daiane Zuanetti, Thierry Chekouo, Luis Milan|[2307.01134v1](http://arxiv.org/abs/2307.01134v1)|null|
 |**2023-07-03**|**A calcium imaging large dataset reveals novel functional organization in macaque V4**|Tianye Wang, Haoxuan Yao, Tai Sing Lee, Jiayi Hong, Yang Li, Hongfei Jiang, Ian Max Andolina, Shiming Tang|[2307.00932v1](http://arxiv.org/abs/2307.00932v1)|null|
 |**2023-07-03**|**Contextual Prompt Learning for Vision-Language Understanding**|Koustava Goswami, Srikrishna Karanam, Joseph K J, Prateksha Udhayanan, Balaji Vasan Srinivasan|[2307.00910v1](http://arxiv.org/abs/2307.00910v1)|null|
@@ -192,7 +193,6 @@
 |**2023-06-28**|**Bridging the Gap: Neural Collapse Inspired Prompt Tuning for Generalization under Class Imbalance**|Didi Zhu, Yinchuan Li, Min Zhang, Junkun Yuan, Jiashuo Liu, Zexi Li, Kun Kuang, Chao Wu|[2306.15955v2](http://arxiv.org/abs/2306.15955v2)|null|
 |**2023-06-28**|**GraSS: Contrastive Learning with Gradient Guided Sampling Strategy for Remote Sensing Image Semantic Segmentation**|Zhaoyang Zhang, Zhen Ren, Chao Tao, Yunsheng Zhang, Chengli Peng, Haifeng Li|[2306.15868v2](http://arxiv.org/abs/2306.15868v2)|**[link](https://github.com/geox-lab/grass)**|
 |**2023-06-26**|**Multi-View Attention Learning for Residual Disease Prediction of Ovarian Cancer**|Xiangneng Gao, Shulan Ruan, Jun Shi, Guoqing Hu, Wei Wei|[2306.14646v1](http://arxiv.org/abs/2306.14646v1)|null|
-|**2023-06-26**|**TCEIP: Text Condition Embedded Regression Network for Dental Implant Position Prediction**|Xinquan Yang, Jinheng Xie, Xuguang Li, Xuechen Li, Xin Li, Linlin Shen, Yongqiang Deng|[2306.14406v2](http://arxiv.org/abs/2306.14406v2)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
