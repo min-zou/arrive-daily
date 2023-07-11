@@ -133,7 +133,7 @@
 |---|---|---|---|---|
 |**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev, Houari Bettahar|[2307.03602v1](http://arxiv.org/abs/2307.03602v1)|null|
 |**2023-07-05**|**Multi Object Tracking for Predictive Collision Avoidance**|Bruk Gebregziabher|[2307.02161v1](http://arxiv.org/abs/2307.02161v1)|null|
-|**2023-07-05**|**ZJU ReLER Submission for EPIC-KITCHEN Challenge 2023: TREK-150 Single Object Tracking**|Yuanyou Xu, Jiahao Li, Zongxin Yang, Yi Yang, Yueting Zhuang|[2307.02508v1](http://arxiv.org/abs/2307.02508v1)|null|
+|**2023-07-05**|**ZJU ReLER Submission for EPIC-KITCHEN Challenge 2023: TREK-150 Single Object Tracking**|Yuanyou Xu, Jiahao Li, Zongxin Yang, Yi Yang, Yueting Zhuang|[2307.02508v2](http://arxiv.org/abs/2307.02508v2)|null|
 |**2023-07-04**|**EANet: Enhanced Attribute-based RGBT Tracker Network**|Abbas Türkoğlu, Erdem Akagündüz|[2307.01893v1](http://arxiv.org/abs/2307.01893v1)|null|
 |**2023-06-30**|**S.T.A.R.-Track: Latent Motion Models for End-to-End 3D Object Tracking with Adaptive Spatio-Temporal Appearance Representations**|Simon Doll, Niklas Hanselmann, Lukas Schneider, Richard Schulz, Markus Enzweiler, Hendrik P. A. Lensch|[2306.17602v1](http://arxiv.org/abs/2306.17602v1)|null|
 |**2023-06-30**|**STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking**|Yubo Cui, Zhiheng Li, Zheng Fang|[2306.17440v1](http://arxiv.org/abs/2306.17440v1)|null|
@@ -176,7 +176,7 @@
 |**2023-05-10**|**Transformer-based model for monocular visual odometry: a video understanding approach**|André O. Françani, Marcos R. O. A. Maximo|[2305.06121v1](http://arxiv.org/abs/2305.06121v1)|**[link](https://github.com/aofrancani/tsformer-vo)**|
 |**2023-04-29**|**Modality-invariant Visual Odometry for Embodied Vision**|Marius Memmel, Roman Bachmann, Amir Zamir|[2305.00348v1](http://arxiv.org/abs/2305.00348v1)|**[link](https://github.com/memmelma/vo-transformer)**|
 |**2023-04-21**|**FSNet: Redesign Self-Supervised MonoDepth for Full-Scale Depth Prediction for Autonomous Driving**|Yuxuan Liu, Zhenhua Xu, Huaiyang Huang, Lujia Wang, Ming Liu|[2304.10719v1](http://arxiv.org/abs/2304.10719v1)|null|
-|**2023-04-18**|**Visual-LiDAR Odometry and Mapping with Monocular Scale Correction and Motion Compensation**|Hanyu Cai, Ni Ou, Junzheng Wang|[2304.08978v1](http://arxiv.org/abs/2304.08978v1)|null|
+|**2023-04-18**|**Visual-LiDAR Odometry and Mapping with Monocular Scale Correction and Visual Bootstrapping**|Hanyu Cai, Ni Ou, Junzheng Wang|[2304.08978v2](http://arxiv.org/abs/2304.08978v2)|null|
 |**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize, Weiyao Wang, Matt Feiszli|[2304.06194v1](http://arxiv.org/abs/2304.06194v1)|**[link](https://github.com/facebookresearch/silk)**|
 |**2023-04-11**|**ClusterFusion: Real-time Relative Positioning and Dense Reconstruction for UAV Cluster**|Yifei Dong, Shuhui Bu, Kun Li, Lin Chen, Zhenyu Xia, Yu Wang, Pengcheng Han, Xuefeng Cao, Ke Li|[2304.04943v1](http://arxiv.org/abs/2304.04943v1)|null|
 |**2023-03-21**|**Learning a Depth Covariance Function**|Eric Dexheimer, Andrew J. Davison|[2303.12157v1](http://arxiv.org/abs/2303.12157v1)|null|
