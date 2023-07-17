@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-14**|**Reinforcement Learning with Frontier-Based Exploration via Autonomous Environment**|Kenji Leong|[2307.07296v1](http://arxiv.org/abs/2307.07296v1)|null|
 |**2023-07-08**|**Ground-Challenge: A Multi-sensor SLAM Dataset Focusing on Corner Cases for Ground Robots**|Jie Yin, Hao Yin, Conghui Liang, Zhengyou Zhang|[2307.03890v1](http://arxiv.org/abs/2307.03890v1)|null|
 |**2023-07-06**|**Benign landscapes of low-dimensional relaxations for orthogonal synchronization on general graphs**|Andrew D. McRae, Nicolas Boumal|[2307.02941v1](http://arxiv.org/abs/2307.02941v1)|null|
 |**2023-07-03**|**Artifacts Mapping: Multi-Modal Semantic Mapping for Object Detection and 3D Localization**|Federico Rollo, Gennaro Raiola, Andrea Zunino, Nikolaos Tsagarakis, Arash Ajoudani|[2307.01121v1](http://arxiv.org/abs/2307.01121v1)|null|
@@ -10,7 +11,6 @@
 |**2023-06-28**|**SeMLaPS: Real-time Semantic Mapping with Latent Prior Networks and Quasi-Planar Segmentation**|Jingwen Wang, Juan Tarrio, Lourdes Agapito, Pablo F. Alcantarilla, Alexander Vakhitov|[2306.16585v1](http://arxiv.org/abs/2306.16585v1)|null|
 |**2023-06-28**|**Image-based Visual Servo Control for Aerial Manipulation Using a Fully-Actuated UAV**|Guanqi He, Yash Jangir, Junyi Geng, Mohammadreza Mousaei, Dongwei Bai, Sebastian Scherer|[2306.16530v1](http://arxiv.org/abs/2306.16530v1)|null|
 |**2023-06-26**|**MOVESe: MOVablE and Moving LiDAR Scene Segmentation with Improved Navigation in Seg-label free settings**|Prashant Kumar, Onkar Susladkar, Dhruv Makwana, Anurag Mittal, Prem Kumar Kalra|[2306.14812v1](http://arxiv.org/abs/2306.14812v1)|null|
-|**2023-06-25**|**BotanicGarden: A high-quality and large-scale robot navigation dataset in challenging natural environments**|Yuanzhi Liu, Yujia Fu, Minghui Qin, Yufeng Xu, Baoxin Xu, Fengdong Chen, Bart Goossens, Hongwei Yu, Chun Liu, Long Chen, Wei Tao, Hui Zhao|[2306.14137v1](http://arxiv.org/abs/2306.14137v1)|**[link](https://github.com/robot-pesg/botanicgarden)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -93,7 +93,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-07-12**|**Sequential Experimental Design for X-Ray CT Using Deep Reinforcement Learning**|Tianyuan Wang, Felix Lucka, Tristan van Leeuwen|[2307.06343v1](http://arxiv.org/abs/2307.06343v1)|**[link](https://github.com/tianyuan1wang/seqanglerl)**|
-|**2023-07-11**|**Bag of Views: An Appearance-based Approach to Next-Best-View Planning for 3D Reconstruction**|Sara Hatami Gazani, Matthew Tucsok, Iraj Mantegh, Homayoun Najjaran|[2307.05832v1](http://arxiv.org/abs/2307.05832v1)|null|
+|**2023-07-11**|**Bag of Views: An Appearance-based Approach to Next-Best-View Planning for 3D Reconstruction**|Sara Hatami Gazani, Matthew Tucsok, Iraj Mantegh, Homayoun Najjaran|[2307.05832v2](http://arxiv.org/abs/2307.05832v2)|null|
 |**2023-07-11**|**3D detection of roof sections from a single satellite image and application to LOD2-building reconstruction**|Johann Lussange, Mulin Yu, Yuliya Tarabalka, Florent Lafarge|[2307.05409v1](http://arxiv.org/abs/2307.05409v1)|null|
 |**2023-07-08**|**MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction**|Harnaik Dhami, Vishnu D. Sharma, Pratap Tokekar|[2307.04004v1](http://arxiv.org/abs/2307.04004v1)|null|
 |**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev, Houari Bettahar|[2307.03602v1](http://arxiv.org/abs/2307.03602v1)|null|
@@ -183,6 +183,8 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-14**|**Complementary Frequency-Varying Awareness Network for Open-Set Fine-Grained Image Recognition**|Jiayin Sun, Hong Wang, Qiulei Dong|[2307.07214v1](http://arxiv.org/abs/2307.07214v1)|null|
+|**2023-07-14**|**TriFormer: A Multi-modal Transformer Framework For Mild Cognitive Impairment Conversion Prediction**|Linfeng Liu, Junyan Lyu, Siyu Liu, Xiaoying Tang, Shekhar S. Chandra, Fatima A. Nasrallah|[2307.07177v1](http://arxiv.org/abs/2307.07177v1)|null|
 |**2023-07-13**|**Generalizing Supervised Deep Learning MRI Reconstruction to Multiple and Unseen Contrasts using Meta-Learning Hypernetworks**|Sriprabha Ramanarayanan, Arun Palla, Keerthi Ram, Mohanasankar Sivaprakasam|[2307.06771v1](http://arxiv.org/abs/2307.06771v1)|**[link](https://github.com/sriprabhar/km-maml)**|
 |**2023-07-11**|**Demonstrating Photon Ring Existence with Single-Baseline Polarimetry**|Daniel C. M. Palumbo, George N. Wong, Andrew A. Chael, Michael D. Johnson|[2307.05293v1](http://arxiv.org/abs/2307.05293v1)|null|
 |**2023-07-10**|**Multimodal brain age estimation using interpretable adaptive population-graph learning**|Kyriaki-Margarita Bintsi, Vasileios Baltatzis, Rolandos Alexandros Potamias, Alexander Hammers, Daniel Rueckert|[2307.04639v1](http://arxiv.org/abs/2307.04639v1)|null|
@@ -191,11 +193,10 @@
 |**2023-07-07**|**Multimodal Deep Learning for Personalized Renal Cell Carcinoma Prognosis: Integrating CT Imaging and Clinical Data**|Maryamalsadat Mahootiha, Hemin Ali Qadir, Jacob Bergsland, Ilangko Balasingham|[2307.03575v1](http://arxiv.org/abs/2307.03575v1)|null|
 |**2023-07-06**|**RefVSR++: Exploiting Reference Inputs for Reference-based Video Super-resolution**|Han Zou, Masanori Suganuma, Takayuki Okatani|[2307.02897v1](http://arxiv.org/abs/2307.02897v1)|null|
 |**2023-07-03**|**Bayesian variable selection using an informed reversible jump in imaging genetics: an application to schizophrenia**|Djidenou Montcho, Daiane Zuanetti, Thierry Chekouo, Luis Milan|[2307.01134v1](http://arxiv.org/abs/2307.01134v1)|null|
-|**2023-07-03**|**A calcium imaging large dataset reveals novel functional organization in macaque V4**|Tianye Wang, Haoxuan Yao, Tai Sing Lee, Jiayi Hong, Yang Li, Hongfei Jiang, Ian Max Andolina, Shiming Tang|[2307.00932v1](http://arxiv.org/abs/2307.00932v1)|null|
-|**2023-07-03**|**Contextual Prompt Learning for Vision-Language Understanding**|Koustava Goswami, Srikrishna Karanam, Joseph K J, Prateksha Udhayanan, Balaji Vasan Srinivasan|[2307.00910v1](http://arxiv.org/abs/2307.00910v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-14**|**Multi-Session, Localization-oriented and Lightweight LiDAR Mapping Using Semantic Lines and Planes**|Zehuan Yu, Zhijian Qiao, Liuyang Qiu, Huan Yin, Shaojie Shen|[2307.07126v1](http://arxiv.org/abs/2307.07126v1)|null|
 |**2023-07-13**|**FF-LINS: A Consistent Frame-to-Frame Solid-State-LiDAR-Inertial State Estimator**|Hailiang Tang, Tisheng Zhang, Xiaoji Niu, Liqiang Wang, Linfu Wei, Jingnan Liu|[2307.06632v1](http://arxiv.org/abs/2307.06632v1)|**[link](https://github.com/i2nav-whu/ff-lins)**|
 |**2023-07-11**|**DyCL: Dynamic Neural Network Compilation Via Program Rewriting and Graph Optimization**|Simin Chen, Shiyi Wei, Cong Liu, Wei Yang|[2307.04963v1](http://arxiv.org/abs/2307.04963v1)|null|
 |**2023-06-25**|**HOKEM: Human and Object Keypoint-based Extension Module for Human-Object Interaction Detection**|Yoshiki Ito|[2306.14260v1](http://arxiv.org/abs/2306.14260v1)|null|
@@ -205,7 +206,6 @@
 |**2023-06-13**|**iSLAM: Imperative SLAM**|Taimeng Fu, Shaoshu Su, Chen Wang|[2306.07894v2](http://arxiv.org/abs/2306.07894v2)|null|
 |**2023-05-31**|**Spectral Heterogeneous Graph Convolutions via Positive Noncommutative Polynomials**|Mingguo He, Zhewei Wei, Shikun Feng, Zhengjie Huang, Weibin Li, Yu Sun, Dianhai Yu|[2305.19872v1](http://arxiv.org/abs/2305.19872v1)|**[link](https://github.com/ivam-he/pshgcn)**|
 |**2023-05-31**|**OVNS: Opportunistic Variable Neighborhood Search for Heaviest Subgraph Problem in Social Networks**|Ville P. Saarinen, Ted Hsuan Yun Chen, Mikko Kivelä|[2305.19729v1](http://arxiv.org/abs/2305.19729v1)|**[link](https://github.com/decitizen/ovns)**|
-|**2023-05-16**|**Random Edge Coding: One-Shot Bits-Back Coding of Large Labeled Graphs**|Daniel Severo, James Townsend, Ashish Khisti, Alireza Makhzani|[2305.09705v1](http://arxiv.org/abs/2305.09705v1)|**[link](https://github.com/dsevero/random-edge-coding)**|
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
