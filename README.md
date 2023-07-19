@@ -1,7 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-17**|**NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**|Lizhou Liao, Li Sun, Xinhui Bai, Zhenxing You, Hongyuan Yuan, Chunyun Fu|[2307.08221v1](http://arxiv.org/abs/2307.08221v1)|null|
+|**2023-07-18**|**3D-SeqMOS: A Novel Sequential 3D Moving Object Segmentation in Autonomous Driving**|Qipeng Li, Yuan Zhuang, Yiwen Chen, Jianzhu Huai, Miao Li, Tianbing Ma, Yufei Tang, Xinlian Liang|[2307.09044v1](http://arxiv.org/abs/2307.09044v1)|null|
+|**2023-07-17**|**NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**|Lizhou Liao, Li Sun, Xinhui Bai, Zhenxing You, Hongyuan Yuan, Chunyun Fu|[2307.08221v1](http://arxiv.org/abs/2307.08221v1)|**[link](https://github.com/SlamCabbage/NDTMC)**|
 |**2023-07-16**|**Joint Beam Management and SLAM for mmWave Communication Systems**|Hang Que, Jie Yang, Chao-Kai Wen, Shuqiang Xia, Xiao Li, Shi Jin|[2307.07936v1](http://arxiv.org/abs/2307.07936v1)|null|
 |**2023-07-15**|**Tightly-Coupled LiDAR-Visual SLAM Based on Geometric Features for Mobile Agents**|Ke Cao, Ruiping Liu, Ze Wang, Kunyu Peng, Jiaming Zhang, Junwei Zheng, Zhifeng Teng, Kailun Yang, Rainer Stiefelhagen|[2307.07763v1](http://arxiv.org/abs/2307.07763v1)|null|
 |**2023-07-14**|**SubT-MRS: A Subterranean, Multi-Robot, Multi-Spectral and Multi-Degraded Dataset for Robust SLAM**|Shibo Zhao, Damanpreet Singh, Haoxiang Sun, Rushan Jiang, YuanJun Gao, Tianhao Wu, Jay Karhade, Chuck Whittaker, Ian Higgins, Jiahe Xu, Yuheng Qiu, Sourojit Saha, Chen Wang, Wenshan Wang, Sebastian Scherer|[2307.07607v1](http://arxiv.org/abs/2307.07607v1)|null|
@@ -10,7 +11,6 @@
 |**2023-07-06**|**Benign landscapes of low-dimensional relaxations for orthogonal synchronization on general graphs**|Andrew D. McRae, Nicolas Boumal|[2307.02941v1](http://arxiv.org/abs/2307.02941v1)|null|
 |**2023-07-03**|**Artifacts Mapping: Multi-Modal Semantic Mapping for Object Detection and 3D Localization**|Federico Rollo, Gennaro Raiola, Andrea Zunino, Nikolaos Tsagarakis, Arash Ajoudani|[2307.01121v1](http://arxiv.org/abs/2307.01121v1)|null|
 |**2023-07-02**|**POV-SLAM: Probabilistic Object-Aware Variational SLAM in Semi-Static Environments**|Jingxing Qian, Veronica Chatrath, James Servos, Aaron Mavrinac, Wolfram Burgard, Steven L. Waslander, Angela P. Schoellig|[2307.00488v1](http://arxiv.org/abs/2307.00488v1)|null|
-|**2023-06-30**|**Locking On: Leveraging Dynamic Vehicle-Imposed Motion Constraints to Improve Visual Localization**|Stephen Hausler, Sourav Garg, Punarjay Chakravarty, Shubham Shrivastava, Ankit Vora, Michael Milford|[2306.17529v1](http://arxiv.org/abs/2306.17529v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -53,6 +53,7 @@
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**Balancing Privacy and Progress in Artificial Intelligence: Anonymization in Histopathology for Biomedical Research and Education**|Neel Kanwal, Emiel A. M. Janssen, Kjersti Engan|[2307.09426v1](http://arxiv.org/abs/2307.09426v1)|null|
 |**2023-07-11**|**TIAM -- A Metric for Evaluating Alignment in Text-to-Image Generation**|Paul Grimal, Hervé Le Borgne, Olivier Ferret, Julien Tourille|[2307.05134v1](http://arxiv.org/abs/2307.05134v1)|**[link](https://github.com/grimalpaul/tiam)**|
 |**2023-07-09**|**Augmenters at SemEval-2023 Task 1: Enhancing CLIP in Handling Compositionality and Ambiguity for Zero-Shot Visual WSD through Prompt Augmentation and Text-To-Image Diffusion**|Jie S. Li, Yow-Ting Shiue, Yong-Siang Shih, Jonas Geiping|[2307.05564v1](http://arxiv.org/abs/2307.05564v1)|null|
 |**2023-07-02**|**TopicFM+: Boosting Accuracy and Efficiency of Topic-Assisted Feature Matching**|Khang Truong Giang, Soohwan Song, Sungho Jo|[2307.00485v1](http://arxiv.org/abs/2307.00485v1)|**[link](https://github.com/truongkhang/topicfm)**|
@@ -62,7 +63,6 @@
 |**2023-06-05**|**A2B: Anchor to Barycentric Coordinate for Robust Correspondence**|Weiyue Zhao, Hao Lu, Zhiguo Cao, Xin Li|[2306.02760v2](http://arxiv.org/abs/2306.02760v2)|null|
 |**2023-05-19**|**SIDAR: Synthetic Image Dataset for Alignment & Restoration**|Monika Kwiatkowski, Simon Matern, Olaf Hellwich|[2305.12036v1](http://arxiv.org/abs/2305.12036v1)|**[link](https://github.com/niika/SIDAR)**|
 |**2023-05-18**|**LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation**|Yujie Lu, Xianjun Yang, Xiujun Li, Xin Eric Wang, William Yang Wang|[2305.11116v1](http://arxiv.org/abs/2305.11116v1)|**[link](https://github.com/yujielu10/llmscore)**|
-|**2023-05-16**|**A Method for Training-free Person Image Picture Generation**|Tianyu Chen|[2305.09817v1](http://arxiv.org/abs/2305.09817v1)|null|
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,7 +92,9 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-17**|**Multi-class point cloud completion networks for 3D cardiac anatomy reconstruction from cine magnetic resonance images**|Marcel Beetz, Abhirup Banerjee, Julius Ossenberg-Engels, Vicente Grau|[2307.08535v1](http://arxiv.org/abs/2307.08535v1)|null|
+|**2023-07-18**|**NU-MCC: Multiview Compressive Coding with Neighborhood Decoder and Repulsive UDF**|Stefan Lionar, Xiangyu Xu, Min Lin, Gim Hee Lee|[2307.09112v1](http://arxiv.org/abs/2307.09112v1)|null|
+|**2023-07-17**|**Multi-class point cloud completion networks for 3D cardiac anatomy reconstruction from cine magnetic resonance images**|Marcel Beetz, Abhirup Banerjee, Julius Ossenberg-Engels, Vicente Grau|[2307.08535v2](http://arxiv.org/abs/2307.08535v2)|null|
+|**2023-07-16**|**Enforcing Topological Interaction between Implicit Surfaces via Uniform Sampling**|Hieu Le, Nicolas Talabot, Jiancheng Yang, Pascal Fua|[2307.08716v1](http://arxiv.org/abs/2307.08716v1)|null|
 |**2023-07-12**|**Sequential Experimental Design for X-Ray CT Using Deep Reinforcement Learning**|Tianyuan Wang, Felix Lucka, Tristan van Leeuwen|[2307.06343v1](http://arxiv.org/abs/2307.06343v1)|**[link](https://github.com/tianyuan1wang/seqanglerl)**|
 |**2023-07-11**|**Bag of Views: An Appearance-based Approach to Next-Best-View Planning for 3D Reconstruction**|Sara Hatami Gazani, Matthew Tucsok, Iraj Mantegh, Homayoun Najjaran|[2307.05832v2](http://arxiv.org/abs/2307.05832v2)|null|
 |**2023-07-11**|**3D detection of roof sections from a single satellite image and application to LOD2-building reconstruction**|Johann Lussange, Mulin Yu, Yuliya Tarabalka, Florent Lafarge|[2307.05409v1](http://arxiv.org/abs/2307.05409v1)|null|
@@ -100,21 +102,19 @@
 |**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev, Houari Bettahar|[2307.03602v1](http://arxiv.org/abs/2307.03602v1)|null|
 |**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen, Yeonsoo Park, Annette Stahl, Rudolf Mester|[2307.03404v1](http://arxiv.org/abs/2307.03404v1)|null|
 |**2023-07-04**|**User-Friendly Safety Monitoring System for Manufacturing Cobots**|Ye-Ji Mun, Zhe Huang, Haonan Chen, Yilong Niu, Haoyuan You, D. Livingston McPherson, Katherine Driggs-Campbell|[2307.01886v1](http://arxiv.org/abs/2307.01886v1)|null|
-|**2023-07-03**|**A revised graduated cylindrical shell model and its application to a prominence eruption**|Qing-Min Zhang, Zhen-Yong Hou, Xian-Yong Bai|[2307.00943v1](http://arxiv.org/abs/2307.00943v1)|null|
-|**2023-06-29**|**One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization**|Minghua Liu, Chao Xu, Haian Jin, Linghao Chen, Mukund Varma T, Zexiang Xu, Hao Su|[2306.16928v1](http://arxiv.org/abs/2306.16928v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-17**|**Neural Video Depth Stabilizer**|Yiran Wang, Min Shi, Jiaqi Li, Zihao Huang, Zhiguo Cao, Jianming Zhang, Ke Xian, Guosheng Lin|[2307.08695v1](http://arxiv.org/abs/2307.08695v1)|null|
+|**2023-07-17**|**Neural Video Depth Stabilizer**|Yiran Wang, Min Shi, Jiaqi Li, Zihao Huang, Zhiguo Cao, Jianming Zhang, Ke Xian, Guosheng Lin|[2307.08695v1](http://arxiv.org/abs/2307.08695v1)|**[link](https://github.com/raymondwang987/nvds)**|
 |**2023-07-17**|**Self-supervised Monocular Depth Estimation: Let's Talk About The Weather**|Kieran Saunders, George Vogiatzis, Luis Manso|[2307.08357v1](http://arxiv.org/abs/2307.08357v1)|null|
-|**2023-07-17**|**On Point Affiliation in Feature Upsampling**|Wenze Liu, Hao Lu, Yuliang Liu, Zhiguo Cao|[2307.08198v1](http://arxiv.org/abs/2307.08198v1)|null|
+|**2023-07-17**|**On Point Affiliation in Feature Upsampling**|Wenze Liu, Hao Lu, Yuliang Liu, Zhiguo Cao|[2307.08198v1](http://arxiv.org/abs/2307.08198v1)|**[link](https://github.com/tiny-smart/sapa)**|
 |**2023-07-16**|**Multi-Object Discovery by Low-Dimensional Object Motion**|Sadra Safadoust, Fatma Güney|[2307.08027v1](http://arxiv.org/abs/2307.08027v1)|null|
 |**2023-07-15**|**Learning Subjective Time-Series Data via Utopia Label Distribution Approximation**|Wenxin Xu, Hexin Jiang, Xuefeng Liang, Ying Zhou, Yin Zhao, Jie Zhang|[2307.07682v1](http://arxiv.org/abs/2307.07682v1)|null|
+|**2023-07-14**|**Dynamic Object Tracking for Quadruped Manipulator with Spherical Image-Based Approach**|Tianlin Zhang, Sikai Guo, Xiaogang Xiong, Wanlei Li, Zezheng Qi, Yunjiang Lou|[2307.08838v1](http://arxiv.org/abs/2307.08838v1)|null|
 |**2023-07-11**|**DFR: Depth from Rotation by Uncalibrated Image Rectification with Latitudinal Motion Assumption**|Yongcong Zhang, Yifei Xue, Ming Liao, Huiqing Zhang, Yizhen Lao|[2307.05129v1](http://arxiv.org/abs/2307.05129v1)|**[link](https://github.com/zhangtaxue/dfr)**|
 |**2023-07-09**|**TransPose: A Transformer-based 6D Object Pose Estimation Network with Depth Refinement**|Mahmoud Abdulsalam, Nabil Aouf|[2307.05561v1](http://arxiv.org/abs/2307.05561v1)|null|
 |**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev, Houari Bettahar|[2307.03602v1](http://arxiv.org/abs/2307.03602v1)|null|
 |**2023-07-05**|**SVDM: Single-View Diffusion Model for Pseudo-Stereo 3D Object Detection**|Yuguang Shi|[2307.02270v1](http://arxiv.org/abs/2307.02270v1)|null|
-|**2023-07-04**|**Consistent Multimodal Generation via A Unified GAN Framework**|Zhen Zhu, Yijun Li, Weijie Lyu, Krishna Kumar Singh, Zhixin Shu, Soeren Pirk, Derek Hoiem|[2307.01425v1](http://arxiv.org/abs/2307.01425v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,8 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**In Defense of Clip-based Video Relation Detection**|Meng Wei, Long Chen, Wei Ji, Xiaoyu Yue, Roger Zimmermann|[2307.08984v1](http://arxiv.org/abs/2307.08984v1)|null|
+|**2023-07-14**|**Dynamic Object Tracking for Quadruped Manipulator with Spherical Image-Based Approach**|Tianlin Zhang, Sikai Guo, Xiaogang Xiong, Wanlei Li, Zezheng Qi, Yunjiang Lou|[2307.08838v1](http://arxiv.org/abs/2307.08838v1)|null|
 |**2023-07-12**|**Multi-Object Tracking as Attention Mechanism**|Hiroshi Fukui, Taiki Miyagawa, Yusuke Morishita|[2307.05874v1](http://arxiv.org/abs/2307.05874v1)|null|
 |**2023-07-11**|**MinkSORT: A 3D deep feature extractor using sparse convolutions to improve 3D multi-object tracking in greenhouse tomato plants**|David Rapado-Rincon, Eldert J. van Henten, Gert Kootstra|[2307.05219v1](http://arxiv.org/abs/2307.05219v1)|null|
 |**2023-07-09**|**Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers**|Zhiyu Zhu, Junhui Hou, Dapeng Oliver Wu|[2307.04129v1](http://arxiv.org/abs/2307.04129v1)|null|
@@ -139,8 +141,6 @@
 |**2023-07-05**|**Multi Object Tracking for Predictive Collision Avoidance**|Bruk Gebregziabher|[2307.02161v1](http://arxiv.org/abs/2307.02161v1)|null|
 |**2023-07-05**|**ZJU ReLER Submission for EPIC-KITCHEN Challenge 2023: TREK-150 Single Object Tracking**|Yuanyou Xu, Jiahao Li, Zongxin Yang, Yi Yang, Yueting Zhuang|[2307.02508v2](http://arxiv.org/abs/2307.02508v2)|null|
 |**2023-07-04**|**EANet: Enhanced Attribute-based RGBT Tracker Network**|Abbas Türkoğlu, Erdem Akagündüz|[2307.01893v1](http://arxiv.org/abs/2307.01893v1)|null|
-|**2023-06-30**|**S.T.A.R.-Track: Latent Motion Models for End-to-End 3D Object Tracking with Adaptive Spatio-Temporal Appearance Representations**|Simon Doll, Niklas Hanselmann, Lukas Schneider, Richard Schulz, Markus Enzweiler, Hendrik P. A. Lensch|[2306.17602v1](http://arxiv.org/abs/2306.17602v1)|null|
-|**2023-06-30**|**STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking**|Yubo Cui, Zhiheng Li, Zheng Fang|[2306.17440v1](http://arxiv.org/abs/2306.17440v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,8 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**Pixel-wise Graph Attention Networks for Person Re-identification**|Wenyu Zhang, Qing Ding, Jian Hu, Yi Ma, Mingzhe Lu|[2307.09183v1](http://arxiv.org/abs/2307.09183v1)|**[link](https://github.com/wenyu1009/pganet)**|
+|**2023-07-18**|**MLF-DET: Multi-Level Fusion for Cross-Modal 3D Object Detection**|Zewei Lin, Yanqing Shen, Sanping Zhou, Shitao Chen, Nanning Zheng|[2307.09155v1](http://arxiv.org/abs/2307.09155v1)|null|
 |**2023-07-17**|**Active Learning for Object Detection with Non-Redundant Informative Sampling**|Aral Hekimoglu, Adrian Brucker, Alper Kagan Kayali, Michael Schmidt, Alvaro Marcos-Ramiro|[2307.08414v1](http://arxiv.org/abs/2307.08414v1)|null|
 |**2023-07-14**|**Complementary Frequency-Varying Awareness Network for Open-Set Fine-Grained Image Recognition**|Jiayin Sun, Hong Wang, Qiulei Dong|[2307.07214v1](http://arxiv.org/abs/2307.07214v1)|null|
 |**2023-07-14**|**TriFormer: A Multi-modal Transformer Framework For Mild Cognitive Impairment Conversion Prediction**|Linfeng Liu, Junyan Lyu, Siyu Liu, Xiaoying Tang, Shekhar S. Chandra, Fatima A. Nasrallah|[2307.07177v1](http://arxiv.org/abs/2307.07177v1)|null|
@@ -191,8 +193,6 @@
 |**2023-07-10**|**Multimodal brain age estimation using interpretable adaptive population-graph learning**|Kyriaki-Margarita Bintsi, Vasileios Baltatzis, Rolandos Alexandros Potamias, Alexander Hammers, Daniel Rueckert|[2307.04639v1](http://arxiv.org/abs/2307.04639v1)|null|
 |**2023-07-09**|**Parametric Depth Based Feature Representation Learning for Object Detection and Segmentation in Bird's Eye View**|Jiayu Yang, Enze Xie, Miaomiao Liu, Jose M. Alvarez|[2307.04106v2](http://arxiv.org/abs/2307.04106v2)|null|
 |**2023-07-07**|**Detecting the Sensing Area of A Laparoscopic Probe in Minimally Invasive Cancer Surgery**|Baoru Huang, Yicheng Hu, Anh Nguyen, Stamatia Giannarou, Daniel S. Elson|[2307.03662v1](http://arxiv.org/abs/2307.03662v1)|**[link](https://github.com/br0202/sensing_area_detection)**|
-|**2023-07-07**|**Multimodal Deep Learning for Personalized Renal Cell Carcinoma Prognosis: Integrating CT Imaging and Clinical Data**|Maryamalsadat Mahootiha, Hemin Ali Qadir, Jacob Bergsland, Ilangko Balasingham|[2307.03575v1](http://arxiv.org/abs/2307.03575v1)|null|
-|**2023-07-06**|**RefVSR++: Exploiting Reference Inputs for Reference-based Video Super-resolution**|Han Zou, Masanori Suganuma, Takayuki Okatani|[2307.02897v1](http://arxiv.org/abs/2307.02897v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -209,6 +209,7 @@
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**MarS3D: A Plug-and-Play Motion-Aware Model for Semantic Segmentation on Multi-Scan 3D Point Clouds**|Jiahui Liu, Chirui Chang, Jianhui Liu, Xiaoyang Wu, Lan Ma, Xiaojuan Qi|[2307.09316v1](http://arxiv.org/abs/2307.09316v1)|null|
 |**2023-04-20**|**High-Fidelity and Freely Controllable Talking Head Video Generation**|Yue Gao, Yuan Zhou, Jinglu Wang, Xiao Li, Xiang Ming, Yan Lu|[2304.10168v1](http://arxiv.org/abs/2304.10168v1)|null|
 |**2023-04-19**|**MAMAF-Net: Motion-Aware and Multi-Attention Fusion Network for Stroke Diagnosis**|Aysen Degerli, Pekka Jakala, Juha Pajula, Miguel Bordallo Lopez|[2304.09466v1](http://arxiv.org/abs/2304.09466v1)|null|
 |**2023-04-17**|**Text2Performer: Text-Driven Human Video Generation**|Yuming Jiang, Shuai Yang, Tong Liang Koh, Wayne Wu, Chen Change Loy, Ziwei Liu|[2304.08483v1](http://arxiv.org/abs/2304.08483v1)|**[link](https://github.com/yumingj/text2performer)**|
@@ -218,4 +219,3 @@
 |**2023-03-03**|**MAEVI: Motion Aware Event-Based Video Frame Interpolation**|Ahmet Akman, Onur Selim Kılıç, A. Aydın Alatan|[2303.02025v1](http://arxiv.org/abs/2303.02025v1)|**[link](https://github.com/ahmetakman/maevi)**|
 |**2022-12-01**|**MGTANet: Encoding Sequential LiDAR Points Using Long Short-Term Motion-Guided Temporal Attention for 3D Object Detection**|Junho Koh, Junhyung Lee, Youngwoo Lee, Jaekyum Kim, Jun Won Choi|[2212.00442v2](http://arxiv.org/abs/2212.00442v2)|**[link](https://github.com/hyjhkoh/mgtanet)**|
 |**2022-11-23**|**AvatarMAV: Fast 3D Head Avatar Reconstruction Using Motion-Aware Neural Voxels**|Yuelang Xu, Lizhen Wang, Xiaochen Zhao, Hongwen Zhang, Yebin Liu|[2211.13206v3](http://arxiv.org/abs/2211.13206v3)|null|
-|**2022-11-20**|**DynIBaR: Neural Dynamic Image-Based Rendering**|Zhengqi Li, Qianqian Wang, Forrester Cole, Richard Tucker, Noah Snavely|[2211.11082v3](http://arxiv.org/abs/2211.11082v3)|null|
