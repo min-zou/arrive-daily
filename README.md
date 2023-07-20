@@ -14,7 +14,7 @@
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-16**|**Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer**|Yujiao Shi, Fei Wu, Ankit Vora, Akhil Perincherry, Hongdong Li|[2307.08015v1](http://arxiv.org/abs/2307.08015v1)|null|
+|**2023-07-16**|**Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer**|Yujiao Shi, Fei Wu, Ankit Vora, Akhil Perincherry, Hongdong Li|[2307.08015v2](http://arxiv.org/abs/2307.08015v2)|null|
 |**2023-05-29**|**Synfeal: A Data-Driven Simulator for End-to-End Camera Localization**|Daniel Coelho, Miguel Oliveira, Paulo Dias|[2305.18260v1](http://arxiv.org/abs/2305.18260v1)|**[link](https://github.com/danielcoelho112/synfeal)**|
 |**2023-04-12**|**SGL: Structure Guidance Learning for Camera Localization**|Xudong Zhang, Shuang Gao, Xiaohu Nan, Haikuan Ning, Yuchen Yang, Yishan Ping, Jixiang Wan, Shuzhou Dong, Jijunnan Li, Yandong Guo|[2304.05571v1](http://arxiv.org/abs/2304.05571v1)|null|
 |**2022-12-19**|**From a Bird's Eye View to See: Joint Camera and Subject Registration without the Camera Calibration**|Zekun Qian, Ruize Han, Wei Feng, Feifan Wang, Song Wang|[2212.09298v2](http://arxiv.org/abs/2212.09298v2)|null|
@@ -190,7 +190,7 @@
 |**2023-07-14**|**TriFormer: A Multi-modal Transformer Framework For Mild Cognitive Impairment Conversion Prediction**|Linfeng Liu, Junyan Lyu, Siyu Liu, Xiaoying Tang, Shekhar S. Chandra, Fatima A. Nasrallah|[2307.07177v1](http://arxiv.org/abs/2307.07177v1)|null|
 |**2023-07-13**|**Generalizing Supervised Deep Learning MRI Reconstruction to Multiple and Unseen Contrasts using Meta-Learning Hypernetworks**|Sriprabha Ramanarayanan, Arun Palla, Keerthi Ram, Mohanasankar Sivaprakasam|[2307.06771v1](http://arxiv.org/abs/2307.06771v1)|**[link](https://github.com/sriprabhar/km-maml)**|
 |**2023-07-11**|**Demonstrating Photon Ring Existence with Single-Baseline Polarimetry**|Daniel C. M. Palumbo, George N. Wong, Andrew A. Chael, Michael D. Johnson|[2307.05293v1](http://arxiv.org/abs/2307.05293v1)|null|
-|**2023-07-10**|**Multimodal brain age estimation using interpretable adaptive population-graph learning**|Kyriaki-Margarita Bintsi, Vasileios Baltatzis, Rolandos Alexandros Potamias, Alexander Hammers, Daniel Rueckert|[2307.04639v1](http://arxiv.org/abs/2307.04639v1)|null|
+|**2023-07-10**|**Multimodal brain age estimation using interpretable adaptive population-graph learning**|Kyriaki-Margarita Bintsi, Vasileios Baltatzis, Rolandos Alexandros Potamias, Alexander Hammers, Daniel Rueckert|[2307.04639v2](http://arxiv.org/abs/2307.04639v2)|null|
 |**2023-07-09**|**Parametric Depth Based Feature Representation Learning for Object Detection and Segmentation in Bird's Eye View**|Jiayu Yang, Enze Xie, Miaomiao Liu, Jose M. Alvarez|[2307.04106v2](http://arxiv.org/abs/2307.04106v2)|null|
 |**2023-07-07**|**Detecting the Sensing Area of A Laparoscopic Probe in Minimally Invasive Cancer Surgery**|Baoru Huang, Yicheng Hu, Anh Nguyen, Stamatia Giannarou, Daniel S. Elson|[2307.03662v1](http://arxiv.org/abs/2307.03662v1)|**[link](https://github.com/br0202/sensing_area_detection)**|
 ## graph optimization
@@ -203,7 +203,7 @@
 |**2023-06-23**|**GICI-LIB: A GNSS/INS/Camera Integrated Navigation Library**|Cheng Chi, Xin Zhang, Jiahui Liu, Yulong Sun, Zihao Zhang, Xingqun Zhan|[2306.13268v1](http://arxiv.org/abs/2306.13268v1)|**[link](https://github.com/chichengcn/gici-open)**|
 |**2023-06-22**|**SEAL: Simultaneous Exploration and Localization in Multi-Robot Systems**|Ehsan Latif, Ramviyas Parasuraman|[2306.12623v1](http://arxiv.org/abs/2306.12623v1)|null|
 |**2023-06-16**|**Pose Graph Optimization for a MAV Indoor Localization Fusing 5GNR TOA with an IMU**|Meisam Kabiri, Claudio Cimarelli, Hriday Bavle, Jose Luis Sanchez-Lopez, Holger Voos|[2306.09826v1](http://arxiv.org/abs/2306.09826v1)|null|
-|**2023-06-13**|**iSLAM: Imperative SLAM**|Taimeng Fu, Shaoshu Su, Chen Wang|[2306.07894v2](http://arxiv.org/abs/2306.07894v2)|null|
+|**2023-06-13**|**iSLAM: Imperative SLAM**|Taimeng Fu, Shaoshu Su, Chen Wang|[2306.07894v3](http://arxiv.org/abs/2306.07894v3)|null|
 |**2023-05-31**|**Spectral Heterogeneous Graph Convolutions via Positive Noncommutative Polynomials**|Mingguo He, Zhewei Wei, Shikun Feng, Zhengjie Huang, Weibin Li, Yu Sun, Dianhai Yu|[2305.19872v1](http://arxiv.org/abs/2305.19872v1)|**[link](https://github.com/ivam-he/pshgcn)**|
 |**2023-05-31**|**OVNS: Opportunistic Variable Neighborhood Search for Heaviest Subgraph Problem in Social Networks**|Ville P. Saarinen, Ted Hsuan Yun Chen, Mikko Kivelä|[2305.19729v1](http://arxiv.org/abs/2305.19729v1)|**[link](https://github.com/decitizen/ovns)**|
 ## motion aware
