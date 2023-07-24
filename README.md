@@ -40,7 +40,7 @@
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-20**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser, Nihar Gupte, Amit Sethi|[2307.10698v1](http://arxiv.org/abs/2307.10698v1)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
+|**2023-07-20**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser, Nihar Gupte, Amit Sethi|[2307.10698v2](http://arxiv.org/abs/2307.10698v2)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
 |**2023-07-01**|**SyMFM6D: Symmetry-aware Multi-directional Fusion for Multi-View 6D Object Pose Estimation**|Fabian Duffhauss, Sebastian Koch, Hanna Ziesche, Ngo Anh Vien, Gerhard Neumann|[2307.00306v1](http://arxiv.org/abs/2307.00306v1)|**[link](https://github.com/boschresearch/symfm6d)**|
 |**2023-06-27**|**Detector-Free Structure from Motion**|Xingyi He, Jiaming Sun, Yifan Wang, Sida Peng, Qixing Huang, Hujun Bao, Xiaowei Zhou|[2306.15669v1](http://arxiv.org/abs/2306.15669v1)|**[link](https://github.com/zju3dv/DetectorFreeSfM)**|
 |**2023-06-26**|**CLERA: A Unified Model for Joint Cognitive Load and Eye Region Analysis in the Wild**|Li Ding, Jack Terwilliger, Aishni Parab, Meng Wang, Lex Fridman, Bruce Mehler, Bryan Reimer|[2306.15073v1](http://arxiv.org/abs/2306.15073v1)|null|
@@ -53,7 +53,7 @@
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-20**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser, Nihar Gupte, Amit Sethi|[2307.10698v1](http://arxiv.org/abs/2307.10698v1)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
+|**2023-07-20**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser, Nihar Gupte, Amit Sethi|[2307.10698v2](http://arxiv.org/abs/2307.10698v2)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
 |**2023-07-18**|**Balancing Privacy and Progress in Artificial Intelligence: Anonymization in Histopathology for Biomedical Research and Education**|Neel Kanwal, Emiel A. M. Janssen, Kjersti Engan|[2307.09426v1](http://arxiv.org/abs/2307.09426v1)|null|
 |**2023-07-11**|**TIAM -- A Metric for Evaluating Alignment in Text-to-Image Generation**|Paul Grimal, Hervé Le Borgne, Olivier Ferret, Julien Tourille|[2307.05134v1](http://arxiv.org/abs/2307.05134v1)|**[link](https://github.com/grimalpaul/tiam)**|
 |**2023-07-09**|**Augmenters at SemEval-2023 Task 1: Enhancing CLIP in Handling Compositionality and Ambiguity for Zero-Shot Visual WSD through Prompt Augmentation and Text-To-Image Diffusion**|Jie S. Li, Yow-Ting Shiue, Yong-Siang Shih, Jonas Geiping|[2307.05564v1](http://arxiv.org/abs/2307.05564v1)|null|
