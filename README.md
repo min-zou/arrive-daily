@@ -92,7 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-08-03**|**Reconstructing Three-Dimensional Models of Interacting Humans**|Mihai Fieraru, Mihai Zanfir, Elisabeta Oneata, Alin-Ionut Popa, Vlad Olaru, Cristian Sminchisescu|[2308.01854v1](http://arxiv.org/abs/2308.01854v1)|**[link](https://github.com/sminchisescu-research/imar_vision_datasets_tools)**|
+|**2023-08-03**|**Reconstructing Three-Dimensional Models of Interacting Humans**|Mihai Fieraru, Mihai Zanfir, Elisabeta Oneata, Alin-Ionut Popa, Vlad Olaru, Cristian Sminchisescu|[2308.01854v2](http://arxiv.org/abs/2308.01854v2)|**[link](https://github.com/sminchisescu-research/imar_vision_datasets_tools)**|
 |**2023-08-02**|**HANDAL: A Dataset of Real-World Manipulable Object Categories with Pose Annotations, Affordances, and Reconstructions**|Andrew Guo, Bowen Wen, Jianhe Yuan, Jonathan Tremblay, Stephen Tyree, Jeffrey Smith, Stan Birchfield|[2308.01477v1](http://arxiv.org/abs/2308.01477v1)|null|
 |**2023-08-02**|**Tirtha -- An Automated Platform to Crowdsource Images and Create 3D Models of Heritage Sites**|Jyotirmaya Shivottam, Subhankar Mishra|[2308.01246v1](http://arxiv.org/abs/2308.01246v1)|null|
 |**2023-08-02**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran, Nalin Bendapudi, Ming-Yuan Yu, Devarth Parikh, Spring Berman, Ankit Vora, Gaurav Pandey|[2308.01125v1](http://arxiv.org/abs/2308.01125v1)|null|
