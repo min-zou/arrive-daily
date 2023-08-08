@@ -105,6 +105,8 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-04**|**Diffusion-Augmented Depth Prediction with Sparse Annotations**|Jiaqi Li, Yiran Wang, Zihao Huang, Jinghong Zheng, Ke Xian, Zhiguo Cao, Jianming Zhang|[2308.02283v1](http://arxiv.org/abs/2308.02283v1)|null|
+|**2023-08-04**|**Robust Self-Supervised Extrinsic Self-Calibration**|Takayuki Kanai, Igor Vasiljevic, Vitor Guizilini, Adrien Gaidon, Rares Ambrus|[2308.02153v2](http://arxiv.org/abs/2308.02153v2)|null|
 |**2023-08-02**|**Hand tracking for clinical applications: validation of the Google MediaPipe Hand (GMH) and the depth-enhanced GMH-D frameworks**|Gianluca Amprimo, Giulia Masi, Giuseppe Pettiti, Gabriella Olmo, Lorenzo Priano, Claudia Ferraris|[2308.01088v1](http://arxiv.org/abs/2308.01088v1)|null|
 |**2023-07-31**|**Digging Into Uncertainty-based Pseudo-label for Robust Stereo Matching**|Zhelun Shen, Xibin Song, Yuchao Dai, Dingfu Zhou, Zhibo Rao, Liangjun Zhang|[2307.16509v1](http://arxiv.org/abs/2307.16509v1)|**[link](https://github.com/gallenszl/ucfnet)**|
 |**2023-07-27**|**The RoboDepth Challenge: Methods and Advancements Towards Robust Depth Estimation**|Lingdong Kong, Yaru Niu, Shaoyuan Xie, Hanjiang Hu, Lai Xing Ng, Benoit R. Cottereau, Ding Zhao, Liangjun Zhang, Hesheng Wang, Wei Tsang Ooi, Ruijie Zhu, Ziyang Song, Li Liu, Tianzhu Zhang, Jun Yu, Mohan Jing, Pengwei Li, Xiaohua Qi, Cheng Jin, Yingfeng Chen, Jie Hou, Jie Zhang, Zhen Kan, Qiang Ling, Liang Peng, Minglei Li, Di Xu, Changpeng Yang, Yuanqi Yao, Gang Wu, Jian Kuai, Xianming Liu, Junjun Jiang, Jiamian Huang, Baojun Li, Jiale Chen, Shuang Zhang, Sun Ao, Zhenyu Li, Runze Chen, Haiyong Luo, Fang Zhao, Jingze Yu|[2307.15061v1](http://arxiv.org/abs/2307.15061v1)|**[link](https://github.com/ldkong1205/robodepth)**|
@@ -113,8 +115,6 @@
 |**2023-07-27**|**FS-Depth: Focal-and-Scale Depth Estimation from a Single Image in Unseen Indoor Scene**|Chengrui Wei, Meng Yang, Lei He, Nanning Zheng|[2307.14624v1](http://arxiv.org/abs/2307.14624v1)|null|
 |**2023-07-27**|**NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection**|Chenfeng Xu, Bichen Wu, Ji Hou, Sam Tsai, Ruilong Li, Jialiang Wang, Wei Zhan, Zijian He, Peter Vajda, Kurt Keutzer, Masayoshi Tomizuka|[2307.14620v1](http://arxiv.org/abs/2307.14620v1)|**[link](https://github.com/facebookresearch/nerf-det)**|
 |**2023-07-26**|**MiDaS v3.1 -- A Model Zoo for Robust Monocular Relative Depth Estimation**|Reiner Birkl, Diana Wofk, Matthias Müller|[2307.14460v1](http://arxiv.org/abs/2307.14460v1)|**[link](https://github.com/isl-org/MiDaS)**|
-|**2023-07-26**|**MAMo: Leveraging Memory and Attention for Monocular Video Depth Estimation**|Rajeev Yasarla, Hong Cai, Jisoo Jeong, Yunxiao Shi, Risheek Garrepalli, Fatih Porikli|[2307.14336v1](http://arxiv.org/abs/2307.14336v1)|null|
-|**2023-07-25**|**PlaneRecTR: Unified Query learning for 3D Plane Recovery from a Single View**|Jingjia Shi, Shuaifeng Zhi, Kai Xu|[2307.13756v1](http://arxiv.org/abs/2307.13756v1)|**[link](https://github.com/sjingjia/planerectr)**|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -157,7 +157,7 @@
 ## PointCloud
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-08-01**|**Human-M3: A Multi-view Multi-modal Dataset for 3D Human Pose Estimation in Outdoor Scenes**|Bohao Fan, Siqi Wang, Wenzhao Zheng, Jianjiang Feng, Jie Zhou|[2308.00628v1](http://arxiv.org/abs/2308.00628v1)|**[link](https://github.com/soullessrobot/human-m3-dataset)**|
+|**2023-08-01**|**Human-M3: A Multi-view Multi-modal Dataset for 3D Human Pose Estimation in Outdoor Scenes**|Bohao Fan, Siqi Wang, Wenxuan Guo, Wenzhao Zheng, Jianjiang Feng, Jie Zhou|[2308.00628v2](http://arxiv.org/abs/2308.00628v2)|**[link](https://github.com/soullessrobot/human-m3-dataset)**|
 |**2023-07-31**|**Detecting the Anomalies in LiDAR Pointcloud**|Chiyu Zhang, Ji Han, Yao Zou, Kexin Dong, Yujia Li, Junchun Ding, Xiaoling Han|[2308.00187v1](http://arxiv.org/abs/2308.00187v1)|null|
 |**2023-06-22**|**Continuous Online Extrinsic Calibration of Fisheye Camera and LiDAR**|Jack Borer, Jeremy Tschirner, Florian Ölsner, Stefan Milz|[2306.13240v1](http://arxiv.org/abs/2306.13240v1)|null|
 |**2023-06-12**|**Looking Around Corners: Generative Methods in Terrain Extension**|Alec Reed, Christoffer Heckman|[2306.07160v1](http://arxiv.org/abs/2306.07160v1)|null|
@@ -183,6 +183,9 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-04**|**FB-BEV: BEV Representation from Forward-Backward View Transformations**|Zhiqi Li, Zhiding Yu, Wenhai Wang, Anima Anandkumar, Tong Lu, Jose M. Alvarez|[2308.02236v1](http://arxiv.org/abs/2308.02236v1)|null|
+|**2023-08-03**|**CartiMorph: a framework for automated knee articular cartilage morphometrics**|Yongcheng Yao, Junru Zhong, Liping Zhang, Sheheryar Khan, Weitian Chen|[2308.01981v1](http://arxiv.org/abs/2308.01981v1)|**[link](https://github.com/yongchengyao/cartimorph)**|
+|**2023-08-03**|**RegionBLIP: A Unified Multi-modal Pre-training Framework for Holistic and Regional Comprehension**|Qiang Zhou, Chaohui Yu, Shaofeng Zhang, Sitong Wu, Zhibing Wang, Fan Wang|[2308.02299v1](http://arxiv.org/abs/2308.02299v1)|**[link](https://github.com/mightyzau/regionblip)**|
 |**2023-08-03**|**Erasure-based Interaction Network for RGBT Video Object Detection and A Unified Benchmark**|Zhengzheng Tu, Qishun Wang, Hongshun Wang, Kunpeng Wang, Chenglong Li|[2308.01630v1](http://arxiv.org/abs/2308.01630v1)|null|
 |**2023-08-03**|**Circumventing Concept Erasure Methods For Text-to-Image Generative Models**|Minh Pham, Kelly O. Marshall, Chinmay Hegde|[2308.01508v1](http://arxiv.org/abs/2308.01508v1)|**[link](https://github.com/nyu-dice-lab/circumventing-concept-erasure)**|
 |**2023-08-02**|**Patched Denoising Diffusion Models For High-Resolution Image Synthesis**|Zheng Ding, Mengqi Zhang, Jiajun Wu, Zhuowen Tu|[2308.01316v1](http://arxiv.org/abs/2308.01316v1)|null|
@@ -190,9 +193,6 @@
 |**2023-08-01**|**Making the V in Text-VQA Matter**|Shamanthak Hegde, Soumya Jahagirdar, Shankar Gangisetty|[2308.00295v1](http://arxiv.org/abs/2308.00295v1)|null|
 |**2023-07-31**|**Multi-modal Graph Neural Network for Early Diagnosis of Alzheimer's Disease from sMRI and PET Scans**|Yanteng Zhanga, Xiaohai He, Yi Hao Chan, Qizhi Teng, Jagath C. Rajapakse|[2307.16366v1](http://arxiv.org/abs/2307.16366v1)|null|
 |**2023-07-29**|**Instance-Wise Adaptive Tuning and Caching for Vision-Language Models**|Chunjin Yang, Fanman Meng, Shuai Chen, Mingyu Liu, Runtong Zhang|[2307.15983v1](http://arxiv.org/abs/2307.15983v1)|null|
-|**2023-07-28**|**Scale-aware Test-time Click Adaptation for Pulmonary Nodule and Mass Segmentation**|Zhihao Li, Jiancheng Yang, Yongchao Xu, Li Zhang, Wenhui Dong, Bo Du|[2307.15645v1](http://arxiv.org/abs/2307.15645v1)|**[link](https://github.com/splinterli/sattca)**|
-|**2023-07-27**|**PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization**|Junhyeong Cho, Gilhyun Nam, Sungyeon Kim, Hunmin Yang, Suha Kwak|[2307.15199v1](http://arxiv.org/abs/2307.15199v1)|null|
-|**2023-07-27**|**A Transformer-based Approach for Arabic Offline Handwritten Text Recognition**|Saleh Momeni, Bagher BabaAli|[2307.15045v1](http://arxiv.org/abs/2307.15045v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
