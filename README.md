@@ -3,7 +3,7 @@
 |---|---|---|---|---|
 |**2023-08-10**|**A Robust and Rapidly Deployable Waypoint Navigation Architecture for Long-Duration Operations in GPS-Denied Environments**|Erik Pearson, Brendan Englot|[2308.05620v1](http://arxiv.org/abs/2308.05620v1)|null|
 |**2023-08-10**|**Robust Lifelong Indoor LiDAR Localization using the Area Graph**|Fujing Xie, Sören Schwertfeger|[2308.05593v1](http://arxiv.org/abs/2308.05593v1)|null|
-|**2023-08-10**|**Detecting and Classifying Bio-Inspired Artificial Landmarks Using In-Air 3D Sonar**|Maarten de Backer, Wouter Jansen, Dennis Laurijssen, Ralph Simon, Walter Daems, Jan Steckel|[2308.05504v1](http://arxiv.org/abs/2308.05504v1)|null|
+|**2023-08-10**|**Detecting and Classifying Bio-Inspired Artificial Landmarks Using In-Air 3D Sonar**|Maarten de Backer, Wouter Jansen, Dennis Laurijssen, Ralph Simon, Walter Daems, Jan Steckel|[2308.05504v2](http://arxiv.org/abs/2308.05504v2)|null|
 |**2023-08-10**|**How-to Augmented Lagrangian on Factor Graphs**|Barbara Bazzana, Henrik Andreasson, Giorgio Grisetti|[2308.05444v1](http://arxiv.org/abs/2308.05444v1)|null|
 |**2023-08-10**|**Occupancy Grid Map to Pose Graph-based Map: Robust BIM-based 2D-LiDAR Localization for Lifelong Indoor Navigation in Changing and Dynamic Environments**|Miguel Arturo Vega Torres, Alexander Braun, André Borrmann|[2308.05443v1](http://arxiv.org/abs/2308.05443v1)|**[link](https://github.com/migvega/ogm2pgbm)**|
 |**2023-08-08**|**Multi-level Map Construction for Dynamic Scenes**|Xinggang Hu|[2308.04000v1](http://arxiv.org/abs/2308.04000v1)|null|
@@ -131,7 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-08-10**|**Detecting and Classifying Bio-Inspired Artificial Landmarks Using In-Air 3D Sonar**|Maarten de Backer, Wouter Jansen, Dennis Laurijssen, Ralph Simon, Walter Daems, Jan Steckel|[2308.05504v1](http://arxiv.org/abs/2308.05504v1)|null|
+|**2023-08-10**|**Detecting and Classifying Bio-Inspired Artificial Landmarks Using In-Air 3D Sonar**|Maarten de Backer, Wouter Jansen, Dennis Laurijssen, Ralph Simon, Walter Daems, Jan Steckel|[2308.05504v2](http://arxiv.org/abs/2308.05504v2)|null|
 |**2023-08-09**|**An End-to-End Framework of Road User Detection, Tracking, and Prediction from Monocular Images**|Hao Cheng, Mengmeng liu, Lin Chen|[2308.05026v1](http://arxiv.org/abs/2308.05026v1)|null|
 |**2023-08-09**|**Tracking Players in a Badminton Court by Two Cameras**|Young-Ching Chou, Shen-Ru Zhang, Bo-Wei Chen, Hong-Qi Chen, Cheng-Kuan Lin, Yu-Chee Tseng|[2308.04872v1](http://arxiv.org/abs/2308.04872v1)|null|
 |**2023-08-08**|**OmniDataComposer: A Unified Data Structure for Multimodal Data Fusion and Infinite Data Generation**|Dongyang Yu, Shihao Wang, Yuan Fang, Wangpeng An|[2308.04126v1](http://arxiv.org/abs/2308.04126v1)|null|
@@ -186,7 +186,7 @@
 |**2023-08-10**|**IIHT: Medical Report Generation with Image-to-Indicator Hierarchical Transformer**|Keqiang Fan, Xiaohao Cai, Mahesan Niranjan|[2308.05633v1](http://arxiv.org/abs/2308.05633v1)|null|
 |**2023-08-09**|**Foreground Object Search by Distilling Composite Image Feature**|Bo Zhang, Jiacheng Sui, Li Niu|[2308.04990v1](http://arxiv.org/abs/2308.04990v1)|**[link](https://github.com/bcmi/foreground-object-search-dataset-fosd)**|
 |**2023-08-09**|**HyperCoil-Recon: A Hypernetwork-based Adaptive Coil Configuration Task Switching Network for MRI Reconstruction**|Sriprabha Ramanarayanan, Mohammad Al Fahim, Rahul G. S., Amrit Kumar Jethi, Keerthi Ram, Mohanasankar Sivaprakasam|[2308.04821v1](http://arxiv.org/abs/2308.04821v1)|**[link](https://github.com/sriprabhar/hypercoil-recon)**|
-|**2023-08-08**|**LATR: 3D Lane Detection from Monocular Images with Transformer**|Yueru Luo, Chaoda Zheng, Xu Yan, Tang Kun, Chao Zheng, Shuguang Cui, Zhen Li|[2308.04583v1](http://arxiv.org/abs/2308.04583v1)|null|
+|**2023-08-08**|**LATR: 3D Lane Detection from Monocular Images with Transformer**|Yueru Luo, Chaoda Zheng, Xu Yan, Tang Kun, Chao Zheng, Shuguang Cui, Zhen Li|[2308.04583v1](http://arxiv.org/abs/2308.04583v1)|**[link](https://github.com/jmoonr/latr)**|
 |**2023-08-08**|**DiffCR: A Fast Conditional Diffusion Framework for Cloud Removal from Optical Satellite Images**|Xuechao Zou, Kai Li, Junliang Xing, Yu Zhang, Shiying Wang, Lei Jin, Pin Tao|[2308.04417v1](http://arxiv.org/abs/2308.04417v1)|null|
 |**2023-08-07**|**Learning Concise and Descriptive Attributes for Visual Recognition**|An Yan, Yu Wang, Yiwu Zhong, Chengyu Dong, Zexue He, Yujie Lu, William Wang, Jingbo Shang, Julian McAuley|[2308.03685v1](http://arxiv.org/abs/2308.03685v1)|null|
 |**2023-08-06**|**Nest-DGIL: Nesterov-optimized Deep Geometric Incremental Learning for CS Image Reconstruction**|Xiaohong Fan, Yin Yang, Ke Chen, Yujie Feng, Jianping Zhang|[2308.03807v1](http://arxiv.org/abs/2308.03807v1)|**[link](https://github.com/fanxiaohong/Nest-DGIL)**|
@@ -212,7 +212,7 @@
 |**2023-08-09**|**Seeing in Flowing: Adapting CLIP for Action Recognition with Motion Prompts Learning**|Qiang Wang, Junlong Du, Ke Yan, Shouhong Ding|[2308.04828v1](http://arxiv.org/abs/2308.04828v1)|null|
 |**2023-07-18**|**MarS3D: A Plug-and-Play Motion-Aware Model for Semantic Segmentation on Multi-Scan 3D Point Clouds**|Jiahui Liu, Chirui Chang, Jianhui Liu, Xiaoyang Wu, Lan Ma, Xiaojuan Qi|[2307.09316v1](http://arxiv.org/abs/2307.09316v1)|**[link](https://github.com/cvmi-lab/mars3d)**|
 |**2023-04-20**|**High-Fidelity and Freely Controllable Talking Head Video Generation**|Yue Gao, Yuan Zhou, Jinglu Wang, Xiao Li, Xiang Ming, Yan Lu|[2304.10168v1](http://arxiv.org/abs/2304.10168v1)|null|
-|**2023-04-19**|**MAMAF-Net: Motion-Aware and Multi-Attention Fusion Network for Stroke Diagnosis**|Aysen Degerli, Pekka Jakala, Juha Pajula, Miguel Bordallo Lopez|[2304.09466v1](http://arxiv.org/abs/2304.09466v1)|null|
+|**2023-04-19**|**MAMAF-Net: Motion-Aware and Multi-Attention Fusion Network for Stroke Diagnosis**|Aysen Degerli, Pekka Jakala, Juha Pajula, Milla Immonen, Miguel Bordallo Lopez|[2304.09466v2](http://arxiv.org/abs/2304.09466v2)|null|
 |**2023-04-17**|**Text2Performer: Text-Driven Human Video Generation**|Yuming Jiang, Shuai Yang, Tong Liang Koh, Wayne Wu, Chen Change Loy, Ziwei Liu|[2304.08483v1](http://arxiv.org/abs/2304.08483v1)|**[link](https://github.com/yumingj/text2performer)**|
 |**2023-04-13**|**RoSI: Recovering 3D Shape Interiors from Few Articulation Images**|Akshay Gadi Patil, Yiming Qian, Shan Yang, Brian Jackson, Eric Bennett, Hao Zhang|[2304.06342v1](http://arxiv.org/abs/2304.06342v1)|null|
 |**2023-03-31**|**Towards Nonlinear-Motion-Aware and Occlusion-Robust Rolling Shutter Correction**|Delin Qu, Yizhen Lao, Zhigang Wang, Dong Wang, Bin Zhao, Xuelong Li|[2303.18125v2](http://arxiv.org/abs/2303.18125v2)|null|
