@@ -93,8 +93,8 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-08-16**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt, Georg Bökman, Mårten Wadenbäck, Michael Felsberg|[2308.08479v1](http://arxiv.org/abs/2308.08479v1)|**[link](https://github.com/parskatt/dedode)**|
-|**2023-08-15**|**Deep Learning Framework for Spleen Volume Estimation from 2D Cross-sectional Views**|Zhen Yuan, Esther Puyol-Anton, Haran Jogeesvaran, Baba Inusa, Andrew P. King|[2308.08038v1](http://arxiv.org/abs/2308.08038v1)|null|
-|**2023-08-15**|**ObjectSDF++: Improved Object-Compositional Neural Implicit Surfaces**|Qianyi Wu, Kaisiyuan Wang, Kejie Li, Jianmin Zheng, Jianfei Cai|[2308.07868v1](http://arxiv.org/abs/2308.07868v1)|**[link](https://github.com/qianyiwu/objectsdf_plus)**|
+|**2023-08-15**|**Deep Learning Framework for Spleen Volume Estimation from 2D Cross-sectional Views**|Zhen Yuan, Esther Puyol-Anton, Haran Jogeesvaran, Baba Inusa, Andrew P. King|[2308.08038v2](http://arxiv.org/abs/2308.08038v2)|null|
+|**2023-08-15**|**ObjectSDF++: Improved Object-Compositional Neural Implicit Surfaces**|Qianyi Wu, Kaisiyuan Wang, Kejie Li, Jianmin Zheng, Jianfei Cai|[2308.07868v2](http://arxiv.org/abs/2308.07868v2)|**[link](https://github.com/qianyiwu/objectsdf_plus)**|
 |**2023-08-15**|**CCD-3DR: Consistent Conditioning in Diffusion for Single-Image 3D Reconstruction**|Yan Di, Chenyangguang Zhang, Pengyuan Wang, Guangyao Zhai, Ruida Zhang, Fabian Manhardt, Benjamin Busam, Xiangyang Ji, Federico Tombari|[2308.07837v1](http://arxiv.org/abs/2308.07837v1)|null|
 |**2023-08-15**|**Multi-view 3D Face Reconstruction Based on Flame**|Wenzhuo Zheng, Junhao Zhao, Xiaohong Liu, Yongyang Pan, Zhenghao Gan, Haozhe Han, Ning Liu|[2308.07551v1](http://arxiv.org/abs/2308.07551v1)|null|
 |**2023-08-14**|**A One Stop 3D Target Reconstruction and multilevel Segmentation Method**|Jiexiong Xu, Weikun Zhao, Zhiyan Tang, Xiangchao Gan|[2308.06974v1](http://arxiv.org/abs/2308.06974v1)|**[link](https://github.com/ganlab/ostra)**|
