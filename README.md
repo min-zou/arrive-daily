@@ -1,8 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-08-31**|**SiTAR: Situated Trajectory Analysis for In-the-Wild Pose Error Estimation**|Tim Scargill, Ying Chen, Tianyi Hu, Maria Gorlatova|[2308.16813v1](http://arxiv.org/abs/2308.16813v1)|null|
-|**2023-08-31**|**Graph-based SLAM-Aware Exploration with Prior Topo-Metric Information**|Ruofei Bai, Hongliang Guo, Wei-Yun Yau, Lihua Xie|[2308.16522v1](http://arxiv.org/abs/2308.16522v1)|null|
+|**2023-08-31**|**SiTAR: Situated Trajectory Analysis for In-the-Wild Pose Error Estimation**|Tim Scargill, Ying Chen, Tianyi Hu, Maria Gorlatova|[2308.16813v1](http://arxiv.org/abs/2308.16813v1)|**[link](https://github.com/timscargill/sitar)**|
+|**2023-08-31**|**Graph-based SLAM-Aware Exploration with Prior Topo-Metric Information**|Ruofei Bai, Hongliang Guo, Wei-Yun Yau, Lihua Xie|[2308.16522v1](http://arxiv.org/abs/2308.16522v1)|**[link](https://github.com/bairuofei/graph-based_slam-aware_exploration)**|
 |**2023-08-28**|**Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor**|Xinyang Liu, Yijin Li, Yanbin Teng, Hujun Bao, Guofeng Zhang, Yinda Zhang, Zhaopeng Cui|[2308.14383v1](http://arxiv.org/abs/2308.14383v1)|null|
 |**2023-08-27**|**Deep Learning for Visual Localization and Mapping: A Survey**|Changhao Chen, Bing Wang, Chris Xiaoxuan Lu, Niki Trigoni, Andrew Markham|[2308.14039v1](http://arxiv.org/abs/2308.14039v1)|null|
 |**2023-08-24**|**VNI-Net: Vector Neurons-based Rotation-Invariant Descriptor for LiDAR Place Recognition**|Gengxuan Tian, Junqiao Zhao, Yingfeng Cai, Fenglin Zhang, Wenjie Mu, Chen Ye|[2308.12870v1](http://arxiv.org/abs/2308.12870v1)|null|
@@ -188,7 +188,7 @@
 |**2023-08-30**|**CircleFormer: Circular Nuclei Detection in Whole Slide Images with Circle Queries and Attention**|Hengxu Zhang, Pengpeng Liang, Zhiyong Sun, Bo Song, Erkang Cheng|[2308.16145v2](http://arxiv.org/abs/2308.16145v2)|**[link](https://github.com/zhanghx-iim-ahu/circleformer)**|
 |**2023-08-30**|**CorrEmbed: Evaluating Pre-trained Model Image Similarity Efficacy with a Novel Metric**|Karl Audun Kagnes Borgersen, Morten Goodwin, Jivitesh Sharma, Tobias Aasmoe, Mari Leonhardsen, Gro Herredsvela Rørvik|[2308.16126v1](http://arxiv.org/abs/2308.16126v1)|null|
 |**2023-08-30**|**Improving Few-shot Image Generation by Structural Discrimination and Textural Modulation**|Mengping Yang, Zhe Wang, Wenyi Feng, Qian Zhang, Ting Xiao|[2308.16110v1](http://arxiv.org/abs/2308.16110v1)|**[link](https://github.com/kobeshegu/sdtm-gan-acmmm-2023)**|
-|**2023-08-30**|**Impact of Visual Context on Noisy Multimodal NMT: An Empirical Study for English to Indian Languages**|Baban Gain, Dibyanayan Bandyopadhyay, Samrat Mukherjee, Chandranath Adak, Asif Ekbal|[2308.16075v1](http://arxiv.org/abs/2308.16075v1)|null|
+|**2023-08-30**|**Impact of Visual Context on Noisy Multimodal NMT: An Empirical Study for English to Indian Languages**|Baban Gain, Dibyanayan Bandyopadhyay, Samrat Mukherjee, Chandranath Adak, Asif Ekbal|[2308.16075v1](http://arxiv.org/abs/2308.16075v1)|**[link](https://github.com/babangain/indicmmt)**|
 |**2023-08-28**|**MS-Net: A Multi-modal Self-supervised Network for Fine-Grained Classification of Aircraft in SAR Images**|Bingying Yue, Jianhao Li, Hao Shi, Yupei Wang, Honghu Zhong|[2308.14613v1](http://arxiv.org/abs/2308.14613v1)|null|
 |**2023-08-28**|**SAAN: Similarity-aware attention flow network for change detection with VHR remote sensing images**|Haonan Guo, Xin Su, Chen Wu, Bo Du, Liangpei Zhang|[2308.14570v1](http://arxiv.org/abs/2308.14570v1)|null|
 |**2023-08-28**|**Steerable Conditional Diffusion for Out-of-Distribution Adaptation in Imaging Inverse Problems**|Riccardo Barbano, Alexander Denker, Hyungjin Chung, Tae Hoon Roh, Simon Arrdige, Peter Maass, Bangti Jin, Jong Chul Ye|[2308.14409v1](http://arxiv.org/abs/2308.14409v1)|null|
