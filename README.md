@@ -66,7 +66,7 @@
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-06**|**Seismic Foundation Model (SFM): a new generation deep learning model in geophysics**|Hanlin Sheng, Xinming Wu, Xu Si, Jintao Li, Sibio Zhang, Xudong Duan|[2309.02791v1](http://arxiv.org/abs/2309.02791v1)|null|
+|**2023-09-06**|**Seismic Foundation Model (SFM): a new generation deep learning model in geophysics**|Hanlin Sheng, Xinming Wu, Xu Si, Jintao Li, Sibio Zhang, Xudong Duan|[2309.02791v2](http://arxiv.org/abs/2309.02791v2)|null|
 |**2023-09-05**|**Doppelgangers: Learning to Disambiguate Images of Similar Structures**|Ruojin Cai, Joseph Tung, Qianqian Wang, Hadar Averbuch-Elor, Bharath Hariharan, Noah Snavely|[2309.02420v1](http://arxiv.org/abs/2309.02420v1)|**[link](https://github.com/RuojinCai/Doppelgangers)**|
 |**2023-09-01**|**Dense Voxel 3D Reconstruction Using a Monocular Event Camera**|Haodong Chen, Vera Chung, Li Tan, Xiaoming Chen|[2309.00385v1](http://arxiv.org/abs/2309.00385v1)|null|
 |**2023-08-31**|**Strong [O III] λ5007 Compact Galaxies Identified from SDSS DR16 and Their Scaling Relations**|Weiyu Ding, Hu Zou, Xu Kong, Yulong Gao, Fujia Li, Hongxin Zhang, Jiali Wang, Jie Song, Jipeng Sui, Jundan Nie, Suijian Xue, Weijian Guo, Yao Yao, Zhimin Zhou|[2308.16531v1](http://arxiv.org/abs/2308.16531v1)|null|
@@ -136,7 +136,7 @@
 |**2023-09-06**|**Towards Efficient Training with Negative Samples in Visual Tracking**|Qingmao Wei, Bi Zeng, Guotian Zeng|[2309.02903v1](http://arxiv.org/abs/2309.02903v1)|null|
 |**2023-09-06**|**Efficient Training for Visual Tracking with Deformable Transformer**|Qingmao Wei, Guotian Zeng, Bi Zeng|[2309.02676v1](http://arxiv.org/abs/2309.02676v1)|null|
 |**2023-09-06**|**Fast and Resource-Efficient Object Tracking on Edge Devices: A Measurement Study**|Sanjana Vijay Ganesh, Yanzhao Wu, Gaowen Liu, Ramana Kompella, Ling Liu|[2309.02666v1](http://arxiv.org/abs/2309.02666v1)|null|
-|**2023-09-05**|**BEVTrack: A Simple Baseline for Point Cloud Tracking in Bird's-Eye-View**|Yuxiang Yang, Yingqi Deng, Jiahao Nie, Jing Zhang|[2309.02185v1](http://arxiv.org/abs/2309.02185v1)|null|
+|**2023-09-05**|**BEVTrack: A Simple Baseline for 3D Single Object Tracking in Birds's-Eye-View**|Yuxiang Yang, Yingqi Deng, Jiahao Nie, Jing Zhang|[2309.02185v2](http://arxiv.org/abs/2309.02185v2)|null|
 |**2023-09-03**|**UnsMOT: Unified Framework for Unsupervised Multi-Object Tracking with Geometric Topology Guidance**|Son Tran, Cong Tran, Anh Tran, Cuong Pham|[2309.01078v1](http://arxiv.org/abs/2309.01078v1)|null|
 |**2023-09-02**|**Tracking without Label: Unsupervised Multiple Object Tracking via Contrastive Similarity Learning**|Sha Meng, Dian Shao, Jiacheng Guo, Shan Gao|[2309.00942v1](http://arxiv.org/abs/2309.00942v1)|null|
 |**2023-09-02**|**Consensus-based Distributed Variational Multi-object Tracker in Multi-Sensor Network**|Qing Li, Runze Gan, Simon Godsill|[2309.00807v1](http://arxiv.org/abs/2309.00807v1)|null|
