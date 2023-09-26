@@ -7,7 +7,7 @@
 |**2023-09-19**|**Measurement Simplification in ρ-POMDP with Performance Guarantees**|Tom Yotam, Vadim Indelman|[2309.10701v1](http://arxiv.org/abs/2309.10701v1)|null|
 |**2023-09-19**|**OASIS: Optimal Arrangements for Sensing in SLAM**|Pushyami Kaveti, Matthew Giamou, Hanumant Singh, David M. Rosen|[2309.10698v1](http://arxiv.org/abs/2309.10698v1)|null|
 |**2023-09-19**|**Vision-based Situational Graphs Generating Optimizable 3D Scene Representations**|Ali Tourani, Hriday Bavle, Jose Luis Sanchez-Lopez, Deniz Isinsu Avsar, Rafael Munoz Salinas, Holger Voos|[2309.10461v1](http://arxiv.org/abs/2309.10461v1)|null|
-|**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang, Xianjia Yu, Sier Ha, Tomi Westerlund|[2309.10436v1](http://arxiv.org/abs/2309.10436v1)|null|
+|**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang, Xianjia Yu, Sier Ha, Tomi Westerlund|[2309.10436v1](http://arxiv.org/abs/2309.10436v1)|**[link](https://github.com/tiers/ws-lidar-as-camera-odom)**|
 |**2023-09-19**|**VPRTempo: A Fast Temporally Encoded Spiking Neural Network for Visual Place Recognition**|Adam D. Hines, Peter G. Stratton, Michael Milford, Tobias Fischer|[2309.10225v1](http://arxiv.org/abs/2309.10225v1)|**[link](https://github.com/QVPR/VPRTempo)**|
 |**2023-09-18**|**DynaPix SLAM: A Pixel-Based Dynamic SLAM Approach**|Chenghao Xu, Elia Bonetto, Aamir Ahmad|[2309.09879v1](http://arxiv.org/abs/2309.09879v1)|null|
 |**2023-09-17**|**Differentiable SLAM Helps Deep Learning-based LiDAR Perception Tasks**|Prashant Kumar, Dheeraj Vattikonda, Vedang Bhupesh Shenvi Nadkarni, Erqun Dong, Sabyasachi Sahoo|[2309.09206v1](http://arxiv.org/abs/2309.09206v1)|null|
@@ -40,7 +40,7 @@
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang, Xianjia Yu, Sier Ha, Tomi Westerlund|[2309.10436v1](http://arxiv.org/abs/2309.10436v1)|null|
+|**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang, Xianjia Yu, Sier Ha, Tomi Westerlund|[2309.10436v1](http://arxiv.org/abs/2309.10436v1)|**[link](https://github.com/tiers/ws-lidar-as-camera-odom)**|
 |**2023-09-18**|**RIDE: Self-Supervised Learning of Rotation-Equivariant Keypoint Detection and Invariant Description for Endoscopy**|Mert Asim Karaoglu, Viktoria Markova, Nassir Navab, Benjamin Busam, Alexander Ladikos|[2309.09563v1](http://arxiv.org/abs/2309.09563v1)|null|
 |**2023-09-14**|**EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**|Minjung Kim, Junseo Koo, Gunhee Kim|[2309.07471v1](http://arxiv.org/abs/2309.07471v1)|**[link](https://github.com/minnjung/ep2p-loc)**|
 |**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe, James Tang, Shih-Yang Su, Bastian Wandt, Helge Rhodin|[2309.04750v1](http://arxiv.org/abs/2309.04750v1)|null|
@@ -66,6 +66,7 @@
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**Scalable Semantic 3D Mapping of Coral Reefs with Deep Learning**|Jonathan Sauder, Guilhem Banc-Prandi, Anders Meibom, Devis Tuia|[2309.12804v1](http://arxiv.org/abs/2309.12804v1)|null|
 |**2023-09-21**|**On-the-Fly SfM: What you capture is What you get**|Zongqian Zhan, Rui Xia, Yifei Yu, Yibo Xu, Xin Wang|[2309.11883v1](http://arxiv.org/abs/2309.11883v1)|null|
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy, Vincent Leroy, Philippe Weinzaepfel, Fabien Baradel, Salma Galaaoui, Romain Bregier, Matthieu Armando, Jean-Sebastien Franco, Gregory Rogez|[2309.10748v1](http://arxiv.org/abs/2309.10748v1)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi, Robin Murphy|[2309.10269v1](http://arxiv.org/abs/2309.10269v1)|null|
@@ -75,10 +76,10 @@
 |**2023-09-05**|**Doppelgangers: Learning to Disambiguate Images of Similar Structures**|Ruojin Cai, Joseph Tung, Qianqian Wang, Hadar Averbuch-Elor, Bharath Hariharan, Noah Snavely|[2309.02420v1](http://arxiv.org/abs/2309.02420v1)|**[link](https://github.com/RuojinCai/Doppelgangers)**|
 |**2023-09-01**|**Dense Voxel 3D Reconstruction Using a Monocular Event Camera**|Haodong Chen, Vera Chung, Li Tan, Xiaoming Chen|[2309.00385v1](http://arxiv.org/abs/2309.00385v1)|null|
 |**2023-08-31**|**Strong [O III] λ5007 Compact Galaxies Identified from SDSS DR16 and Their Scaling Relations**|Weiyu Ding, Hu Zou, Xu Kong, Yulong Gao, Fujia Li, Hongxin Zhang, Jiali Wang, Jie Song, Jipeng Sui, Jundan Nie, Suijian Xue, Weijian Guo, Yao Yao, Zhimin Zhou|[2308.16531v1](http://arxiv.org/abs/2308.16531v1)|null|
-|**2023-08-30**|**Learning Structure-from-Motion with Graph Attention Networks**|Lucas Brynte, José Pedro Iglesias, Carl Olsson, Fredrik Kahl|[2308.15984v1](http://arxiv.org/abs/2308.15984v1)|null|
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**Scalable Semantic 3D Mapping of Coral Reefs with Deep Learning**|Jonathan Sauder, Guilhem Banc-Prandi, Anders Meibom, Devis Tuia|[2309.12804v1](http://arxiv.org/abs/2309.12804v1)|null|
 |**2023-09-21**|**On-the-Fly SfM: What you capture is What you get**|Zongqian Zhan, Rui Xia, Yifei Yu, Yibo Xu, Xin Wang|[2309.11883v1](http://arxiv.org/abs/2309.11883v1)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi, Robin Murphy|[2309.10269v1](http://arxiv.org/abs/2309.10269v1)|null|
 |**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu, Hannah Schieber, Nicolas Schischka, Melih Görgülü, Florian Grötzner, Alexander Ladikos, Daniel Roth, Nassir Navab, Benjamin Busam|[2309.08927v1](http://arxiv.org/abs/2309.08927v1)|null|
@@ -88,11 +89,11 @@
 |**2023-08-30**|**Learning Structure-from-Motion with Graph Attention Networks**|Lucas Brynte, José Pedro Iglesias, Carl Olsson, Fredrik Kahl|[2308.15984v1](http://arxiv.org/abs/2308.15984v1)|null|
 |**2023-08-26**|**Disjoint Pose and Shape for 3D Face Reconstruction**|Raja Kumar, Jiahao Luo, Alex Pang, James Davis|[2308.13903v1](http://arxiv.org/abs/2308.13903v1)|null|
 |**2023-08-21**|**CamP: Camera Preconditioning for Neural Radiance Fields**|Keunhong Park, Philipp Henzler, Ben Mildenhall, Jonathan T. Barron, Ricardo Martin-Brualla|[2308.10902v2](http://arxiv.org/abs/2308.10902v2)|null|
-|**2023-08-18**|**Unsupervised 3D Pose Estimation with Non-Rigid Structure-from-Motion Modeling**|Haorui Ji, Hui Deng, Yuchao Dai, Hongdong Li|[2308.10705v1](http://arxiv.org/abs/2308.10705v1)|null|
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-20**|**Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**|Ka Chun Shum, Jaeyeon Kim, Binh-Son Hua, Duc Thanh Nguyen, Sai-Kit Yeung|[2309.11281v1](http://arxiv.org/abs/2309.11281v1)|**[link](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)**|
+|**2023-09-22**|**NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields**|Xiaoxue Chen, Junchen Liu, Hao Zhao, Guyue Zhou, Ya-Qin Zhang|[2309.13039v1](http://arxiv.org/abs/2309.13039v1)|**[link](https://github.com/dawning77/nerrf)**|
+|**2023-09-20**|**Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**|Ka Chun Shum, Jaeyeon Kim, Binh-Son Hua, Duc Thanh Nguyen, Sai-Kit Yeung|[2309.11281v2](http://arxiv.org/abs/2309.11281v2)|**[link](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)**|
 |**2023-09-19**|**PLVS: A SLAM System with Points, Lines, Volumetric Mapping, and 3D Incremental Segmentation**|Luigi Freda|[2309.10896v1](http://arxiv.org/abs/2309.10896v1)|**[link](https://github.com/luigifreda/plvs)**|
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy, Vincent Leroy, Philippe Weinzaepfel, Fabien Baradel, Salma Galaaoui, Romain Bregier, Matthieu Armando, Jean-Sebastien Franco, Gregory Rogez|[2309.10748v1](http://arxiv.org/abs/2309.10748v1)|null|
 |**2023-09-18**|**Improving Neural Indoor Surface Reconstruction with Mask-Guided Adaptive Consistency Constraints**|Xinyi Yu, Liqin Lu, Jintao Rong, Guangkai Xu, Linlin Ou|[2309.09739v1](http://arxiv.org/abs/2309.09739v1)|null|
@@ -101,20 +102,19 @@
 |**2023-09-14**|**High-fidelity 3D Reconstruction of Solar Coronal Physics with the Updated CROBAR Method**|Joseph Plowman, Daniel B. Seaton, Amir Caspi, J. Marcus Hughes, Matthew J. West|[2309.08053v1](http://arxiv.org/abs/2309.08053v1)|null|
 |**2023-09-13**|**Exploiting Multiple Priors for Neural 3D Indoor Reconstruction**|Federico Lincetto, Gianluca Agresti, Mattia Rossi, Pietro Zanuttigh|[2309.07021v1](http://arxiv.org/abs/2309.07021v1)|null|
 |**2023-09-12**|**Semantic and Articulated Pedestrian Sensing Onboard a Moving Vehicle**|Maria Priisalu|[2309.06313v1](http://arxiv.org/abs/2309.06313v1)|null|
-|**2023-09-11**|**A survey on real-time 3D scene reconstruction with SLAM methods in embedded systems**|Quentin Picard, Stephane Chevobbe, Mehdi Darouich, Jean-Yves Didier|[2309.05349v1](http://arxiv.org/abs/2309.05349v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**SRFNet: Monocular Depth Estimation with Fine-grained Structure via Spatial Reliability-oriented Fusion of Frames and Events**|Tianbo Pan, Zidong Cao, Lin Wang|[2309.12842v1](http://arxiv.org/abs/2309.12842v1)|null|
 |**2023-09-21**|**SANPO: A Scene Understanding, Accessibility, Navigation, Pathfinding, Obstacle Avoidance Dataset**|Sagar M. Waghmare, Kimberly Wilber, Dave Hawkey, Xuan Yang, Matthew Wilson, Stephanie Debats, Cattalyya Nuengsigkapian, Astuti Sharma, Lars Pandikow, Huisheng Wang, Hartwig Adam, Mikhail Sirotenko|[2309.12172v1](http://arxiv.org/abs/2309.12172v1)|null|
-|**2023-09-20**|**BroadBEV: Collaborative LiDAR-camera Fusion for Broad-sighted Bird's Eye View Map Construction**|Minsu Kim, Giseop Kim, Kyong Hwan Jin, Sunwook Choi|[2309.11119v2](http://arxiv.org/abs/2309.11119v2)|null|
-|**2023-09-20**|**Dense 2D-3D Indoor Prediction with Sound via Aligned Cross-Modal Distillation**|Heeseung Yun, Joonil Na, Gunhee Kim|[2309.11081v1](http://arxiv.org/abs/2309.11081v1)|null|
-|**2023-09-19**|**NDDepth: Normal-Distance Assisted Monocular Depth Estimation**|Shuwei Shao, Zhongcai Pei, Weihai Chen, Xingming Wu, Zhengguo Li|[2309.10592v1](http://arxiv.org/abs/2309.10592v1)|null|
+|**2023-09-20**|**BroadBEV: Collaborative LiDAR-camera Fusion for Broad-sighted Bird's Eye View Map Construction**|Minsu Kim, Giseop Kim, Kyong Hwan Jin, Sunwook Choi|[2309.11119v3](http://arxiv.org/abs/2309.11119v3)|null|
+|**2023-09-20**|**Dense 2D-3D Indoor Prediction with Sound via Aligned Cross-Modal Distillation**|Heeseung Yun, Joonil Na, Gunhee Kim|[2309.11081v1](http://arxiv.org/abs/2309.11081v1)|**[link](https://github.com/hs-yn/daps)**|
+|**2023-09-19**|**NDDepth: Normal-Distance Assisted Monocular Depth Estimation**|Shuwei Shao, Zhongcai Pei, Weihai Chen, Xingming Wu, Zhengguo Li|[2309.10592v2](http://arxiv.org/abs/2309.10592v2)|null|
 |**2023-09-18**|**GEDepth: Ground Embedding for Monocular Depth Estimation**|Xiaodong Yang, Zhuang Ma, Zhiyu Ji, Zhe Ren|[2309.09975v1](http://arxiv.org/abs/2309.09975v1)|**[link](https://github.com/qcraftai/gedepth)**|
 |**2023-09-18**|**Robust Geometry-Preserving Depth Estimation Using Differentiable Rendering**|Chi Zhang, Wei Yin, Gang Yu, Zhibin Wang, Tao Chen, Bin Fu, Joey Tianyi Zhou, Chunhua Shen|[2309.09724v1](http://arxiv.org/abs/2309.09724v1)|null|
 |**2023-09-17**|**Deep Neighbor Layer Aggregation for Lightweight Self-Supervised Monocular Depth Estimation**|Boya Wang, Shuo Wang, Ziwen Dou, Dong Ye|[2309.09272v1](http://arxiv.org/abs/2309.09272v1)|null|
-|**2023-09-15**|**X-PDNet: Accurate Joint Plane Instance Segmentation and Monocular Depth Estimation with Cross-Task Distillation and Boundary Correction**|Duc Cao Dinh, J Lim|[2309.08424v1](http://arxiv.org/abs/2309.08424v1)|**[link](https://github.com/caodinhduc/x-pdnet-official)**|
+|**2023-09-15**|**X-PDNet: Accurate Joint Plane Instance Segmentation and Monocular Depth Estimation with Cross-Task Distillation and Boundary Correction**|Cao Dinh Duc, Jongwoo Lim|[2309.08424v2](http://arxiv.org/abs/2309.08424v2)|**[link](https://github.com/caodinhduc/x-pdnet-official)**|
 |**2023-09-14**|**Depth Estimation from a Single Optical Encoded Image using a Learned Colored-Coded Aperture**|Jhon Lopez, Edwin Vargas, Henry Arguello|[2309.08033v1](http://arxiv.org/abs/2309.08033v1)|null|
-|**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu, Ruoyan Xia, Xiaosu Xu, Zijian Wang, Yiqing Ya, Mingze Fan|[2309.07408v1](http://arxiv.org/abs/2309.07408v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -172,7 +172,7 @@
 |---|---|---|---|---|
 |**2023-09-20**|**Conformalized Multimodal Uncertainty Regression and Reasoning**|Domenico Parente, Nastaran Darabi, Alex C. Stutts, Theja Tulabandhula, Amit Ranjan Trivedi|[2309.11018v1](http://arxiv.org/abs/2309.11018v1)|null|
 |**2023-09-20**|**OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving**|Heng Li, Yifan Duan, Xinran Zhang, Haiyi Liu, Jianmin Ji, Yanyong Zhang|[2309.11011v1](http://arxiv.org/abs/2309.11011v1)|null|
-|**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang, Xianjia Yu, Sier Ha, Tomi Westerlund|[2309.10436v1](http://arxiv.org/abs/2309.10436v1)|null|
+|**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang, Xianjia Yu, Sier Ha, Tomi Westerlund|[2309.10436v1](http://arxiv.org/abs/2309.10436v1)|**[link](https://github.com/tiers/ws-lidar-as-camera-odom)**|
 |**2023-09-19**|**Dive Deeper into Rectifying Homography for Stereo Camera Online Self-Calibration**|Hongbo Zhao, Yikang Zhang, Qijun Chen, Rui Fan|[2309.10314v2](http://arxiv.org/abs/2309.10314v2)|null|
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito, Marco Cannici, Daniel Gehrig, Joris Belhadj, Olivier Dubois-Matra, Massimo Casasco, Davide Scaramuzza|[2309.09947v1](http://arxiv.org/abs/2309.09947v1)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu, Ruoyan Xia, Xiaosu Xu, Zijian Wang, Yiqing Ya, Mingze Fan|[2309.07408v1](http://arxiv.org/abs/2309.07408v1)|null|
@@ -204,7 +204,7 @@
 |**2023-08-29**|**Graph Theory and its Uses in Graph Algorithms and Beyond**|Rachit Nimavat|[2308.15473v1](http://arxiv.org/abs/2308.15473v1)|null|
 |**2023-08-26**|**Memory-aware Scheduling for Complex Wired Networks with Iterative Graph Optimization**|Shuzhang Zhong, Meng Li, Yun Liang, Runsheng Wang, Ru Huang|[2308.13898v1](http://arxiv.org/abs/2308.13898v1)|null|
 |**2023-08-22**|**A LiDAR-Inertial SLAM Tightly-Coupled with Dropout-Tolerant GNSS Fusion for Autonomous Mine Service Vehicles**|Yusheng Wang, Yidong Lou, Weiwei Song, Bing Zhan, Feihuang Xia, Qigeng Duan|[2308.11492v1](http://arxiv.org/abs/2308.11492v1)|null|
-|**2023-08-22**|**Adaptive Graduated Non-Convexity for Pose Graph Optimization**|Seungwon Choi, Wonseok Kang, Jiseong Chung, Jaehyun Kim, Tae-wan Kim|[2308.11444v1](http://arxiv.org/abs/2308.11444v1)|**[link](https://github.com/snu-dllab/agnc-pgo)**|
+|**2023-08-22**|**Adaptive Graduated Non-Convexity for Pose Graph Optimization**|Seungwon Choi, Wonseok Kang, Jiseong Chung, Jaehyun Kim, Tae-wan Kim|[2308.11444v2](http://arxiv.org/abs/2308.11444v2)|**[link](https://github.com/snu-dllab/agnc-pgo)**|
 |**2023-08-19**|**LEGO: Learning and Graph-Optimized Modular Tracker for Online Multi-Object Tracking with Point Clouds**|Zhenrong Zhang, Jianan Liu, Yuxuan Xia, Tao Huang, Qing-Long Han, Hongbin Liu|[2308.09908v1](http://arxiv.org/abs/2308.09908v1)|null|
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
