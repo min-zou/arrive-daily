@@ -170,7 +170,7 @@
 ## Visual Odometry
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-28**|**XVO: Generalized Visual Odometry via Cross-Modal Self-Training**|Lei Lai, Zhongkai Shangguan, Jimuyang Zhang, Eshed Ohn-Bar|[2309.16772v1](http://arxiv.org/abs/2309.16772v1)|null|
+|**2023-09-28**|**XVO: Generalized Visual Odometry via Cross-Modal Self-Training**|Lei Lai, Zhongkai Shangguan, Jimuyang Zhang, Eshed Ohn-Bar|[2309.16772v2](http://arxiv.org/abs/2309.16772v2)|null|
 |**2023-09-26**|**ObVi-SLAM: Long-Term Object-Visual SLAM**|Amanda Adkins, Taijing Chen, Joydeep Biswas|[2309.15268v1](http://arxiv.org/abs/2309.15268v1)|null|
 |**2023-09-23**|**Tag-based Visual Odometry Estimation for Indoor UAVs Localization**|Massimiliano Bertoni, Simone Montecchio, Giulia Michieletto, Roberto Oboe, Angelo Cenedese|[2309.13311v1](http://arxiv.org/abs/2309.13311v1)|null|
 |**2023-09-22**|**Exposing the Unseen: Exposure Time Emulation for Offline Benchmarking of Vision Algorithms**|Olivier Gamache, Jean-Michel Fortin, Matěj Boxan, François Pomerleau, Philippe Giguère|[2309.13139v1](http://arxiv.org/abs/2309.13139v1)|**[link](https://github.com/norlab-ulaval/borealhdr)**|
@@ -192,7 +192,7 @@
 |**2023-09-23**|**Randomize to Generalize: Domain Randomization for Runway FOD Detection**|Javaria Farooq, Nayyer Aafaq, M Khizer Ali Khan, Ammar Saleem, M Ibraheem Siddiqui|[2309.13264v1](http://arxiv.org/abs/2309.13264v1)|null|
 |**2023-09-23**|**Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-centric Representation**|Ke Fan, Jingshi Lei, Xuelin Qian, Miaopeng Yu, Tianjun Xiao, Tong He, Zheng Zhang, Yanwei Fu|[2309.13248v1](http://arxiv.org/abs/2309.13248v1)|**[link](https://github.com/kfan21/eoras)**|
 |**2023-09-22**|**ClusterFormer: Clustering As A Universal Visual Learner**|James C. Liang, Yiming Cui, Qifan Wang, Tong Geng, Wenguan Wang, Dongfang Liu|[2309.13196v2](http://arxiv.org/abs/2309.13196v2)|null|
-|**2023-09-21**|**Ego3DPose: Capturing 3D Cues from Binocular Egocentric Views**|Taeho Kang, Kyungjin Lee, Jinrui Zhang, Youngki Lee|[2309.11962v1](http://arxiv.org/abs/2309.11962v1)|null|
+|**2023-09-21**|**Ego3DPose: Capturing 3D Cues from Binocular Egocentric Views**|Taeho Kang, Kyungjin Lee, Jinrui Zhang, Youngki Lee|[2309.11962v1](http://arxiv.org/abs/2309.11962v1)|**[link](https://github.com/tho-kn/Ego3DPose)**|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
