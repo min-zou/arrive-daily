@@ -105,6 +105,7 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators**|Haiping Wang, Yuan Liu, Bing Wang, Yujing Sun, Zhen Dong, Wenping Wang, Bisheng Yang|[2310.03420v1](http://arxiv.org/abs/2310.03420v1)|null|
 |**2023-10-03**|**RSRD: A Road Surface Reconstruction Dataset and Benchmark for Safe and Comfortable Autonomous Driving**|Tong Zhao, Chenfeng Xu, Mingyu Ding, Masayoshi Tomizuka, Wei Zhan, Yintao Wei|[2310.02262v1](http://arxiv.org/abs/2310.02262v1)|null|
 |**2023-10-03**|**Selective Feature Adapter for Dense Vision Transformers**|Xueqing Deng, Qi Fan, Xiaojie Jin, Linjie Yang, Peng Wang|[2310.01843v1](http://arxiv.org/abs/2310.01843v1)|null|
 |**2023-10-03**|**Skin the sheep not only once: Reusing Various Depth Datasets to Drive the Learning of Optical Flow**|Sheng-Chi Huang, Wei-Chen Chiu|[2310.01833v1](http://arxiv.org/abs/2310.01833v1)|null|
@@ -114,7 +115,6 @@
 |**2023-09-29**|**GSDC Transformer: An Efficient and Effective Cue Fusion for Monocular Multi-Frame Depth Estimation**|Naiyu Fang, Lemiao Qiu, Shuyou Zhang, Zili Wang, Zheyuan Zhou, Kerui Hu|[2309.17059v1](http://arxiv.org/abs/2309.17059v1)|null|
 |**2023-09-29**|**Text-image Alignment for Diffusion-based Perception**|Neehar Kondapaneni, Markus Marks, Manuel Knott, Rogério Guimarães, Pietro Perona|[2310.00031v2](http://arxiv.org/abs/2310.00031v2)|null|
 |**2023-09-28**|**Multi-scale Recurrent LSTM and Transformer Network for Depth Completion**|Xiaogang Jia, Yusong Tan, Songlei Jian, Yonggang Che|[2309.16301v1](http://arxiv.org/abs/2309.16301v1)|null|
-|**2023-09-27**|**InfraParis: A multi-modal and multi-task autonomous driving dataset**|Gianni Franchi, Marwane Hariat, Xuanlong Yu, Nacim Belkhir, Antoine Manzanera, David Filliat|[2309.15751v1](http://arxiv.org/abs/2309.15751v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**Real-time Multi-modal Object Detection and Tracking on Edge for Regulatory Compliance Monitoring**|Jia Syuen Lim, Ziwei Wang, Jiajun Liu, Abdelwahed Khamis, Reza Arablouei, Robert Barlow, Ryan McAllister|[2310.03333v1](http://arxiv.org/abs/2310.03333v1)|null|
 |**2023-10-04**|**COOLer: Class-Incremental Learning for Appearance-Based Multiple Object Tracking**|Zhizheng Liu, Mattia Segu, Fisher Yu|[2310.03006v2](http://arxiv.org/abs/2310.03006v2)|**[link](https://github.com/BoSmallEar/COOLer)**|
 |**2023-10-04**|**ShaSTA-Fuse: Camera-LiDAR Sensor Fusion to Model Shape and Spatio-Temporal Affinities for 3D Multi-Object Tracking**|Tara Sadjadpour, Rares Ambrus, Jeannette Bohg|[2310.02532v1](http://arxiv.org/abs/2310.02532v1)|null|
 |**2023-10-03**|**DARTH: Holistic Test-time Adaptation for Multiple Object Tracking**|Mattia Segu, Bernt Schiele, Fisher Yu|[2310.01926v1](http://arxiv.org/abs/2310.01926v1)|null|
@@ -140,7 +141,6 @@
 |**2023-09-29**|**SpikeMOT: Event-based Multi-Object Tracking with Sparse Motion Features**|Song Wang, Zhu Wang, Can Li, Xiaojuan Qi, Hayden Kwok-Hay So|[2309.16987v1](http://arxiv.org/abs/2309.16987v1)|null|
 |**2023-09-27**|**Physics-Based Rigid Body Object Tracking and Friction Filtering From RGB-D Videos**|Rama Krishna Kandukuri, Michael Strecke, Joerg Stueckler|[2309.15703v1](http://arxiv.org/abs/2309.15703v1)|null|
 |**2023-09-27**|**3D Multiple Object Tracking on Autonomous Driving: A Literature Review**|Peng Zhang, Xin Li, Liang He, Xin Lin|[2309.15411v2](http://arxiv.org/abs/2309.15411v2)|null|
-|**2023-09-26**|**Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline**|Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang|[2309.14611v1](http://arxiv.org/abs/2309.14611v1)|**[link](https://github.com/event-ahu/coesot)**|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**Robust and Interpretable Medical Image Classifiers via Concept Bottleneck Models**|An Yan, Yu Wang, Yiwu Zhong, Zexue He, Petros Karypis, Zihan Wang, Chengyu Dong, Amilcare Gentili, Chun-Nan Hsu, Jingbo Shang, Julian McAuley|[2310.03182v1](http://arxiv.org/abs/2310.03182v1)|null|
 |**2023-10-03**|**ScaleNet: An Unsupervised Representation Learning Method for Limited Information**|Huili Huang, M. Mahdi Roozbahani|[2310.02386v1](http://arxiv.org/abs/2310.02386v1)|null|
 |**2023-10-03**|**Detecting internal disorders in fruit by CT. Part 1: Joint 2D to 3D image registration workflow for comparing multiple slice photographs and CT scans of apple fruit**|Dirk Elias Schut, Rachael Maree Wood, Anna Katharina Trull, Rob Schouten, Robert van Liere, Tristan van Leeuwen, Kees Joost Batenburg|[2310.01987v1](http://arxiv.org/abs/2310.01987v1)|null|
 |**2023-10-02**|**LEAP: Liberate Sparse-view 3D Modeling from Camera Poses**|Hanwen Jiang, Zhenyu Jiang, Yue Zhao, Qixing Huang|[2310.01410v1](http://arxiv.org/abs/2310.01410v1)|null|
@@ -192,7 +193,6 @@
 |**2023-09-29**|**Practical Membership Inference Attacks Against Large-Scale Multi-Modal Models: A Pilot Study**|Myeongseob Ko, Ming Jin, Chenguang Wang, Ruoxi Jia|[2310.00108v1](http://arxiv.org/abs/2310.00108v1)|**[link](https://github.com/ruoxi-jia-group/clip-mia)**|
 |**2023-09-25**|**Assessment of IBM and NASA's geospatial foundation model in flood inundation mapping**|Wenwen Li, Hyunho Lee, Sizhe Wang, Chia-Yu Hsu, Samantha T. Arundel|[2309.14500v1](http://arxiv.org/abs/2309.14500v1)|null|
 |**2023-09-25**|**Unsupervised correspondence with combined geometric learning and imaging for radiotherapy applications**|Edward G. A. Henderson, Marcel van Herk, Andrew F. Green, Eliana M. Vasquez Osorio|[2309.14269v1](http://arxiv.org/abs/2309.14269v1)|**[link](https://github.com/rrr-uom-projects/unsup-rt-corr-net)**|
-|**2023-09-25**|**Recursive Counterfactual Deconfounding for Object Recognition**|Jiayin Sun, Hong Wang, Qiulei Dong|[2309.13924v1](http://arxiv.org/abs/2309.13924v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
