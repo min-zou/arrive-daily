@@ -2,7 +2,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-10-04**|**Active Visual Localization for Multi-Agent Collaboration: A Data-Driven Approach**|Matthew Hanlon, Boyang Sun, Marc Pollefeys, Hermann Blum|[2310.02650v1](http://arxiv.org/abs/2310.02650v1)|null|
-|**2023-10-03**|**A 3D Mixed Reality Interface for Human-Robot Teaming**|Jiaqi Chen, Boyang Sun, Marc Pollefeys, Hermann Blum|[2310.02392v1](http://arxiv.org/abs/2310.02392v1)|null|
+|**2023-10-03**|**A 3D Mixed Reality Interface for Human-Robot Teaming**|Jiaqi Chen, Boyang Sun, Marc Pollefeys, Hermann Blum|[2310.02392v1](http://arxiv.org/abs/2310.02392v1)|**[link](https://github.com/cvg/hololens_ros)**|
 |**2023-10-03**|**Collaborative Active SLAM: Synchronous and Asynchronous Coordination Among Agents**|Matteo Maragliano, Muhammad Farhan Ahmed, Carmine Tommaso Recchiuto, Antonio Sgorbissa, Vincent Fremont|[2310.01967v1](http://arxiv.org/abs/2310.01967v1)|null|
 |**2023-10-02**|**Multi-Sensor Terrestrial SLAM for Real-Time, Large-Scale, and GNSS-Interrupted Forest Mapping**|Weria Khaksar, Rasmus Astrup|[2310.01064v1](http://arxiv.org/abs/2310.01064v1)|null|
 |**2023-09-30**|**Better Situational Graphs by Inferring High-level Semantic-Relational Concepts**|Jose Andres Millan-Romera, Hriday Bavle, Muhammad Shaheer, Martin R. Oswald, Holger Voos, Jose Luis Sanchez-Lopez|[2310.00401v1](http://arxiv.org/abs/2310.00401v1)|null|
@@ -185,7 +185,7 @@
 |---|---|---|---|---|
 |**2023-10-04**|**Robust and Interpretable Medical Image Classifiers via Concept Bottleneck Models**|An Yan, Yu Wang, Yiwu Zhong, Zexue He, Petros Karypis, Zihan Wang, Chengyu Dong, Amilcare Gentili, Chun-Nan Hsu, Jingbo Shang, Julian McAuley|[2310.03182v1](http://arxiv.org/abs/2310.03182v1)|null|
 |**2023-10-03**|**ScaleNet: An Unsupervised Representation Learning Method for Limited Information**|Huili Huang, M. Mahdi Roozbahani|[2310.02386v1](http://arxiv.org/abs/2310.02386v1)|null|
-|**2023-10-03**|**Detecting internal disorders in fruit by CT. Part 1: Joint 2D to 3D image registration workflow for comparing multiple slice photographs and CT scans of apple fruit**|Dirk Elias Schut, Rachael Maree Wood, Anna Katharina Trull, Rob Schouten, Robert van Liere, Tristan van Leeuwen, Kees Joost Batenburg|[2310.01987v1](http://arxiv.org/abs/2310.01987v1)|null|
+|**2023-10-03**|**Detecting internal disorders in fruit by CT. Part 1: Joint 2D to 3D image registration workflow for comparing multiple slice photographs and CT scans of apple fruit**|Dirk Elias Schut, Rachael Maree Wood, Anna Katharina Trull, Rob Schouten, Robert van Liere, Tristan van Leeuwen, Kees Joost Batenburg|[2310.01987v1](http://arxiv.org/abs/2310.01987v1)|**[link](https://github.com/d1rk123/apple_photo_ct_workflow)**|
 |**2023-10-02**|**LEAP: Liberate Sparse-view 3D Modeling from Camera Poses**|Hanwen Jiang, Zhenyu Jiang, Yue Zhao, Qixing Huang|[2310.01410v1](http://arxiv.org/abs/2310.01410v1)|null|
 |**2023-10-01**|**You Do Not Need Additional Priors in Camouflage Object Detection**|Yuchen Dong, Heng Zhou, Chengyang Li, Junjie Xie, Yongqiang Xie, Zhongbo Li|[2310.00702v1](http://arxiv.org/abs/2310.00702v1)|null|
 |**2023-09-30**|**MonoGAE: Roadside Monocular 3D Object Detection with Ground-Aware Embeddings**|Lei Yang, Jiaxin Yu, Xinyu Zhang, Jun Li, Li Wang, Yi Huang, Chuang Zhang, Hong Wang, Yiming Li|[2310.00400v1](http://arxiv.org/abs/2310.00400v1)|null|
@@ -196,8 +196,8 @@
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-04**|**Long-Term Dynamic Window Approach for Kinodynamic Local Planning in Static and Crowd Environments**|Zhiqiang Jian, Songyi Zhang, Lingfeng Sun, Wei Zhan, Nanning Zheng, Masayoshi Tomizuka|[2310.02648v1](http://arxiv.org/abs/2310.02648v1)|null|
-|**2023-10-04**|**Tightly Joining Positioning and Control for Trustworthy Unmanned Aerial Vehicles Based on Factor Graph Optimization in Urban Transportation**|Peiwen Yang, Weisong Wen|[2310.02542v1](http://arxiv.org/abs/2310.02542v1)|null|
+|**2023-10-04**|**Long-Term Dynamic Window Approach for Kinodynamic Local Planning in Static and Crowd Environments**|Zhiqiang Jian, Songyi Zhang, Lingfeng Sun, Wei Zhan, Nanning Zheng, Masayoshi Tomizuka|[2310.02648v1](http://arxiv.org/abs/2310.02648v1)|**[link](https://github.com/flztiii/lt_dwa)**|
+|**2023-10-04**|**Tightly Joining Positioning and Control for Trustworthy Unmanned Aerial Vehicles Based on Factor Graph Optimization in Urban Transportation**|Peiwen Yang, Weisong Wen|[2310.02542v1](http://arxiv.org/abs/2310.02542v1)|**[link](https://github.com/roboticspolyu/ipn_mpc)**|
 |**2023-09-26**|**Volumetric Semantically Consistent 3D Panoptic Mapping**|Yang Miao, Iro Armeni, Marc Pollefeys, Daniel Barath|[2309.14737v1](http://arxiv.org/abs/2309.14737v1)|**[link](https://github.com/y9miao/consistentpanopticslam)**|
 |**2023-09-20**|**GNSS/Multi-Sensor Fusion Using Continuous-Time Factor Graph Optimization for Robust Localization**|Haoming Zhang, Chih-Chun Chen, Heike Vallery, Timothy D. Barfoot|[2309.11134v1](http://arxiv.org/abs/2309.11134v1)|null|
 |**2023-09-18**|**Hierarchical Attention and Graph Neural Networks: Toward Drift-Free Pose Estimation**|Kathia Melbouci, Fawzi Nashashibi|[2309.09934v1](http://arxiv.org/abs/2309.09934v1)|null|
