@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-19**|**Real space iterative reconstruction for vector tomography (RESIRE-V)**|Minh Pham, Xingyuan Lu, Arjun Rana, Stanley Osher, Jianwei Miao|[2310.12513v1](http://arxiv.org/abs/2310.12513v1)|null|
 |**2023-10-18**|**ShapeGraFormer: GraFormer-Based Network for Hand-Object Reconstruction from a Single Depth Map**|Ahmed Tawfik Aboukhadra, Jameel Malik, Nadia Robertini, Ahmed Elhayek, Didier Stricker|[2310.11811v1](http://arxiv.org/abs/2310.11811v1)|null|
 |**2023-10-17**|**Learning Neural Implicit through Volume Rendering with Attentive Depth Fusion Priors**|Pengchong Hu, Zhizhong Han|[2310.11598v1](http://arxiv.org/abs/2310.11598v1)|null|
 |**2023-10-17**|**Field Robot for High-throughput and High-resolution 3D Plant Phenotyping**|Felix Esser, Radu Alexandru Rosu, André Cornelißen, Lasse Klingbeil, Heiner Kuhlmann, Sven Behnke|[2310.11516v1](http://arxiv.org/abs/2310.11516v1)|null|
@@ -101,7 +102,6 @@
 |**2023-10-15**|**Tabletop Transparent Scene Reconstruction via Epipolar-Guided Optical Flow with Monocular Depth Completion Prior**|Xiaotong Chen, Zheming Zhou, Zhuo Deng, Omid Ghasemalizadeh, Min Sun, Cheng-Hao Kuo, Arnie Sen|[2310.09956v1](http://arxiv.org/abs/2310.09956v1)|null|
 |**2023-10-15**|**CBARF: Cascaded Bundle-Adjusting Neural Radiance Fields from Imperfect Camera Poses**|Hongyu Fu, Xin Yu, Lincheng Li, Li Zhang|[2310.09776v1](http://arxiv.org/abs/2310.09776v1)|null|
 |**2023-10-12**|**PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm**|Haoyi Zhu, Honghui Yang, Xiaoyang Wu, Di Huang, Sha Zhang, Xianglong He, Tong He, Hengshuang Zhao, Chunhua Shen, Yu Qiao, Wanli Ouyang|[2310.08586v2](http://arxiv.org/abs/2310.08586v2)|**[link](https://github.com/OpenGVLab/PonderV2)**|
-|**2023-10-12**|**Consistent123: Improve Consistency for One Image to 3D Object Synthesis**|Haohan Weng, Tianyu Yang, Jianan Wang, Yu Li, Tong Zhang, C. L. Philip Chen, Lei Zhang|[2310.08092v1](http://arxiv.org/abs/2310.08092v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-19**|**Deep Learning Techniques for Video Instance Segmentation: A Survey**|Chenhao Xu, Chang-Tsun Li, Yongjian Hu, Chee Peng Lim, Douglas Creighton|[2310.12393v1](http://arxiv.org/abs/2310.12393v1)|null|
 |**2023-10-15**|**Staged Depthwise Correlation and Feature Fusion for Siamese Object Tracking**|Dianbo Ma, Jianqiang Xiao, Ziyan Gao, Satoshi Yamane|[2310.09747v1](http://arxiv.org/abs/2310.09747v1)|null|
 |**2023-10-12**|**Multi-Modal Sensor Fusion and Object Tracking for Autonomous Racing**|Phillip Karle, Felix Fent, Sebastian Huch, Florian Sauerbeck, Markus Lienkamp|[2310.08114v1](http://arxiv.org/abs/2310.08114v1)|**[link](https://github.com/tumftm/fusiontracking)**|
 |**2023-10-10**|**Zero-Shot Open-Vocabulary Tracking with Large Pre-Trained Models**|Wen-Hsuan Chu, Adam W. Harley, Pavel Tokmakov, Achal Dave, Leonidas Guibas, Katerina Fragkiadaki|[2310.06992v1](http://arxiv.org/abs/2310.06992v1)|null|
@@ -140,7 +141,6 @@
 |**2023-10-04**|**COOLer: Class-Incremental Learning for Appearance-Based Multiple Object Tracking**|Zhizheng Liu, Mattia Segu, Fisher Yu|[2310.03006v2](http://arxiv.org/abs/2310.03006v2)|**[link](https://github.com/BoSmallEar/COOLer)**|
 |**2023-10-04**|**ShaSTA-Fuse: Camera-LiDAR Sensor Fusion to Model Shape and Spatio-Temporal Affinities for 3D Multi-Object Tracking**|Tara Sadjadpour, Rares Ambrus, Jeannette Bohg|[2310.02532v1](http://arxiv.org/abs/2310.02532v1)|null|
 |**2023-10-03**|**DARTH: Holistic Test-time Adaptation for Multiple Object Tracking**|Mattia Segu, Bernt Schiele, Fisher Yu|[2310.01926v1](http://arxiv.org/abs/2310.01926v1)|**[link](https://github.com/mattiasegu/darth)**|
-|**2023-10-02**|**Offline Tracking with Object Permanence**|Xianzhong Liu, Holger Caesar|[2310.01288v1](http://arxiv.org/abs/2310.01288v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-19**|**Diverse Diffusion: Enhancing Image Diversity in Text-to-Image Generation**|Mariia Zameshina, Olivier Teytaud, Laurent Najman|[2310.12583v1](http://arxiv.org/abs/2310.12583v1)|null|
 |**2023-10-18**|**Runner re-identification from single-view video in the open-world setting**|Tomohiro Suzuki, Kazushi Tsutsui, Kazuya Takeda, Keisuke Fujii|[2310.11700v1](http://arxiv.org/abs/2310.11700v1)|null|
 |**2023-10-17**|**Sparse Multi-Object Render-and-Compare**|Florian Langer, Ignas Budvytis, Roberto Cipolla|[2310.11184v1](http://arxiv.org/abs/2310.11184v1)|null|
 |**2023-10-16**|**Quantum Image Thresholding without Images**|Ayan Barui, Mayukha Pal, Prasanta K. Panigrahi|[2310.10753v1](http://arxiv.org/abs/2310.10753v1)|null|
@@ -192,7 +193,6 @@
 |**2023-10-13**|**Feature Proliferation -- the "Cancer" in StyleGAN and its Treatments**|Shuang Song, Yuanbang Liang, Jing Wu, Yu-Kun Lai, Yipeng Qin|[2310.08921v1](http://arxiv.org/abs/2310.08921v1)|**[link](https://github.com/songc42/feature-proliferation)**|
 |**2023-10-12**|**Im4D: High-Fidelity and Real-Time Novel View Synthesis for Dynamic Scenes**|Haotong Lin, Sida Peng, Zhen Xu, Tao Xie, Xingyi He, Hujun Bao, Xiaowei Zhou|[2310.08585v1](http://arxiv.org/abs/2310.08585v1)|null|
 |**2023-10-12**|**GraphAlign: Enhancing Accurate Feature Alignment by Graph matching for Multi-Modal 3D Object Detection**|Ziying Song, Haiyue Wei, Lin Bai, Lei Yang, Caiyan Jia|[2310.08261v1](http://arxiv.org/abs/2310.08261v1)|null|
-|**2023-10-11**|**CLIP for Lightweight Semantic Segmentation**|Ke Jin, Wankou Yang|[2310.07394v1](http://arxiv.org/abs/2310.07394v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -209,6 +209,7 @@
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-19**|**Multiscale Motion-Aware and Spatial-Temporal-Channel Contextual Coding Network for Learned Video Compression**|Yiming Wang, Qian Huang, Bin Tang, Huashan Sun, Xing Li|[2310.12733v1](http://arxiv.org/abs/2310.12733v1)|null|
 |**2023-10-16**|**A Novel Benchmarking Paradigm and a Scale- and Motion-Aware Model for Egocentric Pedestrian Trajectory Prediction**|Amir Rasouli|[2310.10424v1](http://arxiv.org/abs/2310.10424v1)|null|
 |**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu, Hannah Schieber, Nicolas Schischka, Melih Görgülü, Florian Grötzner, Alexander Ladikos, Daniel Roth, Nassir Navab, Benjamin Busam|[2309.08927v1](http://arxiv.org/abs/2309.08927v1)|null|
 |**2023-09-16**|**Dual-Camera Joint Deblurring-Denoising**|Shayan Shekarforoush, Amanpreet Walia, Marcus A. Brubaker, Konstantinos G. Derpanis, Alex Levinshtein|[2309.08826v1](http://arxiv.org/abs/2309.08826v1)|null|
@@ -218,4 +219,3 @@
 |**2023-08-23**|**Motion-to-Matching: A Mixed Paradigm for 3D Single Object Tracking**|Zhiheng Li, Yu Lin, Yubo Cui, Shuo Li, Zheng Fang|[2308.11875v1](http://arxiv.org/abs/2308.11875v1)|**[link](https://github.com/leozhiheng/mtm-tracker)**|
 |**2023-08-22**|**Delving into Motion-Aware Matching for Monocular 3D Object Tracking**|Kuan-Chih Huang, Ming-Hsuan Yang, Yi-Hsuan Tsai|[2308.11607v1](http://arxiv.org/abs/2308.11607v1)|**[link](https://github.com/kuanchihhuang/moma-m3t)**|
 |**2023-08-09**|**Seeing in Flowing: Adapting CLIP for Action Recognition with Motion Prompts Learning**|Qiang Wang, Junlong Du, Ke Yan, Shouhong Ding|[2308.04828v1](http://arxiv.org/abs/2308.04828v1)|null|
-|**2023-07-18**|**MarS3D: A Plug-and-Play Motion-Aware Model for Semantic Segmentation on Multi-Scan 3D Point Clouds**|Jiahui Liu, Chirui Chang, Jianhui Liu, Xiaoyang Wu, Lan Ma, Xiaojuan Qi|[2307.09316v1](http://arxiv.org/abs/2307.09316v1)|**[link](https://github.com/cvmi-lab/mars3d)**|
