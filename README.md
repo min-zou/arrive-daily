@@ -66,6 +66,7 @@
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**The intelligent agent model -- a fully two-dimensional microscopic traffic flow model**|Martin Treiber, Ankit Anil Chaudhari|[2310.16816v1](http://arxiv.org/abs/2310.16816v1)|null|
 |**2023-10-09**|**Colmap-PCD: An Open-source Tool for Fine Image-to-point cloud Registration**|Chunge Bai, Ruijie Fu, Xiang Gao|[2310.05504v1](http://arxiv.org/abs/2310.05504v1)|**[link](https://github.com/xiaobaiiiiii/colmap-pcd)**|
 |**2023-10-08**|**LocoNeRF: A NeRF-based Approach for Local Structure from Motion for Precise Localization**|Artem Nenashev, Mikhail Kurenkov, Andrei Potapov, Iana Zhura, Maksim Katerishich, Dzmitry Tsetserukou|[2310.05134v1](http://arxiv.org/abs/2310.05134v1)|null|
 |**2023-10-01**|**Propagating Semantic Labels in Video Data**|David Balaban, Justin Medich, Pranay Gosar, Justin Hart|[2310.00783v1](http://arxiv.org/abs/2310.00783v1)|null|
@@ -75,7 +76,6 @@
 |**2023-09-21**|**On-the-Fly SfM: What you capture is What you get**|Zongqian Zhan, Rui Xia, Yifei Yu, Yibo Xu, Xin Wang|[2309.11883v1](http://arxiv.org/abs/2309.11883v1)|null|
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy, Vincent Leroy, Philippe Weinzaepfel, Fabien Baradel, Salma Galaaoui, Romain Bregier, Matthieu Armando, Jean-Sebastien Franco, Gregory Rogez|[2309.10748v1](http://arxiv.org/abs/2309.10748v1)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi, Robin Murphy|[2309.10269v1](http://arxiv.org/abs/2309.10269v1)|null|
-|**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu, Hannah Schieber, Nicolas Schischka, Melih Görgülü, Florian Grötzner, Alexander Ladikos, Daniel Roth, Nassir Navab, Benjamin Busam|[2309.08927v1](http://arxiv.org/abs/2309.08927v1)|null|
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**Open-NeRF: Towards Open Vocabulary NeRF Decomposition**|Hao Zhang, Fang Li, Narendra Ahuja|[2310.16383v1](http://arxiv.org/abs/2310.16383v1)|null|
 |**2023-10-23**|**Novel-View Acoustic Synthesis from 3D Reconstructed Rooms**|Byeongjoo Ahn, Karren Yang, Brian Hamilton, Jonathan Sheaffer, Anurag Ranjan, Miguel Sarabia, Oncel Tuzel, Jen-Hao Rick Chang|[2310.15130v1](http://arxiv.org/abs/2310.15130v1)|**[link](https://github.com/apple/ml-nvas3d)**|
 |**2023-10-23**|**Interaction-Driven Active 3D Reconstruction with Object Interiors**|Zihao Yan, Fubao Su, Mingyang Wang, Ruizhen Hu, Hao Zhang, Hui Huang|[2310.14700v1](http://arxiv.org/abs/2310.14700v1)|null|
 |**2023-10-23**|**VQ-NeRF: Vector Quantization Enhances Implicit Neural Representations**|Yiying Yang, Wen Liu, Fukun Yin, Xin Chen, Gang Yu, Jiayuan Fan, Tao Chen|[2310.14487v1](http://arxiv.org/abs/2310.14487v1)|null|
@@ -101,20 +102,19 @@
 |**2023-10-19**|**Real space iterative reconstruction for vector tomography (RESIRE-V)**|Minh Pham, Xingyuan Lu, Arjun Rana, Stanley Osher, Jianwei Miao|[2310.12513v1](http://arxiv.org/abs/2310.12513v1)|**[link](https://github.com/minhpham0309/resire-v)**|
 |**2023-10-18**|**ShapeGraFormer: GraFormer-Based Network for Hand-Object Reconstruction from a Single Depth Map**|Ahmed Tawfik Aboukhadra, Jameel Malik, Nadia Robertini, Ahmed Elhayek, Didier Stricker|[2310.11811v1](http://arxiv.org/abs/2310.11811v1)|null|
 |**2023-10-17**|**Learning Neural Implicit through Volume Rendering with Attentive Depth Fusion Priors**|Pengchong Hu, Zhizhong Han|[2310.11598v1](http://arxiv.org/abs/2310.11598v1)|null|
-|**2023-10-17**|**Field Robot for High-throughput and High-resolution 3D Plant Phenotyping**|Felix Esser, Radu Alexandru Rosu, André Cornelißen, Lasse Klingbeil, Heiner Kuhlmann, Sven Behnke|[2310.11516v1](http://arxiv.org/abs/2310.11516v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang, Peng Wang, Zhaoxi Chen, Wenping Wang, Chen Change Loy, Ziwei Liu|[2310.16831v1](http://arxiv.org/abs/2310.16831v1)|null|
+|**2023-10-25**|**Metrically Scaled Monocular Depth Estimation through Sparse Priors for Underwater Robots**|Luca Ebner, Gideon Billings, Stefan Williams|[2310.16750v1](http://arxiv.org/abs/2310.16750v1)|**[link](https://github.com/ebnerluca/uw_depth)**|
+|**2023-10-25**|**Towards Explainability in Monocular Depth Estimation**|Vasileios Arampatzakis, George Pavlidis, Kyriakos Pantoglou, Nikolaos Mitianoudis, Nikos Papamarkos|[2310.16457v1](http://arxiv.org/abs/2310.16457v1)|null|
+|**2023-10-24**|**iNVS: Repurposing Diffusion Inpainters for Novel View Synthesis**|Yash Kant, Aliaksandr Siarohin, Michael Vasilkovsky, Riza Alp Guler, Jian Ren, Sergey Tulyakov, Igor Gilitschenski|[2310.16167v1](http://arxiv.org/abs/2310.16167v1)|null|
 |**2023-10-24**|**Spatio-temporal reconstruction of drop impact dynamics by means of color-coded glare points and deep learning**|Maximilian Dreisbach, Jochen Kriegseis, Alexander Stroh|[2310.16009v1](http://arxiv.org/abs/2310.16009v1)|null|
 |**2023-10-24**|**G2-MonoDepth: A General Framework of Generalized Depth Inference from Monocular RGB+X Data**|Haotian Wang, Meng Yang, Nanning Zheng|[2310.15422v1](http://arxiv.org/abs/2310.15422v1)|**[link](https://github.com/wang-xjtu/g2-monodepth)**|
 |**2023-10-23**|**RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions**|Lingdong Kong, Shaoyuan Xie, Hanjiang Hu, Lai Xing Ng, Benoit R. Cottereau, Wei Tsang Ooi|[2310.15171v1](http://arxiv.org/abs/2310.15171v1)|**[link](https://github.com/ldkong1205/robodepth)**|
 |**2023-10-22**|**Mobile AR Depth Estimation: Challenges & Prospects -- Extended Version**|Ashkan Ganj, Yiqin Zhao, Hang Su, Tian Guo|[2310.14437v1](http://arxiv.org/abs/2310.14437v1)|null|
 |**2023-10-22**|**A Quantitative Evaluation of Dense 3D Reconstruction of Sinus Anatomy from Monocular Endoscopic Video**|Jan Emily Mangulabnan, Roger D. Soberanis-Mukul, Timo Teufel, Isabela Hernández, Jonas Winter, Manish Sahu, Jose L. Porras, S. Swaroop Vedula, Masaru Ishii, Gregory Hager, Russell H. Taylor, Mathias Unberath|[2310.14364v1](http://arxiv.org/abs/2310.14364v1)|null|
 |**2023-10-22**|**Guidance system for Visually Impaired Persons using Deep Learning and Optical flow**|Shwetang Dubey, Alok Ranjan Sahoo, Pavan Chakraborty|[2310.14239v1](http://arxiv.org/abs/2310.14239v1)|null|
-|**2023-10-21**|**CLIP meets Model Zoo Experts: Pseudo-Supervision for Visual Enhancement**|Mohammadreza Salehi, Mehrdad Farajtabar, Maxwell Horton, Fartash Faghri, Hadi Pouransari, Raviteja Vemulapalli, Oncel Tuzel, Ali Farhadi, Mohammad Rastegari, Sachin Mehta|[2310.14108v1](http://arxiv.org/abs/2310.14108v1)|null|
-|**2023-10-18**|**Towards Abdominal 3-D Scene Rendering from Laparoscopy Surgical Videos using NeRFs**|Khoa Tuan Nguyen, Francesca Tozzi, Nikdokht Rashidian, Wouter Willaert, Joris Vankerschaver, Wesley De Neve|[2310.11645v1](http://arxiv.org/abs/2310.11645v1)|null|
-|**2023-10-17**|**FocDepthFormer: Transformer with LSTM for Depth Estimation from Focus**|Xueyang Kang, Fengze Han, Abdur Fayjie, Dong Gong|[2310.11178v1](http://arxiv.org/abs/2310.11178v1)|null|
-|**2023-10-12**|**Is Generalized Dynamic Novel View Synthesis from Monocular Videos Possible Today?**|Xiaoming Zhao, Alex Colburn, Fangchang Ma, Miguel Angel Bautista, Joshua M. Susskind, Alexander G. Schwing|[2310.08587v1](http://arxiv.org/abs/2310.08587v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -132,7 +132,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-10-23**|**Label Space Partition Selection for Multi-Object Tracking Using Two-Layer Partitioning**|Ji Youn Lee, Changbeom Shim, Hoa Van Nguyen, Tran Thien Dat Nguyen, Hyunjin Choi, Youngho Kim|[2310.14506v1](http://arxiv.org/abs/2310.14506v1)|null|
-|**2023-10-22**|**Quantum Walk Search in Motion**|Himanshu Sahu, Kallol Sen|[2310.14345v1](http://arxiv.org/abs/2310.14345v1)|null|
+|**2023-10-22**|**Quantum Walk Search in Motion**|Himanshu Sahu, Kallol Sen|[2310.14345v1](http://arxiv.org/abs/2310.14345v1)|**[link](https://github.com/kmax-art/q-search)**|
 |**2023-10-22**|**Deep MDP: A Modular Framework for Multi-Object Tracking**|Abhineet Singh|[2310.14294v1](http://arxiv.org/abs/2310.14294v1)|**[link](https://github.com/abhineet123/deep_mdp)**|
 |**2023-10-22**|**Distractor-aware Event-based Tracking**|Yingkai Fu, Meng Li, Wenxi Liu, Yuanchen Wang, Jiqing Zhang, Baocai Yin, Xiaopeng Wei, Xin Yang|[2310.14194v1](http://arxiv.org/abs/2310.14194v1)|null|
 |**2023-10-20**|**Simultaneous Shape Tracking of Multiple Deformable Linear Objects with Global-Local Topology Preservation**|Jingyi Xiang, Holly Dinkel|[2310.13245v2](http://arxiv.org/abs/2310.13245v2)|**[link](https://github.com/RMDLO/multi-dlo)**|
@@ -144,6 +144,8 @@
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**UAV Pathfinding in Dynamic Obstacle Avoidance with Multi-agent Reinforcement Learning**|Qizhen Wu, Lei Chen, Kexin Liu, Jinhu Lv|[2310.16659v1](http://arxiv.org/abs/2310.16659v1)|null|
+|**2023-10-25**|**Model predictive control-based value estimation for efficient reinforcement learning**|Qizhen Wu, Kexin Liu, Lei Chen|[2310.16646v1](http://arxiv.org/abs/2310.16646v1)|null|
 |**2023-10-22**|**Detrive: Imitation Learning with Transformer Detection for End-to-End Autonomous Driving**|Daoming Chen, Ning Wang, Feng Chen, Tony Pipe|[2310.14224v1](http://arxiv.org/abs/2310.14224v1)|**[link](https://github.com/Alexbeast-CN/Detrive)**|
 |**2023-10-15**|**Free as a Bird: Event-based Dynamic Sense-and-Avoid for Ornithopter Robot Flight**|J. P. Rodríguez-Gómez, R. Tapia, M. M. Guzmán, J. R. Martínez-de Dios, A. Ollero|[2310.09875v1](http://arxiv.org/abs/2310.09875v1)|null|
 |**2023-10-03**|**Event-Enhanced Multi-Modal Spiking Neural Network for Dynamic Obstacle Avoidance**|Yang Wang, Bo Dong, Yuji Zhang, Yunduo Zhou, Haiyang Mei, Ziqi Wei, Xin Yang|[2310.02361v1](http://arxiv.org/abs/2310.02361v1)|null|
@@ -152,8 +154,6 @@
 |**2023-07-29**|**DREAM: Decentralized Real-time Asynchronous Probabilistic Trajectory Planning for Collision-free Multi-Robot Navigation in Cluttered Environments**|Baskın Şenbaşlar, Gaurav S. Sukhatme|[2307.15887v1](http://arxiv.org/abs/2307.15887v1)|null|
 |**2023-07-06**|**Sequential Neural Barriers for Scalable Dynamic Obstacle Avoidance**|Hongzhan Yu, Chiaki Hirayama, Chenning Yu, Sylvia Herbert, Sicun Gao|[2307.03015v1](http://arxiv.org/abs/2307.03015v1)|null|
 |**2023-02-24**|**Probabilistic Trajectory Planning for Static and Interaction-aware Dynamic Obstacle Avoidance**|Baskın Şenbaşlar, Gaurav S. Sukhatme|[2302.12873v1](http://arxiv.org/abs/2302.12873v1)|null|
-|**2022-12-08**|**Enhanced method for reinforcement learning based dynamic obstacle avoidance by assessment of collision risk**|Fabian Hart, Ostap Okhrin|[2212.04123v1](http://arxiv.org/abs/2212.04123v1)|null|
-|**2022-11-21**|**Safety-critical model predictive control with control barrier function for dynamic obstacle avoidance**|Nhat Nguyen Minh, Stephen McIlvanna, Yuzhu Sun, Yan Jin, Mien Van|[2211.11348v1](http://arxiv.org/abs/2211.11348v1)|null|
 ## PointCloud
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,7 +183,9 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-24**|**GNeSF: Generalizable Neural Semantic Fields**|Hanlin Chen, Chen Li, Mengqi Guo, Zhiwen Yan, Gim Hee Lee|[2310.15712v1](http://arxiv.org/abs/2310.15712v1)|null|
+|**2023-10-25**|**SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation**|Qianxu Wang, Haotong Zhang, Congyue Deng, Yang You, Hao Dong, Yixin Zhu, Leonidas Guibas|[2310.16838v1](http://arxiv.org/abs/2310.16838v1)|null|
+|**2023-10-25**|**Context Does Matter: End-to-end Panoptic Narrative Grounding with Deformable Attention Refined Matching Network**|Yiming Lin, Xiao-Bo Jin, Qiufeng Wang, Kaizhu Huang|[2310.16616v1](http://arxiv.org/abs/2310.16616v1)|null|
+|**2023-10-24**|**GNeSF: Generalizable Neural Semantic Fields**|Hanlin Chen, Chen Li, Mengqi Guo, Zhiwen Yan, Gim Hee Lee|[2310.15712v2](http://arxiv.org/abs/2310.15712v2)|null|
 |**2023-10-21**|**Unlock Multi-Modal Capability of Dense Retrieval via Visual Module Plugin**|Tianshuo Zhou, Sen Mei, Xinze Li, Zhenghao Liu, Chenyan Xiong, Zhiyuan Liu, Yu Gu, Ge Yu|[2310.14037v1](http://arxiv.org/abs/2310.14037v1)|**[link](https://github.com/openmatch/marvel)**|
 |**2023-10-20**|**ManifoldNeRF: View-dependent Image Feature Supervision for Few-shot Neural Radiance Fields**|Daiju Kanaoka, Motoharu Sonogashira, Hakaru Tamukoh, Yasutomo Kawanishi|[2310.13670v1](http://arxiv.org/abs/2310.13670v1)|null|
 |**2023-10-20**|**SILC: Improving Vision Language Pretraining with Self-Distillation**|Muhammad Ferjad Naeem, Yongqin Xian, Xiaohua Zhai, Lukas Hoyer, Luc Van Gool, Federico Tombari|[2310.13355v1](http://arxiv.org/abs/2310.13355v1)|null|
@@ -191,8 +193,6 @@
 |**2023-10-18**|**Runner re-identification from single-view video in the open-world setting**|Tomohiro Suzuki, Kazushi Tsutsui, Kazuya Takeda, Keisuke Fujii|[2310.11700v1](http://arxiv.org/abs/2310.11700v1)|null|
 |**2023-10-17**|**Sparse Multi-Object Render-and-Compare**|Florian Langer, Ignas Budvytis, Roberto Cipolla|[2310.11184v1](http://arxiv.org/abs/2310.11184v1)|null|
 |**2023-10-16**|**Quantum Image Thresholding without Images**|Ayan Barui, Mayukha Pal, Prasanta K. Panigrahi|[2310.10753v1](http://arxiv.org/abs/2310.10753v1)|null|
-|**2023-10-16**|**Unifying Image Processing as Visual Prompting Question Answering**|Yihao Liu, Xiangyu Chen, Xianzheng Ma, Xintao Wang, Jiantao Zhou, Yu Qiao, Chao Dong|[2310.10513v1](http://arxiv.org/abs/2310.10513v1)|null|
-|**2023-10-16**|**Multimodal Object Query Initialization for 3D Object Detection**|Mathijs R. van Geerenstein, Felicia Ruppel, Klaus Dietmayer, Dariu M. Gavrila|[2310.10353v1](http://arxiv.org/abs/2310.10353v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
