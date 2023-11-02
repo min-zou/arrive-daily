@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-30**|**Distributed multi-agent magnetic field norm SLAM with Gaussian processes**|Frida Viset, Rudy Helmons, Manon Kok|[2310.19400v1](http://arxiv.org/abs/2310.19400v1)|null|
 |**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan, Zhiliu Yang|[2310.18917v1](http://arxiv.org/abs/2310.18917v1)|null|
 |**2023-10-28**|**KernelGPA: A Globally Optimal Solution to Deformable SLAM in Closed-form**|Fang Bai, Kanzhi Wu, Adrien Bartoli|[2310.18697v1](http://arxiv.org/abs/2310.18697v1)|null|
 |**2023-10-27**|**Split Covariance Intersection Filter Based Visual Localization With Accurate AprilTag Map For Warehouse Robot Navigation**|Susu Fang, Yanhao Li, Hao Li|[2310.17879v1](http://arxiv.org/abs/2310.17879v1)|null|
@@ -10,7 +11,6 @@
 |**2023-10-20**|**ColAG: A Collaborative Air-Ground Framework for Perception-Limited UGVs' Navigation**|Zhehan Li, Rui Mao, Nanhe Chen, Chao Xu, Fei Gao, Yanjun Cao|[2310.13324v1](http://arxiv.org/abs/2310.13324v1)|**[link](https://github.com/fast-fire/colag)**|
 |**2023-10-20**|**Higher or Lower: Challenges in Object based SLAM**|Zhihe Zhang, Hao Wei, Hongtao Nie|[2310.13256v1](http://arxiv.org/abs/2310.13256v1)|null|
 |**2023-10-18**|**Towards Abdominal 3-D Scene Rendering from Laparoscopy Surgical Videos using NeRFs**|Khoa Tuan Nguyen, Francesca Tozzi, Nikdokht Rashidian, Wouter Willaert, Joris Vankerschaver, Wesley De Neve|[2310.11645v1](http://arxiv.org/abs/2310.11645v1)|null|
-|**2023-10-17**|**Learning Neural Implicit through Volume Rendering with Attentive Depth Fusion Priors**|Pengchong Hu, Zhizhong Han|[2310.11598v1](http://arxiv.org/abs/2310.11598v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**Refined Equivalent Pinhole Model for Large-scale 3D Reconstruction from Spaceborne CCD Imagery**|Hong Danyang, Yu Anzhu, Ji Song, Cao Xuefeng, Quan Yujun, Guo Wenyue, Qiu Chunping|[2310.20117v1](http://arxiv.org/abs/2310.20117v1)|null|
 |**2023-10-29**|**3DMiner: Discovering Shapes from Large-Scale Unannotated Image Datasets**|Ta-Ying Cheng, Matheus Gadelha, Soren Pirk, Thibault Groueix, Radomir Mech, Andrew Markham, Niki Trigoni|[2310.19188v1](http://arxiv.org/abs/2310.19188v1)|null|
 |**2023-10-27**|**Understanding the effect of curvature on the magnetization reversal of three-dimensional nanohelices**|John Fullerton, Arthur R. C. McCray, Amanda K. Petford-Long, Charudatta Phatak|[2310.18456v1](http://arxiv.org/abs/2310.18456v1)|null|
 |**2023-10-25**|**Open-NeRF: Towards Open Vocabulary NeRF Decomposition**|Hao Zhang, Fang Li, Narendra Ahuja|[2310.16383v1](http://arxiv.org/abs/2310.16383v1)|null|
@@ -101,7 +102,6 @@
 |**2023-10-22**|**A Quantitative Evaluation of Dense 3D Reconstruction of Sinus Anatomy from Monocular Endoscopic Video**|Jan Emily Mangulabnan, Roger D. Soberanis-Mukul, Timo Teufel, Isabela Hernández, Jonas Winter, Manish Sahu, Jose L. Porras, S. Swaroop Vedula, Masaru Ishii, Gregory Hager, Russell H. Taylor, Mathias Unberath|[2310.14364v1](http://arxiv.org/abs/2310.14364v1)|null|
 |**2023-10-20**|**Single-view 3D reconstruction via inverse procedural modeling**|Albert Garifullin, Nikolay Maiorov, Vladimir Frolov|[2310.13373v1](http://arxiv.org/abs/2310.13373v1)|null|
 |**2023-10-20**|**UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene**|Jiaming Gu, Minchao Jiang, Hongsheng Li, Xiaoyuan Lu, Guangming Zhu, Syed Afaq Ali Shah, Liang Zhang, Mohammed Bennamoun|[2310.13263v1](http://arxiv.org/abs/2310.13263v1)|null|
-|**2023-10-19**|**Real space iterative reconstruction for vector tomography (RESIRE-V)**|Minh Pham, Xingyuan Lu, Arjun Rana, Stanley Osher, Jianwei Miao|[2310.12513v1](http://arxiv.org/abs/2310.12513v1)|**[link](https://github.com/minhpham0309/resire-v)**|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,8 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-30**|**Spatiotemporal Attention Enhances Lidar-Based Robot Navigation in Dynamic Environments**|Jorge de Heuvel, Xiangyu Zeng, Weixian Shi, Tharun Sethuraman, Maren Bennewitz|[2310.19670v1](http://arxiv.org/abs/2310.19670v1)|null|
+|**2023-10-30**|**CARPE-ID: Continuously Adaptable Re-identification for Personalized Robot Assistance**|Federico Rollo, Andrea Zunino, Nikolaos Tsagarakis, Enrico Mingo Hoffman, Arash Ajoudani|[2310.19413v1](http://arxiv.org/abs/2310.19413v1)|null|
 |**2023-10-29**|**Optimizing Task-Specific Timeliness With Edge-Assisted Scheduling for Status Update**|Jingzhou Sun, Lehan Wang, Zhaojun Nan, Yuxuan Sun, Sheng Zhou, Zhisheng Niu|[2310.18895v1](http://arxiv.org/abs/2310.18895v1)|null|
 |**2023-10-27**|**Siamese-DETR for Generic Multi-Object Tracking**|Qiankun Liu, Yichen Li, Yuqi Jiang, Ying Fu|[2310.17875v1](http://arxiv.org/abs/2310.17875v1)|null|
 |**2023-10-26**|**A Hybrid Graph Network for Complex Activity Detection in Video**|Salman Khan, Izzeddin Teeti, Andrew Bradley, Mohamed Elhoseiny, Fabio Cuzzolin|[2310.17493v2](http://arxiv.org/abs/2310.17493v2)|null|
@@ -139,8 +141,6 @@
 |**2023-10-22**|**Quantum Walk Search in Motion**|Himanshu Sahu, Kallol Sen|[2310.14345v1](http://arxiv.org/abs/2310.14345v1)|**[link](https://github.com/kmax-art/q-search)**|
 |**2023-10-22**|**Deep MDP: A Modular Framework for Multi-Object Tracking**|Abhineet Singh|[2310.14294v1](http://arxiv.org/abs/2310.14294v1)|**[link](https://github.com/abhineet123/deep_mdp)**|
 |**2023-10-22**|**Distractor-aware Event-based Tracking**|Yingkai Fu, Meng Li, Wenxi Liu, Yuanchen Wang, Jiqing Zhang, Baocai Yin, Xiaopeng Wei, Xin Yang|[2310.14194v2](http://arxiv.org/abs/2310.14194v2)|null|
-|**2023-10-20**|**Simultaneous Shape Tracking of Multiple Deformable Linear Objects with Global-Local Topology Preservation**|Jingyi Xiang, Holly Dinkel|[2310.13245v2](http://arxiv.org/abs/2310.13245v2)|**[link](https://github.com/RMDLO/multi-dlo)**|
-|**2023-10-19**|**Deep Learning Techniques for Video Instance Segmentation: A Survey**|Chenhao Xu, Chang-Tsun Li, Yongjian Hu, Chee Peng Lim, Douglas Creighton|[2310.12393v1](http://arxiv.org/abs/2310.12393v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,9 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**Using Higher-Order Moments to Assess the Quality of GAN-generated Image Features**|Lorenzo Luzi, Helen Jenne, Ryan Murray, Carlos Ortiz Marrero|[2310.20636v1](http://arxiv.org/abs/2310.20636v1)|null|
+|**2023-10-31**|**IARS SegNet: Interpretable Attention Residual Skip connection SegNet for melanoma segmentation**|Shankara Narayanan V, Sikha OK, Raul Benitez|[2310.20292v1](http://arxiv.org/abs/2310.20292v1)|null|
+|**2023-10-31**|**Medical Image Denosing via Explainable AI Feature Preserving Loss**|Guanfang Dong, Anup Basu|[2310.20101v1](http://arxiv.org/abs/2310.20101v1)|null|
 |**2023-10-28**|**Feature Guided Masked Autoencoder for Self-supervised Learning in Remote Sensing**|Yi Wang, Hugo Hernández Hernández, Conrad M Albrecht, Xiao Xiang Zhu|[2310.18653v1](http://arxiv.org/abs/2310.18653v1)|**[link](https://github.com/zhu-xlab/fgmae)**|
 |**2023-10-26**|**SD4Match: Learning to Prompt Stable Diffusion Model for Semantic Matching**|Xinghui Li, Jingyi Lu, Kai Han, Victor Prisacariu|[2310.17569v1](http://arxiv.org/abs/2310.17569v1)|null|
 |**2023-10-25**|**SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation**|Qianxu Wang, Haotong Zhang, Congyue Deng, Yang You, Hao Dong, Yixin Zhu, Leonidas Guibas|[2310.16838v1](http://arxiv.org/abs/2310.16838v1)|null|
@@ -190,9 +193,6 @@
 |**2023-10-24**|**GNeSF: Generalizable Neural Semantic Fields**|Hanlin Chen, Chen Li, Mengqi Guo, Zhiwen Yan, Gim Hee Lee|[2310.15712v2](http://arxiv.org/abs/2310.15712v2)|null|
 |**2023-10-21**|**Unlock Multi-Modal Capability of Dense Retrieval via Visual Module Plugin**|Tianshuo Zhou, Sen Mei, Xinze Li, Zhenghao Liu, Chenyan Xiong, Zhiyuan Liu, Yu Gu, Ge Yu|[2310.14037v1](http://arxiv.org/abs/2310.14037v1)|**[link](https://github.com/openmatch/marvel)**|
 |**2023-10-20**|**ManifoldNeRF: View-dependent Image Feature Supervision for Few-shot Neural Radiance Fields**|Daiju Kanaoka, Motoharu Sonogashira, Hakaru Tamukoh, Yasutomo Kawanishi|[2310.13670v1](http://arxiv.org/abs/2310.13670v1)|null|
-|**2023-10-20**|**SILC: Improving Vision Language Pretraining with Self-Distillation**|Muhammad Ferjad Naeem, Yongqin Xian, Xiaohua Zhai, Lukas Hoyer, Luc Van Gool, Federico Tombari|[2310.13355v1](http://arxiv.org/abs/2310.13355v1)|null|
-|**2023-10-19**|**Diverse Diffusion: Enhancing Image Diversity in Text-to-Image Generation**|Mariia Zameshina, Olivier Teytaud, Laurent Najman|[2310.12583v1](http://arxiv.org/abs/2310.12583v1)|null|
-|**2023-10-18**|**Runner re-identification from single-view video in the open-world setting**|Tomohiro Suzuki, Kazushi Tsutsui, Kazuya Takeda, Keisuke Fujii|[2310.11700v1](http://arxiv.org/abs/2310.11700v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
