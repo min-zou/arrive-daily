@@ -5,7 +5,7 @@
 |**2023-11-02**|**Quatro++: Robust Global Registration Exploiting Ground Segmentation for Loop Closing in LiDAR SLAM**|Hyungtae Lim, Beomsoo Kim, Daebeom Kim, Eungchang Mason Lee, Hyun Myung|[2311.00928v1](http://arxiv.org/abs/2311.00928v1)|null|
 |**2023-11-01**|**LiDAR-based SLAM for robotic mapping: state of the art and new frontiers**|Xiangdi Yue, Yihuan Zhang, Miaolei He|[2311.00276v1](http://arxiv.org/abs/2311.00276v1)|null|
 |**2023-10-30**|**Distributed multi-agent magnetic field norm SLAM with Gaussian processes**|Frida Viset, Rudy Helmons, Manon Kok|[2310.19400v1](http://arxiv.org/abs/2310.19400v1)|null|
-|**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan, Zhiliu Yang|[2310.18917v1](http://arxiv.org/abs/2310.18917v1)|null|
+|**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan, Zhiliu Yang|[2310.18917v2](http://arxiv.org/abs/2310.18917v2)|null|
 |**2023-10-28**|**KernelGPA: A Globally Optimal Solution to Deformable SLAM in Closed-form**|Fang Bai, Kanzhi Wu, Adrien Bartoli|[2310.18697v1](http://arxiv.org/abs/2310.18697v1)|null|
 |**2023-10-27**|**Split Covariance Intersection Filter Based Visual Localization With Accurate AprilTag Map For Warehouse Robot Navigation**|Susu Fang, Yanhao Li, Hao Li|[2310.17879v1](http://arxiv.org/abs/2310.17879v1)|null|
 |**2023-10-23**|**SONIC: Sonar Image Correspondence using Pose Supervised Learning for Imaging Sonars**|Samiran Gode, Akshay Hinduja, Michael Kaess|[2310.15023v1](http://arxiv.org/abs/2310.15023v1)|null|
@@ -105,6 +105,7 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-03**|**Bridging the Gap between Multi-focus and Multi-modal: A Focused Integration Framework for Multi-modal Image Fusion**|Xilai Li, Xiaosong Li, Tao Ye, Xiaoqi Cheng, Wuyang Liu, Haishu Tan|[2311.01886v1](http://arxiv.org/abs/2311.01886v1)|null|
 |**2023-11-02**|**Learning to Adapt CLIP for Few-Shot Monocular Depth Estimation**|Xueting Hu, Ce Zhang, Yi Zhang, Bowen Hai, Ke Yu, Zhihai He|[2311.01034v1](http://arxiv.org/abs/2311.01034v1)|null|
 |**2023-10-29**|**Dynamo-Depth: Fixing Unsupervised Depth Estimation for Dynamical Scenes**|Yihong Sun, Bharath Hariharan|[2310.18887v1](http://arxiv.org/abs/2310.18887v1)|null|
 |**2023-10-26**|**Learning depth from monocular video sequences**|Zhenwei Luo|[2310.17156v1](http://arxiv.org/abs/2310.17156v1)|null|
@@ -114,7 +115,6 @@
 |**2023-10-25**|**Towards Explainability in Monocular Depth Estimation**|Vasileios Arampatzakis, George Pavlidis, Kyriakos Pantoglou, Nikolaos Mitianoudis, Nikos Papamarkos|[2310.16457v1](http://arxiv.org/abs/2310.16457v1)|null|
 |**2023-10-24**|**iNVS: Repurposing Diffusion Inpainters for Novel View Synthesis**|Yash Kant, Aliaksandr Siarohin, Michael Vasilkovsky, Riza Alp Guler, Jian Ren, Sergey Tulyakov, Igor Gilitschenski|[2310.16167v1](http://arxiv.org/abs/2310.16167v1)|null|
 |**2023-10-24**|**Spatio-temporal reconstruction of drop impact dynamics by means of color-coded glare points and deep learning**|Maximilian Dreisbach, Jochen Kriegseis, Alexander Stroh|[2310.16009v1](http://arxiv.org/abs/2310.16009v1)|null|
-|**2023-10-24**|**G2-MonoDepth: A General Framework of Generalized Depth Inference from Monocular RGB+X Data**|Haotian Wang, Meng Yang, Nanning Zheng|[2310.15422v1](http://arxiv.org/abs/2310.15422v1)|**[link](https://github.com/wang-xjtu/g2-monodepth)**|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,7 +131,8 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-02**|**CenterRadarNet: Joint 3D Object Detection and Tracking Framework using 4D FMCW Radar**|Jen-Hao Cheng, Sheng-Yao Kuan, Hugo Latapie, Gaowen Liu, Jenq-Neng Hwang|[2311.01423v1](http://arxiv.org/abs/2311.01423v1)|null|
+|**2023-11-02**|**4D-Former: Multimodal 4D Panoptic Segmentation**|Ali Athar, Enxu Li, Sergio Casas, Raquel Urtasun|[2311.01520v1](http://arxiv.org/abs/2311.01520v1)|null|
+|**2023-11-02**|**CenterRadarNet: Joint 3D Object Detection and Tracking Framework using 4D FMCW Radar**|Jen-Hao Cheng, Sheng-Yao Kuan, Hugo Latapie, Gaowen Liu, Jenq-Neng Hwang|[2311.01423v2](http://arxiv.org/abs/2311.01423v2)|null|
 |**2023-11-02**|**CML-MOTS: Collaborative Multi-task Learning for Multi-Object Tracking and Segmentation**|Yiming Cui, Cheng Han, Dongfang Liu|[2311.00987v1](http://arxiv.org/abs/2311.00987v1)|null|
 |**2023-10-30**|**Spatiotemporal Attention Enhances Lidar-Based Robot Navigation in Dynamic Environments**|Jorge de Heuvel, Xiangyu Zeng, Weixian Shi, Tharun Sethuraman, Maren Bennewitz|[2310.19670v1](http://arxiv.org/abs/2310.19670v1)|null|
 |**2023-10-30**|**CARPE-ID: Continuously Adaptable Re-identification for Personalized Robot Assistance**|Federico Rollo, Andrea Zunino, Nikolaos Tsagarakis, Enrico Mingo Hoffman, Arash Ajoudani|[2310.19413v1](http://arxiv.org/abs/2310.19413v1)|null|
@@ -140,7 +141,6 @@
 |**2023-10-26**|**A Hybrid Graph Network for Complex Activity Detection in Video**|Salman Khan, Izzeddin Teeti, Andrew Bradley, Mohamed Elhoseiny, Fabio Cuzzolin|[2310.17493v2](http://arxiv.org/abs/2310.17493v2)|null|
 |**2023-10-26**|**MO-YOLO: End-to-End Multiple-Object Tracking Method with YOLO and MOTR**|Liao Pan, Yang Feng, Wu Di, Liu Bo, Zhang Xingle|[2310.17170v1](http://arxiv.org/abs/2310.17170v1)|null|
 |**2023-10-23**|**Label Space Partition Selection for Multi-Object Tracking Using Two-Layer Partitioning**|Ji Youn Lee, Changbeom Shim, Hoa Van Nguyen, Tran Thien Dat Nguyen, Hyunjin Choi, Youngho Kim|[2310.14506v1](http://arxiv.org/abs/2310.14506v1)|null|
-|**2023-10-22**|**Quantum Walk Search in Motion**|Himanshu Sahu, Kallol Sen|[2310.14345v1](http://arxiv.org/abs/2310.14345v1)|**[link](https://github.com/kmax-art/q-search)**|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-03**|**Optimal Image Transport on Sparse Dictionaries**|Junqing Huang, Haihui Wang, Andreas Weiermann, Michael Ruzhansky|[2311.01984v1](http://arxiv.org/abs/2311.01984v1)|null|
 |**2023-11-02**|**Distilling Knowledge from CNN-Transformer Models for Enhanced Human Action Recognition**|Hamid Ahmadabadi, Omid Nejati Manzari, Ahmad Ayatollahi|[2311.01283v1](http://arxiv.org/abs/2311.01283v1)|null|
 |**2023-11-02**|**Enriching Phrases with Coupled Pixel and Object Contexts for Panoptic Narrative Grounding**|Tianrui Hui, Zihan Ding, Junshi Huang, Xiaoming Wei, Xiaolin Wei, Jiao Dai, Jizhong Han, Si Liu|[2311.01091v1](http://arxiv.org/abs/2311.01091v1)|null|
 |**2023-11-02**|**M&M3D: Multi-Dataset Training and Efficient Network for Multi-view 3D Object Detection**|Hang Zhang|[2311.00986v1](http://arxiv.org/abs/2311.00986v1)|null|
@@ -192,7 +193,6 @@
 |**2023-11-01**|**Mixture-of-Experts for Open Set Domain Adaptation: A Dual-Space Detection Approach**|Zhenbang Du, Jiayu An, Jiahao Hong, Dongrui Wu|[2311.00285v1](http://arxiv.org/abs/2311.00285v1)|null|
 |**2023-11-01**|**DINO-Mix: Enhancing Visual Place Recognition with Foundational Vision Model and Feature Mixing**|Gaoshuang Huang, Yang Zhou, Xiaofei Hu, Chenglong Zhang, Luying Zhao, Wenjian Gan, Mingbo Hou|[2311.00230v1](http://arxiv.org/abs/2311.00230v1)|null|
 |**2023-10-31**|**Using Higher-Order Moments to Assess the Quality of GAN-generated Image Features**|Lorenzo Luzi, Helen Jenne, Ryan Murray, Carlos Ortiz Marrero|[2310.20636v1](http://arxiv.org/abs/2310.20636v1)|null|
-|**2023-10-31**|**IARS SegNet: Interpretable Attention Residual Skip connection SegNet for melanoma segmentation**|Shankara Narayanan V, Sikha OK, Raul Benitez|[2310.20292v1](http://arxiv.org/abs/2310.20292v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
