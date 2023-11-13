@@ -209,7 +209,7 @@
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-22**|**Distractor-aware Event-based Tracking**|Yingkai Fu, Meng Li, Wenxi Liu, Yuanchen Wang, Jiqing Zhang, Baocai Yin, Xiaopeng Wei, Xin Yang|[2310.14194v2](http://arxiv.org/abs/2310.14194v2)|null|
+|**2023-10-22**|**Distractor-aware Event-based Tracking**|Yingkai Fu, Meng Li, Wenxi Liu, Yuanchen Wang, Jiqing Zhang, Baocai Yin, Xiaopeng Wei, Xin Yang|[2310.14194v3](http://arxiv.org/abs/2310.14194v3)|null|
 |**2023-10-19**|**Multiscale Motion-Aware and Spatial-Temporal-Channel Contextual Coding Network for Learned Video Compression**|Yiming Wang, Qian Huang, Bin Tang, Huashan Sun, Xing Li|[2310.12733v1](http://arxiv.org/abs/2310.12733v1)|null|
 |**2023-10-16**|**A Novel Benchmarking Paradigm and a Scale- and Motion-Aware Model for Egocentric Pedestrian Trajectory Prediction**|Amir Rasouli|[2310.10424v1](http://arxiv.org/abs/2310.10424v1)|null|
 |**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu, Hannah Schieber, Nicolas Schischka, Melih Görgülü, Florian Grötzner, Alexander Ladikos, Daniel Roth, Nassir Navab, Benjamin Busam|[2309.08927v1](http://arxiv.org/abs/2309.08927v1)|null|
