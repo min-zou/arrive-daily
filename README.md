@@ -1,6 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**CoVOR-SLAM: Cooperative SLAM using Visual Odometry and Ranges for Multi-Robot Systems**|Young-Hee Lee, Chen Zhu, Thomas Wiedemann, Emanuel Staudinger, Siwei Zhang, Christoph Günther|[2311.12580v1](http://arxiv.org/abs/2311.12580v1)|null|
+|**2023-11-21**|**Towards Accurate Loop Closure Detection in Semantic SLAM with 3D Semantic Covisibility Graphs**|Zhentian Qian, Jie Fu, Jing Xiao|[2311.12245v1](http://arxiv.org/abs/2311.12245v1)|null|
 |**2023-11-20**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan, Delin Qu, Dong Wang, Dan Xu, Zhigang Wang, Bin Zhao, Xuelong Li|[2311.11700v2](http://arxiv.org/abs/2311.11700v2)|null|
 |**2023-11-19**|**Radarize: Large-Scale Radar SLAM for Indoor Environments**|Emerson Sie, Xinyu Wu, Heyu Guo, Deepak Vasisht|[2311.11260v1](http://arxiv.org/abs/2311.11260v1)|null|
 |**2023-11-18**|**SNI-SLAM: Semantic Neural Implicit SLAM**|Siting Zhu, Guangming Wang, Hermann Blum, Jiuming Liu, Liang Song, Marc Pollefeys, Hesheng Wang|[2311.11016v1](http://arxiv.org/abs/2311.11016v1)|null|
@@ -9,8 +11,6 @@
 |**2023-11-14**|**CP-SLAM: Collaborative Neural Point-based SLAM System**|Jiarui Hu, Mao Mao, Hujun Bao, Guofeng Zhang, Zhaopeng Cui|[2311.08013v1](http://arxiv.org/abs/2311.08013v1)|null|
 |**2023-11-14**|**Spectral Line Analysis/Modeling (SLAM) I: pvanalysis**|Yusuke Aso, Jinshi Sai|[2311.07988v1](http://arxiv.org/abs/2311.07988v1)|null|
 |**2023-11-11**|**3DFusion, A real-time 3D object reconstruction pipeline based on streamed instance segmented data**|Xi Sun, Derek Jacoby, Yvonne Coady|[2311.06659v1](http://arxiv.org/abs/2311.06659v1)|null|
-|**2023-11-09**|**FogROS2-Sky: Optimizing Latency and Cost for Multi-Cloud Robot Applications**|Kaiyuan Chen, Kush Hari, Rohil Khare, Charlotte Le, Trinity Chung, Jaimyn Drake, Karthik Dharmarajan, Simeon Adebola, Jeffrey Ichnowski, John Kubiatowicz, Ken Goldberg|[2311.05600v1](http://arxiv.org/abs/2311.05600v1)|null|
-|**2023-11-07**|**Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM**|Seongwook Yoon, Jaehyun Kim, Sanghoon Sull|[2311.03722v1](http://arxiv.org/abs/2311.03722v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,8 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**Physics-guided Shape-from-Template: Monocular Video Perception through Neural Surrogate Models**|David Stotko, Nils Wandel, Reinhard Klein|[2311.12796v1](http://arxiv.org/abs/2311.12796v1)|null|
+|**2023-11-20**|**Mixing-Denoising Generalizable Occupancy Networks**|Amine Ouasfi, Adnane Boukhayma|[2311.12125v1](http://arxiv.org/abs/2311.12125v1)|null|
 |**2023-11-20**|**PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction**|Peng Wang, Hao Tan, Sai Bi, Yinghao Xu, Fujun Luan, Kalyan Sunkavalli, Wenping Wang, Zexiang Xu, Kai Zhang|[2311.12024v1](http://arxiv.org/abs/2311.12024v1)|null|
 |**2023-11-19**|**GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise**|Xinhai Li, Huaibin Wang, Kuo-Kun Tseng|[2311.11221v1](http://arxiv.org/abs/2311.11221v1)|null|
 |**2023-11-18**|**LOSTU: Fast, Scalable, and Uncertainty-Aware Triangulation**|Sébastien Henry, John A. Christian|[2311.11171v1](http://arxiv.org/abs/2311.11171v1)|null|
@@ -100,11 +102,11 @@
 |**2023-11-16**|**Collection, Collation, and Comparison of 3D Coronal CME Reconstructions**|C. Kay, E. Palmerio|[2311.10712v1](http://arxiv.org/abs/2311.10712v1)|null|
 |**2023-11-16**|**DSR-Diff: Depth Map Super-Resolution with Diffusion Model**|Yuan Shi, Bin Xia, Rui Zhu, Qingmin Liao, Wenming Yang|[2311.09919v1](http://arxiv.org/abs/2311.09919v1)|null|
 |**2023-11-16**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao, Zhuo Chen, Yichao Yan, Bowen Pan, Zhe Wang, Jiangjing Lyu, Xiaokang Yang|[2311.09806v2](http://arxiv.org/abs/2311.09806v2)|null|
-|**2023-11-14**|**DynamicSurf: Dynamic Neural RGB-D Surface Reconstruction with an Optimizable Feature Grid**|Mirgahney Mohamed, Lourdes Agapito|[2311.08159v1](http://arxiv.org/abs/2311.08159v1)|null|
-|**2023-11-13**|**$L_0$-Sampler: An $L_{0}$ Model Guided Volume Sampling for NeRF**|Liangchen Li, Juyong Zhang|[2311.07044v1](http://arxiv.org/abs/2311.07044v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction**|Yuanhui Huang, Wenzhao Zheng, Borui Zhang, Jie Zhou, Jiwen Lu|[2311.12754v1](http://arxiv.org/abs/2311.12754v1)|**[link](https://github.com/huang-yh/selfocc)**|
+|**2023-11-21**|**Transferring to Real-World Layouts: A Depth-aware Framework for Scene Adaptation**|Mu Chen, Zhedong Zheng, Yi Yang|[2311.12682v1](http://arxiv.org/abs/2311.12682v1)|null|
 |**2023-11-16**|**Depth Insight -- Contribution of Different Features to Indoor Single-image Depth Estimation**|Yihong Wu, Yuwen Heng, Mahesan Niranjan, Hansung Kim|[2311.10042v1](http://arxiv.org/abs/2311.10042v1)|null|
 |**2023-11-15**|**RENI++ A Rotation-Equivariant, Scale-Invariant, Natural Illumination Prior**|James A. D. Gardner, Bernhard Egger, William A. P. Smith|[2311.09361v1](http://arxiv.org/abs/2311.09361v1)|**[link](https://github.com/jadgardner/ns_reni)**|
 |**2023-11-15**|**Applications of Computer Vision in Autonomous Vehicles: Methods, Challenges and Future Directions**|Xingshuai Dong, Massimiliano L. Cappuccio|[2311.09093v2](http://arxiv.org/abs/2311.09093v2)|null|
@@ -113,8 +115,6 @@
 |**2023-11-13**|**MonoDiffusion: Self-Supervised Monocular Depth Estimation Using Diffusion Model**|Shuwei Shao, Zhongcai Pei, Weihai Chen, Dingchi Sun, Peter C. Y. Chen, Zhengguo Li|[2311.07198v1](http://arxiv.org/abs/2311.07198v1)|**[link](https://github.com/shuweishao/monodiffusion)**|
 |**2023-11-13**|**NDDepth: Normal-Distance Assisted Monocular Depth Estimation and Completion**|Shuwei Shao, Zhongcai Pei, Weihai Chen, Peter C. Y. Chen, Zhengguo Li|[2311.07166v1](http://arxiv.org/abs/2311.07166v1)|**[link](https://github.com/ShuweiShao/NDDepth)**|
 |**2023-11-12**|**Mapping Eye Vergence Angle to the Depth of Real and Virtual Objects as an Objective Measure of Depth Perception**|Mohammed Safayet Arefin, J. Edward Swan II, Russell Cohen Hoffing, Steven Thurman|[2311.09242v2](http://arxiv.org/abs/2311.09242v2)|null|
-|**2023-11-10**|**MonoProb: Self-Supervised Monocular Depth Estimation with Interpretable Uncertainty**|Rémi Marsal, Florian Chabot, Angelique Loesch, William Grolleau, Hichem Sahbi|[2311.06137v1](http://arxiv.org/abs/2311.06137v1)|**[link](https://github.com/cea-list/monoprob)**|
-|**2023-11-09**|**PolyMaX: General Dense Prediction with Mask Transformer**|Xuan Yang, Liangzhe Yuan, Kimberly Wilber, Astuti Sharma, Xiuye Gu, Siyuan Qiao, Stephanie Debats, Huisheng Wang, Hartwig Adam, Mikhail Sirotenko, Liang-Chieh Chen|[2311.05770v1](http://arxiv.org/abs/2311.05770v1)|**[link](https://github.com/google-research/deeplab2)**|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -170,6 +170,7 @@
 ## Visual Odometry
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**CoVOR-SLAM: Cooperative SLAM using Visual Odometry and Ranges for Multi-Robot Systems**|Young-Hee Lee, Chen Zhu, Thomas Wiedemann, Emanuel Staudinger, Siwei Zhang, Christoph Günther|[2311.12580v1](http://arxiv.org/abs/2311.12580v1)|null|
 |**2023-11-10**|**Dense Visual Odometry Using Genetic Algorithm**|Slimane Djema, Zoubir Abdeslem Benselama, Ramdane Hedjar, Krabi Abdallah|[2311.06149v1](http://arxiv.org/abs/2311.06149v1)|null|
 |**2023-11-07**|**Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM**|Seongwook Yoon, Jaehyun Kim, Sanghoon Sull|[2311.03722v1](http://arxiv.org/abs/2311.03722v1)|null|
 |**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch, Mark Sastuba, Jonas Toth, Bernhard Jung|[2310.14924v1](http://arxiv.org/abs/2310.14924v1)|**[link](https://github.com/rlsch/depth-conversions)**|
@@ -179,10 +180,12 @@
 |**2023-09-28**|**XVO: Generalized Visual Odometry via Cross-Modal Self-Training**|Lei Lai, Zhongkai Shangguan, Jimuyang Zhang, Eshed Ohn-Bar|[2309.16772v3](http://arxiv.org/abs/2309.16772v3)|null|
 |**2023-09-26**|**ObVi-SLAM: Long-Term Object-Visual SLAM**|Amanda Adkins, Taijing Chen, Joydeep Biswas|[2309.15268v2](http://arxiv.org/abs/2309.15268v2)|**[link](https://github.com/ut-amrl/obvi-slam)**|
 |**2023-09-23**|**Tag-based Visual Odometry Estimation for Indoor UAVs Localization**|Massimiliano Bertoni, Simone Montecchio, Giulia Michieletto, Roberto Oboe, Angelo Cenedese|[2309.13311v1](http://arxiv.org/abs/2309.13311v1)|null|
-|**2023-09-22**|**Exposing the Unseen: Exposure Time Emulation for Offline Benchmarking of Vision Algorithms**|Olivier Gamache, Jean-Michel Fortin, Matěj Boxan, François Pomerleau, Philippe Giguère|[2309.13139v1](http://arxiv.org/abs/2309.13139v1)|**[link](https://github.com/norlab-ulaval/borealhdr)**|
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**Polyhedral Object Recognition by Indexing**|Radu Horaud, Humberto Sossa|[2311.12641v1](http://arxiv.org/abs/2311.12641v1)|null|
+|**2023-11-21**|**Towards Accurate Loop Closure Detection in Semantic SLAM with 3D Semantic Covisibility Graphs**|Zhentian Qian, Jie Fu, Jing Xiao|[2311.12245v1](http://arxiv.org/abs/2311.12245v1)|null|
+|**2023-11-20**|**HandSight: DeCAF & Improved Fisher Vectors to Classify Clothing Color and Texture with a Finger-Mounted Camera**|Alexander J. Medeiros, Lee Stearns, Jon E. Froehlich|[2311.12225v1](http://arxiv.org/abs/2311.12225v1)|null|
 |**2023-11-20**|**OmniSeg3D: Omniversal 3D Segmentation via Hierarchical Contrastive Learning**|Haiyang Ying, Yixuan Yin, Jinzhi Zhang, Fan Wang, Tao Yu, Ruqi Huang, Lu Fang|[2311.11666v1](http://arxiv.org/abs/2311.11666v1)|null|
 |**2023-11-20**|**Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model**|Chunming He, Chengyu Fang, Yulun Zhang, Kai Li, Longxiang Tang, Chenyu You, Fengyang Xiao, Zhenhua Guo, Xiu Li|[2311.11638v1](http://arxiv.org/abs/2311.11638v1)|**[link](https://github.com/chunminghe/reti-diff)**|
 |**2023-11-17**|**Multi-entity Video Transformers for Fine-Grained Video Representation Learning**|Matthew Walmer, Rose Kanjirathinkal, Kai Sheng Tai, Keyur Muzumdar, Taipeng Tian, Abhinav Shrivastava|[2311.10873v1](http://arxiv.org/abs/2311.10873v1)|**[link](https://github.com/facebookresearch/video_rep_learning)**|
@@ -190,9 +193,6 @@
 |**2023-11-17**|**Two-Factor Authentication Approach Based on Behavior Patterns for Defeating Puppet Attacks**|Wenhao Wang, Guyue Li, Zhiming Chu, Haobo Li, Daniele Faccio|[2311.10389v1](http://arxiv.org/abs/2311.10389v1)|null|
 |**2023-11-16**|**Match and Locate: low-frequency monocular odometry based on deep feature matching**|Stepan Konev, Yuriy Biktairov|[2311.10034v1](http://arxiv.org/abs/2311.10034v1)|null|
 |**2023-11-16**|**Overcoming Data Scarcity in Biomedical Imaging with a Foundational Multi-Task Model**|Raphael Schäfer, Till Nicke, Henning Höfener, Annkristin Lange, Dorit Merhof, Friedrich Feuerhake, Volkmar Schulz, Johannes Lotz, Fabian Kiessling|[2311.09847v1](http://arxiv.org/abs/2311.09847v1)|null|
-|**2023-11-16**|**Weakly Supervised Anomaly Detection for Chest X-Ray Image**|Haoqi Ni, Ximiao Zhang, Min Xu, Ning Lang, Xiuzhuang Zhou|[2311.09642v2](http://arxiv.org/abs/2311.09642v2)|**[link](https://github.com/iamcuriosity/wscxr)**|
-|**2023-11-16**|**Temporal-Aware Refinement for Video-based Human Pose and Shape Recovery**|Ming Chen, Yan Zhou, Weihua Jian, Pengfei Wan, Zhongyuan Wang|[2311.09543v1](http://arxiv.org/abs/2311.09543v1)|null|
-|**2023-11-15**|**Robust Brain MRI Image Classification with SIBOW-SVM**|Liyun Zeng, Hao Helen Zhang|[2311.08908v1](http://arxiv.org/abs/2311.08908v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
