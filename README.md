@@ -92,7 +92,9 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-21**|**Physics-guided Shape-from-Template: Monocular Video Perception through Neural Surrogate Models**|David Stotko, Nils Wandel, Reinhard Klein|[2311.12796v1](http://arxiv.org/abs/2311.12796v1)|null|
+|**2023-11-22**|**DRIFu: Differentiable Rendering and Implicit Function-based Single-View 3D Reconstruction**|Zijian Kuang, Lihang Ying, Shi Jin|[2311.13199v1](http://arxiv.org/abs/2311.13199v1)|null|
+|**2023-11-22**|**Differentiable Radio Frequency Ray Tracing for Millimeter-Wave Sensing**|Xingyu Chen, Xinyu Zhang, Qiyue Xia, Xinmin Fang, Chris Xiaoxuan Lu, Zhengxiong Li|[2311.13182v1](http://arxiv.org/abs/2311.13182v1)|null|
+|**2023-11-21**|**Physics-guided Shape-from-Template: Monocular Video Perception through Neural Surrogate Models**|David Stotko, Nils Wandel, Reinhard Klein|[2311.12796v1](http://arxiv.org/abs/2311.12796v1)|**[link](https://github.com/davidstotko/physics-guided-shape-from-template)**|
 |**2023-11-20**|**Mixing-Denoising Generalizable Occupancy Networks**|Amine Ouasfi, Adnane Boukhayma|[2311.12125v1](http://arxiv.org/abs/2311.12125v1)|null|
 |**2023-11-20**|**PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction**|Peng Wang, Hao Tan, Sai Bi, Yinghao Xu, Fujun Luan, Kalyan Sunkavalli, Wenping Wang, Zexiang Xu, Kai Zhang|[2311.12024v1](http://arxiv.org/abs/2311.12024v1)|null|
 |**2023-11-19**|**GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise**|Xinhai Li, Huaibin Wang, Kuo-Kun Tseng|[2311.11221v1](http://arxiv.org/abs/2311.11221v1)|null|
@@ -100,11 +102,11 @@
 |**2023-11-18**|**Invariant-based Mapping of Space During General Motion of an Observer**|Juan D. Yepes, Daniel Raviv|[2311.11130v1](http://arxiv.org/abs/2311.11130v1)|null|
 |**2023-11-18**|**Structure-Aware Sparse-View X-ray 3D Reconstruction**|Yuanhao Cai, Jiahao Wang, Alan Yuille, Zongwei Zhou, Angtian Wang|[2311.10959v1](http://arxiv.org/abs/2311.10959v1)|**[link](https://github.com/caiyuanhao1998/sax-nerf)**|
 |**2023-11-16**|**Collection, Collation, and Comparison of 3D Coronal CME Reconstructions**|C. Kay, E. Palmerio|[2311.10712v1](http://arxiv.org/abs/2311.10712v1)|null|
-|**2023-11-16**|**DSR-Diff: Depth Map Super-Resolution with Diffusion Model**|Yuan Shi, Bin Xia, Rui Zhu, Qingmin Liao, Wenming Yang|[2311.09919v1](http://arxiv.org/abs/2311.09919v1)|null|
-|**2023-11-16**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao, Zhuo Chen, Yichao Yan, Bowen Pan, Zhe Wang, Jiangjing Lyu, Xiaokang Yang|[2311.09806v2](http://arxiv.org/abs/2311.09806v2)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-22**|**Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**|Jaeyoung Chung, Jeongtaek Oh, Kyoung Mu Lee|[2311.13398v1](http://arxiv.org/abs/2311.13398v1)|null|
+|**2023-11-21**|**Camera-Independent Single Image Depth Estimation from Defocus Blur**|Lahiru Wijayasingha, Homa Alemzadeh, John A. Stankovic|[2311.13045v1](http://arxiv.org/abs/2311.13045v1)|null|
 |**2023-11-21**|**SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction**|Yuanhui Huang, Wenzhao Zheng, Borui Zhang, Jie Zhou, Jiwen Lu|[2311.12754v1](http://arxiv.org/abs/2311.12754v1)|**[link](https://github.com/huang-yh/selfocc)**|
 |**2023-11-21**|**Transferring to Real-World Layouts: A Depth-aware Framework for Scene Adaptation**|Mu Chen, Zhedong Zheng, Yi Yang|[2311.12682v1](http://arxiv.org/abs/2311.12682v1)|null|
 |**2023-11-16**|**Depth Insight -- Contribution of Different Features to Indoor Single-image Depth Estimation**|Yihong Wu, Yuwen Heng, Mahesan Niranjan, Hansung Kim|[2311.10042v1](http://arxiv.org/abs/2311.10042v1)|null|
@@ -113,8 +115,6 @@
 |**2023-11-14**|**Learning based Deep Disentangling Light Field Reconstruction and Disparity Estimation Application**|Langqing Shi, Ping Zhou|[2311.08129v1](http://arxiv.org/abs/2311.08129v1)|null|
 |**2023-11-13**|**DeepMetricEye: Metric Depth Estimation in Periocular VR Imagery**|Yitong Sun, Zijian Zhou, Cyriel Diels, Ali Asadipour|[2311.07235v1](http://arxiv.org/abs/2311.07235v1)|null|
 |**2023-11-13**|**MonoDiffusion: Self-Supervised Monocular Depth Estimation Using Diffusion Model**|Shuwei Shao, Zhongcai Pei, Weihai Chen, Dingchi Sun, Peter C. Y. Chen, Zhengguo Li|[2311.07198v1](http://arxiv.org/abs/2311.07198v1)|**[link](https://github.com/shuweishao/monodiffusion)**|
-|**2023-11-13**|**NDDepth: Normal-Distance Assisted Monocular Depth Estimation and Completion**|Shuwei Shao, Zhongcai Pei, Weihai Chen, Peter C. Y. Chen, Zhengguo Li|[2311.07166v1](http://arxiv.org/abs/2311.07166v1)|**[link](https://github.com/ShuweiShao/NDDepth)**|
-|**2023-11-12**|**Mapping Eye Vergence Angle to the Depth of Real and Virtual Objects as an Objective Measure of Depth Perception**|Mohammed Safayet Arefin, J. Edward Swan II, Russell Cohen Hoffing, Steven Thurman|[2311.09242v2](http://arxiv.org/abs/2311.09242v2)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
