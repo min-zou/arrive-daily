@@ -92,7 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-22**|**DRIFu: Differentiable Rendering and Implicit Function-based Single-View 3D Reconstruction**|Zijian Kuang, Lihang Ying, Shi Jin|[2311.13199v1](http://arxiv.org/abs/2311.13199v1)|null|
+|**2023-11-22**|**DRIFu: Differentiable Rendering and Implicit Function-based Single-View 3D Reconstruction**|Zijian Kuang, Lihang Ying, Shi Jin|[2311.13199v1](http://arxiv.org/abs/2311.13199v1)|**[link](https://github.com/kuangzijian/drifu-for-animals)**|
 |**2023-11-22**|**Differentiable Radio Frequency Ray Tracing for Millimeter-Wave Sensing**|Xingyu Chen, Xinyu Zhang, Qiyue Xia, Xinmin Fang, Chris Xiaoxuan Lu, Zhengxiong Li|[2311.13182v1](http://arxiv.org/abs/2311.13182v1)|null|
 |**2023-11-21**|**Physics-guided Shape-from-Template: Monocular Video Perception through Neural Surrogate Models**|David Stotko, Nils Wandel, Reinhard Klein|[2311.12796v1](http://arxiv.org/abs/2311.12796v1)|**[link](https://github.com/davidstotko/physics-guided-shape-from-template)**|
 |**2023-11-20**|**Mixing-Denoising Generalizable Occupancy Networks**|Amine Ouasfi, Adnane Boukhayma|[2311.12125v1](http://arxiv.org/abs/2311.12125v1)|null|
@@ -106,7 +106,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-11-22**|**Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**|Jaeyoung Chung, Jeongtaek Oh, Kyoung Mu Lee|[2311.13398v1](http://arxiv.org/abs/2311.13398v1)|null|
-|**2023-11-21**|**Camera-Independent Single Image Depth Estimation from Defocus Blur**|Lahiru Wijayasingha, Homa Alemzadeh, John A. Stankovic|[2311.13045v1](http://arxiv.org/abs/2311.13045v1)|null|
+|**2023-11-21**|**Camera-Independent Single Image Depth Estimation from Defocus Blur**|Lahiru Wijayasingha, Homa Alemzadeh, John A. Stankovic|[2311.13045v1](http://arxiv.org/abs/2311.13045v1)|**[link](https://github.com/sleekeagle/defocus_camind)**|
 |**2023-11-21**|**SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction**|Yuanhui Huang, Wenzhao Zheng, Borui Zhang, Jie Zhou, Jiwen Lu|[2311.12754v1](http://arxiv.org/abs/2311.12754v1)|**[link](https://github.com/huang-yh/selfocc)**|
 |**2023-11-21**|**Transferring to Real-World Layouts: A Depth-aware Framework for Scene Adaptation**|Mu Chen, Zhedong Zheng, Yi Yang|[2311.12682v1](http://arxiv.org/abs/2311.12682v1)|null|
 |**2023-11-16**|**Depth Insight -- Contribution of Different Features to Indoor Single-image Depth Estimation**|Yihong Wu, Yuwen Heng, Mahesan Niranjan, Hansung Kim|[2311.10042v1](http://arxiv.org/abs/2311.10042v1)|null|
