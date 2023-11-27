@@ -92,11 +92,11 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-22**|**DRIFu: Differentiable Rendering and Implicit Function-based Single-View 3D Reconstruction**|Zijian Kuang, Lihang Ying, Shi Jin|[2311.13199v1](http://arxiv.org/abs/2311.13199v1)|**[link](https://github.com/kuangzijian/drifu-for-animals)**|
+|**2023-11-22**|**DRIFu: Differentiable Rendering and Implicit Function-based Single-View 3D Reconstruction**|Zijian Kuang, Lihang Ying, Shi Jin, Li Cheng|[2311.13199v2](http://arxiv.org/abs/2311.13199v2)|**[link](https://github.com/kuangzijian/drifu-for-animals)**|
 |**2023-11-22**|**Differentiable Radio Frequency Ray Tracing for Millimeter-Wave Sensing**|Xingyu Chen, Xinyu Zhang, Qiyue Xia, Xinmin Fang, Chris Xiaoxuan Lu, Zhengxiong Li|[2311.13182v1](http://arxiv.org/abs/2311.13182v1)|null|
 |**2023-11-21**|**Physics-guided Shape-from-Template: Monocular Video Perception through Neural Surrogate Models**|David Stotko, Nils Wandel, Reinhard Klein|[2311.12796v1](http://arxiv.org/abs/2311.12796v1)|**[link](https://github.com/davidstotko/physics-guided-shape-from-template)**|
 |**2023-11-20**|**Mixing-Denoising Generalizable Occupancy Networks**|Amine Ouasfi, Adnane Boukhayma|[2311.12125v1](http://arxiv.org/abs/2311.12125v1)|null|
-|**2023-11-20**|**PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction**|Peng Wang, Hao Tan, Sai Bi, Yinghao Xu, Fujun Luan, Kalyan Sunkavalli, Wenping Wang, Zexiang Xu, Kai Zhang|[2311.12024v1](http://arxiv.org/abs/2311.12024v1)|null|
+|**2023-11-20**|**PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction**|Peng Wang, Hao Tan, Sai Bi, Yinghao Xu, Fujun Luan, Kalyan Sunkavalli, Wenping Wang, Zexiang Xu, Kai Zhang|[2311.12024v2](http://arxiv.org/abs/2311.12024v2)|null|
 |**2023-11-19**|**GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise**|Xinhai Li, Huaibin Wang, Kuo-Kun Tseng|[2311.11221v1](http://arxiv.org/abs/2311.11221v1)|null|
 |**2023-11-18**|**LOSTU: Fast, Scalable, and Uncertainty-Aware Triangulation**|Sébastien Henry, John A. Christian|[2311.11171v1](http://arxiv.org/abs/2311.11171v1)|null|
 |**2023-11-18**|**Invariant-based Mapping of Space During General Motion of an Observer**|Juan D. Yepes, Daniel Raviv|[2311.11130v1](http://arxiv.org/abs/2311.11130v1)|null|
@@ -139,7 +139,7 @@
 |**2023-11-13**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco-Sánchez, Miguel Ángel Muñoz-Bañón, Francisco A. Candelas, Santiago T. Puente, Fernando Torres|[2311.07268v1](http://arxiv.org/abs/2311.07268v1)|null|
 |**2023-11-12**|**ReIDTracker Sea: the technical report of BoaTrack and SeaDronesSee-MOT challenge at MaCVi of WACV24**|Kaer Huang, Weitu Chong|[2311.07616v1](http://arxiv.org/abs/2311.07616v1)|null|
 |**2023-11-08**|**Online Min Cost Circulation for Multi-Object Tracking on Fragments**|Yanbing Wang, Junyi Ji, William Barbour, Daniel B. Work|[2311.04749v1](http://arxiv.org/abs/2311.04749v1)|null|
-|**2023-11-06**|**Sea You Later: Metadata-Guided Long-Term Re-Identification for UAV-Based Multi-Object Tracking**|Cheng-Yen Yang, Hsiang-Wei Huang, Zhongyu Jiang, Heng-Cheng Kuo, Jie Mei, Chung-I Huang, Jenq-Neng Hwang|[2311.03561v1](http://arxiv.org/abs/2311.03561v1)|null|
+|**2023-11-06**|**Sea You Later: Metadata-Guided Long-Term Re-Identification for UAV-Based Multi-Object Tracking**|Cheng-Yen Yang, Hsiang-Wei Huang, Zhongyu Jiang, Heng-Cheng Kuo, Jie Mei, Chung-I Huang, Jenq-Neng Hwang|[2311.03561v2](http://arxiv.org/abs/2311.03561v2)|null|
 |**2023-11-06**|**Obstacle- and Occlusion-Responsive Visual Tracking Control for Redundant Manipulators using Reachability Measure**|Mincheul Kang, Junhyoung Ha|[2311.03029v1](http://arxiv.org/abs/2311.03029v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
