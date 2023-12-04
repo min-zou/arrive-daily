@@ -100,7 +100,7 @@
 |**2023-11-28**|**Rethinking Directional Integration in Neural Radiance Fields**|Congyue Deng, Jiawei Yang, Leonidas Guibas, Yue Wang|[2311.16504v1](http://arxiv.org/abs/2311.16504v1)|null|
 |**2023-11-28**|**Surf-D: High-Quality Surface Generation for Arbitrary Topologies using Diffusion Models**|Zhengming Yu, Zhiyang Dou, Xiaoxiao Long, Cheng Lin, Zekun Li, Yuan Liu, Norman Müller, Taku Komura, Marc Habermann, Christian Theobalt, Xin Li, Wenping Wang|[2311.17050v1](http://arxiv.org/abs/2311.17050v1)|null|
 |**2023-11-28**|**Gradient-based Local Next-best-view Planning for Improved Perception of Targeted Plant Nodes**|Akshay K. Burusa, Eldert J. van Henten, Gert Kootstra|[2311.16759v1](http://arxiv.org/abs/2311.16759v1)|null|
-|**2023-11-28**|**REF$^2$-NeRF: Reflection and Refraction aware Neural Radiance Field**|Wooseok Kim, Taiki Fukiage, Takeshi Oishi|[2311.17116v1](http://arxiv.org/abs/2311.17116v1)|null|
+|**2023-11-28**|**REF$^2$-NeRF: Reflection and Refraction aware Neural Radiance Field**|Wooseok Kim, Taiki Fukiage, Takeshi Oishi|[2311.17116v2](http://arxiv.org/abs/2311.17116v2)|null|
 |**2023-11-28**|**RGBGrasp: Image-based Object Grasping by Capturing Multiple Views during Robot Arm Movement with Neural Radiance Fields**|Chang Liu, Kejian Shi, Kaichen Zhou, Haoxiao Wang, Jiyao Zhang, Hao Dong|[2311.16592v1](http://arxiv.org/abs/2311.16592v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
