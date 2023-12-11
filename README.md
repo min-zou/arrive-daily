@@ -70,7 +70,7 @@
 |**2023-12-05**|**The ALMaQUEST Survey XI: A strong but non-linear relationship between star formation and dynamical equilibrium pressure**|Sara L. Ellison, Hsi-An Pan, Asa F. L. Bluck, Mark R. Krumholz, Lihwai Lin, Leslie Hunt, Edvige Corbelli, Mallory D. Thorp, Jorge Barrera-Ballesteros, Sebastian F. Sanchez, Jillian M. Scudder, Salvatore Quai|[2312.03132v1](http://arxiv.org/abs/2312.03132v1)|null|
 |**2023-12-01**|**FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting**|Zehao Zhu, Zhiwen Fan, Yifan Jiang, Zhangyang Wang|[2312.00451v1](http://arxiv.org/abs/2312.00451v1)|null|
 |**2023-11-30**|**Distributed Global Structure-from-Motion with a Deep Front-End**|Ayush Baid, John Lambert, Travis Driver, Akshay Krishnan, Hayk Stepanyan, Frank Dellaert|[2311.18801v1](http://arxiv.org/abs/2311.18801v1)|**[link](https://github.com/borglab/gtsfm)**|
-|**2023-11-28**|**LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS**|Zhiwen Fan, Kevin Wang, Kairun Wen, Zehao Zhu, Dejia Xu, Zhangyang Wang|[2311.17245v2](http://arxiv.org/abs/2311.17245v2)|**[link](https://github.com/VITA-Group/LightGaussian)**|
+|**2023-11-28**|**LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS**|Zhiwen Fan, Kevin Wang, Kairun Wen, Zehao Zhu, Dejia Xu, Zhangyang Wang|[2311.17245v3](http://arxiv.org/abs/2311.17245v3)|**[link](https://github.com/VITA-Group/LightGaussian)**|
 |**2023-11-18**|**LOSTU: Fast, Scalable, and Uncertainty-Aware Triangulation**|Sébastien Henry, John A. Christian|[2311.11171v1](http://arxiv.org/abs/2311.11171v1)|null|
 |**2023-11-17**|**Human motion trajectory prediction using the Social Force Model for real-time and low computational cost applications**|Oscar Gil, Alberto Sanfeliu|[2311.10582v1](http://arxiv.org/abs/2311.10582v1)|null|
 |**2023-11-09**|**Spatial Attention-based Distribution Integration Network for Human Pose Estimation**|Sihan Gao, Jing Zhu, Xiaoxuan Zhuang, Zhaoyue Wang, Qijin Li|[2311.05323v1](http://arxiv.org/abs/2311.05323v1)|null|
@@ -100,7 +100,7 @@
 |**2023-12-05**|**Fully Convolutional Slice-to-Volume Reconstruction for Single-Stack MRI**|Sean I. Young, Yaël Balbastre, Bruce Fischl, Polina Golland, Juan Eugenio Iglesias|[2312.03102v1](http://arxiv.org/abs/2312.03102v1)|null|
 |**2023-12-05**|**ReconFusion: 3D Reconstruction with Diffusion Priors**|Rundi Wu, Ben Mildenhall, Philipp Henzler, Keunhong Park, Ruiqi Gao, Daniel Watson, Pratul P. Srinivasan, Dor Verbin, Jonathan T. Barron, Ben Poole, Aleksander Holynski|[2312.02981v1](http://arxiv.org/abs/2312.02981v1)|null|
 |**2023-12-05**|**R3D-SWIN:Use Shifted Window Attention for Single-View 3D Reconstruction**|Chenhuan Li, Meihua Xiao, zehuan li, Mengxi Gao|[2312.02725v1](http://arxiv.org/abs/2312.02725v1)|null|
-|**2023-12-05**|**DreaMo: Articulated 3D Reconstruction From A Single Casual Video**|Tao Tu, Ming-Feng Li, Chieh Hubert Lin, Yen-Chi Cheng, Min Sun, Ming-Hsuan Yang|[2312.02617v1](http://arxiv.org/abs/2312.02617v1)|null|
+|**2023-12-05**|**DreaMo: Articulated 3D Reconstruction From A Single Casual Video**|Tao Tu, Ming-Feng Li, Chieh Hubert Lin, Yen-Chi Cheng, Min Sun, Ming-Hsuan Yang|[2312.02617v2](http://arxiv.org/abs/2312.02617v2)|null|
 |**2023-12-05**|**Prompt2NeRF-PIL: Fast NeRF Generation via Pretrained Implicit Latent**|Jianmeng Liu, Yuyao Zhang, Zeyuan Meng, Yu-Wing Tai, Chi-Keung Tang|[2312.02568v1](http://arxiv.org/abs/2312.02568v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
@@ -185,7 +185,7 @@
 |---|---|---|---|---|
 |**2023-12-07**|**SAMBA: A Trainable Segmentation Web-App with Smart Labelling**|Ronan Docherty, Isaac Squires, Antonis Vamvakeros, Samuel J. Cooper|[2312.04197v1](http://arxiv.org/abs/2312.04197v1)|null|
 |**2023-12-06**|**GCFA:Geodesic Curve Feature Augmentation via Shape Space Theory**|Yuexing Han, Guanxin Wan, Bing Wang|[2312.03325v1](http://arxiv.org/abs/2312.03325v1)|null|
-|**2023-12-05**|**Zero-Shot Point Cloud Registration**|Weijie Wang, Guofeng Mei, Bin Ren, Xiaoshui Huang, Fabio Poiesi, Luc Van Gool, Nicu Sebe, Bruno Lepri|[2312.03032v1](http://arxiv.org/abs/2312.03032v1)|null|
+|**2023-12-05**|**Zero-Shot Point Cloud Registration**|Weijie Wang, Guofeng Mei, Bin Ren, Xiaoshui Huang, Fabio Poiesi, Luc Van Gool, Nicu Sebe, Bruno Lepri|[2312.03032v2](http://arxiv.org/abs/2312.03032v2)|null|
 |**2023-12-04**|**A multi-channel cycleGAN for CBCT to CT synthesis**|Chelsea A. H. Sargeant, Edward G. A. Henderson, Dónal M. McSweeney, Aaron G. Rankin, Denis Page|[2312.02017v1](http://arxiv.org/abs/2312.02017v1)|null|
 |**2023-12-04**|**CZL-CIAE: CLIP-driven Zero-shot Learning for Correcting Inverse Age Estimation**|Yuntao Shou, Wei Ai, Tao Meng, Keqin Li|[2312.01758v1](http://arxiv.org/abs/2312.01758v1)|null|
 |**2023-12-04**|**J-Net: Improved U-Net for Terahertz Image Super-Resolution**|Woon-Ha Yeo, Seung-Hwan Jung, Seung Jae Oh, Inhee Maeng, Eui Su Lee, Han-Cheol Ryu|[2312.01638v1](http://arxiv.org/abs/2312.01638v1)|null|
