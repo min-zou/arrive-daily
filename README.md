@@ -92,6 +92,8 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**Fine Dense Alignment of Image Bursts through Camera Pose and Depth Estimation**|Bruno Lecouat, Yann Dubois de Mont-Marin, Théo Bodrito, Julien Mairal, Jean Ponce|[2312.05190v1](http://arxiv.org/abs/2312.05190v1)|null|
+|**2023-12-08**|**SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration**|Xu Cao, Takafumi Taketomi|[2312.04803v1](http://arxiv.org/abs/2312.04803v1)|null|
 |**2023-12-07**|**FitDiff: Robust monocular 3D facial shape and reflectance estimation using Diffusion Models**|Stathis Galanakis, Alexandros Lattas, Stylianos Moschoglou, Stefanos Zafeiriou|[2312.04465v1](http://arxiv.org/abs/2312.04465v1)|null|
 |**2023-12-06**|**Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle**|Youtian Lin, Zuozhuo Dai, Siyu Zhu, Yao Yao|[2312.03431v1](http://arxiv.org/abs/2312.03431v1)|null|
 |**2023-12-06**|**Evaluating the point cloud of individual trees generated from images based on Neural Radiance fields (NeRF) method**|Hongyu Huang, Guoji Tian, Chongcheng Chen|[2312.03372v1](http://arxiv.org/abs/2312.03372v1)|null|
@@ -99,12 +101,11 @@
 |**2023-12-06**|**Bile Duct Segmentation Methods Under 3D Slicer Applied to ERCP: Advantages and Disadvantages**|Abdelhadi Essamlali, Vincent Millot-Maysounabe, Marion Chartier, Grégoire Salin, Aymeric Becq, Lionel Arrivé, Marine Duboc Camus, Jérôme Szewczyk, Isabelle Claude|[2312.03356v1](http://arxiv.org/abs/2312.03356v1)|null|
 |**2023-12-05**|**Fully Convolutional Slice-to-Volume Reconstruction for Single-Stack MRI**|Sean I. Young, Yaël Balbastre, Bruce Fischl, Polina Golland, Juan Eugenio Iglesias|[2312.03102v1](http://arxiv.org/abs/2312.03102v1)|null|
 |**2023-12-05**|**ReconFusion: 3D Reconstruction with Diffusion Priors**|Rundi Wu, Ben Mildenhall, Philipp Henzler, Keunhong Park, Ruiqi Gao, Daniel Watson, Pratul P. Srinivasan, Dor Verbin, Jonathan T. Barron, Ben Poole, Aleksander Holynski|[2312.02981v1](http://arxiv.org/abs/2312.02981v1)|null|
-|**2023-12-05**|**R3D-SWIN:Use Shifted Window Attention for Single-View 3D Reconstruction**|Chenhuan Li, Meihua Xiao, zehuan li, Mengxi Gao|[2312.02725v1](http://arxiv.org/abs/2312.02725v1)|null|
-|**2023-12-05**|**DreaMo: Articulated 3D Reconstruction From A Single Casual Video**|Tao Tu, Ming-Feng Li, Chieh Hubert Lin, Yen-Chi Cheng, Min Sun, Ming-Hsuan Yang|[2312.02617v2](http://arxiv.org/abs/2312.02617v2)|null|
-|**2023-12-05**|**Prompt2NeRF-PIL: Fast NeRF Generation via Pretrained Implicit Latent**|Jianmeng Liu, Yuyao Zhang, Zeyuan Meng, Yu-Wing Tai, Chi-Keung Tang|[2312.02568v1](http://arxiv.org/abs/2312.02568v1)|null|
+|**2023-12-05**|**R3D-SWIN:Use Shifted Window Attention for Single-View 3D Reconstruction**|Chenhuan Li, Meihua Xiao, zehuan li, Fangping Chen, Shanshan Qiao, Dingli Wang, Mengxi Gao, Siyi Zhang|[2312.02725v2](http://arxiv.org/abs/2312.02725v2)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**Fine Dense Alignment of Image Bursts through Camera Pose and Depth Estimation**|Bruno Lecouat, Yann Dubois de Mont-Marin, Théo Bodrito, Julien Mairal, Jean Ponce|[2312.05190v1](http://arxiv.org/abs/2312.05190v1)|null|
 |**2023-12-07**|**Camera Height Doesn't Change: Unsupervised Monocular Scale-Aware Road-Scene Depth Estimation**|Genki Kinoshita, Ko Nishino|[2312.04530v1](http://arxiv.org/abs/2312.04530v1)|null|
 |**2023-12-05**|**Fully Convolutional Slice-to-Volume Reconstruction for Single-Stack MRI**|Sean I. Young, Yaël Balbastre, Bruce Fischl, Polina Golland, Juan Eugenio Iglesias|[2312.03102v1](http://arxiv.org/abs/2312.03102v1)|null|
 |**2023-12-04**|**PatchFusion: An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation**|Zhenyu Li, Shariq Farooq Bhat, Peter Wonka|[2312.02284v1](http://arxiv.org/abs/2312.02284v1)|**[link](https://github.com/zhyever/PatchFusion)**|
@@ -114,7 +115,6 @@
 |**2023-12-04**|**BEVNeXt: Reviving Dense BEV Frameworks for 3D Object Detection**|Zhenxin Li, Shiyi Lan, Jose M. Alvarez, Zuxuan Wu|[2312.01696v1](http://arxiv.org/abs/2312.01696v1)|null|
 |**2023-12-03**|**Deeper into Self-Supervised Monocular Indoor Depth Estimation**|Chao Fan, Zhenyu Yin, Yue Li, Feiqing Zhang|[2312.01283v1](http://arxiv.org/abs/2312.01283v1)|**[link](https://github.com/fcntes/indoordepth)**|
 |**2023-12-02**|**Diffusion Handles: Enabling 3D Edits for Diffusion Models by Lifting Activations to 3D**|Karran Pandey, Paul Guerrero, Matheus Gadelha, Yannick Hold-Geoffroy, Karan Singh, Niloy Mitra|[2312.02190v2](http://arxiv.org/abs/2312.02190v2)|null|
-|**2023-12-01**|**Enhancing Diffusion Models with 3D Perspective Geometry Constraints**|Rishi Upadhyay, Howard Zhang, Yunhao Ba, Ethan Yang, Blake Gella, Sicheng Jiang, Alex Wong, Achuta Kadambi|[2312.00944v1](http://arxiv.org/abs/2312.00944v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,8 +183,9 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**gcDLSeg: Integrating Graph-cut into Deep Learning for Binary Semantic Segmentation**|Hui Xie, Weiyu Xu, Ya Xing Wang, John Buatti, Xiaodong Wu|[2312.04713v1](http://arxiv.org/abs/2312.04713v1)|null|
 |**2023-12-07**|**SAMBA: A Trainable Segmentation Web-App with Smart Labelling**|Ronan Docherty, Isaac Squires, Antonis Vamvakeros, Samuel J. Cooper|[2312.04197v1](http://arxiv.org/abs/2312.04197v1)|null|
-|**2023-12-06**|**GCFA:Geodesic Curve Feature Augmentation via Shape Space Theory**|Yuexing Han, Guanxin Wan, Bing Wang|[2312.03325v1](http://arxiv.org/abs/2312.03325v1)|null|
+|**2023-12-06**|**GCFA:Geodesic Curve Feature Augmentation in the Pre-Shape Space**|Yuexing Han, Guanxin Wan, Bing Wang|[2312.03325v2](http://arxiv.org/abs/2312.03325v2)|null|
 |**2023-12-05**|**Zero-Shot Point Cloud Registration**|Weijie Wang, Guofeng Mei, Bin Ren, Xiaoshui Huang, Fabio Poiesi, Luc Van Gool, Nicu Sebe, Bruno Lepri|[2312.03032v2](http://arxiv.org/abs/2312.03032v2)|null|
 |**2023-12-04**|**A multi-channel cycleGAN for CBCT to CT synthesis**|Chelsea A. H. Sargeant, Edward G. A. Henderson, Dónal M. McSweeney, Aaron G. Rankin, Denis Page|[2312.02017v1](http://arxiv.org/abs/2312.02017v1)|null|
 |**2023-12-04**|**CZL-CIAE: CLIP-driven Zero-shot Learning for Correcting Inverse Age Estimation**|Yuntao Shou, Wei Ai, Tao Meng, Keqin Li|[2312.01758v1](http://arxiv.org/abs/2312.01758v1)|null|
@@ -192,7 +193,6 @@
 |**2023-12-03**|**G2D: From Global to Dense Radiography Representation Learning via Vision-Language Pre-training**|Che Liu, Cheng Ouyang, Sibo Cheng, Anand Shah, Wenjia Bai, Rossella Arcucci|[2312.01522v1](http://arxiv.org/abs/2312.01522v1)|null|
 |**2023-12-02**|**Bootstrapping Interactive Image-Text Alignment for Remote Sensing Image Captioning**|Cong Yang, Zuchao Li, Lefei Zhang|[2312.01191v1](http://arxiv.org/abs/2312.01191v1)|**[link](https://github.com/yangcong356/bita)**|
 |**2023-12-02**|**IDPL-PFOD2: A New Large-Scale Dataset for Printed Farsi Optical Character Recognition**|Fatemeh Asadi-zeydabadi, Ali Afkari-Fahandari, Amin Faraji, Elham Shabaninia, Hossein Nezamabadi-pour|[2312.01177v1](http://arxiv.org/abs/2312.01177v1)|null|
-|**2023-12-01**|**Open-vocabulary object 6D pose estimation**|Jaime Corsetti, Davide Boscaini, Changjae Oh, Andrea Cavallaro, Fabio Poiesi|[2312.00690v2](http://arxiv.org/abs/2312.00690v2)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
