@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**Denoising diffusion-based synthetic generation of three-dimensional (3D) anisotropic microstructures from two-dimensional (2D) micrographs**|Kang-Hyun Lee, Gun Jin Yun|[2312.07832v1](http://arxiv.org/abs/2312.07832v1)|null|
 |**2023-12-11**|**Nuvo: Neural UV Mapping for Unruly 3D Representations**|Pratul P. Srinivasan, Stephan J. Garbin, Dor Verbin, Jonathan T. Barron, Ben Mildenhall|[2312.05283v1](http://arxiv.org/abs/2312.05283v1)|null|
 |**2023-12-11**|**Gaussian Splatting SLAM**|Hidenobu Matsuki, Riku Murai, Paul H. J. Kelly, Andrew J. Davison|[2312.06741v1](http://arxiv.org/abs/2312.06741v1)|null|
 |**2023-12-10**|**UNeR3D: Versatile and Scalable 3D RGB Point Cloud Generation from 2D Images in Unsupervised Reconstruction**|Hongbin Lin, Juangui Xu, Qingfeng Xu, Zhengyu Hu, Handing Xu, Yunzhi Chen, Yongjun Hu, Zhenguo Nie|[2312.06706v1](http://arxiv.org/abs/2312.06706v1)|null|
@@ -101,10 +102,10 @@
 |**2023-12-08**|**SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration**|Xu Cao, Takafumi Taketomi|[2312.04803v1](http://arxiv.org/abs/2312.04803v1)|null|
 |**2023-12-07**|**FitDiff: Robust monocular 3D facial shape and reflectance estimation using Diffusion Models**|Stathis Galanakis, Alexandros Lattas, Stylianos Moschoglou, Stefanos Zafeiriou|[2312.04465v1](http://arxiv.org/abs/2312.04465v1)|null|
 |**2023-12-06**|**Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle**|Youtian Lin, Zuozhuo Dai, Siyu Zhu, Yao Yao|[2312.03431v1](http://arxiv.org/abs/2312.03431v1)|null|
-|**2023-12-06**|**Evaluating the point cloud of individual trees generated from images based on Neural Radiance fields (NeRF) method**|Hongyu Huang, Guoji Tian, Chongcheng Chen|[2312.03372v1](http://arxiv.org/abs/2312.03372v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**Instance-aware Multi-Camera 3D Object Detection with Structural Priors Mining and Self-Boosting Learning**|Yang Jiao, Zequn Jie, Shaoxiang Chen, Lechao Cheng, Jingjing Chen, Lin Ma, Yu-Gang Jiang|[2312.08004v1](http://arxiv.org/abs/2312.08004v1)|null|
 |**2023-12-12**|**CompdVision: Combining Near-Field 3D Visual and Tactile Sensing Using a Compact Compound-Eye Imaging System**|Lifan Luo, Boyang Zhang, Zhijie Peng, Yik Kin Cheung, Guanlan Zhang, Zhigang Li, Michael Yu Wang, Hongyu Yu|[2312.07146v1](http://arxiv.org/abs/2312.07146v1)|null|
 |**2023-12-10**|**GenDepth: Generalizing Monocular Depth Estimation for Arbitrary Camera Parameters via Ground Plane Embedding**|Karlo Koledić, Luka Petrović, Ivan Petrović, Ivan Marković|[2312.06021v1](http://arxiv.org/abs/2312.06021v1)|null|
 |**2023-12-08**|**Fine Dense Alignment of Image Bursts through Camera Pose and Depth Estimation**|Bruno Lecouat, Yann Dubois de Mont-Marin, Théo Bodrito, Julien Mairal, Jean Ponce|[2312.05190v1](http://arxiv.org/abs/2312.05190v1)|null|
@@ -114,7 +115,6 @@
 |**2023-12-04**|**GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis**|Shunyuan Zheng, Boyao Zhou, Ruizhi Shao, Boning Liu, Shengping Zhang, Liqiang Nie, Yebin Liu|[2312.02155v1](http://arxiv.org/abs/2312.02155v1)|null|
 |**2023-12-04**|**Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation**|Bingxin Ke, Anton Obukhov, Shengyu Huang, Nando Metzger, Rodrigo Caye Daudt, Konrad Schindler|[2312.02145v1](http://arxiv.org/abs/2312.02145v1)|**[link](https://github.com/prs-eth/marigold)**|
 |**2023-12-04**|**GIVT: Generative Infinite-Vocabulary Transformers**|Michael Tschannen, Cian Eastwood, Fabian Mentzer|[2312.02116v1](http://arxiv.org/abs/2312.02116v1)|null|
-|**2023-12-04**|**BEVNeXt: Reviving Dense BEV Frameworks for 3D Object Detection**|Zhenxin Li, Shiyi Lan, Jose M. Alvarez, Zuxuan Wu|[2312.01696v1](http://arxiv.org/abs/2312.01696v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -132,10 +132,10 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-12-11**|**M3SOT: Multi-frame, Multi-field, Multi-space 3D Single Object Tracking**|Jiaming Liu, Yue Wu, Maoguo Gong, Qiguang Miao, Wenping Ma, Can Qin|[2312.06117v1](http://arxiv.org/abs/2312.06117v1)|**[link](https://github.com/liujia99/M3SOT)**|
-|**2023-12-10**|**Learning Differentiable Particle Filter on the Fly**|Jiaxi Li, Xiongjie Chen, Yunpeng Li|[2312.05955v1](http://arxiv.org/abs/2312.05955v1)|null|
+|**2023-12-10**|**Learning Differentiable Particle Filter on the Fly**|Jiaxi Li, Xiongjie Chen, Yunpeng Li|[2312.05955v2](http://arxiv.org/abs/2312.05955v2)|null|
 |**2023-12-07**|**Mixture of Dynamical Variational Autoencoders for Multi-Source Trajectory Modeling and Separation**|Xiaoyu Lin, Laurent Girin, Xavier Alameda-Pineda|[2312.04167v1](http://arxiv.org/abs/2312.04167v1)|null|
 |**2023-12-07**|**Instance Tracking in 3D Scenes from Egocentric Videos**|Yunhan Zhao, Haoyu Ma, Shu Kong, Charless Fowlkes|[2312.04117v1](http://arxiv.org/abs/2312.04117v1)|**[link](https://github.com/it3dego/it3dego)**|
-|**2023-12-06**|**High Pileup Particle Tracking with Object Condensation**|Kilian Lieret, Gage DeZoort, Devdoot Chatterjee, Jian Park, Siqi Miao, Pan Li|[2312.03823v1](http://arxiv.org/abs/2312.03823v1)|null|
+|**2023-12-06**|**High Pileup Particle Tracking with Object Condensation**|Kilian Lieret, Gage DeZoort, Devdoot Chatterjee, Jian Park, Siqi Miao, Pan Li|[2312.03823v1](http://arxiv.org/abs/2312.03823v1)|**[link](https://github.com/gnn-tracking/gnn_tracking)**|
 |**2023-12-06**|**Markov Chain Monte Carlo Data Association for Sets of Trajectories**|Yuxuan Xia, Ángel F. García-Fernández, Lennart Svensson|[2312.03423v1](http://arxiv.org/abs/2312.03423v1)|null|
 |**2023-12-04**|**Adaptive Confidence Threshold for ByteTrack in Multi-Object Tracking**|Linh Van Ma, Muhammad Ishfaq Hussain, JongHyun Park, Jeongbae Kim, Moongu Jeon|[2312.01650v2](http://arxiv.org/abs/2312.01650v2)|**[link](https://github.com/linh-gist/AdaptConfByteTrack)**|
 |**2023-12-01**|**Zero-Shot Video Question Answering with Procedural Programs**|Rohan Choudhury, Koichiro Niinuma, Kris M. Kitani, László A. Jeni|[2312.00937v1](http://arxiv.org/abs/2312.00937v1)|null|
@@ -183,16 +183,16 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**SAM-guided Graph Cut for 3D Instance Segmentation**|Haoyu Guo, He Zhu, Sida Peng, Yuang Wang, Yujun Shen, Ruizhen Hu, Xiaowei Zhou|[2312.08372v1](http://arxiv.org/abs/2312.08372v1)|null|
+|**2023-12-13**|**PAD: Self-Supervised Pre-Training with Patchwise-Scale Adapter for Infrared Images**|Tao Zhang, Kun Ding, Jinyong Wen, Yu Xiong, Zeyu Zhang, Shiming Xiang, Chunhong Pan|[2312.08192v1](http://arxiv.org/abs/2312.08192v1)|null|
+|**2023-12-13**|**Advanced Image Segmentation Techniques for Neural Activity Detection via C-fos Immediate Early Gene Expression**|Peilin Cai|[2312.08177v1](http://arxiv.org/abs/2312.08177v1)|**[link](https://github.com/dystopians/cfoscraft)**|
+|**2023-12-13**|**Individualized Deepfake Detection Exploiting Traces Due to Double Neural-Network Operations**|Mushfiqur Rahman, Runze Liu, Chau-Wai Wong, Huaiyu Dai|[2312.08034v1](http://arxiv.org/abs/2312.08034v1)|null|
+|**2023-12-12**|**Brain-optimized inference improves reconstructions of fMRI brain activity**|Reese Kneeland, Jordyn Ojeda, Ghislain St-Yves, Thomas Naselaris|[2312.07705v1](http://arxiv.org/abs/2312.07705v1)|null|
 |**2023-12-12**|**Weakly Supervised 3D Object Detection via Multi-Level Visual Guidance**|Kuan-Chih Huang, Yi-Hsuan Tsai, Ming-Hsuan Yang|[2312.07530v1](http://arxiv.org/abs/2312.07530v1)|null|
 |**2023-12-12**|**DGNet: Dynamic Gradient-guided Network with Noise Suppression for Underwater Image Enhancement**|Jingchun Zhou, Zongxin He, Dehuan Zhang, Kin-man Lam, Weishi Zhang, Xianping Fu, Yi Wang, Chongyi Li|[2312.06999v1](http://arxiv.org/abs/2312.06999v1)|null|
 |**2023-12-12**|**IA2U: A Transfer Plugin with Multi-Prior for In-Air Model to Underwater**|Jingchun Zhou, Qilin Gai, Weishi Zhang, Kin-man Lam, Xianping Fu, Ting Li, Chongyi Li|[2312.06955v1](http://arxiv.org/abs/2312.06955v1)|null|
 |**2023-12-09**|**Exploring 3D U-Net Training Configurations and Post-Processing Strategies for the MICCAI 2023 Kidney and Tumor Segmentation Challenge**|Kwang-Hyun Uhm, Hyunjun Cho, Zhixin Xu, Seohoon Lim, Seung-Won Jung, Sung-Hoo Hong, Sung-Jea Ko|[2312.05528v1](http://arxiv.org/abs/2312.05528v1)|null|
 |**2023-12-07**|**gcDLSeg: Integrating Graph-cut into Deep Learning for Binary Semantic Segmentation**|Hui Xie, Weiyu Xu, Ya Xing Wang, John Buatti, Xiaodong Wu|[2312.04713v1](http://arxiv.org/abs/2312.04713v1)|null|
-|**2023-12-07**|**SAMBA: A Trainable Segmentation Web-App with Smart Labelling**|Ronan Docherty, Isaac Squires, Antonis Vamvakeros, Samuel J. Cooper|[2312.04197v1](http://arxiv.org/abs/2312.04197v1)|null|
-|**2023-12-06**|**GCFA:Geodesic Curve Feature Augmentation in the Pre-Shape Space**|Yuexing Han, Guanxin Wan, Bing Wang|[2312.03325v2](http://arxiv.org/abs/2312.03325v2)|null|
-|**2023-12-05**|**Zero-Shot Point Cloud Registration**|Weijie Wang, Guofeng Mei, Bin Ren, Xiaoshui Huang, Fabio Poiesi, Luc Van Gool, Nicu Sebe, Bruno Lepri|[2312.03032v2](http://arxiv.org/abs/2312.03032v2)|null|
-|**2023-12-04**|**A multi-channel cycleGAN for CBCT to CT synthesis**|Chelsea A. H. Sargeant, Edward G. A. Henderson, Dónal M. McSweeney, Aaron G. Rankin, Denis Page|[2312.02017v1](http://arxiv.org/abs/2312.02017v1)|null|
-|**2023-12-04**|**CZL-CIAE: CLIP-driven Zero-shot Learning for Correcting Inverse Age Estimation**|Yuntao Shou, Wei Ai, Tao Meng, Keqin Li|[2312.01758v1](http://arxiv.org/abs/2312.01758v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
