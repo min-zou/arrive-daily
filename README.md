@@ -184,7 +184,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-12-13**|**SAM-guided Graph Cut for 3D Instance Segmentation**|Haoyu Guo, He Zhu, Sida Peng, Yuang Wang, Yujun Shen, Ruizhen Hu, Xiaowei Zhou|[2312.08372v1](http://arxiv.org/abs/2312.08372v1)|null|
-|**2023-12-13**|**PAD: Self-Supervised Pre-Training with Patchwise-Scale Adapter for Infrared Images**|Tao Zhang, Kun Ding, Jinyong Wen, Yu Xiong, Zeyu Zhang, Shiming Xiang, Chunhong Pan|[2312.08192v1](http://arxiv.org/abs/2312.08192v1)|null|
+|**2023-12-13**|**PAD: Self-Supervised Pre-Training with Patchwise-Scale Adapter for Infrared Images**|Tao Zhang, Kun Ding, Jinyong Wen, Yu Xiong, Zeyu Zhang, Shiming Xiang, Chunhong Pan|[2312.08192v1](http://arxiv.org/abs/2312.08192v1)|**[link](https://github.com/casiatao/pad)**|
 |**2023-12-13**|**Advanced Image Segmentation Techniques for Neural Activity Detection via C-fos Immediate Early Gene Expression**|Peilin Cai|[2312.08177v1](http://arxiv.org/abs/2312.08177v1)|**[link](https://github.com/dystopians/cfoscraft)**|
 |**2023-12-13**|**Individualized Deepfake Detection Exploiting Traces Due to Double Neural-Network Operations**|Mushfiqur Rahman, Runze Liu, Chau-Wai Wong, Huaiyu Dai|[2312.08034v1](http://arxiv.org/abs/2312.08034v1)|null|
 |**2023-12-12**|**Brain-optimized inference improves reconstructions of fMRI brain activity**|Reese Kneeland, Jordyn Ojeda, Ghislain St-Yves, Thomas Naselaris|[2312.07705v1](http://arxiv.org/abs/2312.07705v1)|null|
