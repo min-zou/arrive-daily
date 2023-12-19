@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**PLGSLAM: Progressive Neural Scene Represenation with Local to Global Bundle Adjustment**|Tianchen Deng, Guole Shen, Tong Qin, Jianyu Wang, Wentao Zhao, Jingchuan Wang, Danwei Wang, Weidong Chen|[2312.09866v1](http://arxiv.org/abs/2312.09866v1)|null|
 |**2023-12-12**|**WHAM: Reconstructing World-grounded Humans with Accurate 3D Motion**|Soyong Shin, Juyong Kim, Eni Halilaj, Michael J. Black|[2312.07531v1](http://arxiv.org/abs/2312.07531v1)|null|
 |**2023-12-12**|**Attacking the Loop: Adversarial Attacks on Graph-based Loop Closure Detection**|Jonathan J. Y. Kim, Martin Urschler, Patricia J. Riddle, Jorg S. Wicker|[2312.06991v1](http://arxiv.org/abs/2312.06991v1)|null|
 |**2023-12-11**|**Gaussian Splatting SLAM**|Hidenobu Matsuki, Riku Murai, Paul H. J. Kelly, Andrew J. Davison|[2312.06741v1](http://arxiv.org/abs/2312.06741v1)|null|
@@ -10,7 +11,6 @@
 |**2023-12-04**|**Efficient 2D Graph SLAM for Sparse Sensing**|Hanzhi Zhou, Zichao Hu, Sihang Liu, Samira Khan|[2312.02353v1](http://arxiv.org/abs/2312.02353v1)|**[link](https://github.com/shiftlab-nanodrone/sparse-gslam)**|
 |**2023-12-04**|**SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM**|Nikhil Keetha, Jay Karhade, Krishna Murthy Jatavallabhula, Gengshan Yang, Sebastian Scherer, Deva Ramanan, Jonathon Luiten|[2312.02126v1](http://arxiv.org/abs/2312.02126v1)|null|
 |**2023-11-30**|**DNS SLAM: Dense Neural Semantic-Informed SLAM**|Kunyi Li, Michael Niemeyer, Nassir Navab, Federico Tombari|[2312.00204v1](http://arxiv.org/abs/2312.00204v1)|null|
-|**2023-11-29**|**GLiDR: Topologically Regularized Graph Generative Network for Sparse LiDAR Point Clouds**|Prashant Kumar, Kshitij Madhav Bhat, Vedang Bhupesh Shenvi Nadkarni, Prem Kalra|[2312.00068v1](http://arxiv.org/abs/2312.00068v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -40,7 +40,7 @@
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-11**|**VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**|Jian Shi, Peter Wonka|[2312.08871v1](http://arxiv.org/abs/2312.08871v1)|null|
+|**2023-12-11**|**VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**|Jian Shi, Peter Wonka|[2312.08871v1](http://arxiv.org/abs/2312.08871v1)|**[link](https://github.com/shijianjian/voxelkp)**|
 |**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver, Andrew Vaughan, Yang Cheng, Adnan Ansar, John Christian, Panagiotis Tsiotras|[2312.06865v1](http://arxiv.org/abs/2312.06865v1)|null|
 |**2023-12-01**|**Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)**|Emma Cramer, Jonas Reiher, Sebastian Trimpe|[2312.00592v1](http://arxiv.org/abs/2312.00592v1)|null|
 |**2023-11-30**|**Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications**|Sahar Almahfouz Nasser, Shashwat Pathak, Keshav Singhal, Mohit Meena, Nihar Gupte, Ananya Chinmaya, Prateek Garg, Amit Sethi|[2311.18281v1](http://arxiv.org/abs/2311.18281v1)|null|
@@ -131,16 +131,16 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Tracking Skiers from the Top to the Bottom**|Matteo Dunnhofer, Luca Sordi, Niki Martinel, Christian Micheloni|[2312.09723v1](http://arxiv.org/abs/2312.09723v1)|null|
 |**2023-12-14**|**UCMCTrack: Multi-Object Tracking with Uniform Camera Motion Compensation**|Kefu Yi, Kai Luo, Xiaolei Luo, Jiangui Huang, Hao Wu, Rongdong Hu, Wei Hao|[2312.08952v1](http://arxiv.org/abs/2312.08952v1)|**[link](https://github.com/corfyi/ucmctrack)**|
 |**2023-12-14**|**Multi-Scene Generalized Trajectory Global Graph Solver with Composite Nodes for Multiple Object Tracking**|Yan Gao, Haojun Xu, Nannan Wang, Jie Li, Xinbo Gao|[2312.08951v1](http://arxiv.org/abs/2312.08951v1)|null|
 |**2023-12-14**|**PhyOT: Physics-informed object tracking in surveillance cameras**|Kawisorn Kamtue, Jose M. F. Moura, Orathai Sangpetch, Paulo Garcia|[2312.08650v1](http://arxiv.org/abs/2312.08650v1)|null|
 |**2023-12-13**|**Pose and shear-based tactile servoing**|John Lloyd, Nathan F. Lepora|[2312.08411v1](http://arxiv.org/abs/2312.08411v1)|null|
 |**2023-12-11**|**M3SOT: Multi-frame, Multi-field, Multi-space 3D Single Object Tracking**|Jiaming Liu, Yue Wu, Maoguo Gong, Qiguang Miao, Wenping Ma, Can Qin|[2312.06117v1](http://arxiv.org/abs/2312.06117v1)|**[link](https://github.com/liujia99/M3SOT)**|
-|**2023-12-10**|**Learning Differentiable Particle Filter on the Fly**|Jiaxi Li, Xiongjie Chen, Yunpeng Li|[2312.05955v2](http://arxiv.org/abs/2312.05955v2)|null|
+|**2023-12-10**|**Learning Differentiable Particle Filter on the Fly**|Jiaxi Li, Xiongjie Chen, Yunpeng Li|[2312.05955v3](http://arxiv.org/abs/2312.05955v3)|null|
 |**2023-12-10**|**I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions**|Chengfeng Zhao, Juze Zhang, Jiashen Du, Ziwei Shan, Junye Wang, Jingyi Yu, Jingya Wang, Lan Xu|[2312.08869v1](http://arxiv.org/abs/2312.08869v1)|null|
 |**2023-12-07**|**Mixture of Dynamical Variational Autoencoders for Multi-Source Trajectory Modeling and Separation**|Xiaoyu Lin, Laurent Girin, Xavier Alameda-Pineda|[2312.04167v1](http://arxiv.org/abs/2312.04167v1)|null|
 |**2023-12-07**|**Instance Tracking in 3D Scenes from Egocentric Videos**|Yunhan Zhao, Haoyu Ma, Shu Kong, Charless Fowlkes|[2312.04117v1](http://arxiv.org/abs/2312.04117v1)|**[link](https://github.com/it3dego/it3dego)**|
-|**2023-12-06**|**High Pileup Particle Tracking with Object Condensation**|Kilian Lieret, Gage DeZoort, Devdoot Chatterjee, Jian Park, Siqi Miao, Pan Li|[2312.03823v1](http://arxiv.org/abs/2312.03823v1)|**[link](https://github.com/gnn-tracking/gnn_tracking)**|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -170,6 +170,7 @@
 ## Visual Odometry
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Deep Event Visual Odometry**|Simon Klenk, Marvin Motzet, Lukas Koestler, Daniel Cremers|[2312.09800v1](http://arxiv.org/abs/2312.09800v1)|null|
 |**2023-12-10**|**SuperPrimitive: Scene Reconstruction at a Primitive Level**|Kirill Mazur, Gwangbin Bae, Andrew J. Davison|[2312.05889v1](http://arxiv.org/abs/2312.05889v1)|null|
 |**2023-12-04**|**iMatching: Imperative Correspondence Learning**|Zitong Zhan, Dasong Gao, Yun-Jou Lin, Youjie Xia, Chen Wang|[2312.02141v1](http://arxiv.org/abs/2312.02141v1)|null|
 |**2023-11-30**|**Event-based Visual Inertial Velometer**|Xiuyuan Lu, Yi Zhou, Shaojie Shen|[2311.18189v1](http://arxiv.org/abs/2311.18189v1)|null|
@@ -179,10 +180,10 @@
 |**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch, Mark Sastuba, Jonas Toth, Bernhard Jung|[2310.14924v1](http://arxiv.org/abs/2310.14924v1)|**[link](https://github.com/rlsch/depth-conversions)**|
 |**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li, Zhao Guo, Ze Yang, Yanbiao Sun, Liang Zhao, Federico Tombari|[2310.10931v1](http://arxiv.org/abs/2310.10931v1)|**[link](https://github.com/yanyan-li/open-structure)**|
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li, Jiuniu Wang, Zhiwei Wei, Wenjia Xu|[2310.08082v1](http://arxiv.org/abs/2310.08082v1)|null|
-|**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh, Charuvaran Adhivarahan, Karthik Dantu|[2310.06249v1](http://arxiv.org/abs/2310.06249v1)|null|
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Latent Diffusion Models with Image-Derived Annotations for Enhanced AI-Assisted Cancer Diagnosis in Histopathology**|Pedro Osorio, Guillermo Jimenez-Perez, Javier Montalt-Tordera, Jens Hooge, Guillem Duran-Ballester, Shivam Singh, Moritz Radbruch, Ute Bach, Sabrina Schroeder, Krystyna Siudak, Julia Vienenkoetter, Bettina Lawrenz, Sadegh Mohammadi|[2312.09792v1](http://arxiv.org/abs/2312.09792v1)|null|
 |**2023-12-14**|**Improving Cross-modal Alignment with Synthetic Pairs for Text-only Image Captioning**|Zhiyue Liu, Jinyuan Liu, Fanrong Ma|[2312.08865v1](http://arxiv.org/abs/2312.08865v1)|null|
 |**2023-12-14**|**Multi-modal Latent Space Learning for Chain-of-Thought Reasoning in Language Models**|Liqi He, Zuchao Li, Xiantao Cai, Ping Wang|[2312.08762v1](http://arxiv.org/abs/2312.08762v1)|null|
 |**2023-12-14**|**GOEnFusion: Gradient Origin Encodings for 3D Forward Diffusion Models**|Animesh Karnewar, Andrea Vedaldi, Niloy J. Mitra, David Novotny|[2312.08744v1](http://arxiv.org/abs/2312.08744v1)|null|
@@ -192,7 +193,6 @@
 |**2023-12-13**|**Advanced Image Segmentation Techniques for Neural Activity Detection via C-fos Immediate Early Gene Expression**|Peilin Cai|[2312.08177v1](http://arxiv.org/abs/2312.08177v1)|**[link](https://github.com/dystopians/cfoscraft)**|
 |**2023-12-13**|**Individualized Deepfake Detection Exploiting Traces Due to Double Neural-Network Operations**|Mushfiqur Rahman, Runze Liu, Chau-Wai Wong, Huaiyu Dai|[2312.08034v1](http://arxiv.org/abs/2312.08034v1)|null|
 |**2023-12-12**|**Brain-optimized inference improves reconstructions of fMRI brain activity**|Reese Kneeland, Jordyn Ojeda, Ghislain St-Yves, Thomas Naselaris|[2312.07705v1](http://arxiv.org/abs/2312.07705v1)|null|
-|**2023-12-12**|**Weakly Supervised 3D Object Detection via Multi-Level Visual Guidance**|Kuan-Chih Huang, Yi-Hsuan Tsai, Ming-Hsuan Yang|[2312.07530v1](http://arxiv.org/abs/2312.07530v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
