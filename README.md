@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-29**|**Informative Rays Selection for Few-Shot Neural Radiance Fields**|Marco Orsingher, Anthony Dell'Eva, Paolo Zani, Paolo Medici, Massimo Bertozzi|[2312.17561v1](http://arxiv.org/abs/2312.17561v1)|null|
 |**2023-12-28**|**Toward Semantic Scene Understanding for Fine-Grained 3D Modeling of Plants**|Mohamad Qadri, Harry Freeman, Eric Schneider, George Kantor|[2312.17110v1](http://arxiv.org/abs/2312.17110v1)|null|
 |**2023-12-28**|**Learning Spatially Collaged Fourier Bases for Implicit Neural Representation**|Jason Chun Lok Li, Chang Liu, Binxiao Huang, Ngai Wong|[2312.17018v1](http://arxiv.org/abs/2312.17018v1)|null|
 |**2023-12-27**|**In-Hand 3D Object Reconstruction from a Monocular RGB Video**|Shijian Jiang, Qi Ye, Rengan Xie, Yuchi Huo, Xiang Li, Yang Zhou, Jiming Chen|[2312.16425v1](http://arxiv.org/abs/2312.16425v1)|null|
@@ -101,7 +102,6 @@
 |**2023-12-22**|**Scalable 3D Reconstruction From Single Particle X-Ray Diffraction Images Based on Online Machine Learning**|Jay Shenoy, Axel Levy, Frédéric Poitevin, Gordon Wetzstein|[2312.14432v1](http://arxiv.org/abs/2312.14432v1)|null|
 |**2023-12-21**|**3D Pose Estimation of Two Interacting Hands from a Monocular Event Camera**|Christen Millerdurai, Diogo Luvizon, Viktor Rudnev, André Jonas, Jiayi Wang, Christian Theobalt, Vladislav Golyanik|[2312.14157v1](http://arxiv.org/abs/2312.14157v1)|null|
 |**2023-12-21**|**PlatoNeRF: 3D Reconstruction in Plato's Cave via Single-View Two-Bounce Lidar**|Tzofi Klinghoffer, Xiaoyu Xiang, Siddharth Somasundaram, Yuchen Fan, Christian Richardt, Ramesh Raskar, Rakesh Ranjan|[2312.14239v1](http://arxiv.org/abs/2312.14239v1)|null|
-|**2023-12-21**|**DUSt3R: Geometric 3D Vision Made Easy**|Shuzhe Wang, Vincent Leroy, Yohann Cabon, Boris Chidlovskii, Jerome Revaud|[2312.14132v1](http://arxiv.org/abs/2312.14132v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,16 +131,16 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-29**|**MoD2T:Model-Data-Driven Motion-Static Object Tracking Method**|Yang Feng, Liao Pan, Wu Di, Liu Bo, Zhang Xingle|[2312.17641v1](http://arxiv.org/abs/2312.17641v1)|null|
+|**2023-12-29**|**Tracking with Human-Intent Reasoning**|Jiawen Zhu, Zhi-Qi Cheng, Jun-Yan He, Chenyang Li, Bin Luo, Huchuan Lu, Yifeng Geng, Xuansong Xie|[2312.17448v1](http://arxiv.org/abs/2312.17448v1)|**[link](https://github.com/jiawen-zhu/trackgpt)**|
+|**2023-12-27**|**X Modality Assisting RGBT Object Tracking**|Zhaisheng Ding, Haiyan Li, Ruichao Hou, Yanyu Liu, Shidong Xie, Dongming Zhou, Jinde Cao|[2312.17273v1](http://arxiv.org/abs/2312.17273v1)|null|
 |**2023-12-25**|**A Comprehensive Study of Object Tracking in Low-Light Environments**|Anqi Yi, Nantheera Anantrasirichai|[2312.16250v1](http://arxiv.org/abs/2312.16250v1)|null|
 |**2023-12-25**|**iKUN: Speak to Trackers without Retraining**|Yunhao Du, Cheng Lei, Zhicheng Zhao, Fei Su|[2312.16245v1](http://arxiv.org/abs/2312.16245v1)|**[link](https://github.com/dyhbupt/ikun)**|
+|**2023-12-22**|**Transformer-Based Multi-Object Smoothing with Decoupled Data Association and Smoothing**|Juliano Pinto, Georg Hess, Yuxuan Xia, Henk Wymeersch, Lennart Svensson|[2312.17261v1](http://arxiv.org/abs/2312.17261v1)|null|
 |**2023-12-22**|**Prototype-based Cross-Modal Object Tracking**|Lei Liu, Chenglong Li, Futian Wang, Longfeng Shen, Jin Tang|[2312.14471v1](http://arxiv.org/abs/2312.14471v1)|null|
 |**2023-12-22**|**Cross-Modal Object Tracking via Modality-Aware Fusion Network and A Large-Scale Dataset**|Lei Liu, Mengya Zhang, Cheng Li, Chenglong Li, Jin Tang|[2312.14446v1](http://arxiv.org/abs/2312.14446v1)|**[link](https://github.com/mmic-lcl/datasets-and-benchmark-code)**|
 |**2023-12-20**|**Perception Test 2023: A Summary of the First Challenge And Outcome**|Joseph Heyward, João Carreira, Dima Damen, Andrew Zisserman, Viorica Pătrăucean|[2312.13090v1](http://arxiv.org/abs/2312.13090v1)|null|
 |**2023-12-19**|**Transformer Network for Multi-Person Tracking and Re-Identification in Unconstrained Environment**|Hamza Mukhtar, Muhammad Usman Ghani Khan|[2312.11929v1](http://arxiv.org/abs/2312.11929v1)|null|
-|**2023-12-18**|**Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking**|Shihao Feng, Pengpeng Liang, Jin Gao, Erkang Cheng|[2312.11051v1](http://arxiv.org/abs/2312.11051v1)|**[link](https://github.com/liangp/mcstn-3dsot)**|
-|**2023-12-18**|**Emotion Based Prediction in the Context of Optimized Trajectory Planning for Immersive Learning**|Akey Sungheetha, Rajesh Sharma R, Chinnaiyan R|[2312.11576v1](http://arxiv.org/abs/2312.11576v1)|null|
-|**2023-12-18**|**NTrack: A Multiple-Object Tracker and Dataset for Infield Cotton Boll Counting**|Md Ahmed Al Muzaddid, William J. Beksi|[2312.10922v1](http://arxiv.org/abs/2312.10922v1)|null|
-|**2023-12-17**|**Bi-directional Adapter for Multi-modal Tracking**|Bing Cao, Junliang Guo, Pengfei Zhu, Qinghua Hu|[2312.10611v1](http://arxiv.org/abs/2312.10611v1)|**[link](https://github.com/sparktempest/bat)**|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
