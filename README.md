@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**Generalizable vision-language pre-training for annotation-free pathology localization**|Hao Yang, Hong-Yu Zhou, Cheng Li, Weijian Huang, Jiarun Liu, Shanshan Wang|[2401.02044v1](http://arxiv.org/abs/2401.02044v1)|null|
 |**2024-01-03**|**Few-shot Image Generation via Information Transfer from the Built Geodesic Surface**|Yuexing Han, Liheng Ruan, Bing Wang|[2401.01749v1](http://arxiv.org/abs/2401.01749v1)|null|
 |**2024-01-03**|**Local Adaptive Clustering Based Image Matching for Automatic Visual Identification**|Zhizhen Wang|[2401.01720v1](http://arxiv.org/abs/2401.01720v1)|null|
 |**2024-01-03**|**Learning Prompt with Distribution-Based Feature Replay for Few-Shot Class-Incremental Learning**|Zitong Huang, Ze Chen, Zhixing Chen, Erjin Zhou, Xinxing Xu, Rick Siow Mong Goh, Yong Liu, Chunmei Feng, Wangmeng Zuo|[2401.01598v1](http://arxiv.org/abs/2401.01598v1)|**[link](https://github.com/1170300714/lp-dif)**|
@@ -192,7 +193,6 @@
 |**2023-12-28**|**FFCA-Net: Stereo Image Compression via Fast Cascade Alignment of Side Information**|Yichong Xia, Yujun Huang, Bin Chen, Haoqian Wang, Yaowei Wang|[2312.16963v2](http://arxiv.org/abs/2312.16963v2)|null|
 |**2023-12-28**|**EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion**|Jianping Jiang, Xinyu Zhou, Peiqi Duan, Boxin Shi|[2312.16933v1](http://arxiv.org/abs/2312.16933v1)|null|
 |**2023-12-27**|**Forgery-aware Adaptive Transformer for Generalizable Synthetic Image Detection**|Huan Liu, Zichang Tan, Chuangchuang Tan, Yunchao Wei, Yao Zhao, Jingdong Wang|[2312.16649v1](http://arxiv.org/abs/2312.16649v1)|null|
-|**2023-12-27**|**A Polarization and Radiomics Feature Fusion Network for the Classification of Hepatocellular Carcinoma and Intrahepatic Cholangiocarcinoma**|Jia Dong, Yao Yao, Liyan Lin, Yang Dong, Jiachen Wan, Ran Peng, Chao Li, Hui Ma|[2312.16607v1](http://arxiv.org/abs/2312.16607v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
