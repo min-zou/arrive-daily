@@ -1,7 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-03**|**Distributed Pose-graph Optimization with Multi-level Partitioning for Collaborative SLAM**|Cunhao Li, Peng Yi, Guanghui Guo, Yiguang Hong|[2401.01657v1](http://arxiv.org/abs/2401.01657v1)|null|
+|**2024-01-05**|**Comparative Evaluation of RGB-D SLAM Methods for Humanoid Robot Localization and Mapping**|Amirhosein Vedadi, Aghil Yousefi-Koma, Parsa Yazdankhah, Amin Mozayyan|[2401.02816v1](http://arxiv.org/abs/2401.02816v1)|null|
+|**2024-01-03**|**Distributed Pose-graph Optimization with Multi-level Partitioning for Collaborative SLAM**|Cunhao Li, Peng Yi, Guanghui Guo, Yiguang Hong|[2401.01657v1](http://arxiv.org/abs/2401.01657v1)|**[link](https://github.com/tjcunhao/distributed-pose-graph)**|
 |**2024-01-03**|**DDN-SLAM: Real-time Dense Dynamic Neural Implicit SLAM with Joint Semantic Encoding**|Mingrui Li, Jiaming He, Guangan Jiang, Hongyu Wang|[2401.01545v1](http://arxiv.org/abs/2401.01545v1)|null|
 |**2024-01-02**|**NID-SLAM: Neural Implicit Representation-based RGB-D SLAM in dynamic environments**|Ziheng Xu, Jianwei Niu, Qingfeng Li, Tao Ren, Chen Chen|[2401.01189v1](http://arxiv.org/abs/2401.01189v1)|null|
 |**2024-01-02**|**PLE-SLAM: A Visual-Inertial SLAM Based on Point-Line Features and Efficient IMU Initialization**|Jiaming He, Mingrui Li, Yangyang Wang, Hongyu Wang|[2401.01081v2](http://arxiv.org/abs/2401.01081v2)|**[link](https://github.com/hjmgarmin/ple-slam)**|
@@ -10,7 +11,6 @@
 |**2023-12-25**|**BDIS-SLAM: A lightweight CPU-based dense stereo SLAM for surgery**|Jingwei Song, Ray Zhang, Qiuchen Zhu, Jianyu Lin, Maani Ghaffari|[2312.15679v1](http://arxiv.org/abs/2312.15679v1)|**[link](https://github.com/jingweisong/bdis-slam)**|
 |**2023-12-24**|**A Belief Propagation Approach for Direct Multipath-Based SLAM**|Mingchao Liang, Erik Leitinger, Florian Meyer|[2312.15564v1](http://arxiv.org/abs/2312.15564v1)|null|
 |**2023-12-21**|**A Dense Subframe-based SLAM Framework with Side-scan Sonar**|Jun Zhang, Yiping Xie, Li Ling, John Folkesson|[2312.13802v1](http://arxiv.org/abs/2312.13802v1)|null|
-|**2023-12-21**|**Millimeter-wave Radio SLAM: End-to-End Processing Methods and Experimental Validation**|Elizaveta Rastorgueva-Foi, Ossi Kaltiokallio, Yu Ge, Matias Turunen, Jukka Talvitie, Bo Tan, Musa Furkan Keskin, Henk Wymeersch, Mikko Valkama|[2312.13741v1](http://arxiv.org/abs/2312.13741v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -53,6 +53,7 @@
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-05**|**CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs**|Daoan Zhang, Junming Yang, Hanjia Lyu, Zijian Jin, Yuan Yao, Mingkai Chen, Jiebo Luo|[2401.02582v1](http://arxiv.org/abs/2401.02582v1)|null|
 |**2024-01-03**|**Local Adaptive Clustering Based Image Matching for Automatic Visual Identification**|Zhizhen Wang|[2401.01720v1](http://arxiv.org/abs/2401.01720v1)|null|
 |**2024-01-03**|**A Transformer-Based Adaptive Semantic Aggregation Method for UAV Visual Geo-Localization**|Shishen Li, Cuiwei Liu, Huaijun Qiu, Zhaokui Li|[2401.01574v1](http://arxiv.org/abs/2401.01574v1)|null|
 |**2023-12-23**|**BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation**|Tavis Shore, Simon Hadfield, Oscar Mendez|[2312.15363v1](http://arxiv.org/abs/2312.15363v1)|null|
@@ -62,7 +63,6 @@
 |**2023-11-30**|**Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications**|Sahar Almahfouz Nasser, Shashwat Pathak, Keshav Singhal, Mohit Meena, Nihar Gupte, Ananya Chinmaya, Prateek Garg, Amit Sethi|[2311.18281v1](http://arxiv.org/abs/2311.18281v1)|null|
 |**2023-11-29**|**LGFCTR: Local and Global Feature Convolutional Transformer for Image Matching**|Wenhao Zhong, Jie Jiang|[2311.17571v1](http://arxiv.org/abs/2311.17571v1)|null|
 |**2023-11-08**|**Zero-shot Translation of Attention Patterns in VQA Models to Natural Language**|Leonard Salewski, A. Sophia Koepke, Hendrik P. A. Lensch, Zeynep Akata|[2311.05043v1](http://arxiv.org/abs/2311.05043v1)|**[link](https://github.com/explainableml/zs-a2t)**|
-|**2023-11-06**|**An invariant feature extraction for multi-modal images matching**|Chenzhong Gao, Wei Li|[2311.02842v1](http://arxiv.org/abs/2311.02842v1)|null|
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-05**|**CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras**|Yabin Zhu, Xiao Wang, Chenglong Li, Bo Jiang, Lin Zhu, Zhixiang Huang, Yonghong Tian, Jin Tang|[2401.02826v1](http://arxiv.org/abs/2401.02826v1)|null|
 |**2023-12-31**|**Distributed Multi-Object Tracking Under Limited Field of View Heterogeneous Sensors with Density Clustering**|Fei Chen, Hoa Van Nguyen, Alex S. Leong, Sabita Panicker, Robin Baker, Damith C. Ranasinghe|[2401.00605v1](http://arxiv.org/abs/2401.00605v1)|null|
 |**2023-12-29**|**MoD2T:Model-Data-Driven Motion-Static Object Tracking Method**|Yang Feng, Liao Pan, Wu Di, Liu Bo, Zhang Xingle|[2312.17641v1](http://arxiv.org/abs/2312.17641v1)|null|
 |**2023-12-29**|**Tracking with Human-Intent Reasoning**|Jiawen Zhu, Zhi-Qi Cheng, Jun-Yan He, Chenyang Li, Bin Luo, Huchuan Lu, Yifeng Geng, Xuansong Xie|[2312.17448v1](http://arxiv.org/abs/2312.17448v1)|**[link](https://github.com/jiawen-zhu/trackgpt)**|
@@ -140,7 +141,6 @@
 |**2023-12-22**|**Transformer-Based Multi-Object Smoothing with Decoupled Data Association and Smoothing**|Juliano Pinto, Georg Hess, Yuxuan Xia, Henk Wymeersch, Lennart Svensson|[2312.17261v1](http://arxiv.org/abs/2312.17261v1)|null|
 |**2023-12-22**|**Prototype-based Cross-Modal Object Tracking**|Lei Liu, Chenglong Li, Futian Wang, Longfeng Shen, Jin Tang|[2312.14471v1](http://arxiv.org/abs/2312.14471v1)|null|
 |**2023-12-22**|**Cross-Modal Object Tracking via Modality-Aware Fusion Network and A Large-Scale Dataset**|Lei Liu, Mengya Zhang, Cheng Li, Chenglong Li, Jin Tang|[2312.14446v1](http://arxiv.org/abs/2312.14446v1)|**[link](https://github.com/mmic-lcl/datasets-and-benchmark-code)**|
-|**2023-12-20**|**Perception Test 2023: A Summary of the First Challenge And Outcome**|Joseph Heyward, João Carreira, Dima Damen, Andrew Zisserman, Viorica Pătrăucean|[2312.13090v1](http://arxiv.org/abs/2312.13090v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,8 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-05**|**VoxelNextFusion: A Simple, Unified and Effective Voxel Fusion Framework for Multi-Modal 3D Object Detection**|Ziying Song, Guoxin Zhang, Jun Xie, Lin Liu, Caiyan Jia, Shaoqing Xu, Zhepeng Wang|[2401.02702v1](http://arxiv.org/abs/2401.02702v1)|null|
+|**2024-01-05**|**PAHD: Perception-Action based Human Decision Making using Explainable Graph Neural Networks on SAR Images**|Sasindu Wijeratne, Bingyi Zhang, Rajgopal Kannan, Viktor Prasanna, Carl Busart|[2401.02687v1](http://arxiv.org/abs/2401.02687v1)|null|
 |**2024-01-04**|**Generalizable vision-language pre-training for annotation-free pathology localization**|Hao Yang, Hong-Yu Zhou, Cheng Li, Weijian Huang, Jiarun Liu, Shanshan Wang|[2401.02044v1](http://arxiv.org/abs/2401.02044v1)|null|
 |**2024-01-03**|**Few-shot Image Generation via Information Transfer from the Built Geodesic Surface**|Yuexing Han, Liheng Ruan, Bing Wang|[2401.01749v1](http://arxiv.org/abs/2401.01749v1)|null|
 |**2024-01-03**|**Local Adaptive Clustering Based Image Matching for Automatic Visual Identification**|Zhizhen Wang|[2401.01720v1](http://arxiv.org/abs/2401.01720v1)|null|
@@ -191,12 +193,10 @@
 |**2023-12-30**|**DXAI: Explaining Classification by Image Decomposition**|Elnatan Kadar, Guy Gilboa|[2401.00320v1](http://arxiv.org/abs/2401.00320v1)|**[link](https://github.com/dxai2024/dxai)**|
 |**2023-12-28**|**Generalizable Visual Reinforcement Learning with Segment Anything Model**|Ziyu Wang, Yanjie Ze, Yifei Sun, Zhecheng Yuan, Huazhe Xu|[2312.17116v1](http://arxiv.org/abs/2312.17116v1)|**[link](https://github.com/wadiuvatzy/sam-g)**|
 |**2023-12-28**|**FFCA-Net: Stereo Image Compression via Fast Cascade Alignment of Side Information**|Yichong Xia, Yujun Huang, Bin Chen, Haoqian Wang, Yaowei Wang|[2312.16963v2](http://arxiv.org/abs/2312.16963v2)|null|
-|**2023-12-28**|**EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion**|Jianping Jiang, Xinyu Zhou, Peiqi Duan, Boxin Shi|[2312.16933v1](http://arxiv.org/abs/2312.16933v1)|null|
-|**2023-12-27**|**Forgery-aware Adaptive Transformer for Generalizable Synthetic Image Detection**|Huan Liu, Zichang Tan, Chuangchuang Tan, Yunchao Wei, Yao Zhao, Jingdong Wang|[2312.16649v1](http://arxiv.org/abs/2312.16649v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-03**|**Distributed Pose-graph Optimization with Multi-level Partitioning for Collaborative SLAM**|Cunhao Li, Peng Yi, Guanghui Guo, Yiguang Hong|[2401.01657v1](http://arxiv.org/abs/2401.01657v1)|null|
+|**2024-01-03**|**Distributed Pose-graph Optimization with Multi-level Partitioning for Collaborative SLAM**|Cunhao Li, Peng Yi, Guanghui Guo, Yiguang Hong|[2401.01657v1](http://arxiv.org/abs/2401.01657v1)|**[link](https://github.com/tjcunhao/distributed-pose-graph)**|
 |**2023-12-31**|**Krylov Spread Complexity of Quantum-Walks**|Bhilahari Jeevanesan|[2401.00526v1](http://arxiv.org/abs/2401.00526v1)|**[link](https://github.com/billyjay/krylov-c-maximization)**|
 |**2023-12-22**|**Magnetic Sensor Compensation Utilizing Factor Graph Estimation**|Frederic W. Lathrop, Clark N. Taylor|[2312.14343v1](http://arxiv.org/abs/2312.14343v1)|null|
 |**2023-12-05**|**Estimation of articulated angle in six-wheeled dump trucks using multiple GNSS receivers for autonomous driving**|Taro Suzuki, Kazunori Ohno, Syotaro Kojima, Naoto Miyamoto, Takahiro Suzuki, Tomohiro Komatsu, Yukinori Shibata, Kimitaka Asano, Keiji Nagatani|[2312.02510v1](http://arxiv.org/abs/2312.02510v1)|null|
