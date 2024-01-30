@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-26**|**LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering**|Sheng Hong, Junjie He, Xinhu Zheng, Hesheng Wang, Hao Fang, Kangcheng Liu, Chunran Zheng, Shaojie Shen|[2401.14857v1](http://arxiv.org/abs/2401.14857v1)|null|
 |**2024-01-25**|**AscDAMs: Advanced SLAM-based channel detection and mapping system**|Tengfei Wang, Fucheng Lu, Jintao Qin, Taosheng Huang, Hui Kong, Ping Shen|[2401.13877v1](http://arxiv.org/abs/2401.13877v1)|null|
 |**2024-01-24**|**Multi-Object Navigation in real environments using hybrid policies**|Assem Sadek, Guillaume Bono, Boris Chidlovskii, Atilla Baskurt, Christian Wolf|[2401.13800v1](http://arxiv.org/abs/2401.13800v1)|null|
 |**2024-01-19**|**360ORB-SLAM: A Visual SLAM System for Panoramic Images with Depth Completion Network**|Yichen Chen, Yiqi Pan, Ruyu Liu, Haoyu Zhang, Guodao Zhang, Bo Sun, Jianhua Zhang|[2401.10560v1](http://arxiv.org/abs/2401.10560v1)|null|
@@ -10,7 +11,6 @@
 |**2024-01-17**|**PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**|Yue Pan, Xingguang Zhong, Louis Wiesmann, Thorbjörn Posewsky, Jens Behley, Cyrill Stachniss|[2401.09101v1](http://arxiv.org/abs/2401.09101v1)|**[link](https://github.com/prbonn/pin_slam)**|
 |**2024-01-16**|**S3M: Semantic Segmentation Sparse Mapping for UAVs with RGB-D Camera**|Thanh Nguyen Canh, Van-Truong Nguyen, Xiem HoangVan, Armagan Elibol, Nak Young Chong|[2401.08134v1](http://arxiv.org/abs/2401.08134v1)|null|
 |**2024-01-16**|**Object-Oriented Semantic Mapping for Reliable UAVs Navigation**|Thanh Nguyen Canh, Armagan Elibol, Nak Young Chong, Xiem HoangVan|[2401.08132v1](http://arxiv.org/abs/2401.08132v1)|null|
-|**2024-01-16**|**Cross-Modal Semi-Dense 6-DoF Tracking of an Event Camera in Challenging Conditions**|Yi-Fan Zuo, Wanting Xu, Xia Wang, Yifu Wang, Laurent Kneip|[2401.08043v1](http://arxiv.org/abs/2401.08043v1)|**[link](https://github.com/zyfff/canny-evt)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,9 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-26**|**Straight versus Spongy -- Effect of Tortuosity on Polymer Imbibition into Nanoporous Matrices Assessed by Segmentation-Free Analysis of 3D Sample Reconstructions**|Fernando Vazquez Luna, Anjani K. Maurya, Juliana Martins de Souza e Silva, Guido Dittrich, Theresa Paul, Dirk Enke, Patrick Huber, Ralf Wehrspohn, Martin Steinhart|[2401.14950v1](http://arxiv.org/abs/2401.14950v1)|null|
+|**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao, Guibiao Liao, Zhongyuan Zhao, Kanglin Liu, Qing Li, Guoping Qiu|[2401.14726v1](http://arxiv.org/abs/2401.14726v1)|null|
+|**2024-01-25**|**TIFu: Tri-directional Implicit Function for High-Fidelity 3D Character Reconstruction**|Byoungsung Lim, Seong-Whan Lee|[2401.14565v1](http://arxiv.org/abs/2401.14565v1)|null|
 |**2024-01-25**|**Range-Agnostic Multi-View Depth Estimation With Keyframe Selection**|Andrea Conti, Matteo Poggi, Valerio Cambareri, Stefano Mattoccia|[2401.14401v1](http://arxiv.org/abs/2401.14401v1)|**[link](https://github.com/andreaconti/ramdepth)**|
 |**2024-01-25**|**pix2gestalt: Amodal Segmentation by Synthesizing Wholes**|Ege Ozguroglu, Ruoshi Liu, Dídac Surís, Dian Chen, Achal Dave, Pavel Tokmakov, Carl Vondrick|[2401.14398v1](http://arxiv.org/abs/2401.14398v1)|**[link](https://github.com/cvlab-columbia/pix2gestalt)**|
 |**2024-01-25**|**GauU-Scene: A Scene Reconstruction Benchmark on Large Scale 3D Reconstruction Dataset Using Gaussian Splatting**|Butian Xiong, Zhuo Li, Zhen Li|[2401.14032v1](http://arxiv.org/abs/2401.14032v1)|null|
@@ -99,9 +102,6 @@
 |**2024-01-23**|**IRIS: Inverse Rendering of Indoor Scenes from Low Dynamic Range Images**|Zhi-Hao Lin, Jia-Bin Huang, Zhengqin Li, Zhao Dong, Christian Richardt, Tuotuo Li, Michael Zollhöfer, Johannes Kopf, Shenlong Wang, Changil Kim|[2401.12977v1](http://arxiv.org/abs/2401.12977v1)|null|
 |**2024-01-21**|**A Survey on African Computer Vision Datasets, Topics and Researchers**|Abdul-Hakeem Omotayo, Ashery Mbilinyi, Lukman Ismaila, Houcemeddine Turki, Mahmoud Abdien, Karim Gamal, Idriss Tondji, Yvan Pimi, Naome A. Etori, Marwa M. Matar, Clifford Broni-Bediako, Abigail Oppong, Mai Gamal, Eman Ehab, Gbetondji Dovonon, Zainab Akinjobi, Daniel Ajisafe, Oluwabukola G. Adegboro, Mennatullah Siam|[2401.11617v1](http://arxiv.org/abs/2401.11617v1)|null|
 |**2024-01-21**|**Multi-View Neural 3D Reconstruction of Micro-/Nanostructures with Atomic Force Microscopy**|Shuo Chen, Mao Peng, Yijin Li, Bing-Feng Ju, Hujun Bao, Yuan-Liu Chen, Guofeng Zhang|[2401.11541v1](http://arxiv.org/abs/2401.11541v1)|**[link](https://github.com/zju3dv/mvn-afm)**|
-|**2024-01-21**|**Deformable Endoscopic Tissues Reconstruction with Gaussian Splatting**|Lingting Zhu, Zhao Wang, Zhenchao Jin, Guying Lin, Lequan Yu|[2401.11535v1](http://arxiv.org/abs/2401.11535v1)|**[link](https://github.com/hku-medai/endogs)**|
-|**2024-01-19**|**Dense 3D Reconstruction Through Lidar: A Comparative Study on Ex-vivo Porcine Tissue**|Guido Caccianiga, Julian Nubert, Marco Hutter, Katherine J. Kuchenbecker|[2401.10709v1](http://arxiv.org/abs/2401.10709v1)|null|
-|**2024-01-17**|**POE: Acoustic Soft Robotic Proprioception for Omnidirectional End-effectors**|Uksang Yoo, Ziven Lopez, Jeffrey Ichnowski, Jean Oh|[2401.09382v1](http://arxiv.org/abs/2401.09382v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
