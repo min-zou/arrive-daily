@@ -27,7 +27,7 @@
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-01**|**Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering**|Tianxiao Gao, Mingle Zhao, Chengzhong Xu, Hui Kong|[2402.00330v1](http://arxiv.org/abs/2402.00330v1)|null|
+|**2024-02-01**|**Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering**|Tianxiao Gao, Mingle Zhao, Chengzhong Xu, Hui Kong|[2402.00330v1](http://arxiv.org/abs/2402.00330v1)|**[link](https://github.com/imrl/night-rider)**|
 |**2024-01-11**|**UAVD4L: A Large-Scale Dataset for UAV 6-DoF Localization**|Rouwan Wu, Xiaoya Cheng, Juelin Zhu, Xuxiang Liu, Maojun Zhang, Shen Yan|[2401.05971v1](http://arxiv.org/abs/2401.05971v1)|null|
 |**2023-12-27**|**LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization**|Sai Shubodh Puligilla, Mohammad Omama, Husain Zaidi, Udit Singh Parihar, Madhava Krishna|[2312.16648v1](http://arxiv.org/abs/2312.16648v1)|null|
 |**2023-12-17**|**PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**|Boming Zhao, Luwei Yang, Mao Mao, Hujun Bao, Zhaopeng Cui|[2312.10649v1](http://arxiv.org/abs/2312.10649v1)|null|
@@ -75,7 +75,7 @@
 |**2023-12-21**|**NeuSurf: On-Surface Priors for Neural Surface Reconstruction from Sparse Input Views**|Han Huang, Yulun Wu, Junsheng Zhou, Ge Gao, Ming Gu, Yu-Shen Liu|[2312.13977v2](http://arxiv.org/abs/2312.13977v2)|null|
 |**2023-12-18**|**Research on Multilingual Natural Scene Text Detection Algorithm**|Tao Wang|[2312.11153v2](http://arxiv.org/abs/2312.11153v2)|null|
 |**2023-12-16**|**Transformers in Unsupervised Structure-from-Motion**|Hemang Chawla, Arnav Varma, Elahe Arani, Bahram Zonooz|[2312.10529v1](http://arxiv.org/abs/2312.10529v1)|**[link](https://github.com/neurai-lab/mt-sfmlearner)**|
-|**2023-12-15**|**Enlighten-Your-Voice: When Multimodal Meets Zero-shot Low-light Image Enhancement**|Xiaofeng Zhang, Zishan Xu, Hao Tang, Chaochen Gu, Wei Chen, Shanying Zhu, Xinping Guan|[2312.10109v1](http://arxiv.org/abs/2312.10109v1)|**[link](https://github.com/zhangbaijin/enlighten-your-voice)**|
+|**2023-12-15**|**Enlighten-Your-Voice: When Multimodal Meets Zero-shot Low-light Image Enhancement**|Xiaofeng Zhang, Zishan Xu, Hao Tang, Chaochen Gu, Wei Chen, Shanying Zhu, Xinping Guan|[2312.10109v2](http://arxiv.org/abs/2312.10109v2)|**[link](https://github.com/zhangbaijin/enlighten-your-voice)**|
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -93,7 +93,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-02-01**|**Diffusion-based Light Field Synthesis**|Ruisheng Gao, Yutong Liu, Zeyu Xiao, Zhiwei Xiong|[2402.00575v1](http://arxiv.org/abs/2402.00575v1)|null|
-|**2024-02-01**|**DARCS: Memory-Efficient Deep Compressed Sensing Reconstruction for Acceleration of 3D Whole-Heart Coronary MR Angiography**|Zhihao Xue, Fan Yang, Juan Gao, Zhuo Chen, Hao Peng, Chao Zou, Hang Jin, Chenxi Hu|[2402.00320v1](http://arxiv.org/abs/2402.00320v1)|null|
+|**2024-02-01**|**DARCS: Memory-Efficient Deep Compressed Sensing Reconstruction for Acceleration of 3D Whole-Heart Coronary MR Angiography**|Zhihao Xue, Fan Yang, Juan Gao, Zhuo Chen, Hao Peng, Chao Zou, Hang Jin, Chenxi Hu|[2402.00320v2](http://arxiv.org/abs/2402.00320v2)|null|
 |**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu, Shunpeng Chen, Rongtao Xu, Changwei Wang, Peng Lu, Li Guo|[2401.17592v1](http://arxiv.org/abs/2401.17592v1)|null|
 |**2024-01-30**|**Self-Supervised Representation Learning for Nerve Fiber Distribution Patterns in 3D-PLI**|Alexander Oberstrass, Sascha E. A. Muenzing, Meiqi Niu, Nicola Palomero-Gallagher, Christian Schiffer, Markus Axer, Katrin Amunts, Timo Dickscheid|[2401.17207v1](http://arxiv.org/abs/2401.17207v1)|null|
 |**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang, Junhao He, Ziyi Zhang, Renjing Xu|[2401.17121v1](http://arxiv.org/abs/2401.17121v1)|**[link](https://github.com/mercerai/paev3d)**|
@@ -131,7 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-31**|**VR-based generation of photorealistic synthetic data for training hand-object tracking models**|Chengyan Zhang, Rahul Chaudhari|[2401.17874v1](http://arxiv.org/abs/2401.17874v1)|null|
+|**2024-01-31**|**VR-based generation of photorealistic synthetic data for training hand-object tracking models**|Chengyan Zhang, Rahul Chaudhari|[2401.17874v2](http://arxiv.org/abs/2401.17874v2)|null|
 |**2024-01-29**|**A comparison of RL-based and PID controllers for 6-DOF swimming robots: hybrid underwater object tracking**|Faraz Lotfi, Khalil Virji, Nicholas Dudek, Gregory Dudek|[2401.16618v1](http://arxiv.org/abs/2401.16618v1)|**[link](https://github.com/farazlotfi/underwater-object-tracking)**|
 |**2024-01-25**|**AM-SORT: Adaptable Motion Predictor with Historical Trajectory Embedding for Multi-Object Tracking**|Vitaliy Kim, Gunho Jung, Seong-Whan Lee|[2401.13950v1](http://arxiv.org/abs/2401.13950v1)|null|
 |**2024-01-24**|**Small Object Tracking in LiDAR Point Cloud: Learning the Target-awareness Prototype and Fine-grained Search Region**|Shengjing Tian, Yinan Han, Xiuping Liu, Xiantong Zhao|[2401.13285v1](http://arxiv.org/abs/2401.13285v1)|null|
@@ -196,7 +196,7 @@
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-31**|**Branch-and-Price for the Length-Constrained Cycle Partition Problem**|Mohammed Ghannam, Gioni Mexi, Edward Lam, Ambros Gleixner|[2401.17937v1](http://arxiv.org/abs/2401.17937v1)|**[link](https://github.com/mmghannam/lccp-bnp)**|
+|**2024-01-31**|**Branch and Price for the Length-Constrained Cycle Partition Problem**|Mohammed Ghannam, Gioni Mexi, Edward Lam, Ambros Gleixner|[2401.17937v2](http://arxiv.org/abs/2401.17937v2)|**[link](https://github.com/mmghannam/lccp-bnp)**|
 |**2024-01-27**|**Multi-Robot Relative Pose Estimation in SE(2) with Observability Analysis: A Comparison of Extended Kalman Filtering and Robust Pose Graph Optimization**|Kihoon Shin, Hyunjae Sim, Seungwon Nam, Yonghee Kim, Jae Hu, Kwang-Ki K. Kim|[2401.15313v2](http://arxiv.org/abs/2401.15313v2)|null|
 |**2024-01-23**|**PolyCF: Towards the Optimal Spectral Graph Filters for Collaborative Filtering**|Yifang Qin, Wei Ju, Xiao Luo, Yiyang Gu, Zhiping Xiao, Ming Zhang|[2401.12590v2](http://arxiv.org/abs/2401.12590v2)|null|
 |**2024-01-22**|**MR.CAP: Multi-Robot Joint Control and Planning for Object Transport**|Hussein Ali Jaafar, Cheng-Hao Kao, Sajad Saeedi|[2401.11634v1](http://arxiv.org/abs/2401.11634v1)|null|
