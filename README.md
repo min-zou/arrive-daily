@@ -92,6 +92,9 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses**|Mahboubeh Asadi, Kourosh Zareinia, Sajad Saeedi|[2402.01485v1](http://arxiv.org/abs/2402.01485v1)|null|
+|**2024-02-02**|**DeepAAT: Deep Automated Aerial Triangulation for Fast UAV-based Mapping**|Zequan Chen, Jianping Li, Qusheng Li, Bisheng Yang, Zhen Dong|[2402.01134v1](http://arxiv.org/abs/2402.01134v1)|**[link](https://github.com/whu-usi3dv/deepaat)**|
+|**2024-02-01**|**Enhanced fringe-to-phase framework using deep learning**|Won-Hoe Kim, Bongjoong Kim, Hyung-Gun Chi, Jae-Sang Hyun|[2402.00977v1](http://arxiv.org/abs/2402.00977v1)|null|
 |**2024-02-01**|**Diffusion-based Light Field Synthesis**|Ruisheng Gao, Yutong Liu, Zeyu Xiao, Zhiwei Xiong|[2402.00575v1](http://arxiv.org/abs/2402.00575v1)|null|
 |**2024-02-01**|**DARCS: Memory-Efficient Deep Compressed Sensing Reconstruction for Acceleration of 3D Whole-Heart Coronary MR Angiography**|Zhihao Xue, Fan Yang, Juan Gao, Zhuo Chen, Hao Peng, Chao Zou, Hang Jin, Chenxi Hu|[2402.00320v2](http://arxiv.org/abs/2402.00320v2)|null|
 |**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu, Shunpeng Chen, Rongtao Xu, Changwei Wang, Peng Lu, Li Guo|[2401.17592v1](http://arxiv.org/abs/2401.17592v1)|null|
@@ -99,12 +102,10 @@
 |**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang, Junhao He, Ziyi Zhang, Renjing Xu|[2401.17121v1](http://arxiv.org/abs/2401.17121v1)|**[link](https://github.com/mercerai/paev3d)**|
 |**2024-01-30**|**OmniSCV: An Omnidirectional Synthetic Image Generator for Computer Vision**|Bruno Berenguel-Baeta, Jesus Bermudez-Cameo, Jose J. Guerrero|[2401.17061v1](http://arxiv.org/abs/2401.17061v1)|**[link](https://github.com/sbrunoberenguel/omniscv)**|
 |**2024-01-29**|**SuNeRF: 3D reconstruction of the solar EUV corona using Neural Radiance Fields**|Robert Jarolim, Benoit Tremblay, Andrés Muñoz-Jaramillo, Kyriaki-Margarita Bintsi, Anna Jungbluth, Miraflor Santos, Angelos Vourlidas, James P. Mason, Sairam Sundaresan, Cooper Downs, Ronald M. Caplan|[2401.16388v1](http://arxiv.org/abs/2401.16388v1)|null|
-|**2024-01-29**|**Domain adaptation strategies for 3D reconstruction of the lumbar spine using real fluoroscopy data**|Sascha Jecklin, Youyang Shen, Amandine Gout, Daniel Suter, Lilian Calvet, Lukas Zingg, Jennifer Straub, Nicola Alessandro Cavalcanti, Mazda Farshad, Philipp Fürnstahl, Hooman Esfandiari|[2401.16027v1](http://arxiv.org/abs/2401.16027v1)|null|
-|**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen, Rengan Xie, Qi Ye, Sen Yang, Zixuan Xie, Tianxiao Chen, Rong Li, Yuchi Huo|[2401.15841v1](http://arxiv.org/abs/2401.15841v1)|null|
-|**2024-01-28**|**Multi-Person 3D Pose Estimation from Multi-View Uncalibrated Depth Cameras**|Yu-Jhe Li, Yan Xu, Rawal Khirodkar, Jinhyung Park, Kris Kitani|[2401.15616v1](http://arxiv.org/abs/2401.15616v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**Convolution kernel adaptation to calibrated fisheye**|Bruno Berenguel-Baeta, Maria Santos-Villafranca, Jesus Bermudez-Cameo, Alejandro Perez-Yus, Jose J. Guerrero|[2402.01456v1](http://arxiv.org/abs/2402.01456v1)|**[link](https://github.com/sbrunoberenguel/calibratedconvolutions)**|
 |**2024-02-01**|**Diffusion-based Light Field Synthesis**|Ruisheng Gao, Yutong Liu, Zeyu Xiao, Zhiwei Xiong|[2402.00575v1](http://arxiv.org/abs/2402.00575v1)|null|
 |**2024-01-29**|**Depth Anything in Medical Images: A Comparative Study**|John J. Han, Ayberk Acar, Callahan Henry, Jie Ying Wu|[2401.16600v1](http://arxiv.org/abs/2401.16600v1)|null|
 |**2024-01-29**|**Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang, Beilei Cui, Long Bai, Ziqi Guo, Mengya Xu, Hongliang Ren|[2401.16416v2](http://arxiv.org/abs/2401.16416v2)|null|
@@ -114,7 +115,6 @@
 |**2024-01-23**|**Icy Moon Surface Simulation and Stereo Depth Estimation for Sampling Autonomy**|Ramchander Bhaskara, Georgios Georgakis, Jeremy Nash, Marissa Cameron, Joseph Bowkett, Adnan Ansar, Manoranjan Majji, Paul Backes|[2401.12414v1](http://arxiv.org/abs/2401.12414v1)|**[link](https://github.com/nasa-jpl/guiss)**|
 |**2024-01-22**|**Stereo-Matching Knowledge Distilled Monocular Depth Estimation Filtered by Multiple Disparity Consistency**|Woonghyun Ka, Jae Young Lee, Jaehyun Choi, Junmo Kim|[2401.12019v2](http://arxiv.org/abs/2401.12019v2)|null|
 |**2024-01-22**|**MVSFormer++: Revealing the Devil in Transformer's Details for Multi-View Stereo**|Chenjie Cao, Xinlin Ren, Yanwei Fu|[2401.11673v1](http://arxiv.org/abs/2401.11673v1)|null|
-|**2024-01-19**|**Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data**|Lihe Yang, Bingyi Kang, Zilong Huang, Xiaogang Xu, Jiashi Feng, Hengshuang Zhao|[2401.10891v1](http://arxiv.org/abs/2401.10891v1)|**[link](https://github.com/LiheYoung/Depth-Anything)**|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,9 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**Cheating Suffix: Targeted Attack to Text-To-Image Diffusion Models with Multi-Modal Priors**|Dingcheng Yang, Yang Bai, Xiaojun Jia, Yang Liu, Xiaochun Cao, Wenjian Yu|[2402.01369v1](http://arxiv.org/abs/2402.01369v1)|**[link](https://github.com/ydc123/mmp-attack)**|
+|**2024-02-02**|**DeepBranchTracer: A Generally-Applicable Approach to Curvilinear Structure Reconstruction Using Multi-Feature Learning**|Chao Liu, Ting Zhao, Nenggan Zheng|[2402.01187v1](http://arxiv.org/abs/2402.01187v1)|**[link](https://github.com/csdllab/deepbranchtracer)**|
+|**2024-02-02**|**AmbientCycleGAN for Establishing Interpretable Stochastic Object Models Based on Mathematical Phantoms and Medical Imaging Measurements**|Xichen Xu, Wentao Chen, Weimin Zhou|[2402.01171v1](http://arxiv.org/abs/2402.01171v1)|null|
 |**2024-01-31**|**Instruction-Guided Scene Text Recognition**|Yongkun Du, Zhineng Chen, Yuchen Su, Caiyan Jia, Yu-Gang Jiang|[2401.17851v1](http://arxiv.org/abs/2401.17851v1)|null|
 |**2024-01-30**|**Pixel to Elevation: Learning to Predict Elevation Maps at Long Range using Images for Autonomous Offroad Navigation**|Chanyoung Chung, Georgios Georgakis, Patrick Spieler, Curtis Padgett, Shehryar Khattak|[2401.17484v1](http://arxiv.org/abs/2401.17484v1)|null|
 |**2024-01-30**|**MouSi: Poly-Visual-Expert Vision-Language Models**|Xiaoran Fan, Tao Ji, Changhao Jiang, Shuo Li, Senjie Jin, Sirui Song, Junke Wang, Boyang Hong, Lu Chen, Guodong Zheng, Ming Zhang, Caishuang Huang, Rui Zheng, Zhiheng Xi, Yuhao Zhou, Shihan Dou, Junjie Ye, Hang Yan, Tao Gui, Qi Zhang, Xipeng Qiu, Xuanjing Huang, Zuxuan Wu, Yu-Gang Jiang|[2401.17221v1](http://arxiv.org/abs/2401.17221v1)|**[link](https://github.com/fudannlplab/mousi)**|
@@ -190,12 +193,10 @@
 |**2024-01-29**|**Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling**|Xiaoyu Shi, Zhaoyang Huang, Fu-Yun Wang, Weikang Bian, Dasong Li, Yi Zhang, Manyuan Zhang, Ka Chun Cheung, Simon See, Hongwei Qin, Jifeng Dai, Hongsheng Li|[2401.15977v2](http://arxiv.org/abs/2401.15977v2)|null|
 |**2024-01-28**|**Data-Free Generalized Zero-Shot Learning**|Bowen Tang, Long Yan, Jing Zhang, Qian Yu, Lu Sheng, Dong Xu|[2401.15657v1](http://arxiv.org/abs/2401.15657v1)|null|
 |**2024-01-27**|**You Only Look Bottom-Up for Monocular 3D Object Detection**|Kaixin Xiong, Dingyuan Zhang, Dingkang Liang, Zhe Liu, Hongcheng Yang, Wondimu Dikubab, Jianwei Cheng, Xiang Bai|[2401.15319v1](http://arxiv.org/abs/2401.15319v1)|null|
-|**2024-01-25**|**PLCNet: Patch-wise Lane Correction Network for Automatic Lane Correction in High-definition Maps**|Haiyang Peng, Yi Zhan, Benkang Wang, Hongtao Zhang|[2401.14024v1](http://arxiv.org/abs/2401.14024v1)|null|
-|**2024-01-24**|**Common-Sense Bias Discovery and Mitigation for Classification Tasks**|Miao Zhang, Zee fryer, Ben Colman, Ali Shahriyari, Gaurav Bharaj|[2401.13213v1](http://arxiv.org/abs/2401.13213v1)|null|
-|**2024-01-24**|**MLLMReID: Multimodal Large Language Model-based Person Re-identification**|Shan Yang, Yongfei Zhang|[2401.13201v1](http://arxiv.org/abs/2401.13201v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**Guidance Graph Optimization for Lifelong Multi-Agent Path Finding**|Yulun Zhang, He Jiang, Varun Bhatt, Stefanos Nikolaidis, Jiaoyang Li|[2402.01446v1](http://arxiv.org/abs/2402.01446v1)|null|
 |**2024-01-31**|**Branch and Price for the Length-Constrained Cycle Partition Problem**|Mohammed Ghannam, Gioni Mexi, Edward Lam, Ambros Gleixner|[2401.17937v2](http://arxiv.org/abs/2401.17937v2)|**[link](https://github.com/mmghannam/lccp-bnp)**|
 |**2024-01-27**|**Multi-Robot Relative Pose Estimation in SE(2) with Observability Analysis: A Comparison of Extended Kalman Filtering and Robust Pose Graph Optimization**|Kihoon Shin, Hyunjae Sim, Seungwon Nam, Yonghee Kim, Jae Hu, Kwang-Ki K. Kim|[2401.15313v2](http://arxiv.org/abs/2401.15313v2)|null|
 |**2024-01-23**|**PolyCF: Towards the Optimal Spectral Graph Filters for Collaborative Filtering**|Yifang Qin, Wei Ju, Xiao Luo, Yiyang Gu, Zhiping Xiao, Ming Zhang|[2401.12590v2](http://arxiv.org/abs/2401.12590v2)|null|
@@ -205,7 +206,6 @@
 |**2024-01-03**|**Distributed Pose-graph Optimization with Multi-level Partitioning for Collaborative SLAM**|Cunhao Li, Peng Yi, Guanghui Guo, Yiguang Hong|[2401.01657v2](http://arxiv.org/abs/2401.01657v2)|**[link](https://github.com/tjcunhao/distributed-pose-graph)**|
 |**2023-12-31**|**Krylov Spread Complexity of Quantum-Walks**|Bhilahari Jeevanesan|[2401.00526v1](http://arxiv.org/abs/2401.00526v1)|**[link](https://github.com/billyjay/krylov-c-maximization)**|
 |**2023-12-22**|**Magnetic Sensor Compensation Utilizing Factor Graph Estimation**|Frederic W. Lathrop, Clark N. Taylor|[2312.14343v1](http://arxiv.org/abs/2312.14343v1)|null|
-|**2023-12-05**|**Estimation of articulated angle in six-wheeled dump trucks using multiple GNSS receivers for autonomous driving**|Taro Suzuki, Kazunori Ohno, Syotaro Kojima, Naoto Miyamoto, Takahiro Suzuki, Tomohiro Komatsu, Yukinori Shibata, Kimitaka Asano, Keiji Nagatani|[2312.02510v1](http://arxiv.org/abs/2312.02510v1)|null|
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
