@@ -3,7 +3,7 @@
 |---|---|---|---|---|
 |**2024-02-22**|**High-Speed Detector For Low-Powered Devices In Aerial Grasping**|Ashish Kumar, Laxmidhar Behera|[2402.14591v1](http://arxiv.org/abs/2402.14591v1)|null|
 |**2024-02-22**|**An Error-Matching Exclusion Method for Accelerating Visual SLAM**|Shaojie Zhang, Yinghui Wang, Jiaxing Ma, Jinlong Yang, Tao Yan, Liangyi Huang, Mingfeng Wang|[2402.14345v1](http://arxiv.org/abs/2402.14345v1)|null|
-|**2024-02-22**|**Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases**|Jie Yin, Ang Li, Wei Xi, Wenxian Yu, Danping Zou|[2402.14308v1](http://arxiv.org/abs/2402.14308v1)|**[link](https://github.com/SJTU-ViSYS/M2DGR)**|
+|**2024-02-22**|**Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases**|Jie Yin, Ang Li, Wei Xi, Wenxian Yu, Danping Zou|[2402.14308v1](http://arxiv.org/abs/2402.14308v1)|null|
 |**2024-02-22**|**Secure Navigation using Landmark-based Localization in a GPS-denied Environment**|Ganesh Sapkota, Sanjay Madria|[2402.14280v1](http://arxiv.org/abs/2402.14280v1)|null|
 |**2024-02-21**|**Khronos: A Unified Approach for Spatio-Temporal Metric-Semantic SLAM in Dynamic Environments**|Lukas Schmid, Marcus Abate, Yun Chang, Luca Carlone|[2402.13817v1](http://arxiv.org/abs/2402.13817v1)|**[link](https://github.com/mit-spark/khronos)**|
 |**2024-02-21**|**VOOM: Robust Visual Object Odometry and Mapping using Hierarchical Landmarks**|Yutong Wang, Chaoyang Jiang, Xieyuanli Chen|[2402.13609v1](http://arxiv.org/abs/2402.13609v1)|**[link](https://github.com/yutongwangbit/voom)**|
@@ -106,7 +106,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-02-22**|**GAM-Depth: Self-Supervised Indoor Depth Estimation Leveraging a Gradient-Aware Mask and Semantic Constraints**|Anqi Cheng, Zhiyuan Yang, Haiyue Zhu, Kezhi Mao|[2402.14354v1](http://arxiv.org/abs/2402.14354v1)|null|
-|**2024-02-22**|**TIE-KD: Teacher-Independent and Explainable Knowledge Distillation for Monocular Depth Estimation**|Sangwon Choi, Daejune Choi, Duksu Kim|[2402.14340v1](http://arxiv.org/abs/2402.14340v1)|null|
+|**2024-02-22**|**TIE-KD: Teacher-Independent and Explainable Knowledge Distillation for Monocular Depth Estimation**|Sangwon Choi, Daejune Choi, Duksu Kim|[2402.14340v1](http://arxiv.org/abs/2402.14340v1)|**[link](https://github.com/hpc-lab-koreatech/tie-kd)**|
 |**2024-02-21**|**Zero-BEV: Zero-shot Projection of Any First-Person Modality to BEV Maps**|Gianluca Monaci, Leonid Antsfeld, Boris Chidlovskii, Christian Wolf|[2402.13848v1](http://arxiv.org/abs/2402.13848v1)|null|
 |**2024-02-19**|**An Endoscopic Chisel: Intraoperative Imaging Carves 3D Anatomical Models**|Jan Emily Mangulabnan, Roger D. Soberanis-Mukul, Timo Teufel, Manish Sahu, Jose L. Porras, S. Swaroop Vedula, Masaru Ishii, Gregory Hager, Russell H. Taylor, Mathias Unberath|[2402.11840v1](http://arxiv.org/abs/2402.11840v1)|null|
 |**2024-02-19**|**Unveiling the Depths: A Multi-Modal Fusion Framework for Challenging Scenarios**|Jialei Xu, Xianming Liu, Junjun Jiang, Kui Jiang, Rui Li, Kai Cheng, Xiangyang Ji|[2402.11826v1](http://arxiv.org/abs/2402.11826v1)|null|
@@ -183,16 +183,16 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-23**|**EMIFF: Enhanced Multi-scale Image Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection**|Zhe Wang, Siqi Fan, Xiaoliang Huo, Tongda Xu, Yan Wang, Jingjing Liu, Yilun Chen, Ya-Qin Zhang|[2402.15272v1](http://arxiv.org/abs/2402.15272v1)|**[link](https://github.com/bosszhe/emiff)**|
 |**2024-02-22**|**Cameras as Rays: Pose Estimation via Ray Diffusion**|Jason Y. Zhang, Amy Lin, Moneish Kumar, Tzu-Hsuan Yang, Deva Ramanan, Shubham Tulsiani|[2402.14817v1](http://arxiv.org/abs/2402.14817v1)|null|
 |**2024-02-22**|**MVD$^2$: Efficient Multiview 3D Reconstruction for Multiview Diffusion**|Xin-Yang Zheng, Hao Pan, Yu-Xiao Guo, Xin Tong, Yang Liu|[2402.14253v1](http://arxiv.org/abs/2402.14253v1)|null|
-|**2024-02-21**|**Explainable Classification Techniques for Quantum Dot Device Measurements**|Daniel Schug, Tyler J. Kovach, M. A. Wolfe, Jared Benson, Sanghyeok Park, J. P. Dodson, J. Corrigan, M. A. Eriksson, Justyna P. Zwolak|[2402.13699v1](http://arxiv.org/abs/2402.13699v1)|null|
+|**2024-02-21**|**Explainable Classification Techniques for Quantum Dot Device Measurements**|Daniel Schug, Tyler J. Kovach, M. A. Wolfe, Jared Benson, Sanghyeok Park, J. P. Dodson, J. Corrigan, M. A. Eriksson, Justyna P. Zwolak|[2402.13699v2](http://arxiv.org/abs/2402.13699v2)|null|
 |**2024-02-19**|**Event-Based Motion Magnification**|Yutian Chen, Shi Guo, Fangzheng Yu, Feng Zhang, Jinwei Gu, Tianfan Xue|[2402.11957v1](http://arxiv.org/abs/2402.11957v1)|null|
 |**2024-02-19**|**MM-SurvNet: Deep Learning-Based Survival Risk Stratification in Breast Cancer Through Multimodal Data Fusion**|Raktim Kumar Mondol, Ewan K. A. Millar, Arcot Sowmya, Erik Meijering|[2402.11788v1](http://arxiv.org/abs/2402.11788v1)|null|
 |**2024-02-17**|**ICHPro: Intracerebral Hemorrhage Prognosis Classification Via Joint-attention Fusion-based 3d Cross-modal Network**|Xinlei Yu, Xinyang Li, Ruiquan Ge, Shibin Wu, Ahmed Elazab, Jichao Zhu, Lingyan Zhang, Gangyong Jia, Taosheng Xu, Xiang Wan, Changmiao Wang|[2402.11307v1](http://arxiv.org/abs/2402.11307v1)|**[link](https://github.com/yu-deep/ich)**|
 |**2024-02-17**|**DiffPoint: Single and Multi-view Point Cloud Reconstruction with ViT Based Diffusion Model**|Yu Feng, Xing Shi, Mengli Cheng, Yun Xiong|[2402.11241v1](http://arxiv.org/abs/2402.11241v1)|null|
 |**2024-02-16**|**BioFusionNet: Deep Learning-Based Survival Risk Stratification in ER+ Breast Cancer Through Multifeature and Multimodal Data Fusion**|Raktim Kumar Mondol, Ewan K. A. Millar, Arcot Sowmya, Erik Meijering|[2402.10717v1](http://arxiv.org/abs/2402.10717v1)|null|
 |**2024-02-16**|**UMAIR-FPS: User-aware Multi-modal Animation Illustration Recommendation Fusion with Painting Style**|Yan Kang, Hao Lin, Mingjian Yang, Shin-Jye Lee|[2402.10381v1](http://arxiv.org/abs/2402.10381v1)|null|
-|**2024-02-13**|**Transferring Ultrahigh-Field Representations for Intensity-Guided Brain Segmentation of Low-Field Magnetic Resonance Imaging**|Kwanseok Oh, Jieun Lee, Da-Woon Heo, Dinggang Shen, Heung-Il Suk|[2402.08409v1](http://arxiv.org/abs/2402.08409v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
