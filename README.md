@@ -190,7 +190,7 @@
 |**2024-02-28**|**Misalignment-Robust Frequency Distribution Loss for Image Transformation**|Zhangkai Ni, Juncheng Wu, Zian Wang, Wenhan Yang, Hanli Wang, Lin Ma|[2402.18192v1](http://arxiv.org/abs/2402.18192v1)|null|
 |**2024-02-27**|**Quantifying the Resolution of a Template after Image Registration**|Matthias Glock, Thomas Hotz|[2402.17617v1](http://arxiv.org/abs/2402.17617v1)|**[link](https://github.com/Stochastik-TU-Ilmenau/image-template-resolution)**|
 |**2024-02-27**|**Denoising Diffusion Models for Inpainting of Healthy Brain Tissue**|Alicia Durrer, Philippe C. Cattin, Julia Wolleb|[2402.17307v1](http://arxiv.org/abs/2402.17307v1)|null|
-|**2024-02-26**|**Renormalization Group flow, Optimal Transport and Diffusion-based Generative Model**|Artan Sheshmani, Yi-Zhuang You, Baturalp Buyukates, Amir Ziashahabi, Salman Avestimehr|[2402.17090v1](http://arxiv.org/abs/2402.17090v1)|null|
+|**2024-02-26**|**Renormalization Group flow, Optimal Transport and Diffusion-based Generative Model**|Artan Sheshmani, Yi-Zhuang You, Baturalp Buyukates, Amir Ziashahabi, Salman Avestimehr|[2402.17090v2](http://arxiv.org/abs/2402.17090v2)|null|
 |**2024-02-26**|**Weighted Monte Carlo augmented spherical Fourier-Bessel convolutional layers for 3D abdominal organ segmentation**|Wenzhao Zhao, Steffen Albert, Barbara D. Wichtmann, Angelika Maurer, Ulrike Attenberger, Frank G. Zöllner, Jürgen Hesser|[2402.16825v2](http://arxiv.org/abs/2402.16825v2)|null|
 |**2024-02-26**|**Multi-Human Mesh Recovery with Transformers**|Zeyu Wang, Zhenzhen Weng, Serena Yeung-Levy|[2402.16806v1](http://arxiv.org/abs/2402.16806v1)|null|
 ## graph optimization
