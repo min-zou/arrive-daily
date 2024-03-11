@@ -93,13 +93,13 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-03-07**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang, Xingyi He, Sida Peng, Dongli Tan, Xiaowei Zhou|[2403.04765v1](http://arxiv.org/abs/2403.04765v1)|null|
-|**2024-03-07**|**Finding Waldo: Towards Efficient Exploration of NeRF Scene Space**|Evangelos Skartados, Mehmet Kerim Yucel, Bruno Manganelli, Anastasios Drosou, Albert Saà-Garriga|[2403.04508v1](http://arxiv.org/abs/2403.04508v1)|null|
+|**2024-03-07**|**Finding Waldo: Towards Efficient Exploration of NeRF Scene Spaces**|Evangelos Skartados, Mehmet Kerim Yucel, Bruno Manganelli, Anastasios Drosou, Albert Saà-Garriga|[2403.04508v2](http://arxiv.org/abs/2403.04508v2)|null|
 |**2024-03-07**|**CN-RMA: Combined Network with Ray Marching Aggregation for 3D Indoors Object Detection from Multi-view Images**|Guanlin Shen, Jingwei Huang, Zhihua Hu, Bin Wang|[2403.04198v1](http://arxiv.org/abs/2403.04198v1)|null|
 |**2024-03-07**|**Radiative Gaussian Splatting for Efficient X-ray Novel View Synthesis**|Yuanhao Cai, Yixun Liang, Jiahao Wang, Angtian Wang, Yulun Zhang, Xiaokang Yang, Zongwei Zhou, Alan Yuille|[2403.04116v1](http://arxiv.org/abs/2403.04116v1)|**[link](https://github.com/caiyuanhao1998/x-gaussian)**|
 |**2024-03-05**|**Pooling Image Datasets With Multiple Covariate Shift and Imbalance**|Sotirios Panagiotis Chytas, Vishnu Suresh Lokhande, Peiran Li, Vikas Singh|[2403.02598v1](http://arxiv.org/abs/2403.02598v1)|null|
 |**2024-03-04**|**TripoSR: Fast 3D Object Reconstruction from a Single Image**|Dmitry Tochilkin, David Pankratz, Zexiang Liu, Zixuan Huang, Adam Letts, Yangguang Li, Ding Liang, Christian Laforte, Varun Jampani, Yan-Pei Cao|[2403.02151v1](http://arxiv.org/abs/2403.02151v1)|**[link](https://github.com/vast-ai-research/triposr)**|
 |**2024-03-03**|**A Novel Dynamic Light-Section 3D Reconstruction Method for Wide-Range Sensing**|Mengjuan Chen, Qing Li, Kohei Shimasaki, Shaopeng Hu, Qingyi Gu, Idaku Ishii|[2403.01374v1](http://arxiv.org/abs/2403.01374v1)|null|
-|**2024-03-01**|**G3DR: Generative 3D Reconstruction in ImageNet**|Pradyumna Reddy, Ismail Elezi, Jiankang Deng|[2403.00939v1](http://arxiv.org/abs/2403.00939v1)|null|
+|**2024-03-01**|**G3DR: Generative 3D Reconstruction in ImageNet**|Pradyumna Reddy, Ismail Elezi, Jiankang Deng|[2403.00939v2](http://arxiv.org/abs/2403.00939v2)|null|
 |**2024-03-01**|**DISORF: A Distributed Online NeRF Training and Rendering Framework for Mobile Robots**|Chunlin Li, Ruofan Liang, Hanrui Fan, Zhengen Zhang, Sankeerth Durvasula, Nandita Vijaykumar|[2403.00228v1](http://arxiv.org/abs/2403.00228v1)|null|
 |**2024-02-29**|**VEnvision3D: A Synthetic Perception Dataset for 3D Multi-Task Model Research**|Jiahao Zhou, Chen Long, Yue Xie, Jialiang Wang, Boheng Li, Haiping Wang, Zhe Chen, Zhen Dong|[2402.19059v2](http://arxiv.org/abs/2402.19059v2)|null|
 ## Depth Estimation
@@ -184,7 +184,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-03-07**|**CN-RMA: Combined Network with Ray Marching Aggregation for 3D Indoors Object Detection from Multi-view Images**|Guanlin Shen, Jingwei Huang, Zhihua Hu, Bin Wang|[2403.04198v1](http://arxiv.org/abs/2403.04198v1)|null|
-|**2024-03-06**|**MolNexTR: A Generalized Deep Learning Model for Molecular Image Recognition**|Yufan Chen, Ching Ting Leung, Yong Huang, Jianwei Sun, Hao Chen, Hanyu Gao|[2403.03691v1](http://arxiv.org/abs/2403.03691v1)|**[link](https://github.com/cyf2000127/molnextr)**|
+|**2024-03-06**|**MolNexTR: A Generalized Deep Learning Model for Molecular Image Recognition**|Yufan Chen, Ching Ting Leung, Yong Huang, Jianwei Sun, Hao Chen, Hanyu Gao|[2403.03691v2](http://arxiv.org/abs/2403.03691v2)|**[link](https://github.com/cyf2000127/molnextr)**|
 |**2024-03-05**|**Solving the bongard-logo problem by modeling a probabilistic model**|Ruizhuo Song, Beiming Yuan|[2403.03173v1](http://arxiv.org/abs/2403.03173v1)|null|
 |**2024-03-05**|**FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird's-Eye View and Perspective View**|Jiawei Hou, Xiaoyan Li, Wenhao Guan, Gang Zhang, Di Feng, Yuheng Du, Xiangyang Xue, Jian Pu|[2403.02710v1](http://arxiv.org/abs/2403.02710v1)|null|
 |**2024-03-04**|**Differentially Private Representation Learning via Image Captioning**|Tom Sander, Yaodong Yu, Maziar Sanjabi, Alain Durmus, Yi Ma, Kamalika Chaudhuri, Chuan Guo|[2403.02506v1](http://arxiv.org/abs/2403.02506v1)|null|
