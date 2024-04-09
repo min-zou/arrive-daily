@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger, Vladimír Kubelka, Daniel Adolfsson, Henrik Andreasson, Achim J. Lilienthal|[2404.03940v1](http://arxiv.org/abs/2404.03940v1)|null|
 |**2024-04-03**|**Language, Environment, and Robotic Navigation**|Johnathan E. Avery|[2404.03049v1](http://arxiv.org/abs/2404.03049v1)|null|
 |**2024-04-01**|**MM3DGS SLAM: Multi-modal 3D Gaussian Splatting for SLAM Using Vision, Depth, and Inertial Measurements**|Lisong C. Sun, Neel P. Bhatt, Jonathan C. Liu, Zhiwen Fan, Zhangyang Wang, Todd E. Humphreys, Ufuk Topcu|[2404.00923v1](http://arxiv.org/abs/2404.00923v1)|null|
 |**2024-03-29**|**NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**|Tianchen Deng, Yanbo Wang, Hongle Xie, Hesheng Wang, Jingchuan Wang, Danwei Wang, Weidong Chen|[2403.20034v1](http://arxiv.org/abs/2403.20034v1)|**[link](https://github.com/dtc111111/neslam)**|
@@ -10,7 +11,6 @@
 |**2024-03-28**|**JIST: Joint Image and Sequence Training for Sequential Visual Place Recognition**|Gabriele Berton, Gabriele Trivigno, Barbara Caputo, Carlo Masone|[2403.19787v1](http://arxiv.org/abs/2403.19787v1)|**[link](https://github.com/ga1i13o/jist)**|
 |**2024-03-28**|**GlORIE-SLAM: Globally Optimized RGB-only Implicit Encoding Point Cloud SLAM**|Ganlin Zhang, Erik Sandström, Youmin Zhang, Manthan Patel, Luc Van Gool, Martin R. Oswald|[2403.19549v2](http://arxiv.org/abs/2403.19549v2)|null|
 |**2024-03-28**|**Benchmarking Implicit Neural Representation and Geometric Rendering in Real-Time RGB-D SLAM**|Tongyan Hua, Lin Wang|[2403.19473v1](http://arxiv.org/abs/2403.19473v1)|null|
-|**2024-03-26**|**MUTE-SLAM: Real-Time Neural SLAM with Multiple Tri-Plane Hash Representations**|Yifan Yan, Ruomin He, Zhenghua Liu|[2403.17765v1](http://arxiv.org/abs/2403.17765v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,7 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu, Ziyu Wan, Jing Zhang, Jing Liao, Dong Xu|[2404.03654v1](http://arxiv.org/abs/2404.03654v1)|null|
+|**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu, Ziyu Wan, Jing Zhang, Jing Liao, Dong Xu|[2404.03654v2](http://arxiv.org/abs/2404.03654v2)|null|
 |**2024-04-04**|**The More You See in 2D, the More You Perceive in 3D**|Xinyang Han, Zelin Gao, Angjoo Kanazawa, Shubham Goel, Yossi Gandelsman|[2404.03652v1](http://arxiv.org/abs/2404.03652v1)|null|
 |**2024-04-04**|**WorDepth: Variational Language Prior for Monocular Depth Estimation**|Ziyao Zeng, Daniel Wang, Fengyu Yang, Hyoungseob Park, Yangchao Wu, Stefano Soatto, Byung-Woo Hong, Dong Lao, Alex Wong|[2404.03635v2](http://arxiv.org/abs/2404.03635v2)|**[link](https://github.com/adonis-galaxy/wordepth)**|
 |**2024-04-04**|**Generalizable 3D Scene Reconstruction via Divide and Conquer from a Single View**|Andreea Dogaru, Mert Özer, Bernhard Egger|[2404.03421v1](http://arxiv.org/abs/2404.03421v1)|null|
@@ -105,6 +105,7 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Deep Phase Coded Image Prior**|Nimrod Shabtay, Eli Schwartz, Raja Giryes|[2404.03906v1](http://arxiv.org/abs/2404.03906v1)|null|
 |**2024-04-04**|**Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning**|Rui Li, Tobias Fischer, Mattia Segu, Marc Pollefeys, Luc Van Gool, Federico Tombari|[2404.03658v1](http://arxiv.org/abs/2404.03658v1)|**[link](https://github.com/ruili3/Know-Your-Neighbors)**|
 |**2024-04-04**|**MVD-Fusion: Single-view 3D via Depth-consistent Multi-view Generation**|Hanzhe Hu, Zhizhuo Zhou, Varun Jampani, Shubham Tulsiani|[2404.03656v1](http://arxiv.org/abs/2404.03656v1)|null|
 |**2024-04-04**|**WorDepth: Variational Language Prior for Monocular Depth Estimation**|Ziyao Zeng, Daniel Wang, Fengyu Yang, Hyoungseob Park, Yangchao Wu, Stefano Soatto, Byung-Woo Hong, Dong Lao, Alex Wong|[2404.03635v2](http://arxiv.org/abs/2404.03635v2)|**[link](https://github.com/adonis-galaxy/wordepth)**|
@@ -114,7 +115,6 @@
 |**2024-04-02**|**Improving Bird's Eye View Semantic Segmentation by Task Decomposition**|Tianhao Zhao, Yongcan Chen, Yu Wu, Tianyang Liu, Bo Du, Peilun Xiao, Shi Qiu, Hongda Yang, Guozhen Li, Yi Yang, Yutian Lin|[2404.01925v1](http://arxiv.org/abs/2404.01925v1)|null|
 |**2024-04-01**|**BadPart: Unified Black-box Adversarial Patch Attacks against Pixel-wise Regression Tasks**|Zhiyuan Cheng, Zhaoyi Liu, Tengda Guo, Shiwei Feng, Dongfang Liu, Mingjie Tang, Xiangyu Zhang|[2404.00924v1](http://arxiv.org/abs/2404.00924v1)|null|
 |**2024-04-01**|**MM3DGS SLAM: Multi-modal 3D Gaussian Splatting for SLAM Using Vision, Depth, and Inertial Measurements**|Lisong C. Sun, Neel P. Bhatt, Jonathan C. Liu, Zhiwen Fan, Zhangyang Wang, Todd E. Humphreys, Ufuk Topcu|[2404.00923v1](http://arxiv.org/abs/2404.00923v1)|null|
-|**2024-03-31**|**OmniSDF: Scene Reconstruction using Omnidirectional Signed Distance Functions and Adaptive Binoctrees**|Hakyeong Kim, Andreas Meuleman, Hyeonjoong Jang, James Tompkin, Min H. Kim|[2404.00678v1](http://arxiv.org/abs/2404.00678v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,8 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Label Propagation for Zero-shot Classification with Vision-Language Models**|Vladan Stojnić, Yannis Kalantidis, Giorgos Tolias|[2404.04072v1](http://arxiv.org/abs/2404.04072v1)|**[link](https://github.com/vladan-stojnic/zlap)**|
+|**2024-04-05**|**Increasing Fairness in Classification of Out of Distribution Data for Facial Recognition**|Gianluca Barone, Aashrit Cunchala, Rudy Nunez|[2404.03876v1](http://arxiv.org/abs/2404.03876v1)|null|
 |**2024-04-03**|**InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation**|Haofan Wang, Matteo Spinelli, Qixun Wang, Xu Bai, Zekui Qin, Anthony Chen|[2404.02733v2](http://arxiv.org/abs/2404.02733v2)|**[link](https://github.com/instantstyle/instantstyle)**|
 |**2024-04-01**|**DPMesh: Exploiting Diffusion Prior for Occluded Human Mesh Recovery**|Yixuan Zhu, Ao Li, Yansong Tang, Wenliang Zhao, Jie Zhou, Jiwen Lu|[2404.01424v1](http://arxiv.org/abs/2404.01424v1)|**[link](https://github.com/eternalevan/dpmesh)**|
 |**2024-04-01**|**Language Guided Domain Generalized Medical Image Segmentation**|Shahina Kunhimon, Muzammal Naseer, Salman Khan, Fahad Shahbaz Khan|[2404.01272v2](http://arxiv.org/abs/2404.01272v2)|**[link](https://github.com/shahinakk/lg_sdg)**|
@@ -191,8 +193,6 @@
 |**2024-03-30**|**Image-to-Image Matching via Foundation Models: A New Perspective for Open-Vocabulary Semantic Segmentation**|Yuan Wang, Rui Sun, Naisong Luo, Yuwen Pan, Tianzhu Zhang|[2404.00262v1](http://arxiv.org/abs/2404.00262v1)|null|
 |**2024-03-30**|**Attention-based Shape-Deformation Networks for Artifact-Free Geometry Reconstruction of Lumbar Spine from MR Images**|Linchen Qian, Jiasong Chen, Linhai Ma, Timur Urakov, Weiyong Gu, Liang Liang|[2404.00231v1](http://arxiv.org/abs/2404.00231v1)|null|
 |**2024-03-29**|**Multi-task Magnetic Resonance Imaging Reconstruction using Meta-learning**|Wanyu Bian, Albert Jang, Fang Liu|[2403.19966v1](http://arxiv.org/abs/2403.19966v1)|null|
-|**2024-03-27**|**Object Pose Estimation via the Aggregation of Diffusion Features**|Tianfu Wang, Guosheng Hu, Hongguang Wang|[2403.18791v1](http://arxiv.org/abs/2403.18791v1)|**[link](https://github.com/tianfu18/diff-feats-pose)**|
-|**2024-03-27**|**HEMIT: H&E to Multiplex-immunohistochemistry Image Translation with Dual-Branch Pix2pix Generator**|Chang Bian, Beth Philips, Tim Cootes, Martin Fergie|[2403.18501v1](http://arxiv.org/abs/2403.18501v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
