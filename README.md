@@ -92,7 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-12**|**EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams**|Christen Millerdurai, Hiroyasu Akada, Jian Wang, Diogo Luvizon, Christian Theobalt, Vladislav Golyanik|[2404.08640v1](http://arxiv.org/abs/2404.08640v1)|null|
+|**2024-04-12**|**EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams**|Christen Millerdurai, Hiroyasu Akada, Jian Wang, Diogo Luvizon, Christian Theobalt, Vladislav Golyanik|[2404.08640v1](http://arxiv.org/abs/2404.08640v1)|**[link](https://github.com/Chris10M/EventEgo3D)**|
 |**2024-04-10**|**MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views**|Runfa Li, Upal Mahbub, Vasudev Bhaskaran, Truong Nguyen|[2404.06753v1](http://arxiv.org/abs/2404.06753v1)|null|
 |**2024-04-10**|**Binomial Self-compensation for Motion Error in Dynamic 3D Scanning**|Geyou Zhang, Ce Zhu, Kai Liu|[2404.06693v1](http://arxiv.org/abs/2404.06693v1)|null|
 |**2024-04-09**|**Gaussian Pancakes: Geometrically-Regularized 3D Gaussian Splatting for Realistic Endoscopic Reconstruction**|Sierra Bonilla, Shuai Zhang, Dimitrios Psychogyios, Danail Stoyanov, Francisco Vasconcelos, Sophia Bano|[2404.06128v1](http://arxiv.org/abs/2404.06128v1)|**[link](https://github.com/smbonilla/gaussianpancakes)**|
@@ -185,7 +185,7 @@
 |---|---|---|---|---|
 |**2024-04-11**|**How is Visual Attention Influenced by Text Guidance? Database and Model**|Yinan Sun, Xiongkuo Min, Huiyu Duan, Guangtao Zhai|[2404.07537v2](http://arxiv.org/abs/2404.07537v2)|null|
 |**2024-04-10**|**BRAVE: Broadening the visual encoding of vision-language models**|Oğuzhan Fatih Kar, Alessio Tonioni, Petra Poklukar, Achin Kulshrestha, Amir Zamir, Federico Tombari|[2404.07204v1](http://arxiv.org/abs/2404.07204v1)|null|
-|**2024-04-10**|**InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models**|Jiale Xu, Weihao Cheng, Yiming Gao, Xintao Wang, Shenghua Gao, Ying Shan|[2404.07191v1](http://arxiv.org/abs/2404.07191v1)|**[link](https://github.com/tencentarc/instantmesh)**|
+|**2024-04-10**|**InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models**|Jiale Xu, Weihao Cheng, Yiming Gao, Xintao Wang, Shenghua Gao, Ying Shan|[2404.07191v2](http://arxiv.org/abs/2404.07191v2)|**[link](https://github.com/tencentarc/instantmesh)**|
 |**2024-04-10**|**VLLMs Provide Better Context for Emotion Understanding Through Common Sense Reasoning**|Alexandros Xenos, Niki Maria Foteinopoulou, Ioanna Ntinou, Ioannis Patras, Georgios Tzimiropoulos|[2404.07078v1](http://arxiv.org/abs/2404.07078v1)|**[link](https://github.com/nickyfot/emocommonsense)**|
 |**2024-04-09**|**Learning Embeddings with Centroid Triplet Loss for Object Identification in Robotic Grasping**|Anas Gouda, Max Schwarz, Christopher Reining, Sven Behnke, Alice Kirchheim|[2404.06277v1](http://arxiv.org/abs/2404.06277v1)|null|
 |**2024-04-09**|**Concept-Attention Whitening for Interpretable Skin Lesion Diagnosis**|Junlin Hou, Jilan Xu, Hao Chen|[2404.05997v1](http://arxiv.org/abs/2404.05997v1)|null|
