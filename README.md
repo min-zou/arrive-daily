@@ -5,7 +5,7 @@
 |**2024-04-22**|**MIMO Multipath-based SLAM for Non-Ideal Reflective Surfaces**|Lukas Wielandner, Alexander Venus, Thomas Wilding, Klaus Witrisal, Erik Leitinger|[2404.15375v1](http://arxiv.org/abs/2404.15375v1)|null|
 |**2024-04-22**|**Research on Robot Path Planning Based on Reinforcement Learning**|Wang Ruiqi|[2404.14077v1](http://arxiv.org/abs/2404.14077v1)|**[link](https://github.com/Rich-King395/Path-Planning-based-on-Reinforcement-Learning)**|
 |**2024-04-22**|**Accelerating Image Generation with Sub-path Linear Approximation Model**|Chen Xu, Tianhui Song, Weixin Feng, Xubin Li, Tiezheng Ge, Bo Zheng, Limin Wang|[2404.13903v2](http://arxiv.org/abs/2404.13903v2)|null|
-|**2024-04-22**|**Neural Radiance Field in Autonomous Driving: A Survey**|Lei He, Leheng Li, Wenchao Sun, Zeyu Han, Yichen Liu, Sifa Zheng, Jianqiang Wang, Keqiang Li|[2404.13816v1](http://arxiv.org/abs/2404.13816v1)|null|
+|**2024-04-22**|**Neural Radiance Field in Autonomous Driving: A Survey**|Lei He, Leheng Li, Wenchao Sun, Zeyu Han, Yichen Liu, Sifa Zheng, Jianqiang Wang, Keqiang Li|[2404.13816v2](http://arxiv.org/abs/2404.13816v2)|null|
 |**2024-04-21**|**Are We Ready for Planetary Exploration Robots? The TAIL-Plus Dataset for SLAM in Granular Environments**|Zirui Wang, Chen Yao, Yangtao Ge, Guowei Shi, Ningbo Yang, Zheng Zhu, Kewei Dong, Hexiang Wei, Zhenzhong Jia, Jing Wu|[2404.13600v1](http://arxiv.org/abs/2404.13600v1)|null|
 |**2024-04-20**|**EC-SLAM: Real-time Dense Neural RGB-D SLAM System with Effectively Constrained Global Bundle Adjustment**|Guanghao Li, Qi Chen, YuXiang Yan, Jian Pu|[2404.13346v1](http://arxiv.org/abs/2404.13346v1)|**[link](https://github.com/lightingooo/ec-slam)**|
 |**2024-04-19**|**On fusing active and passive acoustic sensing for simultaneous localization and mapping**|Aidan J. Bradley, Nicole Abaid|[2404.13116v1](http://arxiv.org/abs/2404.13116v1)|null|
@@ -97,7 +97,7 @@
 |**2024-04-24**|**OMEGAS: Object Mesh Extraction from Large Scenes Guided by Gaussian Segmentation**|Lizhi Wang, Feng Zhou, Jianqin Yin|[2404.15891v2](http://arxiv.org/abs/2404.15891v2)|**[link](https://github.com/crystalwlz/omegas)**|
 |**2024-04-24**|**3D Freehand Ultrasound using Visual Inertial and Deep Inertial Odometry for Measuring Patellar Tracking**|Russell Buchanan, S. Jack Tu, Marco Camurri, Stephen J. Mellon, Maurice Fallon|[2404.15847v1](http://arxiv.org/abs/2404.15847v1)|null|
 |**2024-04-23**|**Unknown Object Grasping for Assistive Robotics**|Elle Miller, Maximilian Durner, Matthias Humt, Gabriel Quere, Wout Boerdijk, Ashok M. Sundaram, Freek Stulp, Jorn Vogel|[2404.15001v1](http://arxiv.org/abs/2404.15001v1)|null|
-|**2024-04-22**|**Neural Radiance Field in Autonomous Driving: A Survey**|Lei He, Leheng Li, Wenchao Sun, Zeyu Han, Yichen Liu, Sifa Zheng, Jianqiang Wang, Keqiang Li|[2404.13816v1](http://arxiv.org/abs/2404.13816v1)|null|
+|**2024-04-22**|**Neural Radiance Field in Autonomous Driving: A Survey**|Lei He, Leheng Li, Wenchao Sun, Zeyu Han, Yichen Liu, Sifa Zheng, Jianqiang Wang, Keqiang Li|[2404.13816v2](http://arxiv.org/abs/2404.13816v2)|null|
 |**2024-04-21**|**Mapping Phonon Polaritons with Visible Light**|Kiernan E. Arledge, Chase T. Ellis, Nazli Rasouli Sarabi, Vincent R. Whiteside, Chul Soo Kim, Mijin Kim, Daniel C. Ratchford, Michael A Meeker, Binbin Weng, Joseph G. Tischler|[2404.13759v1](http://arxiv.org/abs/2404.13759v1)|null|
 |**2024-04-19**|**Unified Scene Representation and Reconstruction for 3D Large Language Models**|Tao Chu, Pan Zhang, Xiaoyi Dong, Yuhang Zang, Qiong Liu, Jiaqi Wang|[2404.13044v1](http://arxiv.org/abs/2404.13044v1)|null|
 |**2024-04-19**|**FlyNeRF: NeRF-Based Aerial Mapping for High-Quality 3D Scene Reconstruction**|Maria Dronova, Vladislav Cheremnykh, Alexey Kotcov, Aleksey Fedoseev, Dzmitry Tsetserukou|[2404.12970v1](http://arxiv.org/abs/2404.12970v1)|null|
@@ -139,12 +139,12 @@
 |**2024-04-18**|**MLS-Track: Multilevel Semantic Interaction in RMOT**|Zeliang Ma, Song Yang, Zhe Cui, Zhicheng Zhao, Fei Su, Delong Liu, Jingyu Wang|[2404.12031v1](http://arxiv.org/abs/2404.12031v1)|null|
 |**2024-04-18**|**KnotResolver: Tracking self-intersecting filaments in microscopy using directed graphs**|Dhruv Khatri, Shivani A. Yadav, Chaitanya A. Athale|[2404.12029v1](http://arxiv.org/abs/2404.12029v1)|null|
 |**2024-04-17**|**How to deal with glare for improved perception of Autonomous Vehicles**|Muhammad Z. Alam, Zeeshan Kaleem, Sousso Kelouwani|[2404.10992v1](http://arxiv.org/abs/2404.10992v1)|null|
-|**2024-04-12**|**Into the Fog: Evaluating Multiple Object Tracking Robustness**|Nadezda Kirillova, M. Jehanzeb Mirza, Horst Possegger, Horst Bischof|[2404.10534v1](http://arxiv.org/abs/2404.10534v1)|null|
+|**2024-04-12**|**Into the Fog: Evaluating Multiple Object Tracking Robustness**|Nadezda Kirillova, M. Jehanzeb Mirza, Horst Possegger, Horst Bischof|[2404.10534v1](http://arxiv.org/abs/2404.10534v1)|**[link](https://github.com/nadezola/intothefog_mot17)**|
 |**2024-04-12**|**IDD-X: A Multi-View Dataset for Ego-relative Important Object Localization and Explanation in Dense and Unstructured Traffic**|Chirag Parikh, Rohit Saluja, C. V. Jawahar, Ravi Kiran Sarvadevabhatla|[2404.08561v2](http://arxiv.org/abs/2404.08561v2)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-25**|**Successive Convexification for Trajectory Optimization with Continuous-Time Constraint Satisfaction**|Purnanand Elango, Dayou Luo, Abhinav G. Kamath, Samet Uzun, Taewan Kim, Behçet Açıkmeşe|[2404.16826v1](http://arxiv.org/abs/2404.16826v1)|null|
+|**2024-04-25**|**Successive Convexification for Trajectory Optimization with Continuous-Time Constraint Satisfaction**|Purnanand Elango, Dayou Luo, Abhinav G. Kamath, Samet Uzun, Taewan Kim, Behçet Açıkmeşe|[2404.16826v1](http://arxiv.org/abs/2404.16826v1)|**[link](https://github.com/uw-acl/successive-convexification)**|
 |**2024-04-23**|**Planning the path with Reinforcement Learning: Optimal Robot Motion Planning in RoboCup Small Size League Environments**|Mateus G. Machado, João G. Melo, Cleber Zanchettin, Pedro H. M. Braga, Pedro V. Cunha, Edna N. S. Barros, Hansenclever F. Bassani|[2404.15410v1](http://arxiv.org/abs/2404.15410v1)|**[link](https://github.com/goncamateus/Planning-the-path-with-rl)**|
 |**2024-04-23**|**Evaluating Dynamic Environment Difficulty for Obstacle Avoidance Benchmarking**|Moji Shi, Gang Chen, Álvaro Serra Gómez, Siyuan Wu, Javier Alonso-Mora|[2404.14848v1](http://arxiv.org/abs/2404.14848v1)|null|
 |**2024-03-28**|**Safety-Critical Planning and Control for Dynamic Obstacle Avoidance Using Control Barrier Functions**|Shuo Liu, Yihui Mao|[2403.19122v1](http://arxiv.org/abs/2403.19122v1)|null|
@@ -186,7 +186,7 @@
 |**2024-04-25**|**Zero-Shot Distillation for Image Encoders: How to Make Effective Use of Synthetic Data**|Niclas Popp, Jan Hendrik Metzen, Matthias Hein|[2404.16637v1](http://arxiv.org/abs/2404.16637v1)|null|
 |**2024-04-25**|**DIG3D: Marrying Gaussian Splatting with Deformable Transformer for Single Image 3D Reconstruction**|Jiamin Wu, Kenkun Liu, Han Gao, Xiaoke Jiang, Lei Zhang|[2404.16323v1](http://arxiv.org/abs/2404.16323v1)|null|
 |**2024-04-24**|**RetinaRegNet: A Versatile Approach for Retinal Image Registration**|Vishal Balaji Sivaraman, Muhammad Imran, Qingyue Wei, Preethika Muralidharan, Michelle R. Tamplin, Isabella M . Grumbach, Randy H. Kardon, Jui-Kai Wang, Yuyin Zhou, Wei Shao|[2404.16017v1](http://arxiv.org/abs/2404.16017v1)|null|
-|**2024-04-23**|**Domain adaptive pose estimation via multi-level alignment**|Yugan Chen, Lin Zhao, Yalong Xu, Honglei Zu, Xiaoqi An, Guangyu Li|[2404.14885v2](http://arxiv.org/abs/2404.14885v2)|null|
+|**2024-04-23**|**Domain adaptive pose estimation via multi-level alignment**|Yugan Chen, Lin Zhao, Yalong Xu, Honglei Zu, Xiaoqi An, Guangyu Li|[2404.14885v2](http://arxiv.org/abs/2404.14885v2)|**[link](https://github.com/sunshinglight/DAML_PoseEstimation)**|
 |**2024-04-23**|**Adaptive Prompt Learning with Negative Textual Semantics and Uncertainty Modeling for Universal Multi-Source Domain Adaptation**|Yuxiang Yang, Lu Wen, Yuanyuan Xu, Jiliu Zhou, Yan Wang|[2404.14696v2](http://arxiv.org/abs/2404.14696v2)|null|
 |**2024-04-23**|**Progressive Token Length Scaling in Transformer Encoders for Efficient Universal Segmentation**|Abhishek Aich, Yumin Suh, Samuel Schulter, Manmohan Chandraker|[2404.14657v1](http://arxiv.org/abs/2404.14657v1)|null|
 |**2024-04-22**|**Integrated Gradient Correlation: a Dataset-wise Attribution Method**|Pierre Lelièvre, Chien-Chung Chen|[2404.13910v1](http://arxiv.org/abs/2404.13910v1)|**[link](https://github.com/plelievre/int_grad_corr)**|
@@ -196,7 +196,7 @@
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-23**|**Tightly Joined Positioning and Control Model for Unmanned Aerial Vehicles Based on Factor Graph Optimization**|Peiwen Yang, Weisong Wen, Shiyu Bai, Li-Ta Hsu|[2404.14724v1](http://arxiv.org/abs/2404.14724v1)|null|
+|**2024-04-23**|**Tightly Joined Positioning and Control Model for Unmanned Aerial Vehicles Based on Factor Graph Optimization**|Peiwen Yang, Weisong Wen, Shiyu Bai, Li-Ta Hsu|[2404.14724v1](http://arxiv.org/abs/2404.14724v1)|**[link](https://github.com/roboticspolyu/ipn_mpc)**|
 |**2024-04-18**|**Proteus: Preserving Model Confidentiality during Graph Optimizations**|Yubo Gao, Maryam Haghifam, Christina Giannoula, Renbo Tu, Gennady Pekhimenko, Nandita Vijaykumar|[2404.12512v1](http://arxiv.org/abs/2404.12512v1)|null|
 |**2024-04-09**|**Quantum Graph Optimization Algorithm**|Yuhan Huang, Ferris Prima Nugraha, Siyuan Jin, Yichi Zhang, Bei Zeng, Qiming Shao|[2404.06434v1](http://arxiv.org/abs/2404.06434v1)|null|
 |**2024-04-03**|**Demonstration of weighted graph optimization on a Rydberg atom array using local light-shifts**|A. G. de Oliveira, E. Diamond-Hitchcock, D. M. Walker, M. T. Wells-Pestell, G. Pelegrí, C. J. Picken, G. P. A. Malcolm, A. J. Daley, J. Bass, J. D. Pritchard|[2404.02658v1](http://arxiv.org/abs/2404.02658v1)|null|
