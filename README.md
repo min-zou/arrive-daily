@@ -4,7 +4,7 @@
 |**2024-04-30**|**RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**|Zhexi Peng, Tianjia Shao, Yong Liu, Jingke Zhou, Yin Yang, Jingdong Wang, Kun Zhou|[2404.19706v2](http://arxiv.org/abs/2404.19706v2)|null|
 |**2024-04-29**|**Non-convex Pose Graph Optimization in SLAM via Proximal Linearized Riemannian ADMM**|Xin Chen, Chunfeng Cui, Deren Han, Liqun Qi|[2404.18560v1](http://arxiv.org/abs/2404.18560v1)|null|
 |**2024-04-29**|**Mesh-based Photorealistic and Real-time 3D Mapping for Robust Visual Perception of Autonomous Underwater Vehicle**|Jungwoo Lee, Younggun Cho|[2404.18395v1](http://arxiv.org/abs/2404.18395v1)|null|
-|**2024-04-28**|**Multi-Robot Object SLAM using Distributed Variational Inference**|Hanwen Cao, Sriram Shreedharan, Nikolay Atanasov|[2404.18331v1](http://arxiv.org/abs/2404.18331v1)|null|
+|**2024-04-28**|**Multi-Robot Object SLAM using Distributed Variational Inference**|Hanwen Cao, Sriram Shreedharan, Nikolay Atanasov|[2404.18331v1](http://arxiv.org/abs/2404.18331v1)|**[link](https://github.com/intrepidchw/distributed_msckf)**|
 |**2024-04-28**|**S3-SLAM: Sparse Tri-plane Encoding for Neural Implicit SLAM**|Zhiyao Zhang, Yunzhou Zhang, Yanmin Wu, Bin Zhao, Xingshuo Wang, Rui Tian|[2404.18284v1](http://arxiv.org/abs/2404.18284v1)|null|
 |**2024-04-28**|**Block-Map-Based Localization in Large-Scale Environment**|Yixiao Feng, Zhou Jiang, Yongliang Shi, Yunlong Feng, Xiangyu Chen, Hao Zhao, Guyue Zhou|[2404.18192v1](http://arxiv.org/abs/2404.18192v1)|null|
 |**2024-04-27**|**DF-SLAM: Neural Feature Rendering Based on Dictionary Factors Representation for High-Fidelity Dense Visual SLAM System**|Weifeng Wei, Jie Wang|[2404.17876v1](http://arxiv.org/abs/2404.17876v1)|null|
@@ -55,7 +55,7 @@
 |---|---|---|---|---|
 |**2024-04-30**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang, Tingting Li, Yuntian Zhang, Gensheng Pei, Xiruo Jiang, Yazhou Yao|[2404.19311v1](http://arxiv.org/abs/2404.19311v1)|null|
 |**2024-04-30**|**XFeat: Accelerated Features for Lightweight Image Matching**|Guilherme Potje, Felipe Cadar, Andre Araujo, Renato Martins, Erickson R. Nascimento|[2404.19174v1](http://arxiv.org/abs/2404.19174v1)|null|
-|**2024-04-27**|**MinBackProp -- Backpropagating through Minimal Solvers**|Diana Sungatullina, Tomas Pajdla|[2404.17993v1](http://arxiv.org/abs/2404.17993v1)|null|
+|**2024-04-27**|**MinBackProp -- Backpropagating through Minimal Solvers**|Diana Sungatullina, Tomas Pajdla|[2404.17993v1](http://arxiv.org/abs/2404.17993v1)|**[link](https://github.com/disungatullina/minbackprop)**|
 |**2024-04-23**|**FINEMATCH: Aspect-based Fine-grained Image and Text Mismatch Detection and Correction**|Hang Hua, Jing Shi, Kushal Kafle, Simon Jenni, Daoan Zhang, John Collomosse, Scott Cohen, Jiebo Luo|[2404.14715v1](http://arxiv.org/abs/2404.14715v1)|null|
 |**2024-04-17**|**A Semantic Segmentation-guided Approach for Ground-to-Aerial Image Matching**|Francesco Pro, Nikolaos Dionelis, Luca Maiano, Bertrand Le Saux, Irene Amerini|[2404.11302v1](http://arxiv.org/abs/2404.11302v1)|**[link](https://github.com/pro1944191/semanticalignnet)**|
 |**2024-04-16**|**Exploring selective image matching methods for zero-shot and few-sample unsupervised domain adaptation of urban canopy prediction**|John Francis, Stephen Law|[2404.10626v1](http://arxiv.org/abs/2404.10626v1)|null|
@@ -140,7 +140,7 @@
 |**2024-04-18**|**Inverse Neural Rendering for Explainable Multi-Object Tracking**|Julian Ost, Tanushree Banerjee, Mario Bijelic, Felix Heide|[2404.12359v1](http://arxiv.org/abs/2404.12359v1)|null|
 |**2024-04-18**|**On Target Detection in the Presence of Clutter in Joint Communication and Sensing Cellular Networks**|Julia Vinogradova, Gabor Fodor|[2404.12133v2](http://arxiv.org/abs/2404.12133v2)|null|
 |**2024-04-18**|**MLS-Track: Multilevel Semantic Interaction in RMOT**|Zeliang Ma, Song Yang, Zhe Cui, Zhicheng Zhao, Fei Su, Delong Liu, Jingyu Wang|[2404.12031v1](http://arxiv.org/abs/2404.12031v1)|null|
-|**2024-04-18**|**KnotResolver: Tracking self-intersecting filaments in microscopy using directed graphs**|Dhruv Khatri, Shivani A. Yadav, Chaitanya A. Athale|[2404.12029v1](http://arxiv.org/abs/2404.12029v1)|null|
+|**2024-04-18**|**KnotResolver: Tracking self-intersecting filaments in microscopy using directed graphs**|Dhruv Khatri, Shivani A. Yadav, Chaitanya A. Athale|[2404.12029v1](http://arxiv.org/abs/2404.12029v1)|**[link](https://github.com/cycelslab/mtloopresolve)**|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
