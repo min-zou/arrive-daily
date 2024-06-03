@@ -6,7 +6,7 @@
 |**2024-05-30**|**SLAM-based Joint Calibration of Multiple Asynchronous Microphone Arrays and Sound Source Localization**|Jiang Wang, Yuanzheng He, Daobilige Su, Katsutoshi Itoyama, Kazuhiro Nakadai, Junfeng Wu, Shoudong Huang, Youfu Li, He Kong|[2405.19813v1](http://arxiv.org/abs/2405.19813v1)|null|
 |**2024-05-30**|**TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM**|Peifeng Jiang, Hong Liu, Xia Li, Ti Wang, Fabian Zhang, Joachim M. Buhmann|[2405.19614v1](http://arxiv.org/abs/2405.19614v1)|null|
 |**2024-05-27**|**CudaSIFT-SLAM: multiple-map visual SLAM for full procedure mapping in real human endoscopy**|Richard Elvira, Juan D. Tardós, José M. M. Montiel|[2405.16932v1](http://arxiv.org/abs/2405.16932v1)|null|
-|**2024-05-26**|**Splat-SLAM: Globally Optimized RGB-only SLAM with 3D Gaussians**|Erik Sandström, Keisuke Tateno, Michael Oechsle, Michael Niemeyer, Luc Van Gool, Martin R. Oswald, Federico Tombari|[2405.16544v1](http://arxiv.org/abs/2405.16544v1)|null|
+|**2024-05-26**|**Splat-SLAM: Globally Optimized RGB-only SLAM with 3D Gaussians**|Erik Sandström, Keisuke Tateno, Michael Oechsle, Michael Niemeyer, Luc Van Gool, Martin R. Oswald, Federico Tombari|[2405.16544v1](http://arxiv.org/abs/2405.16544v1)|**[link](https://github.com/eriksandstroem/splat-slam)**|
 |**2024-05-24**|**NeB-SLAM: Neural Blocks-based Salable RGB-D SLAM for Unknown Scenes**|Lizhi Bai, Chunqi Tian, Jun Yang, Siyu Zhang, Weijian Liang|[2405.15151v1](http://arxiv.org/abs/2405.15151v1)|null|
 |**2024-05-23**|**ETA-INIT: Enhancing the Translation Accuracy for Stereo Visual-Inertial SLAM Initialization**|Han Song, Zhongche Qu, Zhi Zhang, Zihan Ye, Cong Liu|[2405.15082v1](http://arxiv.org/abs/2405.15082v1)|null|
 |**2024-05-23**|**Synergistic Global-space Camera and Human Reconstruction from Videos**|Yizhou Zhao, Tuanfeng Y. Wang, Bhiksha Raj, Min Xu, Jimei Yang, Chun-Hao Paul Huang|[2405.14855v1](http://arxiv.org/abs/2405.14855v1)|null|
@@ -40,7 +40,7 @@
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-21**|**Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection -- Towards Precise Fish Morphological Assessment in Aquaculture Breeding**|Weizhen Liu, Jiayu Tan, Guangyu Lan, Ao Li, Dongye Li, Le Zhao, Xiaohui Yuan, Nanqing Dong|[2405.12476v1](http://arxiv.org/abs/2405.12476v1)|null|
+|**2024-05-21**|**Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection -- Towards Precise Fish Morphological Assessment in Aquaculture Breeding**|Weizhen Liu, Jiayu Tan, Guangyu Lan, Ao Li, Dongye Li, Le Zhao, Xiaohui Yuan, Nanqing Dong|[2405.12476v1](http://arxiv.org/abs/2405.12476v1)|**[link](https://github.com/weizhenliubioinform/fish-phenotype-detect)**|
 |**2024-05-07**|**A Self-Supervised Method for Body Part Segmentation and Keypoint Detection of Rat Images**|László Kopácsi, Áron Fóthi, András Lőrincz|[2405.04650v1](http://arxiv.org/abs/2405.04650v1)|null|
 |**2024-04-19**|**SkelFormer: Markerless 3D Pose and Shape Estimation using Skeletal Transformers**|Vandad Davoodnia, Saeed Ghorbani, Alexandre Messier, Ali Etemad|[2404.12625v1](http://arxiv.org/abs/2404.12625v1)|null|
 |**2024-04-17**|**Pixel-Wise Symbol Spotting via Progressive Points Location for Parsing CAD Images**|Junbiao Pang, Zailin Dong, Jiaxin Deng, Mengyuan Zhu, Yunwei Zhang|[2404.10985v1](http://arxiv.org/abs/2404.10985v1)|null|
@@ -93,7 +93,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-30**|**$\textit{S}^3$Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang, Xiaobao Wei, Wenzhao Zheng, Pengju An, Ming Lu, Wei Zhan, Masayoshi Tomizuka, Kurt Keutzer, Shanghang Zhang|[2405.20323v1](http://arxiv.org/abs/2405.20323v1)|**[link](https://github.com/nnanhuang/s3gaussian)**|
-|**2024-05-30**|**A Pixel Is Worth More Than One 3D Gaussians in Single-View 3D Reconstruction**|Jianghao Shen, Tianfu Wu|[2405.20310v1](http://arxiv.org/abs/2405.20310v1)|null|
+|**2024-05-30**|**A Pixel Is Worth More Than One 3D Gaussians in Single-View 3D Reconstruction**|Jianghao Shen, Xue Nan, Tianfu Wu|[2405.20310v2](http://arxiv.org/abs/2405.20310v2)|null|
 |**2024-05-30**|**TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes**|Minghao Guo, Bohan Wang, Kaiming He, Wojciech Matusik|[2405.20283v1](http://arxiv.org/abs/2405.20283v1)|null|
 |**2024-05-30**|**Object-centric Reconstruction and Tracking of Dynamic Unknown Objects using 3D Gaussian Splatting**|Kuldeep R Barad, Antoine Richard, Jan Dentler, Miguel Olivares-Mendez, Carol Martinez|[2405.20104v1](http://arxiv.org/abs/2405.20104v1)|null|
 |**2024-05-29**|**Learning Mixture-of-Experts for General-Purpose Black-Box Discrete Optimization**|Shengcai Liu, Zhiyuan Wang, Yew-Soon Ong, Xin Yao, Ke Tang|[2405.18884v1](http://arxiv.org/abs/2405.18884v1)|null|
@@ -131,7 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-30**|**WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark**|Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang|[2405.19818v1](http://arxiv.org/abs/2405.19818v1)|null|
+|**2024-05-30**|**WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark**|Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang|[2405.19818v1](http://arxiv.org/abs/2405.19818v1)|**[link](https://github.com/983632847/awesome-multimodal-object-tracking)**|
 |**2024-05-29**|**DGD: Dynamic 3D Gaussians Distillation**|Isaac Labe, Noam Issachar, Itai Lang, Sagie Benaim|[2405.19321v1](http://arxiv.org/abs/2405.19321v1)|null|
 |**2024-05-28**|**Track Initialization and Re-Identification for~3D Multi-View Multi-Object Tracking**|Linh Van Ma, Tran Thien Dat Nguyen, Ba-Ngu Vo, Hyunsung Jang, Moongu Jeon|[2405.18606v1](http://arxiv.org/abs/2405.18606v1)|**[link](https://github.com/linh-gist/mv-glmb-ab)**|
 |**2024-05-28**|**Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**|Hongze Sun, Rui Liu, Wuque Cai, Jun Wang, Yue Wang, Huajin Tang, Yan Cui, Dezhong Yao, Daqing Guo|[2405.17903v1](http://arxiv.org/abs/2405.17903v1)|null|
@@ -184,11 +184,11 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-30**|**Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image**|Kailu Wu, Fangfu Liu, Zhihan Cai, Runjie Yan, Hanyang Wang, Yating Hu, Yueqi Duan, Kaisheng Ma|[2405.20343v1](http://arxiv.org/abs/2405.20343v1)|null|
-|**2024-05-30**|**A Pixel Is Worth More Than One 3D Gaussians in Single-View 3D Reconstruction**|Jianghao Shen, Tianfu Wu|[2405.20310v1](http://arxiv.org/abs/2405.20310v1)|null|
+|**2024-05-30**|**A Pixel Is Worth More Than One 3D Gaussians in Single-View 3D Reconstruction**|Jianghao Shen, Xue Nan, Tianfu Wu|[2405.20310v2](http://arxiv.org/abs/2405.20310v2)|null|
 |**2024-05-30**|**A Staged Approach using Machine Learning and Uncertainty Quantification to Predict the Risk of Hip Fracture**|Anjum Shaik, Kristoffer Larsen, Nancy E. Lane, Chen Zhao, Kuan-Jui Su, Joyce H. Keyak, Qing Tian, Qiuying Sha, Hui Shen, Hong-Wen Deng, Weihua Zhou|[2405.20071v1](http://arxiv.org/abs/2405.20071v1)|null|
 |**2024-05-29**|**RAP: Efficient Text-Video Retrieval with Sparse-and-Correlated Adapter**|Meng Cao, Haoran Tang, Jinfa Huang, Peng Jin, Can Zhang, Ruyang Liu, Long Chen, Xiaodan Liang, Li Yuan, Ge Li|[2405.19465v1](http://arxiv.org/abs/2405.19465v1)|null|
 |**2024-05-29**|**A Good Foundation is Worth Many Labels: Label-Efficient Panoptic Segmentation**|Niclas Vödisch, Kürsat Petek, Markus Käppeler, Abhinav Valada, Wolfram Burgard|[2405.19035v1](http://arxiv.org/abs/2405.19035v1)|**[link](https://github.com/robot-learning-freiburg/PASTEL)**|
-|**2024-05-29**|**Transcending Fusion: A Multi-Scale Alignment Method for Remote Sensing Image-Text Retrieval**|Rui Yang, Shuang Wang, Yingping Han, Yuanheng Li, Dong Zhao, Dou Quan, Yanhe Guo, Licheng Jiao|[2405.18959v1](http://arxiv.org/abs/2405.18959v1)|null|
+|**2024-05-29**|**Transcending Fusion: A Multi-Scale Alignment Method for Remote Sensing Image-Text Retrieval**|Rui Yang, Shuang Wang, Yingping Han, Yuanheng Li, Dong Zhao, Dou Quan, Yanhe Guo, Licheng Jiao|[2405.18959v1](http://arxiv.org/abs/2405.18959v1)|**[link](https://github.com/yr666666/msa)**|
 |**2024-05-28**|**Cardiovascular Disease Detection from Multi-View Chest X-rays with BI-Mamba**|Zefan Yang, Jiajin Zhang, Ge Wang, Mannudeep K. Kalra, Pingkun Yan|[2405.18533v1](http://arxiv.org/abs/2405.18533v1)|null|
 |**2024-05-28**|**Aligning in a Compact Space: Contrastive Knowledge Distillation between Heterogeneous Architectures**|Hongjun Wu, Li Xiao, Xingkuo Zhang, Yining Miao|[2405.18524v1](http://arxiv.org/abs/2405.18524v1)|null|
 |**2024-05-28**|**Text Modality Oriented Image Feature Extraction for Detecting Diffusion-based DeepFake**|Di Yang, Yihao Huang, Qing Guo, Felix Juefei-Xu, Xiaojun Jia, Run Wang, Geguang Pu, Yang Liu|[2405.18071v1](http://arxiv.org/abs/2405.18071v1)|null|
