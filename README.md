@@ -92,11 +92,11 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-30**|**Physically Compatible 3D Object Modeling from a Single Image**|Minghao Guo, Bohan Wang, Pingchuan Ma, Tianyuan Zhang, Crystal Elaine Owens, Chuang Gan, Joshua B. Tenenbaum, Kaiming He, Wojciech Matusik|[2405.20510v1](http://arxiv.org/abs/2405.20510v1)|null|
+|**2024-05-30**|**Physically Compatible 3D Object Modeling from a Single Image**|Minghao Guo, Bohan Wang, Pingchuan Ma, Tianyuan Zhang, Crystal Elaine Owens, Chuang Gan, Joshua B. Tenenbaum, Kaiming He, Wojciech Matusik|[2405.20510v2](http://arxiv.org/abs/2405.20510v2)|null|
 |**2024-05-30**|**Geometric Characterization of Rat Urinary Bladder Wall During Ex-Vivo Filling Using Micro-Computed Tomography (Micro-CT)**|Fatemeh Azari, Anne M. Robertson, Lori A. Birder|[2405.20454v1](http://arxiv.org/abs/2405.20454v1)|null|
 |**2024-05-30**|**Learning 3D Robotics Perception using Inductive Priors**|Muhammad Zubair Irshad|[2405.20364v1](http://arxiv.org/abs/2405.20364v1)|null|
 |**2024-05-30**|**$\textit{S}^3$Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang, Xiaobao Wei, Wenzhao Zheng, Pengju An, Ming Lu, Wei Zhan, Masayoshi Tomizuka, Kurt Keutzer, Shanghang Zhang|[2405.20323v1](http://arxiv.org/abs/2405.20323v1)|**[link](https://github.com/nnanhuang/s3gaussian)**|
-|**2024-05-30**|**A Pixel Is Worth More Than One 3D Gaussians in Single-View 3D Reconstruction**|Jianghao Shen, Xue Nan, Tianfu Wu|[2405.20310v2](http://arxiv.org/abs/2405.20310v2)|null|
+|**2024-05-30**|**A Pixel Is Worth More Than One 3D Gaussians in Single-View 3D Reconstruction**|Jianghao Shen, Nan Xue, Tianfu Wu|[2405.20310v3](http://arxiv.org/abs/2405.20310v3)|null|
 |**2024-05-30**|**TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes**|Minghao Guo, Bohan Wang, Kaiming He, Wojciech Matusik|[2405.20283v1](http://arxiv.org/abs/2405.20283v1)|null|
 |**2024-05-30**|**Object-centric Reconstruction and Tracking of Dynamic Unknown Objects using 3D Gaussian Splatting**|Kuldeep R Barad, Antoine Richard, Jan Dentler, Miguel Olivares-Mendez, Carol Martinez|[2405.20104v1](http://arxiv.org/abs/2405.20104v1)|null|
 |**2024-05-29**|**Learning Mixture-of-Experts for General-Purpose Black-Box Discrete Optimization**|Shengcai Liu, Zhiyuan Wang, Yew-Soon Ong, Xin Yao, Ke Tang|[2405.18884v1](http://arxiv.org/abs/2405.18884v1)|null|
@@ -136,7 +136,7 @@
 |**2024-05-28**|**Track Initialization and Re-Identification for~3D Multi-View Multi-Object Tracking**|Linh Van Ma, Tran Thien Dat Nguyen, Ba-Ngu Vo, Hyunsung Jang, Moongu Jeon|[2405.18606v1](http://arxiv.org/abs/2405.18606v1)|**[link](https://github.com/linh-gist/mv-glmb-ab)**|
 |**2024-05-28**|**Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**|Hongze Sun, Rui Liu, Wuque Cai, Jun Wang, Yue Wang, Huajin Tang, Yan Cui, Dezhong Yao, Daqing Guo|[2405.17903v1](http://arxiv.org/abs/2405.17903v1)|null|
 |**2024-05-28**|**Towards a Generalist and Blind RGB-X Tracker**|Yuedong Tan, Zongwei Wu, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte|[2405.17773v1](http://arxiv.org/abs/2405.17773v1)|null|
-|**2024-05-27**|**BaboonLand Dataset: Tracking Primates in the Wild and Automating Behaviour Recognition from Drone Videos**|Isla Duporge, Maksim Kholiavchenko, Roi Harel, Scott Wolf, Dan Rubenstein, Meg Crofoot, Tanya Berger-Wolf, Stephen Lee, Julie Barreau, Jenna Kline, Michelle Ramirez, Chuck Stewart|[2405.17698v2](http://arxiv.org/abs/2405.17698v2)|null|
+|**2024-05-27**|**BaboonLand Dataset: Tracking Primates in the Wild and Automating Behaviour Recognition from Drone Videos**|Isla Duporge, Maksim Kholiavchenko, Roi Harel, Scott Wolf, Dan Rubenstein, Meg Crofoot, Tanya Berger-Wolf, Stephen Lee, Julie Barreau, Jenna Kline, Michelle Ramirez, Charles Stewart|[2405.17698v3](http://arxiv.org/abs/2405.17698v3)|null|
 |**2024-05-27**|**Tracking Small Birds by Detection Candidate Region Filtering and Detection History-aware Association**|Tingwei Liu, Yasutomo Kawanishi, Takahiro Komamizu, Ichiro Ide|[2405.17323v1](http://arxiv.org/abs/2405.17323v1)|null|
 |**2024-05-24**|**ETTrack: Enhanced Temporal Motion Predictor for Multi-Object Tracking**|Xudong Han, Nobuyuki Oishi, Yueying Tian, Elif Ucurum, Rupert Young, Chris Chatwin, Philip Birch|[2405.15755v1](http://arxiv.org/abs/2405.15755v1)|null|
 |**2024-05-24**|**Trackastra: Transformer-based cell tracking for live-cell microscopy**|Benjamin Gallusser, Martin Weigert|[2405.15700v1](http://arxiv.org/abs/2405.15700v1)|**[link](https://github.com/weigertlab/trackastra)**|
@@ -184,7 +184,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-30**|**Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image**|Kailu Wu, Fangfu Liu, Zhihan Cai, Runjie Yan, Hanyang Wang, Yating Hu, Yueqi Duan, Kaisheng Ma|[2405.20343v1](http://arxiv.org/abs/2405.20343v1)|null|
-|**2024-05-30**|**A Pixel Is Worth More Than One 3D Gaussians in Single-View 3D Reconstruction**|Jianghao Shen, Xue Nan, Tianfu Wu|[2405.20310v2](http://arxiv.org/abs/2405.20310v2)|null|
+|**2024-05-30**|**A Pixel Is Worth More Than One 3D Gaussians in Single-View 3D Reconstruction**|Jianghao Shen, Nan Xue, Tianfu Wu|[2405.20310v3](http://arxiv.org/abs/2405.20310v3)|null|
 |**2024-05-30**|**A Staged Approach using Machine Learning and Uncertainty Quantification to Predict the Risk of Hip Fracture**|Anjum Shaik, Kristoffer Larsen, Nancy E. Lane, Chen Zhao, Kuan-Jui Su, Joyce H. Keyak, Qing Tian, Qiuying Sha, Hui Shen, Hong-Wen Deng, Weihua Zhou|[2405.20071v1](http://arxiv.org/abs/2405.20071v1)|null|
 |**2024-05-29**|**RAP: Efficient Text-Video Retrieval with Sparse-and-Correlated Adapter**|Meng Cao, Haoran Tang, Jinfa Huang, Peng Jin, Can Zhang, Ruyang Liu, Long Chen, Xiaodan Liang, Li Yuan, Ge Li|[2405.19465v1](http://arxiv.org/abs/2405.19465v1)|null|
 |**2024-05-29**|**A Good Foundation is Worth Many Labels: Label-Efficient Panoptic Segmentation**|Niclas Vödisch, Kürsat Petek, Markus Käppeler, Abhinav Valada, Wolfram Burgard|[2405.19035v1](http://arxiv.org/abs/2405.19035v1)|**[link](https://github.com/robot-learning-freiburg/PASTEL)**|
@@ -196,7 +196,7 @@
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-26**|**Private Edge Density Estimation for Random Graphs: Optimal, Efficient and Robust**|Hongjie Chen, Jingqiu Ding, Yiding Hua, David Steurer|[2405.16663v1](http://arxiv.org/abs/2405.16663v1)|null|
+|**2024-05-26**|**Private Edge Density Estimation for Random Graphs: Optimal, Efficient and Robust**|Hongjie Chen, Jingqiu Ding, Yiding Hua, David Steurer|[2405.16663v2](http://arxiv.org/abs/2405.16663v2)|null|
 |**2024-05-21**|**How Universal Polynomial Bases Enhance Spectral Graph Neural Networks: Heterophily, Over-smoothing, and Over-squashing**|Keke Huang, Yu Guang Wang, Ming Li, and Pietro Liò|[2405.12474v1](http://arxiv.org/abs/2405.12474v1)|**[link](https://github.com/kkhuang81/UniFilter)**|
 |**2024-05-14**|**IPC: Incremental Probabilistic Consensus-based Consistent Set Maximization for SLAM Backends**|Emilio Olivastri, Alberto Pretto|[2405.08503v1](http://arxiv.org/abs/2405.08503v1)|**[link](https://github.com/EmilioOlivastri/IPC)**|
 |**2024-05-01**|**Scaling Up the Quantum Divide and Conquer Algorithm for Combinatorial Optimization**|Ibrahim Cameron, Teague Tomesh, Zain Saleem, Ilya Safro|[2405.00861v1](http://arxiv.org/abs/2405.00861v1)|null|
@@ -216,6 +216,6 @@
 |**2024-05-21**|**MOSS: Motion-based 3D Clothed Human Synthesis from Monocular Video**|Hongsheng Wang, Xiang Cai, Xi Sun, Jinhong Yue, Shengyu Zhang, Feng Lin, Fei Wu|[2405.12806v1](http://arxiv.org/abs/2405.12806v1)|null|
 |**2024-05-21**|**Towards Using Fast Embedded Model Predictive Control for Human-Aware Predictive Robot Navigation**|Till Hielscher, Lukas Heuer, Frederik Wulle, Luigi Palmieri|[2405.12616v1](http://arxiv.org/abs/2405.12616v1)|null|
 |**2024-05-13**|**A Semantic and Motion-Aware Spatiotemporal Transformer Network for Action Detection**|Matthew Korban, Peter Youngs, Scott T. Acton|[2405.08204v1](http://arxiv.org/abs/2405.08204v1)|null|
-|**2024-04-21**|**Motion-aware Latent Diffusion Models for Video Frame Interpolation**|Zhilin Huang, Yijie Yu, Ling Yang, Chujun Qin, Bing Zheng, Xiawu Zheng, Zikun Zhou, Yaowei Wang, Wenming Yang|[2404.13534v1](http://arxiv.org/abs/2404.13534v1)|null|
+|**2024-04-21**|**Motion-aware Latent Diffusion Models for Video Frame Interpolation**|Zhilin Huang, Yijie Yu, Ling Yang, Chujun Qin, Bing Zheng, Xiawu Zheng, Zikun Zhou, Yaowei Wang, Wenming Yang|[2404.13534v2](http://arxiv.org/abs/2404.13534v2)|null|
 |**2024-04-19**|**MambaMOS: LiDAR-based 3D Moving Object Segmentation with Motion-aware State Space Model**|Kang Zeng, Hao Shi, Jiacheng Lin, Siyu Li, Jintao Cheng, Kaiwei Wang, Zhiyong Li, Kailun Yang|[2404.12794v1](http://arxiv.org/abs/2404.12794v1)|**[link](https://github.com/terminal-k/mambamos)**|
 |**2024-04-08**|**Deep Optics for Video Snapshot Compressive Imaging**|Ping Wang, Lishun Wang, Xin Yuan|[2404.05274v1](http://arxiv.org/abs/2404.05274v1)|**[link](https://github.com/pwangcs/deepopticssci)**|
