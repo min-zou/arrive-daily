@@ -92,9 +92,9 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-06**|**Coarse-To-Fine Tensor Trains for Compact Visual Representations**|Sebastian Loeschcke, Dan Wang, Christian Leth-Espensen, Serge Belongie, Michael J. Kastoryano, Sagie Benaim|[2406.04332v1](http://arxiv.org/abs/2406.04332v1)|null|
+|**2024-06-06**|**Coarse-To-Fine Tensor Trains for Compact Visual Representations**|Sebastian Loeschcke, Dan Wang, Christian Leth-Espensen, Serge Belongie, Michael J. Kastoryano, Sagie Benaim|[2406.04332v1](http://arxiv.org/abs/2406.04332v1)|**[link](https://github.com/sebulo/PuTT)**|
 |**2024-06-06**|**Sparse Multi-baseline SAR Cross-modal 3D Reconstruction of Vehicle Targets**|Da Li, Guoqiang Zhao, Houjun Sun, Jiacheng Bao|[2406.04158v1](http://arxiv.org/abs/2406.04158v1)|null|
-|**2024-06-06**|**C^2RV: Cross-Regional and Cross-View Learning for Sparse-View CBCT Reconstruction**|Yiqun Lin, Jiewen Yang, Hualiang Wang, Xinpeng Ding, Wei Zhao, Xiaomeng Li|[2406.03902v1](http://arxiv.org/abs/2406.03902v1)|null|
+|**2024-06-06**|**C^2RV: Cross-Regional and Cross-View Learning for Sparse-View CBCT Reconstruction**|Yiqun Lin, Jiewen Yang, Hualiang Wang, Xinpeng Ding, Wei Zhao, Xiaomeng Li|[2406.03902v1](http://arxiv.org/abs/2406.03902v1)|**[link](https://github.com/xmed-lab/C2RV-CBCT)**|
 |**2024-06-05**|**Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion**|Hao Wen, Zehuan Huang, Yaohui Wang, Xinyuan Chen, Yu Qiao, Lu Sheng|[2406.03184v1](http://arxiv.org/abs/2406.03184v1)|null|
 |**2024-06-05**|**CAMEL. II. A 3D Coronal Mass Ejection Catalog Based on Coronal Mass Ejection Automatic Detection with Deep Learning**|Jiahui Shan, Huapeng Zhang, Lei Lu, Yan Zhang, Li Feng, Yunyi Ge, Jianchao Xue, Shuting Li|[2406.02946v1](http://arxiv.org/abs/2406.02946v1)|null|
 |**2024-06-04**|**3D-HGS: 3D Half-Gaussian Splatting**|Haolin Li, Jinyang Liu, Mario Sznaier, Octavia Camps|[2406.02720v1](http://arxiv.org/abs/2406.02720v1)|null|
