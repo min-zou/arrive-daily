@@ -55,7 +55,7 @@
 |---|---|---|---|---|
 |**2024-07-03**|**IMC 2024 Methods & Solutions Review**|Shyam Gupta, Dhanisha Sharma, Songling Huang|[2407.03172v1](http://arxiv.org/abs/2407.03172v1)|null|
 |**2024-06-21**|**High Resolution Surface Reconstruction of Cultural Heritage Objects Using Shape from Polarization Method**|F. S. Mortazavi, M. Saadatseresht|[2406.15121v1](http://arxiv.org/abs/2406.15121v1)|null|
-|**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang, Qianyu He, Xintao Wang, Siyu Yuan, Jiaqing Liang, Yanghua Xiao|[2406.10902v1](http://arxiv.org/abs/2406.10902v1)|null|
+|**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang, Qianyu He, Xintao Wang, Siyu Yuan, Jiaqing Liang, Yanghua Xiao|[2406.10902v1](http://arxiv.org/abs/2406.10902v1)|**[link](https://github.com/ykzhang721/COG)**|
 |**2024-06-14**|**Grounding Image Matching in 3D with MASt3R**|Vincent Leroy, Yohann Cabon, Jérôme Revaud|[2406.09756v1](http://arxiv.org/abs/2406.09756v1)|null|
 |**2024-05-22**|**Affine-based Deformable Attention and Selective Fusion for Semi-dense Matching**|Hongkai Chen, Zixin Luo, Yurun Tian, Xuyang Bai, Ziyu Wang, Lei Zhou, Mingmin Zhen, Tian Fang, David McKinnon, Yanghai Tsin, Long Quan|[2405.13874v1](http://arxiv.org/abs/2405.13874v1)|null|
 |**2024-05-21**|**OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**|Hanwen Jiang, Arjun Karpur, Bingyi Cao, Qixing Huang, Andre Araujo|[2405.12979v1](http://arxiv.org/abs/2405.12979v1)|**[link](https://github.com/google-research/omniglue)**|
@@ -66,7 +66,7 @@
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo, Jiangliu Wang, Di Kang, Wenzhen Dong, Wenting Wang, Yun-hui Liu|[2407.02918v1](http://arxiv.org/abs/2407.02918v1)|null|
+|**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo, Jiangliu Wang, Di Kang, Wenzhen Dong, Wenting Wang, Yun-hui Liu|[2407.02918v1](http://arxiv.org/abs/2407.02918v1)|**[link](https://github.com/wrld/free-surgs)**|
 |**2024-06-27**|**SALVe: Semantic Alignment Verification for Floorplan Reconstruction from Sparse Panoramas**|John Lambert, Yuguang Li, Ivaylo Boyadzhiev, Lambert Wixson, Manjunath Narayana, Will Hutchcroft, James Hays, Frank Dellaert, Sing Bing Kang|[2406.19390v1](http://arxiv.org/abs/2406.19390v1)|**[link](https://github.com/zillow/salve)**|
 |**2024-06-27**|**STAL3D: Unsupervised Domain Adaptation for 3D Object Detection via Collaborating Self-Training and Adversarial Learning**|Yanan Zhang, Chao Zhou, Di Huang|[2406.19362v1](http://arxiv.org/abs/2406.19362v1)|null|
 |**2024-06-26**|**VDG: Vision-Only Dynamic Gaussian for Driving Simulation**|Hao Li, Jingfeng Li, Dingwen Zhang, Chenming Wu, Jieqi Shi, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang, Junwei Han|[2406.18198v1](http://arxiv.org/abs/2406.18198v1)|null|
@@ -79,7 +79,7 @@
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo, Jiangliu Wang, Di Kang, Wenzhen Dong, Wenting Wang, Yun-hui Liu|[2407.02918v1](http://arxiv.org/abs/2407.02918v1)|null|
+|**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo, Jiangliu Wang, Di Kang, Wenzhen Dong, Wenting Wang, Yun-hui Liu|[2407.02918v1](http://arxiv.org/abs/2407.02918v1)|**[link](https://github.com/wrld/free-surgs)**|
 |**2024-07-02**|**Indoor 3D Reconstruction with an Unknown Camera-Projector Pair**|Zhaoshuai Qi, Yifeng Hao, Rui Hu, Wenyou Chang, Jiaqi Yang, Yanning Zhang|[2407.01945v1](http://arxiv.org/abs/2407.01945v1)|null|
 |**2024-06-26**|**VDG: Vision-Only Dynamic Gaussian for Driving Simulation**|Hao Li, Jingfeng Li, Dingwen Zhang, Chenming Wu, Jieqi Shi, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang, Junwei Han|[2406.18198v1](http://arxiv.org/abs/2406.18198v1)|null|
 |**2024-06-25**|**Consensus Learning with Deep Sets for Essential Matrix Estimation**|Dror Moran, Yuval Margalit, Guy Trostianetsky, Fadi Khatib, Meirav Galun, Ronen Basri|[2406.17414v1](http://arxiv.org/abs/2406.17414v1)|null|
@@ -92,7 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo, Jiangliu Wang, Di Kang, Wenzhen Dong, Wenting Wang, Yun-hui Liu|[2407.02918v1](http://arxiv.org/abs/2407.02918v1)|null|
+|**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo, Jiangliu Wang, Di Kang, Wenzhen Dong, Wenting Wang, Yun-hui Liu|[2407.02918v1](http://arxiv.org/abs/2407.02918v1)|**[link](https://github.com/wrld/free-surgs)**|
 |**2024-07-03**|**A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes**|Li Fang, Tianyu Li, Yanghong Lin, Shudong Zhou, Wei Yao|[2407.02830v1](http://arxiv.org/abs/2407.02830v1)|null|
 |**2024-07-02**|**The influence of the 3D Galactic gas structure on cosmic-ray transport and gamma-ray emission**|Andrés Ramírez, Gordian Edenhofer, Torsten A. Enßlin, Philipp Frank, Philipp Mertsch, Vo Hong Minh Phan, Laurin Söding, Hanieh Zhandinejad, Ralf Kissmann|[2407.02410v1](http://arxiv.org/abs/2407.02410v1)|null|
 |**2024-07-02**|**Indoor 3D Reconstruction with an Unknown Camera-Projector Pair**|Zhaoshuai Qi, Yifeng Hao, Rui Hu, Wenyou Chang, Jiaqi Yang, Yanning Zhang|[2407.01945v1](http://arxiv.org/abs/2407.01945v1)|null|
@@ -106,7 +106,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-07-02**|**Parametric Modeling and Estimation of Photon Registrations for 3D Imaging**|Weijian Zhang, Hashan K. Weerasooriya, Prateek Chennuri, Stanley H. Chan|[2407.02712v1](http://arxiv.org/abs/2407.02712v1)|null|
-|**2024-07-02**|**Depth-Aware Endoscopic Video Inpainting**|Francis Xiatian Zhang, Shuang Chen, Xianghua Xie, Hubert P. H. Shum|[2407.02675v1](http://arxiv.org/abs/2407.02675v1)|null|
+|**2024-07-02**|**Depth-Aware Endoscopic Video Inpainting**|Francis Xiatian Zhang, Shuang Chen, Xianghua Xie, Hubert P. H. Shum|[2407.02675v1](http://arxiv.org/abs/2407.02675v1)|**[link](https://github.com/FrancisXZhang/DAEVI)**|
 |**2024-07-02**|**Camera-LiDAR Cross-modality Gait Recognition**|Wenxuan Guo, Yingping Liang, Zhiyu Pan, Ziheng Xi, Jianjiang Feng, Jie Zhou|[2407.02038v2](http://arxiv.org/abs/2407.02038v2)|null|
 |**2024-06-30**|**CaFNet: A Confidence-Driven Framework for Radar Camera Depth Estimation**|Huawei Sun, Hao Feng, Julius Ott, Lorenzo Servadei, Robert Wille|[2407.00697v1](http://arxiv.org/abs/2407.00697v1)|null|
 |**2024-06-28**|**Deep Learning-based Depth Estimation Methods from Monocular Image and Videos: A Comprehensive Survey**|Uchitha Rajapaksha, Ferdous Sohel, Hamid Laga, Dean Diepeveen, Mohammed Bennamoun|[2406.19675v1](http://arxiv.org/abs/2406.19675v1)|null|
