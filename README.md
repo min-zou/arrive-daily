@@ -14,7 +14,7 @@
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-27**|**360 in the Wild: Dataset for Depth Prediction and View Synthesis**|Kibaek Park, Francois Rameau, Jaesik Park, In So Kweon|[2406.18898v1](http://arxiv.org/abs/2406.18898v1)|null|
+|**2024-06-27**|**360 in the Wild: Dataset for Depth Prediction and View Synthesis**|Kibaek Park, Francois Rameau, Jaesik Park, In So Kweon|[2406.18898v2](http://arxiv.org/abs/2406.18898v2)|null|
 |**2024-06-26**|**View-Invariant Pixelwise Anomaly Detection in Multi-object Scenes with Adaptive View Synthesis**|Subin Varghese, Vedhus Hoskere|[2406.18012v1](http://arxiv.org/abs/2406.18012v1)|null|
 |**2024-04-20**|**High-fidelity Endoscopic Image Synthesis by Utilizing Depth-guided Neural Surfaces**|Baoru Huang, Yida Wang, Anh Nguyen, Daniel Elson, Francisco Vasconcelos, Danail Stoyanov|[2404.13437v1](http://arxiv.org/abs/2404.13437v1)|null|
 |**2024-04-16**|**SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments**|Niklas Gard, Anna Hilsmann, Peter Eisert|[2404.10527v1](http://arxiv.org/abs/2404.10527v1)|**[link](https://github.com/fraunhoferhhi/spvloc)**|
@@ -107,10 +107,10 @@
 |---|---|---|---|---|
 |**2024-07-02**|**Parametric Modeling and Estimation of Photon Registrations for 3D Imaging**|Weijian Zhang, Hashan K. Weerasooriya, Prateek Chennuri, Stanley H. Chan|[2407.02712v1](http://arxiv.org/abs/2407.02712v1)|null|
 |**2024-07-02**|**Depth-Aware Endoscopic Video Inpainting**|Francis Xiatian Zhang, Shuang Chen, Xianghua Xie, Hubert P. H. Shum|[2407.02675v1](http://arxiv.org/abs/2407.02675v1)|**[link](https://github.com/FrancisXZhang/DAEVI)**|
-|**2024-07-02**|**Camera-LiDAR Cross-modality Gait Recognition**|Wenxuan Guo, Yingping Liang, Zhiyu Pan, Ziheng Xi, Jianjiang Feng, Jie Zhou|[2407.02038v2](http://arxiv.org/abs/2407.02038v2)|null|
+|**2024-07-02**|**Camera-LiDAR Cross-modality Gait Recognition**|Wenxuan Guo, Yingping Liang, Zhiyu Pan, Ziheng Xi, Jianjiang Feng, Jie Zhou|[2407.02038v3](http://arxiv.org/abs/2407.02038v3)|null|
 |**2024-06-30**|**CaFNet: A Confidence-Driven Framework for Radar Camera Depth Estimation**|Huawei Sun, Hao Feng, Julius Ott, Lorenzo Servadei, Robert Wille|[2407.00697v1](http://arxiv.org/abs/2407.00697v1)|null|
 |**2024-06-28**|**Deep Learning-based Depth Estimation Methods from Monocular Image and Videos: A Comprehensive Survey**|Uchitha Rajapaksha, Ferdous Sohel, Hamid Laga, Dean Diepeveen, Mohammed Bennamoun|[2406.19675v1](http://arxiv.org/abs/2406.19675v1)|null|
-|**2024-06-27**|**360 in the Wild: Dataset for Depth Prediction and View Synthesis**|Kibaek Park, Francois Rameau, Jaesik Park, In So Kweon|[2406.18898v1](http://arxiv.org/abs/2406.18898v1)|null|
+|**2024-06-27**|**360 in the Wild: Dataset for Depth Prediction and View Synthesis**|Kibaek Park, Francois Rameau, Jaesik Park, In So Kweon|[2406.18898v2](http://arxiv.org/abs/2406.18898v2)|null|
 |**2024-06-27**|**Dense Monocular Motion Segmentation Using Optical Flow and Pseudo Depth Map: A Zero-Shot Approach**|Yuxiang Huang, Yuhao Chen, John Zelek|[2406.18837v1](http://arxiv.org/abs/2406.18837v1)|null|
 |**2024-06-26**|**DoubleTake: Geometry Guided Depth Estimation**|Mohamed Sayed, Filippo Aleotti, Jamie Watson, Zawar Qureshi, Guillermo Garcia-Hernando, Gabriel Brostow, Sara Vicente, Michael Firman|[2406.18387v1](http://arxiv.org/abs/2406.18387v1)|null|
 |**2024-06-25**|**Depth-Guided Semi-Supervised Instance Segmentation**|Xin Chen, Jie Hu, Xiawu Zheng, Jianghang Lin, Liujuan Cao, Rongrong Ji|[2406.17413v1](http://arxiv.org/abs/2406.17413v1)|null|
