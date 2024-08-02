@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-31**|**SuperVINS: A visual-inertial SLAM framework integrated deep learning features**|Hongkun Luo, Chi Guo, Yang Liu, Zengke Li|[2407.21348v1](http://arxiv.org/abs/2407.21348v1)|null|
 |**2024-07-30**|**NIS-SLAM: Neural Implicit Semantic RGB-D SLAM for 3D Consistent Scene Understanding**|Hongjia Zhai, Gan Huang, Qirui Hu, Guanglin Li, Hujun Bao, Guofeng Zhang|[2407.20853v1](http://arxiv.org/abs/2407.20853v1)|null|
 |**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco|[2407.20465v1](http://arxiv.org/abs/2407.20465v1)|null|
 |**2024-07-28**|**Solving Short-Term Relocalization Problems In Monocular Keyframe Visual SLAM Using Spatial And Semantic Data**|Azmyin Md. Kamal, Nenyi K. N. Dadson, Donovan Gegg, Corina Barbalata|[2407.19518v1](http://arxiv.org/abs/2407.19518v1)|**[link](https://github.com/RKinDLab/ros2_psd_pcb_reloc)**|
@@ -10,7 +11,6 @@
 |**2024-07-22**|**Memory Management for Real-Time Appearance-Based Loop Closure Detection**|Mathieu Labbé, François Michaud|[2407.15890v1](http://arxiv.org/abs/2407.15890v1)|null|
 |**2024-07-22**|**Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM**|Mathieu Labbe, François Michaud|[2407.15305v1](http://arxiv.org/abs/2407.15305v1)|null|
 |**2024-07-21**|**VoxDepth: Rectification of Depth Images on Edge Devices**|Yashashwee Chakrabarty, Smruti Ranjan Sarangi|[2407.15067v1](http://arxiv.org/abs/2407.15067v1)|null|
-|**2024-07-20**|**From Underground Mines to Offices: A Versatile and Robust Framework for Range-Inertial SLAM**|Lorenzo Montano-Oliván, Julio A. Placed, Luis Montano, María T. Lázaro|[2407.14797v1](http://arxiv.org/abs/2407.14797v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -105,6 +105,7 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-31**|**Unifying Event-based Flow, Stereo and Depth Estimation via Feature Similarity Matching**|Pengjie Zhang, Lin Zhu, Lizhi Wang, Hua Huang|[2407.21735v1](http://arxiv.org/abs/2407.21735v1)|null|
 |**2024-07-29**|**BaseBoostDepth: Exploiting Larger Baselines For Self-supervised Monocular Depth Estimation**|Kieran Saunders, Luis J. Manso, George Vogiatzis|[2407.20437v1](http://arxiv.org/abs/2407.20437v1)|null|
 |**2024-07-29**|**Analysis and Improvement of Rank-Ordered Mean Algorithm in Single-Photon LiDAR**|William C. Yau, Weijian Zhang, Hashan Kavinga Weerasooriya, Stanley H. Chan|[2407.20399v1](http://arxiv.org/abs/2407.20399v1)|null|
 |**2024-07-29**|**Improving 2D Feature Representations by 3D-Aware Fine-Tuning**|Yuanwen Yue, Anurag Das, Francis Engelmann, Siyu Tang, Jan Eric Lenssen|[2407.20229v1](http://arxiv.org/abs/2407.20229v1)|null|
@@ -114,7 +115,6 @@
 |**2024-07-25**|**Enhanced Depth Estimation and 3D Geometry Reconstruction using Bayesian Helmholtz Stereopsis with Belief Propagation**|Razieh Azizi, Hamidreza Amindavar, Hassan Aghaeinia|[2407.18195v2](http://arxiv.org/abs/2407.18195v2)|null|
 |**2024-07-25**|**BetterDepth: Plug-and-Play Diffusion Refiner for Zero-Shot Monocular Depth Estimation**|Xiang Zhang, Bingxin Ke, Hayko Riemenschneider, Nando Metzger, Anton Obukhov, Markus Gross, Konrad Schindler, Christopher Schroers|[2407.17952v1](http://arxiv.org/abs/2407.17952v1)|null|
 |**2024-07-25**|**UMono: Physical Model Informed Hybrid CNN-Transformer Framework for Underwater Monocular Depth Estimation**|Jian Wang, Jing Wang, Shenghui Rong, Bo He|[2407.17838v1](http://arxiv.org/abs/2407.17838v1)|null|
-|**2024-07-24**|**DarSwin-Unet: Distortion Aware Encoder-Decoder Architecture**|Akshaya Athwale, Ichrak Shili, Émile Bergeron, Ola Ahmad, Jean-François Lalonde|[2407.17328v1](http://arxiv.org/abs/2407.17328v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,16 +183,16 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-31**|**Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs**|Shi Liu, Kecheng Zheng, Wei Chen|[2407.21771v1](http://arxiv.org/abs/2407.21771v1)|null|
+|**2024-07-31**|**MTA-CLIP: Language-Guided Semantic Segmentation with Mask-Text Alignment**|Anurag Das, Xinting Hu, Li Jiang, Bernt Schiele|[2407.21654v1](http://arxiv.org/abs/2407.21654v1)|null|
+|**2024-07-31**|**Analyzing the impact of semantic LoD3 building models on image-based vehicle localization**|Antonia Bieringer, Olaf Wysocki, Sebastian Tuttas, Ludwig Hoegner, Christoph Holst|[2407.21432v1](http://arxiv.org/abs/2407.21432v1)|null|
+|**2024-07-31**|**Leveraging Adaptive Implicit Representation Mapping for Ultra High-Resolution Image Segmentation**|Ziyu Zhao, Xiaoguang Li, Pingping Cai, Canyu Zhang, Song Wang|[2407.21256v1](http://arxiv.org/abs/2407.21256v1)|null|
 |**2024-07-30**|**Image Re-Identification: Where Self-supervision Meets Vision-Language Learning**|Bin Wang, Yuying Liang, Lei Cai, Huakun Huang, Huanqiang Zeng|[2407.20647v1](http://arxiv.org/abs/2407.20647v1)|**[link](https://github.com/binwanggzhu/svll-reid)**|
 |**2024-07-30**|**High-Resolution Spatial Transcriptomics from Histology Images using HisToSGE**|Zhiceng Shi, Shuailin Xue, Fangfang Zhu, Wenwen Min|[2407.20518v1](http://arxiv.org/abs/2407.20518v1)|**[link](https://github.com/wenwenmin/histosge)**|
 |**2024-07-29**|**Contrasting Deepfakes Diffusion via Contrastive Learning and Global-Local Similarities**|Lorenzo Baraldi, Federico Cocchi, Marcella Cornia, Lorenzo Baraldi, Alessandro Nicolosi, Rita Cucchiara|[2407.20337v1](http://arxiv.org/abs/2407.20337v1)|**[link](https://github.com/aimagelab/code)**|
 |**2024-07-29**|**An Adaptive Image-denoising Method Based on Jump Regression and Local Clustering**|Subhasish Basak, Partha Sarathi Mukherjee|[2407.20210v1](http://arxiv.org/abs/2407.20210v1)|null|
 |**2024-07-29**|**FedDEO: Description-Enhanced One-Shot Federated Learning with Diffusion Models**|Mingzhao Yang, Shangchao Su, Bin Li, Xiangyang Xue|[2407.19953v1](http://arxiv.org/abs/2407.19953v1)|null|
 |**2024-07-28**|**XLIP: Cross-modal Attention Masked Modelling for Medical Language-Image Pre-Training**|Biao Wu, Yutong Xie, Zeyu Zhang, Minh Hieu Phan, Qi Chen, Ling Chen, Qi Wu|[2407.19546v1](http://arxiv.org/abs/2407.19546v1)|**[link](https://github.com/white65534/xlip)**|
-|**2024-07-28**|**Large-scale cervical precancerous screening via AI-assisted cytology whole slide image analysis**|Honglin Li, Yusuan Sun, Chenglu Zhu, Yunlong Zhang, Shichuan Zhang, Zhongyi Shui, Pingyi Chen, Jingxiong Li, Sunyi Zheng, Can Cui, Lin Yang|[2407.19512v1](http://arxiv.org/abs/2407.19512v1)|null|
-|**2024-07-27**|**AResNet-ViT: A Hybrid CNN-Transformer Network for Benign and Malignant Breast Nodule Classification in Ultrasound Images**|Xin Zhao, Qianqian Zhu, Jialing Wu|[2407.19316v1](http://arxiv.org/abs/2407.19316v1)|null|
-|**2024-07-26**|**Boosting Cross-Domain Point Classification via Distilling Relational Priors from 2D Transformers**|Longkun Zou, Wanru Zhu, Ke Chen, Lihua Guo, Kailing Guo, Kui Jia, Yaowei Wang|[2407.18534v1](http://arxiv.org/abs/2407.18534v1)|**[link](https://github.com/zou-longkun/rpd)**|
-|**2024-07-25**|**Move and Act: Enhanced Object Manipulation and Background Integrity for Image Editing**|Pengfei Jiang, Mingbao Lin, Fei Chao, Rongrong Ji|[2407.17847v1](http://arxiv.org/abs/2407.17847v1)|**[link](https://github.com/mobiushy/move-act)**|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
