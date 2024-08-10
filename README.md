@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Evaluating Modern Approaches in 3D Scene Reconstruction: NeRF vs Gaussian-Based Methods**|Yiming Zhou, Zixuan Zeng, Andi Chen, Xiaofan Zhou, Haowei Ni, Shiyao Zhang, Panfeng Li, Liangxi Liu, Mengyao Zheng, Xupeng Chen|[2408.04268v1](http://arxiv.org/abs/2408.04268v1)|null|
 |**2024-08-07**|**Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM**|Yan Song Hu, Dayou Mao, Yuhao Chen, John Zelek|[2408.03825v1](http://arxiv.org/abs/2408.03825v1)|null|
 |**2024-08-07**|**AirSLAM: An Efficient and Illumination-Robust Point-Line Visual SLAM System**|Kuan Xu, Yuefan Hao, Shenghai Yuan, Chen Wang, Lihua Xie|[2408.03520v1](http://arxiv.org/abs/2408.03520v1)|null|
 |**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni, C. Lauretti, F. Prata, R. Papalia, L. Zollo, P. Soda|[2408.03078v1](http://arxiv.org/abs/2408.03078v1)|**[link](https://github.com/GuidoManni/BodySLAM)**|
@@ -10,7 +11,6 @@
 |**2024-08-02**|**Momentum Capture and Prediction System Based on Wimbledon Open2023 Tournament Data**|Chang Liu, Tongyuan Yang, Yan Zhao|[2408.01544v1](http://arxiv.org/abs/2408.01544v1)|null|
 |**2024-08-02**|**IG-SLAM: Instant Gaussian SLAM**|F. Aykut Sarikamis, A. Aydin Alatan|[2408.01126v2](http://arxiv.org/abs/2408.01126v2)|null|
 |**2024-08-01**|**Collecting Larg-Scale Robotic Datasets on a High-Speed Mobile Platform**|Yuxin Lin, Jiaxuan Ma, Sizhe Gu, Jipeng Kong, Bowen Xu, Xiting Zhao, Dengji Zhao, Wenhan Cao, Sören Schwertfeger|[2408.00545v1](http://arxiv.org/abs/2408.00545v1)|null|
-|**2024-08-01**|**High-Quality, ROS Compatible Video Encoding and Decoding for High-Definition Datasets**|Jian Li, Bowen Xu, Sören Schwertfeger|[2408.00538v1](http://arxiv.org/abs/2408.00538v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,7 +92,9 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery**|Mengya Xu, Ziqi Guo, An Wang, Long Bai, Hongliang Ren|[2408.04426v1](http://arxiv.org/abs/2408.04426v1)|**[link](https://github.com/epsilon404/surgicalnerf)**|
 |**2024-08-07**|**Opening the Black Box of 3D Reconstruction Error Analysis with VECTOR**|Racquel Fygenson, Kazi Jawad, Isabel Li, Francois Ayoub, Robert G. Deen, Scott Davidoff, Dominik Moritz, Mauricio Hess-Flores|[2408.03503v1](http://arxiv.org/abs/2408.03503v1)|**[link](https://github.com/NASA-AMMOS/VECTOR)**|
+|**2024-08-06**|**LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting**|Joanna Kaleta, Kacper Kania, Tomasz Trzcinski, Marek Kowalski|[2408.04474v1](http://arxiv.org/abs/2408.04474v1)|null|
 |**2024-08-06**|**Efficient NeRF Optimization -- Not All Samples Remain Equally Hard**|Juuso Korhonen, Goutham Rangu, Hamed R. Tavakoli, Juho Kannala|[2408.03193v1](http://arxiv.org/abs/2408.03193v1)|null|
 |**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni, C. Lauretti, F. Prata, R. Papalia, L. Zollo, P. Soda|[2408.03078v1](http://arxiv.org/abs/2408.03078v1)|**[link](https://github.com/GuidoManni/BodySLAM)**|
 |**2024-08-06**|**VirtualNexus: Enhancing 360-Degree Video AR/VR Collaboration with Environment Cutouts and Virtual Replicas**|Xincheng Huang, Michael Yin, Ziyi Xia, Robert Xiao|[2408.02914v1](http://arxiv.org/abs/2408.02914v1)|null|
@@ -100,11 +102,12 @@
 |**2024-08-02**|**Enhanced Knee Kinematics: Leveraging Deep Learning and Morphing Algorithms for 3D Implant Modeling**|Viet-Dung Nguyen, Michael T. LaCour, Richard D. Komistek|[2408.01557v1](http://arxiv.org/abs/2408.01557v1)|null|
 |**2024-08-02**|**IG-SLAM: Instant Gaussian SLAM**|F. Aykut Sarikamis, A. Aydin Alatan|[2408.01126v2](http://arxiv.org/abs/2408.01126v2)|null|
 |**2024-08-02**|**Structure from Motion-based Motion Estimation and 3D Reconstruction of Unknown Shaped Space Debris**|Kentaro Uno, Takehiro Matsuoka, Akiyoshi Uchida, Kazuya Yoshida|[2408.01035v1](http://arxiv.org/abs/2408.01035v1)|null|
-|**2024-08-01**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo, Zi Fang, Zhuang Fu|[2408.00860v2](http://arxiv.org/abs/2408.00860v2)|null|
-|**2024-07-29**|**X-ray nano-holotomography reconstruction with simultaneous probe retrieval**|Viktor Nikitin, Marcus Carlsson, Doga Gursoy, Rajmund Mokso, Peter Cloetens|[2407.20304v1](http://arxiv.org/abs/2407.20304v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Depth Any Canopy: Leveraging Depth Foundation Models for Canopy Height Estimation**|Daniele Rege Cambrin, Isaac Corley, Paolo Garza|[2408.04523v1](http://arxiv.org/abs/2408.04523v1)|null|
+|**2024-08-08**|**Detecting Car Speed using Object Detection and Depth Estimation: A Deep Learning Framework**|Subhasis Dasgupta, Arshi Naaz, Jayeeta Choudhury, Nancy Lahiri|[2408.04360v1](http://arxiv.org/abs/2408.04360v1)|null|
+|**2024-08-08**|**Design and Implementation of Smart Infrastructures and Connected Vehicles in A Mini-city Platform**|Daniel Vargas, Ethan Haque, Matthew Carroll, Daniel Perez, Tyler Roman, Phong Nguyen, Golnaz Habibi|[2408.04195v1](http://arxiv.org/abs/2408.04195v1)|null|
 |**2024-08-07**|**Focal Depth Estimation: A Calibration-Free, Subject- and Daytime Invariant Approach**|Benedikt W. Hosp, Björn Severitt, Rajat Agarwala, Evgenia Rusak, Yannick Sauer, Siegfried Wahl|[2408.03591v1](http://arxiv.org/abs/2408.03591v1)|null|
 |**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni, C. Lauretti, F. Prata, R. Papalia, L. Zollo, P. Soda|[2408.03078v1](http://arxiv.org/abs/2408.03078v1)|**[link](https://github.com/GuidoManni/BodySLAM)**|
 |**2024-08-05**|**Gaussian Mixture based Evidential Learning for Stereo Matching**|Weide Liu, Xingxing Wang, Lu Wang, Jun Cheng, Fayao Liu, Xulei Yang|[2408.02796v1](http://arxiv.org/abs/2408.02796v1)|null|
@@ -112,9 +115,6 @@
 |**2024-08-03**|**MCPDepth: Omnidirectional Depth Estimation via Stereo Matching from Multi-Cylindrical Panoramas**|Feng Qiao, Zhexiao Xiong, Xinge Zhu, Yuexin Ma, Qiumeng He, Nathan Jacobs|[2408.01653v1](http://arxiv.org/abs/2408.01653v1)|null|
 |**2024-08-02**|**Self-Supervised Depth Estimation Based on Camera Models**|Jinchang Zhang, Praveen Kumar Reddy, Xue-Iuan Wong, Guoyu Lu|[2408.01565v1](http://arxiv.org/abs/2408.01565v1)|null|
 |**2024-08-01**|**MonoMM: A Multi-scale Mamba-Enhanced Network for Real-time Monocular 3D Object Detection**|Youjia Fu, Zihao Xu, Junsong Fu, Huixia Xue, Shuqiu Tan, Lei Li|[2408.00438v1](http://arxiv.org/abs/2408.00438v1)|null|
-|**2024-08-01**|**High-Precision Self-Supervised Monocular Depth Estimation with Rich-Resource Prior**|Wencheng Han, Jianbing Shen|[2408.00361v1](http://arxiv.org/abs/2408.00361v1)|null|
-|**2024-07-31**|**Unifying Event-based Flow, Stereo and Depth Estimation via Feature Similarity Matching**|Pengjie Zhang, Lin Zhu, Lizhi Wang, Hua Huang|[2407.21735v1](http://arxiv.org/abs/2407.21735v1)|null|
-|**2024-07-29**|**BaseBoostDepth: Exploiting Larger Baselines For Self-supervised Monocular Depth Estimation**|Kieran Saunders, Luis J. Manso, George Vogiatzis|[2407.20437v1](http://arxiv.org/abs/2407.20437v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,8 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Quantifying the Impact of Population Shift Across Age and Sex for Abdominal Organ Segmentation**|Kate Čevora, Ben Glocker, Wenjia Bai|[2408.04610v1](http://arxiv.org/abs/2408.04610v1)|null|
+|**2024-08-08**|**ComKD-CLIP: Comprehensive Knowledge Distillation for Contrastive Language-Image Pre-traning Model**|Yifan Chen, Xiaozhen Qiao, Zhe Sun, Xuelong Li|[2408.04145v1](http://arxiv.org/abs/2408.04145v1)|null|
 |**2024-08-07**|**Counterfactuals and Uncertainty-Based Explainable Paradigm for the Automated Detection and Segmentation of Renal Cysts in Computed Tomography Images: A Multi-Center Study**|Zohaib Salahuddin, Abdalla Ibrahim, Sheng Kuang, Yousif Widaatalla, Razvan L. Miclea, Oliver Morin, Spencer Behr, Marnix P. M. Kop, Tom Marcelissen, Patricia Zondervan, Auke Jager, Philippe Lambin, Henry C Woodruff|[2408.03789v1](http://arxiv.org/abs/2408.03789v1)|null|
 |**2024-08-05**|**Explain via Any Concept: Concept Bottleneck Model with Open Vocabulary Concepts**|Andong Tan, Fengtao Zhou, Hao Chen|[2408.02265v1](http://arxiv.org/abs/2408.02265v1)|null|
 |**2024-08-04**|**Unsupervised Representation Learning by Balanced Self Attention Matching**|Daniel Shalam, Simon Korman|[2408.02014v1](http://arxiv.org/abs/2408.02014v1)|null|
@@ -191,8 +193,6 @@
 |**2024-07-31**|**MTA-CLIP: Language-Guided Semantic Segmentation with Mask-Text Alignment**|Anurag Das, Xinting Hu, Li Jiang, Bernt Schiele|[2407.21654v1](http://arxiv.org/abs/2407.21654v1)|null|
 |**2024-07-31**|**Analyzing the impact of semantic LoD3 building models on image-based vehicle localization**|Antonia Bieringer, Olaf Wysocki, Sebastian Tuttas, Ludwig Hoegner, Christoph Holst|[2407.21432v1](http://arxiv.org/abs/2407.21432v1)|null|
 |**2024-07-31**|**Leveraging Adaptive Implicit Representation Mapping for Ultra High-Resolution Image Segmentation**|Ziyu Zhao, Xiaoguang Li, Pingping Cai, Canyu Zhang, Song Wang|[2407.21256v1](http://arxiv.org/abs/2407.21256v1)|null|
-|**2024-07-30**|**Image Re-Identification: Where Self-supervision Meets Vision-Language Learning**|Bin Wang, Yuying Liang, Lei Cai, Huakun Huang, Huanqiang Zeng|[2407.20647v1](http://arxiv.org/abs/2407.20647v1)|**[link](https://github.com/binwanggzhu/svll-reid)**|
-|**2024-07-30**|**High-Resolution Spatial Transcriptomics from Histology Images using HisToSGE**|Zhiceng Shi, Shuailin Xue, Fangfang Zhu, Wenwen Min|[2407.20518v1](http://arxiv.org/abs/2407.20518v1)|**[link](https://github.com/wenwenmin/histosge)**|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
