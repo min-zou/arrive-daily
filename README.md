@@ -92,16 +92,16 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-09**|**Self-augmented Gaussian Splatting with Structure-aware Masks for Sparse-view 3D Reconstruction**|Lingbei Meng, Bi'an Du, Wei Hu|[2408.04831v1](http://arxiv.org/abs/2408.04831v1)|null|
 |**2024-08-08**|**A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery**|Mengya Xu, Ziqi Guo, An Wang, Long Bai, Hongliang Ren|[2408.04426v1](http://arxiv.org/abs/2408.04426v1)|**[link](https://github.com/epsilon404/surgicalnerf)**|
 |**2024-08-07**|**Opening the Black Box of 3D Reconstruction Error Analysis with VECTOR**|Racquel Fygenson, Kazi Jawad, Isabel Li, Francois Ayoub, Robert G. Deen, Scott Davidoff, Dominik Moritz, Mauricio Hess-Flores|[2408.03503v1](http://arxiv.org/abs/2408.03503v1)|**[link](https://github.com/NASA-AMMOS/VECTOR)**|
-|**2024-08-06**|**LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting**|Joanna Kaleta, Kacper Kania, Tomasz Trzcinski, Marek Kowalski|[2408.04474v1](http://arxiv.org/abs/2408.04474v1)|null|
+|**2024-08-06**|**LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting**|Joanna Kaleta, Kacper Kania, Tomasz Trzcinski, Marek Kowalski|[2408.04474v1](http://arxiv.org/abs/2408.04474v1)|**[link](https://github.com/joaxkal/lumigauss)**|
 |**2024-08-06**|**Efficient NeRF Optimization -- Not All Samples Remain Equally Hard**|Juuso Korhonen, Goutham Rangu, Hamed R. Tavakoli, Juho Kannala|[2408.03193v1](http://arxiv.org/abs/2408.03193v1)|null|
 |**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni, C. Lauretti, F. Prata, R. Papalia, L. Zollo, P. Soda|[2408.03078v1](http://arxiv.org/abs/2408.03078v1)|**[link](https://github.com/GuidoManni/BodySLAM)**|
 |**2024-08-06**|**VirtualNexus: Enhancing 360-Degree Video AR/VR Collaboration with Environment Cutouts and Virtual Replicas**|Xincheng Huang, Michael Yin, Ziyi Xia, Robert Xiao|[2408.02914v1](http://arxiv.org/abs/2408.02914v1)|null|
 |**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang, Xuqi Lu, Pengyao Xie, Ziyue Guo, Hui Fang, Haowei Fu, Xiaochun Hu, Zhenbiao Sun, Haiyan Cen|[2408.02053v1](http://arxiv.org/abs/2408.02053v1)|null|
 |**2024-08-02**|**Enhanced Knee Kinematics: Leveraging Deep Learning and Morphing Algorithms for 3D Implant Modeling**|Viet-Dung Nguyen, Michael T. LaCour, Richard D. Komistek|[2408.01557v1](http://arxiv.org/abs/2408.01557v1)|null|
 |**2024-08-02**|**IG-SLAM: Instant Gaussian SLAM**|F. Aykut Sarikamis, A. Aydin Alatan|[2408.01126v2](http://arxiv.org/abs/2408.01126v2)|null|
-|**2024-08-02**|**Structure from Motion-based Motion Estimation and 3D Reconstruction of Unknown Shaped Space Debris**|Kentaro Uno, Takehiro Matsuoka, Akiyoshi Uchida, Kazuya Yoshida|[2408.01035v1](http://arxiv.org/abs/2408.01035v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-09**|**Mesh-based Object Tracking for Dynamic Semantic 3D Scene Graphs via Ray Tracing**|Lennart Niecksch, Alexander Mock, Felix Igelbrink, Thomas Wiemann, Joachim Hertzberg|[2408.04979v1](http://arxiv.org/abs/2408.04979v1)|null|
 |**2024-08-06**|**Quantum Imaging Using Spatially Entangled Photon Pairs from a Nonlinear Metasurface**|Jinyong Ma, Jinliang Ren, Jihua Zhang, Jiajun Meng, Caitlin McManus-Barrett, Kenneth B. Crozier, Andrey A. Sukhorukov|[2408.02903v1](http://arxiv.org/abs/2408.02903v1)|null|
 |**2024-08-05**|**VoxelTrack: Exploring Voxel Representation for 3D Point Cloud Object Tracking**|Yuxuan Lu, Jiahao Nie, Zhiwei He, Hongjie Gu, Xudong Lv|[2408.02263v1](http://arxiv.org/abs/2408.02263v1)|null|
 |**2024-08-04**|**3D Single-object Tracking in Point Clouds with High Temporal Variation**|Qiao Wu, Kun Sun, Pei An, Mathieu Salzmann, Yanning Zhang, Jiaqi Yang|[2408.02049v1](http://arxiv.org/abs/2408.02049v1)|null|
@@ -140,7 +141,6 @@
 |**2024-08-01**|**A Batch Update Using Multiplicative Noise Modelling for Extended Object Tracking**|Christian Gramsch, Shishan Yang, Hosam Alqaderi|[2408.00417v1](http://arxiv.org/abs/2408.00417v1)|null|
 |**2024-07-30**|**SharkTrack: an accurate, generalisable software for streamlining shark and ray underwater video analysis**|Filippo Varini, Francesco Ferretti, Jeremy Jenrette, Joel H. Gayford, Mark E. Bond, Matthew J. Witt, Michael R. Heithaus, Sophie Wilday, Ben Glocker|[2407.20623v1](http://arxiv.org/abs/2407.20623v1)|null|
 |**2024-07-29**|**MEVDT: Multi-Modal Event-Based Vehicle Detection and Tracking Dataset**|Zaid A. El Shair, Samir A. Rawashdeh|[2407.20446v1](http://arxiv.org/abs/2407.20446v1)|null|
-|**2024-07-28**|**Progressive Domain Adaptation for Thermal Infrared Object Tracking**|Qiao Li, Kanlun Tan, Qiao Liu, Di Yuan, Xin Li, Yunpeng Liu|[2407.19430v1](http://arxiv.org/abs/2407.19430v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-09**|**DAFT-GAN: Dual Affine Transformation Generative Adversarial Network for Text-Guided Image Inpainting**|Jihoon Lee, Yunhong Min, Hwidong Kim, Sangtae Ahn|[2408.04962v1](http://arxiv.org/abs/2408.04962v1)|null|
 |**2024-08-08**|**Quantifying the Impact of Population Shift Across Age and Sex for Abdominal Organ Segmentation**|Kate Čevora, Ben Glocker, Wenjia Bai|[2408.04610v1](http://arxiv.org/abs/2408.04610v1)|null|
 |**2024-08-08**|**ComKD-CLIP: Comprehensive Knowledge Distillation for Contrastive Language-Image Pre-traning Model**|Yifan Chen, Xiaozhen Qiao, Zhe Sun, Xuelong Li|[2408.04145v1](http://arxiv.org/abs/2408.04145v1)|null|
 |**2024-08-07**|**Counterfactuals and Uncertainty-Based Explainable Paradigm for the Automated Detection and Segmentation of Renal Cysts in Computed Tomography Images: A Multi-Center Study**|Zohaib Salahuddin, Abdalla Ibrahim, Sheng Kuang, Yousif Widaatalla, Razvan L. Miclea, Oliver Morin, Spencer Behr, Marnix P. M. Kop, Tom Marcelissen, Patricia Zondervan, Auke Jager, Philippe Lambin, Henry C Woodruff|[2408.03789v1](http://arxiv.org/abs/2408.03789v1)|null|
@@ -192,7 +193,6 @@
 |**2024-07-31**|**Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs**|Shi Liu, Kecheng Zheng, Wei Chen|[2407.21771v1](http://arxiv.org/abs/2407.21771v1)|null|
 |**2024-07-31**|**MTA-CLIP: Language-Guided Semantic Segmentation with Mask-Text Alignment**|Anurag Das, Xinting Hu, Li Jiang, Bernt Schiele|[2407.21654v1](http://arxiv.org/abs/2407.21654v1)|null|
 |**2024-07-31**|**Analyzing the impact of semantic LoD3 building models on image-based vehicle localization**|Antonia Bieringer, Olaf Wysocki, Sebastian Tuttas, Ludwig Hoegner, Christoph Holst|[2407.21432v1](http://arxiv.org/abs/2407.21432v1)|null|
-|**2024-07-31**|**Leveraging Adaptive Implicit Representation Mapping for Ultra High-Resolution Image Segmentation**|Ziyu Zhao, Xiaoguang Li, Pingping Cai, Canyu Zhang, Song Wang|[2407.21256v1](http://arxiv.org/abs/2407.21256v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
