@@ -19,7 +19,7 @@
 |**2024-06-26**|**View-Invariant Pixelwise Anomaly Detection in Multi-object Scenes with Adaptive View Synthesis**|Subin Varghese, Vedhus Hoskere|[2406.18012v1](http://arxiv.org/abs/2406.18012v1)|null|
 |**2024-04-20**|**High-fidelity Endoscopic Image Synthesis by Utilizing Depth-guided Neural Surfaces**|Baoru Huang, Yida Wang, Anh Nguyen, Daniel Elson, Francisco Vasconcelos, Danail Stoyanov|[2404.13437v1](http://arxiv.org/abs/2404.13437v1)|null|
 |**2024-04-16**|**SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments**|Niklas Gard, Anna Hilsmann, Peter Eisert|[2404.10527v2](http://arxiv.org/abs/2404.10527v2)|**[link](https://github.com/fraunhoferhhi/spvloc)**|
-|**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han, Lukas Lao Beyer, Guilherme V. Cavalheiro, Sertac Karaman|[2404.01400v1](http://arxiv.org/abs/2404.01400v1)|null|
+|**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han, Lukas Lao Beyer, Guilherme V. Cavalheiro, Sertac Karaman|[2404.01400v2](http://arxiv.org/abs/2404.01400v2)|null|
 |**2024-03-19**|**Learning Neural Volumetric Pose Features for Camera Localization**|Jingyu Lin, Jiaqi Gu, Bojian Wu, Lubin Fan, Renjie Chen, Ligang Liu, Jieping Ye|[2403.12800v4](http://arxiv.org/abs/2403.12800v4)|null|
 |**2024-02-09**|**PAS-SLAM: A Visual SLAM System for Planar Ambiguous Scenes**|Xinggang Hu, Yanmin Wu, Mingyuan Zhao, Linghao Yang, Xiangkui Zhang, Xiangyang Ji|[2402.06131v1](http://arxiv.org/abs/2402.06131v1)|null|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do, Sudipta N. Sinha|[2401.18083v1](http://arxiv.org/abs/2401.18083v1)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
@@ -66,6 +66,7 @@
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**Correspondence-Guided SfM-Free 3D Gaussian Splatting for NVS**|Wei Sun, Xiaosong Zhang, Fang Wan, Yanzhao Zhou, Yuan Li, Qixiang Ye, Jianbin Jiao|[2408.08723v1](http://arxiv.org/abs/2408.08723v1)|null|
 |**2024-08-05**|**Context-aware Mamba-based Reinforcement Learning for social robot navigation**|Syed Muhammad Mustafa, Omema Rizvi, Zain Ahmed Usmani, Abdul Basit Memon|[2408.02661v1](http://arxiv.org/abs/2408.02661v1)|null|
 |**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang, Xuqi Lu, Pengyao Xie, Ziyue Guo, Hui Fang, Haowei Fu, Xiaochun Hu, Zhenbiao Sun, Haiyan Cen|[2408.02053v1](http://arxiv.org/abs/2408.02053v1)|null|
 |**2024-07-29**|**Global Structure-from-Motion Revisited**|Linfei Pan, Dániel Baráth, Marc Pollefeys, Johannes L. Schönberger|[2407.20219v1](http://arxiv.org/abs/2407.20219v1)|**[link](https://github.com/colmap/glomap)**|
@@ -75,11 +76,11 @@
 |**2024-07-16**|**NeuSurfEmb: A Complete Pipeline for Dense Correspondence-based 6D Object Pose Estimation without CAD Models**|Francesco Milano, Jen Jen Chung, Hermann Blum, Roland Siegwart, Lionel Ott|[2407.12207v1](http://arxiv.org/abs/2407.12207v1)|**[link](https://github.com/ethz-asl/neusurfemb)**|
 |**2024-07-15**|**LVCP: LiDAR-Vision Tightly Coupled Collaborative Real-time Relative Positioning**|Zhuozhu Jian, Qixuan Li, Shengtao Zheng, Xueqian Wang, Xinlei Chen|[2407.10782v1](http://arxiv.org/abs/2407.10782v1)|null|
 |**2024-07-15**|**Towards Scale-Aware Full Surround Monodepth with Transformers**|Yuchen Yang, Xinyi Wang, Dong Li, Lu Tian, Ashish Sirasao, Xun Yang|[2407.10406v1](http://arxiv.org/abs/2407.10406v1)|null|
-|**2024-07-14**|**3DEgo: 3D Editing on the Go!**|Umar Khalid, Hasan Iqbal, Azib Farooq, Jing Hua, Chen Chen|[2407.10102v1](http://arxiv.org/abs/2407.10102v1)|null|
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-15**|**CorrAdaptor: Adaptive Local Context Learning for Correspondence Pruning**|Wei Zhu, Yicheng Liu, Yuping He, Tangfei Liao, Kang Zheng, Xiaoqiu Xu, Tao Wang, Tong Lu|[2408.08134v1](http://arxiv.org/abs/2408.08134v1)|null|
+|**2024-08-16**|**Correspondence-Guided SfM-Free 3D Gaussian Splatting for NVS**|Wei Sun, Xiaosong Zhang, Fang Wan, Yanzhao Zhou, Yuan Li, Qixiang Ye, Jianbin Jiao|[2408.08723v1](http://arxiv.org/abs/2408.08723v1)|null|
+|**2024-08-15**|**CorrAdaptor: Adaptive Local Context Learning for Correspondence Pruning**|Wei Zhu, Yicheng Liu, Yuping He, Tangfei Liao, Kang Zheng, Xiaoqiu Xu, Tao Wang, Tong Lu|[2408.08134v1](http://arxiv.org/abs/2408.08134v1)|**[link](https://github.com/TaoWangzj/CorrAdaptor)**|
 |**2024-08-13**|**A Miniature Vision-Based Localization System for Indoor Blimps**|Shicong Ma|[2408.06648v1](http://arxiv.org/abs/2408.06648v1)|null|
 |**2024-08-07**|**Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM**|Yan Song Hu, Dayou Mao, Yuhao Chen, John Zelek|[2408.03825v1](http://arxiv.org/abs/2408.03825v1)|null|
 |**2024-08-04**|**Birational geometry of critical loci in Algebraic Vision**|Marina Bertolini, Roberto Notari, Cristina Turrini|[2408.02067v1](http://arxiv.org/abs/2408.02067v1)|null|
@@ -88,7 +89,6 @@
 |**2024-08-01**|**LoopSparseGS: Loop Based Sparse-View Friendly Gaussian Splatting**|Zhenyu Bao, Guibiao Liao, Kaichen Zhou, Kanglin Liu, Qing Li, Guoping Qiu|[2408.00254v1](http://arxiv.org/abs/2408.00254v1)|null|
 |**2024-07-29**|**Global Structure-from-Motion Revisited**|Linfei Pan, Dániel Baráth, Marc Pollefeys, Johannes L. Schönberger|[2407.20219v1](http://arxiv.org/abs/2407.20219v1)|**[link](https://github.com/colmap/glomap)**|
 |**2024-07-27**|**Revisit Self-supervised Depth Estimation with Local Structure-from-Motion**|Shengjie Zhu, Xiaoming Liu|[2407.19166v2](http://arxiv.org/abs/2407.19166v2)|null|
-|**2024-07-16**|**NeuSurfEmb: A Complete Pipeline for Dense Correspondence-based 6D Object Pose Estimation without CAD Models**|Francesco Milano, Jen Jen Chung, Hermann Blum, Roland Siegwart, Lionel Ott|[2407.12207v1](http://arxiv.org/abs/2407.12207v1)|**[link](https://github.com/ethz-asl/neusurfemb)**|
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Pre-processing and Compression: Understanding Hidden Representation Refinement Across Imaging Domains via Intrinsic Dimension**|Nicholas Konz, Maciej A. Mazurowski|[2408.08381v1](http://arxiv.org/abs/2408.08381v1)|null|
 |**2024-08-15**|**HeightLane: BEV Heightmap guided 3D Lane Detection**|Chaesong Park, Eunbin Seo, Jongwoo Lim|[2408.08270v1](http://arxiv.org/abs/2408.08270v1)|null|
 |**2024-08-15**|**Persistence Image from 3D Medical Image: Superpixel and Optimized Gaussian Coefficient**|Yanfan Zhu, Yash Singh, Khaled Younis, Shunxing Bao, Yuankai Huo|[2408.07905v1](http://arxiv.org/abs/2408.07905v1)|**[link](https://github.com/hrlblab/topologicaldataanalysis3d)**|
 |**2024-08-13**|**Integrating Saliency Ranking and Reinforcement Learning for Enhanced Object Detection**|Matthias Bartolo, Dylan Seychell, Josef Bajada|[2408.06803v1](http://arxiv.org/abs/2408.06803v1)|**[link](https://github.com/mbar0075/sarlvision)**|
@@ -192,7 +193,6 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong, Junfan Lin, Peixin Chen, Liang Lin, Guanbin Li|[2408.05416v1](http://arxiv.org/abs/2408.05416v1)|null|
 |**2024-08-09**|**DAFT-GAN: Dual Affine Transformation Generative Adversarial Network for Text-Guided Image Inpainting**|Jihoon Lee, Yunhong Min, Hwidong Kim, Sangtae Ahn|[2408.04962v1](http://arxiv.org/abs/2408.04962v1)|null|
 |**2024-08-08**|**Quantifying the Impact of Population Shift Across Age and Sex for Abdominal Organ Segmentation**|Kate Čevora, Ben Glocker, Wenjia Bai|[2408.04610v1](http://arxiv.org/abs/2408.04610v1)|null|
-|**2024-08-08**|**ComKD-CLIP: Comprehensive Knowledge Distillation for Contrastive Language-Image Pre-traning Model**|Yifan Chen, Xiaozhen Qiao, Zhe Sun, Xuelong Li|[2408.04145v2](http://arxiv.org/abs/2408.04145v2)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
