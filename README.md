@@ -93,7 +93,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-22**|**Subsurface Scattering for 3D Gaussian Splatting**|Jan-Niklas Dihlmann, Arjun Majumdar, Andreas Engelhardt, Raphael Braun, Hendrik P. A. Lensch|[2408.12282v1](http://arxiv.org/abs/2408.12282v1)|null|
-|**2024-08-22**|**Transientangelo: Few-Viewpoint Surface Reconstruction Using Single-Photon Lidar**|Weihan Luo, Anagh Malik, David B. Lindell|[2408.12191v1](http://arxiv.org/abs/2408.12191v1)|null|
+|**2024-08-22**|**Transientangelo: Few-Viewpoint Surface Reconstruction Using Single-Photon Lidar**|Weihan Luo, Anagh Malik, David B. Lindell|[2408.12191v2](http://arxiv.org/abs/2408.12191v2)|null|
 |**2024-08-21**|**DeRainGS: Gaussian Splatting for Enhanced Scene Reconstruction in Rainy Environments**|Shuhong Liu, Xiang Chen, Hongming Chen, Quanfeng Xu, Mingrui Li|[2408.11540v2](http://arxiv.org/abs/2408.11540v2)|null|
 |**2024-08-21**|**MeTTA: Single-View to 3D Textured Mesh Reconstruction with Test-Time Adaptation**|Kim Yu-Ji, Hyunwoo Ha, Kim Youwang, Jaeheung Surh, Hyowon Ha, Tae-Hyun Oh|[2408.11465v1](http://arxiv.org/abs/2408.11465v1)|null|
 |**2024-08-20**|**Learning Part-aware 3D Representations by Fusing 2D Gaussians and Superquadrics**|Zhirui Gao, Renjiao Yi, Yuhang Huang, Wei Chen, Chenyang Zhu, Kai Xu|[2408.10789v1](http://arxiv.org/abs/2408.10789v1)|null|
@@ -216,6 +216,6 @@
 |**2024-06-07**|**SMART: Scene-motion-aware human action recognition framework for mental disorder group**|Zengyuan Lai, Jiarui Yang, Songpengcheng Xia, Qi Wu, Zhen Sun, Wenxian Yu, Ling Pei|[2406.04649v1](http://arxiv.org/abs/2406.04649v1)|**[link](https://github.com/inowlzy/smart)**|
 |**2024-06-06**|**Gear-NeRF: Free-Viewpoint Rendering and Tracking with Motion-aware Spatio-Temporal Sampling**|Xinhang Liu, Yu-Wing Tai, Chi-Keung Tang, Pedro Miraldo, Suhas Lohit, Moitreya Chatterjee|[2406.03723v1](http://arxiv.org/abs/2406.03723v1)|null|
 |**2024-05-31**|**MASA: Motion-aware Masked Autoencoder with Semantic Alignment for Sign Language Recognition**|Weichao Zhao, Hezhen Hu, Wengang Zhou, Yunyao Mao, Min Wang, Houqiang Li|[2405.20666v1](http://arxiv.org/abs/2405.20666v1)|**[link](https://github.com/sakura2233565548/masa)**|
-|**2024-05-30**|**EMAG: Ego-motion Aware and Generalizable 2D Hand Forecasting from Egocentric Videos**|Masashi Hatano, Ryo Hachiuma, Hideo Saito|[2405.20030v1](http://arxiv.org/abs/2405.20030v1)|null|
+|**2024-05-30**|**EMAG: Ego-motion Aware and Generalizable 2D Hand Forecasting from Egocentric Videos**|Masashi Hatano, Ryo Hachiuma, Hideo Saito|[2405.20030v2](http://arxiv.org/abs/2405.20030v2)|null|
 |**2024-05-28**|**Flow-Assisted Motion Learning Network for Weakly-Supervised Group Activity Recognition**|Muhammad Adi Nugroho, Sangmin Woo, Sumin Lee, Jinyoung Park, Yooseung Wang, Donguk Kim, Changick Kim|[2405.18012v1](http://arxiv.org/abs/2405.18012v1)|null|
 |**2024-05-23**|**Video Diffusion Models are Training-free Motion Interpreter and Controller**|Zeqi Xiao, Yifan Zhou, Shuai Yang, Xingang Pan|[2405.14864v1](http://arxiv.org/abs/2405.14864v1)|null|
