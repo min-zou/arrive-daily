@@ -184,7 +184,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-29**|**Rethinking Sparse Lexical Representations for Image Retrieval in the Age of Rising Multi-Modal Large Language Models**|Kengo Nakata, Daisuke Miyashita, Youyang Ng, Yasuto Hoshi, Jun Deguchi|[2408.16296v1](http://arxiv.org/abs/2408.16296v1)|null|
-|**2024-08-29**|**Enhancing Conditional Image Generation with Explainable Latent Space Manipulation**|Kshitij Pathania|[2408.16232v1](http://arxiv.org/abs/2408.16232v1)|null|
+|**2024-08-29**|**Enhancing Conditional Image Generation with Explainable Latent Space Manipulation**|Kshitij Pathania|[2408.16232v1](http://arxiv.org/abs/2408.16232v1)|**[link](https://github.com/kshitij79/CS-7476-Improvements-in-Diffusion-Model)**|
 |**2024-08-29**|**PolarBEVDet: Exploring Polar Representation for Multi-View 3D Object Detection in Bird's-Eye-View**|Zichen Yu, Quanli Liu, Wei Wang, Liyong Zhang, Xiaoguang Zhao|[2408.16200v1](http://arxiv.org/abs/2408.16200v1)|null|
 |**2024-08-28**|**TagOOD: A Novel Approach to Out-of-Distribution Detection via Vision-Language Representations and Class Center Learning**|Jinglun Li, Xinyu Zhou, Kaixun Jiang, Lingyi Hong, Pinxue Guo, Zhaoyu Chen, Weifeng Ge, Wenqiang Zhang|[2408.15566v1](http://arxiv.org/abs/2408.15566v1)|**[link](https://github.com/Jarvisgivemeasuit/tagood)**|
 |**2024-08-25**|**Quantum Multimodal Contrastive Learning Framework**|Chi-Sheng Chen, Aidan Hung-Wen Tsai, Sheng-Chieh Huang|[2408.13919v2](http://arxiv.org/abs/2408.13919v2)|null|
