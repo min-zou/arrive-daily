@@ -2,7 +2,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-28**|**BIM-SLAM: Integrating BIM Models in Multi-session SLAM for Lifelong Mapping using 3D LiDAR**|Miguel Arturo Vega Torres, Alexander Braun, André Borrmann|[2408.15870v1](http://arxiv.org/abs/2408.15870v1)|**[link](https://github.com/MigVega/SLAM2REF)**|
-|**2024-08-28**|**Addressing the challenges of loop detection in agricultural environments**|Nicolás Soncini, Javier Civera, Taihú Pire|[2408.15761v1](http://arxiv.org/abs/2408.15761v1)|null|
+|**2024-08-28**|**Addressing the challenges of loop detection in agricultural environments**|Nicolás Soncini, Javier Civera, Taihú Pire|[2408.15761v2](http://arxiv.org/abs/2408.15761v2)|null|
 |**2024-08-28**|**ES-PTAM: Event-based Stereo Parallel Tracking and Mapping**|Suman Ghosh, Valentina Cavinato, Guillermo Gallego|[2408.15605v1](http://arxiv.org/abs/2408.15605v1)|null|
 |**2024-08-28**|**PointEMRay: A Novel Efficient SBR Framework on Point Based Geometry**|Kaiqiao Yang, Che Liu, Wenming Yu, Tie Jun Cui|[2408.15583v1](http://arxiv.org/abs/2408.15583v1)|null|
 |**2024-08-27**|**Active Semantic Mapping and Pose Graph Spectral Analysis for Robot Exploration**|Rongge Zhang, Haechan Mark Bong, Giovanni Beltrame|[2408.14726v1](http://arxiv.org/abs/2408.14726v1)|null|
@@ -106,7 +106,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-29**|**EvLight++: Low-Light Video Enhancement with an Event Camera: A Large-Scale Real-World Dataset, Novel Method, and More**|Kanghao Chen, Guoqiang Liang, Hangyu Li, Yunfan Lu, Lin Wang|[2408.16254v1](http://arxiv.org/abs/2408.16254v1)|null|
-|**2024-08-29**|**Revisiting 360 Depth Estimation with PanoGabor: A New Fusion Perspective**|Zhijie Shen, Chunyu Lin, Lang Nie, Kang Liao|[2408.16227v1](http://arxiv.org/abs/2408.16227v1)|null|
+|**2024-08-29**|**Revisiting 360 Depth Estimation with PanoGabor: A New Fusion Perspective**|Zhijie Shen, Chunyu Lin, Lang Nie, Kang Liao|[2408.16227v2](http://arxiv.org/abs/2408.16227v2)|null|
 |**2024-08-27**|**Adversarial Manhole: Challenging Monocular Depth Estimation and Semantic Segmentation Models with Patch Attack**|Naufal Suryanto, Andro Aprila Adiputra, Ahmada Yusril Kadiptya, Yongsu Kim, Howon Kim|[2408.14879v1](http://arxiv.org/abs/2408.14879v1)|null|
 |**2024-08-26**|**NimbleD: Enhancing Self-supervised Monocular Depth Estimation with Pseudo-labels and Large-scale Video Pre-training**|Albert Luginov, Muhammad Shahzad|[2408.14177v1](http://arxiv.org/abs/2408.14177v1)|null|
 |**2024-08-26**|**Pixel-Aligned Multi-View Generation with Depth Guided Decoder**|Zhenggang Tang, Peiye Zhuang, Chaoyang Wang, Aliaksandr Siarohin, Yash Kant, Alexander Schwing, Sergey Tulyakov, Hsin-Ying Lee|[2408.14016v1](http://arxiv.org/abs/2408.14016v1)|null|
@@ -119,7 +119,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-28**|**SLAM2REF: Advancing Long-Term Mapping with 3D LiDAR and Reference Map Integration for Precise 6-DoF Trajectory Estimation and Map Extension**|Miguel Arturo Vega Torres, Alexander Braun, André Borrmann|[2408.15948v1](http://arxiv.org/abs/2408.15948v1)|**[link](https://github.com/MigVega/SLAM2REF)**|
-|**2024-08-28**|**Addressing the challenges of loop detection in agricultural environments**|Nicolás Soncini, Javier Civera, Taihú Pire|[2408.15761v1](http://arxiv.org/abs/2408.15761v1)|null|
+|**2024-08-28**|**Addressing the challenges of loop detection in agricultural environments**|Nicolás Soncini, Javier Civera, Taihú Pire|[2408.15761v2](http://arxiv.org/abs/2408.15761v2)|null|
 |**2023-11-06**|**Long-Term Invariant Local Features via Implicit Cross-Domain Correspondences**|Zador Pataki, Mohammad Altillawi, Menelaos Kanakis, Rémi Pautrat, Fengyi Shen, Ziyuan Liu, Luc Van Gool, Marc Pollefeys|[2311.03345v1](http://arxiv.org/abs/2311.03345v1)|null|
 |**2023-09-11**|**Evaluating Visual Odometry Methods for Autonomous Driving in Rain**|Yu Xiang Tan, Marcel Bartholomeus Prasetyo, Mohammad Alif Daffa, Deshpande Sunny Nitin, Malika Meghjani|[2309.05249v3](http://arxiv.org/abs/2309.05249v3)|null|
 |**2023-06-22**|**What to Learn: Features, Image Transformations, or Both?**|Yuxuan Chen, Binbin Xu, Frederike Dümbgen, Timothy D. Barfoot|[2306.13040v1](http://arxiv.org/abs/2306.13040v1)|null|
