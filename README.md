@@ -132,11 +132,11 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-18**|**RockTrack: A 3D Robust Multi-Camera-Ken Multi-Object Tracking Framework**|Xiaoyu Li, Peidong Li, Lijun Zhao, Dedong Liu, Jinghan Gao, Xian Wu, Yitao Wu, Dixiao Cui|[2409.11749v1](http://arxiv.org/abs/2409.11749v1)|null|
-|**2024-09-17**|**SLAck: Semantic, Location, and Appearance Aware Open-Vocabulary Tracking**|Siyuan Li, Lei Ke, Yung-Hsu Yang, Luigi Piccinelli, Mattia Segù, Martin Danelljan, Luc Van Gool|[2409.11235v1](http://arxiv.org/abs/2409.11235v1)|null|
+|**2024-09-17**|**SLAck: Semantic, Location, and Appearance Aware Open-Vocabulary Tracking**|Siyuan Li, Lei Ke, Yung-Hsu Yang, Luigi Piccinelli, Mattia Segù, Martin Danelljan, Luc Van Gool|[2409.11235v1](http://arxiv.org/abs/2409.11235v1)|**[link](https://github.com/siyuanliii/slack)**|
 |**2024-09-17**|**STCMOT: Spatio-Temporal Cohesion Learning for UAV-Based Multiple Object Tracking**|Jianbo Ma, Chuanming Tang, Fei Wu, Can Zhao, Jianlin Zhang, Zhiyong Xu|[2409.11234v1](http://arxiv.org/abs/2409.11234v1)|**[link](https://github.com/ydhcg-bobo/stcmot)**|
 |**2024-09-17**|**TrajSSL: Trajectory-Enhanced Semi-Supervised 3D Object Detection**|Philip Jacobson, Yichen Xie, Mingyu Ding, Chenfeng Xu, Masayoshi Tomizuka, Wei Zhan, Ming C. Wu|[2409.10901v1](http://arxiv.org/abs/2409.10901v1)|null|
 |**2024-09-15**|**Tracking Virtual Meetings in the Wild: Re-identification in Multi-Participant Virtual Meetings**|Oriel Perl, Ido Leshem, Uria Franko, Yuval Goldman|[2409.09841v1](http://arxiv.org/abs/2409.09841v1)|null|
-|**2024-09-14**|**Associate Everything Detected: Facilitating Tracking-by-Detection to the Unknown**|Zimeng Fang, Chao Liang, Xue Zhou, Shuyuan Zhu, Xi Li|[2409.09293v1](http://arxiv.org/abs/2409.09293v1)|null|
+|**2024-09-14**|**Associate Everything Detected: Facilitating Tracking-by-Detection to the Unknown**|Zimeng Fang, Chao Liang, Xue Zhou, Shuyuan Zhu, Xi Li|[2409.09293v1](http://arxiv.org/abs/2409.09293v1)|**[link](https://github.com/balabooooo/aed)**|
 |**2024-09-12**|**FACT: Feature Adaptive Continual-learning Tracker for Multiple Object Tracking**|Rongzihan Song, Zhenyu Weng, Huiping Zhuang, Jinchang Ren, Yongming Chen, Zhiping Lin|[2409.07904v1](http://arxiv.org/abs/2409.07904v1)|null|
 |**2024-09-10**|**When to Extract ReID Features: A Selective Approach for Improved Multiple Object Tracking**|Emirhan Bayar, Cemal Aker|[2409.06617v1](http://arxiv.org/abs/2409.06617v1)|**[link](https://github.com/emirhanbayar/fast-strongsort)**|
 |**2024-09-08**|**RCBEVDet++: Toward High-accuracy Radar-Camera Fusion 3D Perception Network**|Zhiwei Lin, Zhe Liu, Yongtao Wang, Le Zhang, Ce Zhu|[2409.04979v1](http://arxiv.org/abs/2409.04979v1)|null|
@@ -185,7 +185,7 @@
 |---|---|---|---|---|
 |**2024-09-17**|**Multi-Domain Data Aggregation for Axon and Myelin Segmentation in Histology Images**|Armand Collin, Arthur Boschet, Mathieu Boudreau, Julien Cohen-Adad|[2409.11552v1](http://arxiv.org/abs/2409.11552v1)|**[link](https://github.com/axondeepseg/axondeepseg)**|
 |**2024-09-15**|**GRIN: Zero-Shot Metric Depth with Pixel-Level Diffusion**|Vitor Guizilini, Pavel Tokmakov, Achal Dave, Rares Ambrus|[2409.09896v1](http://arxiv.org/abs/2409.09896v1)|null|
-|**2024-09-15**|**Unsupervised Hyperspectral and Multispectral Image Blind Fusion Based on Deep Tucker Decomposition Network with Spatial-Spectral Manifold Learning**|He Wang, Yang Xu, Zebin Wu, Zhihui Wei|[2409.09670v2](http://arxiv.org/abs/2409.09670v2)|null|
+|**2024-09-15**|**Unsupervised Hyperspectral and Multispectral Image Blind Fusion Based on Deep Tucker Decomposition Network with Spatial-Spectral Manifold Learning**|He Wang, Yang Xu, Zebin Wu, Zhihui Wei|[2409.09670v2](http://arxiv.org/abs/2409.09670v2)|**[link](https://github.com/shawn-h-wang/dtdnml)**|
 |**2024-09-14**|**Enhancing Skin Disease Diagnosis: Interpretable Visual Concept Discovery with SAM Empowerment**|Xin Hu, Janet Wang, Jihun Hamm, Rie R Yotsu, Zhengming Ding|[2409.09520v1](http://arxiv.org/abs/2409.09520v1)|null|
 |**2024-09-14**|**The T05 System for The VoiceMOS Challenge 2024: Transfer Learning from Deep Image Classifier to Naturalness MOS Prediction of High-Quality Synthetic Speech**|Kaito Baba, Wataru Nakata, Yuki Saito, Hiroshi Saruwatari|[2409.09305v1](http://arxiv.org/abs/2409.09305v1)|**[link](https://github.com/sarulab-speech/utmosv2)**|
 |**2024-09-13**|**Accurate Computation of the Logarithm of Modified Bessel Functions on GPUs**|Andreas Plesner, Hans Henrik Brandenborg Sørensen, Søren Hauberg|[2409.08729v1](http://arxiv.org/abs/2409.08729v1)|null|
@@ -209,7 +209,7 @@
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-16**|**MotionCom: Automatic and Motion-Aware Image Composition with LLM and Video Diffusion Prior**|Weijing Tao, Xiaofeng Yang, Miaomiao Cui, Guosheng Lin|[2409.10090v1](http://arxiv.org/abs/2409.10090v1)|null|
+|**2024-09-16**|**MotionCom: Automatic and Motion-Aware Image Composition with LLM and Video Diffusion Prior**|Weijing Tao, Xiaofeng Yang, Miaomiao Cui, Guosheng Lin|[2409.10090v1](http://arxiv.org/abs/2409.10090v1)|**[link](https://github.com/weijing-tao/MotionCom)**|
 |**2024-09-06**|**DreamForge: Motion-Aware Autoregressive Video Generation for Multi-View Driving Scenes**|Jianbiao Mei, Yukai Ma, Xuemeng Yang, Licheng Wen, Tiantian Wei, Min Dou, Botian Shi, Yong Liu|[2409.04003v1](http://arxiv.org/abs/2409.04003v1)|**[link](https://github.com/PJLab-ADG/DriveArena)**|
 |**2024-09-04**|**MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos**|Junyi Ma, Xieyuanli Chen, Wentao Bao, Jingyi Xu, Hesheng Wang|[2409.02638v1](http://arxiv.org/abs/2409.02638v1)|null|
 |**2024-08-20**|**Leveraging Temporal Contexts to Enhance Vehicle-Infrastructure Cooperative Perception**|Jiaru Zhong, Haibao Yu, Tianyi Zhu, Jiahui Xu, Wenxian Yang, Zaiqing Nie, Chao Sun|[2408.10531v1](http://arxiv.org/abs/2408.10531v1)|null|
