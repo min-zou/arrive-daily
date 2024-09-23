@@ -55,7 +55,7 @@
 |---|---|---|---|---|
 |**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi, Hongdong Li, Akhil Perincherry, Ankit Vora|[2409.06471v1](http://arxiv.org/abs/2409.06471v1)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
 |**2024-09-05**|**Enabling Practical and Privacy-Preserving Image Processing**|Chao Wang, Shubing Yang, Xiaoyan Sun, Jun Dai, Dongfang Zhao|[2409.03568v1](http://arxiv.org/abs/2409.03568v1)|null|
-|**2024-09-04**|**A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**|Shuang Song, Rongjun Qin|[2409.03032v1](http://arxiv.org/abs/2409.03032v1)|null|
+|**2024-09-04**|**A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**|Shuang Song, Rongjun Qin|[2409.03032v2](http://arxiv.org/abs/2409.03032v2)|null|
 |**2024-08-29**|**Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**|Sierra Bonilla, Chiara Di Vece, Rema Daher, Xinwei Ju, Danail Stoyanov, Francisco Vasconcelos, Sophia Bano|[2408.16445v2](http://arxiv.org/abs/2408.16445v2)|**[link](https://github.com/surgical-vision/colmap-match-converter)**|
 |**2024-08-26**|**Affine steerers for structured keypoint description**|Georg Bökman, Johan Edstedt, Michael Felsberg, Fredrik Kahl|[2408.14186v1](http://arxiv.org/abs/2408.14186v1)|**[link](https://github.com/georg-bn/affine-steerers)**|
 |**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu, Lakshay Sethi|[2408.10383v1](http://arxiv.org/abs/2408.10383v1)|null|
