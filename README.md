@@ -2,7 +2,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-18**|**Bundle Adjustment in the Eager Mode**|Zitong Zhan, Huan Xu, Zihang Fang, Xinpeng Wei, Yaoyu Hu, Chen Wang|[2409.12190v1](http://arxiv.org/abs/2409.12190v1)|null|
-|**2024-09-18**|**Uncertainty-Aware Visual-Inertial SLAM with Volumetric Occupancy Mapping**|Jaehyung Jung, Simon Boche, Sebastian Barbas Laina, Stefan Leutenegger|[2409.12051v1](http://arxiv.org/abs/2409.12051v1)|null|
+|**2024-09-18**|**Uncertainty-Aware Visual-Inertial SLAM with Volumetric Occupancy Mapping**|Jaehyung Jung, Simon Boche, Sebastián Barbas Laina, Stefan Leutenegger|[2409.12051v2](http://arxiv.org/abs/2409.12051v2)|null|
 |**2024-09-18**|**Metric-Semantic Factor Graph Generation based on Graph Neural Networks**|Jose Andres Millan-Romera, Hriday Bavle, Muhammad Shaheer, Holger Voos, Jose Luis Sanchez-Lopez|[2409.11972v1](http://arxiv.org/abs/2409.11972v1)|null|
 |**2024-09-18**|**Physically-Based Photometric Bundle Adjustment in Non-Lambertian Environments**|Lei Cheng, Junpeng Hu, Haodong Yan, Mariia Gladkova, Tianyu Huang, Yun-Hui Liu, Daniel Cremers, Haoang Li|[2409.11854v1](http://arxiv.org/abs/2409.11854v1)|null|
 |**2024-09-18**|**SLAM assisted 3D tracking system for laparoscopic surgery**|Jingwei Song, Ray Zhang, Wenwei Zhang, Hao Zhou, Maani Ghaffari|[2409.11688v1](http://arxiv.org/abs/2409.11688v1)|null|
@@ -28,7 +28,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-17**|**Obfuscation Based Privacy Preserving Representations are Recoverable Using Neighborhood Information**|Kunal Chelani, Assia Benbihi, Fredrik Kahl, Torsten Sattler, Zuzana Kukelova|[2409.11536v1](http://arxiv.org/abs/2409.11536v1)|null|
-|**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu, Zhen Tan|[2409.10925v1](http://arxiv.org/abs/2409.10925v1)|null|
+|**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu, Zhen Tan, Jinpu Zhang, Xueliang Yang, Dewen Hu|[2409.10925v2](http://arxiv.org/abs/2409.10925v2)|null|
 |**2024-09-10**|**GeoCalib: Learning Single-image Calibration with Geometric Optimization**|Alexander Veicht, Paul-Edouard Sarlin, Philipp Lindenberger, Marc Pollefeys|[2409.06704v1](http://arxiv.org/abs/2409.06704v1)|**[link](https://github.com/cvg/geocalib)**|
 |**2024-09-06**|**Reprojection Errors as Prompts for Efficient Scene Coordinate Regression**|Ting-Ru Liu, Hsuan-Kung Yang, Jou-Min Liu, Chun-Wei Huang, Tsung-Chih Chiang, Quan Kong, Norimasa Kobori, Chun-Yi Lee|[2409.04178v1](http://arxiv.org/abs/2409.04178v1)|null|
 |**2024-08-30**|**Augmented Reality without Borders: Achieving Precise Localization Without Maps**|Albert Gassol Puigjaner, Irvin Aloise, Patrik Schmuck|[2408.17373v3](http://arxiv.org/abs/2408.17373v3)|null|
@@ -40,7 +40,7 @@
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-13**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam, Ahmed Heakl, Walid Gomaa|[2409.08695v1](http://arxiv.org/abs/2409.08695v1)|null|
+|**2024-09-13**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam, Ahmed Heakl, Walid Gomaa|[2409.08695v1](http://arxiv.org/abs/2409.08695v1)|**[link](https://github.com/ahmedheakl/fish-counting)**|
 |**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara, Chikahito Nakane, Hajime Ebisawa, Tsuyoshi Kuroda, Yohei Iwaki, Tomoyoshi Utsumi, Yuichiro Nomura, Makoto Koike, Hiroshi Mineno|[2409.04060v1](http://arxiv.org/abs/2409.04060v1)|null|
 |**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo, Tianhao Wei, Simin Liu, Ziwei Wang, Luis Mattei-Mendez, Taylor Loper, Joshua Neighbor, Casidhe Hutchison, Changliu Liu|[2408.00117v1](http://arxiv.org/abs/2408.00117v1)|null|
 |**2024-07-26**|**SHIC: Shape-Image Correspondences with no Keypoint Supervision**|Aleksandar Shtedritski, Christian Rupprecht, Andrea Vedaldi|[2407.18907v1](http://arxiv.org/abs/2407.18907v1)|null|
@@ -93,7 +93,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-17**|**fMRI-3D: A Comprehensive Dataset for Enhancing fMRI-based 3D Reconstruction**|Jianxiong Gao, Yuqian Fu, Yun Wang, Xuelin Qian, Jianfeng Feng, Yanwei Fu|[2409.11315v1](http://arxiv.org/abs/2409.11315v1)|null|
-|**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu, Zhen Tan|[2409.10925v1](http://arxiv.org/abs/2409.10925v1)|null|
+|**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu, Zhen Tan, Jinpu Zhang, Xueliang Yang, Dewen Hu|[2409.10925v2](http://arxiv.org/abs/2409.10925v2)|null|
 |**2024-09-15**|**GRIN: Zero-Shot Metric Depth with Pixel-Level Diffusion**|Vitor Guizilini, Pavel Tokmakov, Achal Dave, Rares Ambrus|[2409.09896v1](http://arxiv.org/abs/2409.09896v1)|null|
 |**2024-09-13**|**CSS: Overcoming Pose and Scene Challenges in Crowd-Sourced 3D Gaussian Splatting**|Runze Chen, Mingyu Xiao, Haiyong Luo, Fang Zhao, Fan Wu, Hao Xiong, Qi Liu, Meng Song|[2409.08562v1](http://arxiv.org/abs/2409.08562v1)|null|
 |**2024-09-12**|**VI3DRM:Towards meticulous 3D Reconstruction from Sparse Views via Photo-Realistic Novel View Synthesis**|Hao Chen, Jiafu Wu, Ying Jin, Jinlong Peng, Xiaofeng Mao, Mingmin Chi, Mufeng Yao, Bo Peng, Jian Li, Yun Cao|[2409.08207v1](http://arxiv.org/abs/2409.08207v1)|null|
@@ -110,7 +110,7 @@
 |**2024-09-15**|**GRIN: Zero-Shot Metric Depth with Pixel-Level Diffusion**|Vitor Guizilini, Pavel Tokmakov, Achal Dave, Rares Ambrus|[2409.09896v1](http://arxiv.org/abs/2409.09896v1)|null|
 |**2024-09-15**|**Towards Single-Lens Controllable Depth-of-Field Imaging via All-in-Focus Aberration Correction and Monocular Depth Estimation**|Xiaolong Qian, Qi Jiang, Yao Gao, Shaohua Gao, Zhonghua Yi, Lei Sun, Kai Wei, Haifeng Li, Kailun Yang, Kaiwei Wang, Jian Bai|[2409.09754v1](http://arxiv.org/abs/2409.09754v1)|**[link](https://github.com/xiaolongqian/dcdi)**|
 |**2024-09-13**|**PrimeDepth: Efficient Monocular Depth Estimation with a Stable Diffusion Preimage**|Denis Zavadski, Damjan Kalšan, Carsten Rother|[2409.09144v1](http://arxiv.org/abs/2409.09144v1)|**[link](https://github.com/vislearn/PrimeDepth)**|
-|**2024-09-13**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam, Ahmed Heakl, Walid Gomaa|[2409.08695v1](http://arxiv.org/abs/2409.08695v1)|null|
+|**2024-09-13**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam, Ahmed Heakl, Walid Gomaa|[2409.08695v1](http://arxiv.org/abs/2409.08695v1)|**[link](https://github.com/ahmedheakl/fish-counting)**|
 |**2024-09-12**|**Depth on Demand: Streaming Dense Depth from a Low Frame Rate Active Sensor**|Andrea Conti, Matteo Poggi, Valerio Cambareri, Stefano Mattoccia|[2409.08277v1](http://arxiv.org/abs/2409.08277v1)|null|
 |**2024-09-12**|**LED: Light Enhanced Depth Estimation at Night**|Simon de Moreau, Yasser Almehio, Andrei Bursuc, Hafid El-Idrissi, Bogdan Stanciulescu, Fabien Moutarde|[2409.08031v1](http://arxiv.org/abs/2409.08031v1)|**[link](https://github.com/simondemoreau/led)**|
 |**2024-09-12**|**Real-time Multi-view Omnidirectional Depth Estimation System for Robots and Autonomous Driving on Real Scenes**|Ming Li, Xiong Yang, Chaofan Wu, Jiaheng Li, Pinzhi Wang, Xuejiao Hu, Sidan Du, Yang Li|[2409.07843v1](http://arxiv.org/abs/2409.07843v1)|null|
