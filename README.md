@@ -15,7 +15,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-23**|**CamLoPA: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis**|Xiang Zhang, Jie Zhang, Zehua Ma, Jinyang Huang, Meng Li, Huan Yan, Peng Zhao, Zijian Zhang, Qing Guo, Tianwei Zhang, Bin Liu, Nenghai Yu|[2409.15169v1](http://arxiv.org/abs/2409.15169v1)|null|
-|**2024-09-18**|**Towards Global Localization using Multi-Modal Object-Instance Re-Identification**|Aneesh Chavan, Vaibhav Agrawal, Vineeth Bhat, Sarthak Chittawar, Siddharth Srivastava, Chetan Arora, K Madhava Krishna|[2409.12002v1](http://arxiv.org/abs/2409.12002v1)|null|
+|**2024-09-18**|**Towards Global Localization using Multi-Modal Object-Instance Re-Identification**|Aneesh Chavan, Vaibhav Agrawal, Vineeth Bhat, Sarthak Chittawar, Siddharth Srivastava, Chetan Arora, K Madhava Krishna|[2409.12002v1](http://arxiv.org/abs/2409.12002v1)|**[link](https://github.com/instance-based-loc/instance-based-loc)**|
 |**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi, Hongdong Li, Akhil Perincherry, Ankit Vora|[2409.06471v1](http://arxiv.org/abs/2409.06471v1)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
 |**2024-08-31**|**EgoHDM: An Online Egocentric-Inertial Human Motion Capture, Localization, and Dense Mapping System**|Bonan Liu, Handi Yin, Manuel Kaufmann, Jinhao He, Sammy Christen, Jie Song, Pan Hui|[2409.00343v2](http://arxiv.org/abs/2409.00343v2)|null|
 |**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao, Yixin Xuan, Xinyang Li, Yu Pan|[2408.02394v1](http://arxiv.org/abs/2408.02394v1)|null|
@@ -100,13 +100,13 @@
 |**2024-09-26**|**TFS-NeRF: Template-Free NeRF for Semantic 3D Reconstruction of Dynamic Scene**|Sandika Biswas, Qianyi Wu, Biplab Banerjee, Hamid Rezatofighi|[2409.17459v1](http://arxiv.org/abs/2409.17459v1)|null|
 |**2024-09-25**|**Generative Object Insertion in Gaussian Splatting with a Multi-View Diffusion Model**|Hongliang Zhong, Can Wang, Jingbo Zhang, Jing Liao|[2409.16938v1](http://arxiv.org/abs/2409.16938v1)|**[link](https://github.com/jiutongbro/multiview_inpaint)**|
 |**2024-09-25**|**Towards Unified 3D Hair Reconstruction from Single-View Portraits**|Yujian Zheng, Yuda Qiu, Leyang Jin, Chongyang Ma, Haibin Huang, Di Zhang, Pengfei Wan, Xiaoguang Han|[2409.16863v1](http://arxiv.org/abs/2409.16863v1)|null|
-|**2024-09-25**|**3DDX: Bone Surface Reconstruction from a Single Standard-Geometry Radiograph via Dual-Face Depth Estimation**|Yi Gu, Yoshito Otake, Keisuke Uemura, Masaki Takao, Mazen Soufi, Seiji Okada, Nobuhiko Sugano, Hugues Talbot, Yoshinobu Sato|[2409.16702v1](http://arxiv.org/abs/2409.16702v1)|null|
+|**2024-09-25**|**3DDX: Bone Surface Reconstruction from a Single Standard-Geometry Radiograph via Dual-Face Depth Estimation**|Yi Gu, Yoshito Otake, Keisuke Uemura, Masaki Takao, Mazen Soufi, Seiji Okada, Nobuhiko Sugano, Hugues Talbot, Yoshinobu Sato|[2409.16702v1](http://arxiv.org/abs/2409.16702v1)|**[link](https://github.com/Kayaba-Akihiko/3DDX)**|
 |**2024-09-24**|**Frequency-based View Selection in Gaussian Splatting Reconstruction**|Monica M. Q. Li, Pierre-Yves Lajoie, Giovanni Beltrame|[2409.16470v1](http://arxiv.org/abs/2409.16470v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-30**|**CCDepth: A Lightweight Self-supervised Depth Estimation Network with Enhanced Interpretability**|Xi Zhang, Yaru Xue, Shaocheng Jia, Xin Pei|[2409.19933v1](http://arxiv.org/abs/2409.19933v1)|null|
-|**2024-09-30**|**EndoDepth: A Benchmark for Assessing Robustness in Endoscopic Depth Prediction**|Ivan Reyes-Amezcua, Ricardo Espinosa, Christian Daul, Gilberto Ochoa-Ruiz, Andres Mendez-Vazquez|[2409.19930v1](http://arxiv.org/abs/2409.19930v1)|null|
+|**2024-09-30**|**EndoDepth: A Benchmark for Assessing Robustness in Endoscopic Depth Prediction**|Ivan Reyes-Amezcua, Ricardo Espinosa, Christian Daul, Gilberto Ochoa-Ruiz, Andres Mendez-Vazquez|[2409.19930v1](http://arxiv.org/abs/2409.19930v1)|**[link](https://github.com/Ivanrs297/endoscopycorruptions)**|
 |**2024-09-29**|**fCOP: Focal Length Estimation from Category-level Object Priors**|Xinyue Zhang, Jiaqi Yang, Xiangting Meng, Abdelrahman Mohamed, Laurent Kneip|[2409.19641v1](http://arxiv.org/abs/2409.19641v1)|null|
 |**2024-09-29**|**KineDepth: Utilizing Robot Kinematics for Online Metric Depth Estimation**|Soofiyan Atar, Yuheng Zhi, Florian Richter, Michael Yip|[2409.19490v1](http://arxiv.org/abs/2409.19490v1)|null|
 |**2024-09-27**|**Speckle-illumination spatial frequency domain imaging with a stereo laparoscope for profile-corrected optical property mapping**|Anthony A. Song, Mason T. Chen, Taylor L. Bobrow, Nicholas J. Durr|[2409.19153v1](http://arxiv.org/abs/2409.19153v1)|null|
@@ -186,7 +186,7 @@
 |**2024-09-30**|**DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction**|Zhen Yang, Yanpeng Dong, Heng Wang|[2409.19972v1](http://arxiv.org/abs/2409.19972v1)|**[link](https://github.com/alphaplustt/daocc)**|
 |**2024-09-27**|**A comprehensive review and new taxonomy on superpixel segmentation**|I. B. Barcelos, F. de C. Belém, L. de M. João, Z. K. G. do Patrocínio Jr., A. X. Falcão, S. J. F. Guimarães|[2409.19179v1](http://arxiv.org/abs/2409.19179v1)|**[link](https://github.com/imscience-ppginf-pucminas/superpixel-benchmark)**|
 |**2024-09-27**|**Multi-modal Medical Image Fusion For Non-Small Cell Lung Cancer Classification**|Salma Hassan, Hamad Al Hammadi, Ibrahim Mohammed, Muhammad Haris Khan|[2409.18715v1](http://arxiv.org/abs/2409.18715v1)|null|
-|**2024-09-26**|**Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation**|Qihan Huang, Siming Fu, Jinlong Liu, Hao Jiang, Yipeng Yu, Jie Song|[2409.17920v1](http://arxiv.org/abs/2409.17920v1)|null|
+|**2024-09-26**|**Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation**|Qihan Huang, Siming Fu, Jinlong Liu, Hao Jiang, Yipeng Yu, Jie Song|[2409.17920v1](http://arxiv.org/abs/2409.17920v1)|**[link](https://github.com/hqhqaq/mip-adapter)**|
 |**2024-09-26**|**Self-supervised Monocular Depth Estimation with Large Kernel Attention**|Xuezhi Xiang, Yao Wang, Lei Zhang, Denis Ombati, Himaloy Himu, Xiantong Zhen|[2409.17895v1](http://arxiv.org/abs/2409.17895v1)|null|
 |**2024-09-26**|**P4Q: Learning to Prompt for Quantization in Visual-language Models**|Huixin Sun, Runqi Wang, Yanjing Li, Xianbin Cao, Xiaolong Jiang, Yao Hu, Baochang Zhang|[2409.17634v1](http://arxiv.org/abs/2409.17634v1)|null|
 |**2024-09-26**|**TFS-NeRF: Template-Free NeRF for Semantic 3D Reconstruction of Dynamic Scene**|Sandika Biswas, Qianyi Wu, Biplab Banerjee, Hamid Rezatofighi|[2409.17459v1](http://arxiv.org/abs/2409.17459v1)|null|
@@ -197,7 +197,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-30**|**Robust Gaussian Splatting SLAM by Leveraging Loop Closure**|Zunjie Zhu, Youxu Fang, Xin Li, Chengang Yan, Feng Xu, Chau Yuen, Yanyan Li|[2409.20111v1](http://arxiv.org/abs/2409.20111v1)|null|
-|**2024-09-27**|**Challenges of Generating Structurally Diverse Graphs**|Fedor Velikonivtsev, Mikhail Mironov, Liudmila Prokhorenkova|[2409.18859v1](http://arxiv.org/abs/2409.18859v1)|null|
+|**2024-09-27**|**Challenges of Generating Structurally Diverse Graphs**|Fedor Velikonivtsev, Mikhail Mironov, Liudmila Prokhorenkova|[2409.18859v1](http://arxiv.org/abs/2409.18859v1)|**[link](https://github.com/Abusagit/Challenges-on-generating-structurally-diverse-graphs)**|
 |**2024-09-26**|**Swarm-LIO2: Decentralized, Efficient LiDAR-inertial Odometry for UAV Swarms**|Fangcheng Zhu, Yunfan Ren, Longji Yin, Fanze Kong, Qingbo Liu, Ruize Xue, Wenyi Liu, Yixi Cai, Guozheng Lu, Haotian Li, Fu Zhang|[2409.17798v1](http://arxiv.org/abs/2409.17798v1)|null|
 |**2024-09-25**|**Walker: Self-supervised Multiple Object Tracking by Walking on Temporal Appearance Graphs**|Mattia Segu, Luigi Piccinelli, Siyuan Li, Luc Van Gool, Fisher Yu, Bernt Schiele|[2409.17221v1](http://arxiv.org/abs/2409.17221v1)|null|
 |**2024-09-24**|**Initialization of Monocular Visual Navigation for Autonomous Agents Using Modified Structure from Small Motion**|Juan-Diego Florez, Mehregan Dor, Panagiotis Tsiotras|[2409.16465v1](http://arxiv.org/abs/2409.16465v1)|null|
