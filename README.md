@@ -131,7 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-03**|**Spatial-Temporal Multi-Cuts for Online Multiple-Camera Vehicle Tracking**|Fabian Herzog, Johannes Gilg, Philipp Wolters, Torben Teepe, Gerhard Rigoll|[2410.02638v1](http://arxiv.org/abs/2410.02638v1)|null|
+|**2024-10-03**|**Spatial-Temporal Multi-Cuts for Online Multiple-Camera Vehicle Tracking**|Fabian Herzog, Johannes Gilg, Philipp Wolters, Torben Teepe, Gerhard Rigoll|[2410.02638v1](http://arxiv.org/abs/2410.02638v1)|**[link](https://github.com/fubel/stmc)**|
 |**2024-10-03**|**DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM**|Xuchen Li, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang|[2410.02492v1](http://arxiv.org/abs/2410.02492v1)|null|
 |**2024-10-03**|**Spiking Neural Network as Adaptive Event Stream Slicer**|Jiahang Cao, Mingyuan Sun, Ziqing Wang, Hao Cheng, Qiang Zhang, Shibo Zhou, Renjing Xu|[2410.02249v1](http://arxiv.org/abs/2410.02249v1)|null|
 |**2024-10-02**|**Tracking objects that change in appearance with phase synchrony**|Sabine Muzellec, Drew Linsley, Alekh K. Ashok, Ennio Mingolla, Girik Malik, Rufin VanRullen, Thomas Serre|[2410.02094v1](http://arxiv.org/abs/2410.02094v1)|null|
