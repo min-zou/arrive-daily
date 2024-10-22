@@ -32,7 +32,7 @@
 |**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng, Jianhao Jiao, Yue Wang, Dimitrios Kanoulas|[2410.11505v1](http://arxiv.org/abs/2410.11505v1)|null|
 |**2024-10-08**|**GSLoc: Visual Localization with 3D Gaussian Splatting**|Kazii Botashev, Vladislav Pyatov, Gonzalo Ferrer, Stamatios Lefkimmiatis|[2410.06165v1](http://arxiv.org/abs/2410.06165v1)|null|
 |**2024-10-08**|**RNR-Nav: A Real-World Visual Navigation System Using Renderable Neural Radiance Maps**|Minsoo Kim, Obin Kwon, Howoong Jun, Songhwai Oh|[2410.05621v1](http://arxiv.org/abs/2410.05621v1)|null|
-|**2024-10-06**|**LiteVLoc: Map-Lite Visual Localization for Image Goal Navigation**|Jianhao Jiao, Jinhao He, Changkun Liu, Sebastian Aegidius, Xiangcheng Hu, Tristan Braud, Dimitrios Kanoulas|[2410.04419v1](http://arxiv.org/abs/2410.04419v1)|null|
+|**2024-10-06**|**LiteVLoc: Map-Lite Visual Localization for Image Goal Navigation**|Jianhao Jiao, Jinhao He, Changkun Liu, Sebastian Aegidius, Xiangcheng Hu, Tristan Braud, Dimitrios Kanoulas|[2410.04419v2](http://arxiv.org/abs/2410.04419v2)|null|
 |**2024-10-05**|**Semantic Environment Atlas for Object-Goal Navigation**|Nuri Kim, Jeongho Park, Mineui Hong, Songhwai Oh|[2410.09081v1](http://arxiv.org/abs/2410.09081v1)|null|
 |**2024-10-02**|**Boosting Weakly-Supervised Referring Image Segmentation via Progressive Comprehension**|Zaiquan Yang, Yuhao Liu, Jiaying Lin, Gerhard Hancke, Rynson W. H. Lau|[2410.01544v1](http://arxiv.org/abs/2410.01544v1)|null|
 |**2024-09-28**|**VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition**|Ahmad Khaliq, Ming Xu, Stephen Hausler, Michael Milford, Sourav Garg|[2409.19293v1](http://arxiv.org/abs/2409.19293v1)|**[link](https://github.com/ahmedest61/vlad-buff)**|
@@ -40,6 +40,7 @@
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Sim2real Cattle Joint Estimation in 3D point clouds**|Okour Mohammad, Falque Raphael, Alempijevic Alen|[2410.14419v1](http://arxiv.org/abs/2410.14419v1)|null|
 |**2024-10-11**|**Facial Chick Sexing: An Automated Chick Sexing System From Chick Facial Image**|Marta Veganzones Rodriguez, Thinh Phan, Arthur F. A. Fernandes, Vivian Breen, Jesus Arango, Michael T. Kidd, Ngan Le|[2410.09155v1](http://arxiv.org/abs/2410.09155v1)|null|
 |**2024-10-08**|**Unsupervised Model Diagnosis**|Yinong Oliver Wang, Eileen Li, Jinqi Luo, Zhaoning Wang, Fernando De la Torre|[2410.06243v1](http://arxiv.org/abs/2410.06243v1)|null|
 |**2024-10-03**|**Key-Grid: Unsupervised 3D Keypoints Detection using Grid Heatmap Features**|Chengkai Hou, Zhengrong Xue, Bingyang Zhou, Jinghan Ke, Lin Shao, Huazhe Xu|[2410.02237v2](http://arxiv.org/abs/2410.02237v2)|null|
@@ -49,7 +50,6 @@
 |**2024-09-20**|**Keypoint Detection Technique for Image-Based Visual Servoing of Manipulators**|Niloufar Amiri, Guanghui Wang, Farrokh Janabi-Sharifi|[2409.13668v1](http://arxiv.org/abs/2409.13668v1)|null|
 |**2024-09-13**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam, Ahmed Heakl, Walid Gomaa|[2409.08695v3](http://arxiv.org/abs/2409.08695v3)|**[link](https://github.com/ahmedheakl/fish-counting)**|
 |**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara, Chikahito Nakane, Hajime Ebisawa, Tsuyoshi Kuroda, Yohei Iwaki, Tomoyoshi Utsumi, Yuichiro Nomura, Makoto Koike, Hiroshi Mineno|[2409.04060v1](http://arxiv.org/abs/2409.04060v1)|null|
-|**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo, Tianhao Wei, Simin Liu, Ziwei Wang, Luis Mattei-Mendez, Taylor Loper, Joshua Neighbor, Casidhe Hutchison, Changliu Liu|[2408.00117v1](http://arxiv.org/abs/2408.00117v1)|null|
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Enhancing In-vehicle Multiple Object Tracking Systems with Embeddable Ising Machines**|Kosuke Tatsumura, Yohei Hamakawa, Masaya Yamasaki, Koji Oya, Hiroshi Fujimoto|[2410.14093v1](http://arxiv.org/abs/2410.14093v1)|null|
 |**2024-10-17**|**Temporal-Enhanced Multimodal Transformer for Referring Multi-Object Tracking and Segmentation**|Changcheng Xiao, Qiong Cao, Yujie Zhong, Xiang Zhang, Tao Wang, Canqun Yang, Long Lan|[2410.13437v1](http://arxiv.org/abs/2410.13437v1)|null|
 |**2024-10-17**|**TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal**|Yanpeng Jia, Ting Wang, Xieyuanli Chen, Shiliang Shao|[2410.13240v1](http://arxiv.org/abs/2410.13240v1)|null|
 |**2024-10-14**|**UAV3D: A Large-scale 3D Perception Benchmark for Unmanned Aerial Vehicles**|Hui Ye, Rajshekhar Sunderraman, Shihao Ji|[2410.11125v2](http://arxiv.org/abs/2410.11125v2)|null|
@@ -140,7 +141,6 @@
 |**2024-10-11**|**Enhanced Kalman with Adaptive Appearance Motion SORT for Grounded Generic Multiple Object Tracking**|Duy Le Dinh Anh, Kim Hoang Tran, Quang-Thuc Nguyen, Ngan Hoang Le|[2410.09243v1](http://arxiv.org/abs/2410.09243v1)|null|
 |**2024-10-11**|**VideoSAM: Open-World Video Segmentation**|Pinxue Guo, Zixu Zhao, Jianxiong Gao, Chongruo Wu, Tong He, Zheng Zhang, Tianjun Xiao, Wenqiang Zhang|[2410.08781v1](http://arxiv.org/abs/2410.08781v1)|null|
 |**2024-10-11**|**Efficient Multi-Object Tracking on Edge Devices via Reconstruction-Based Channel Pruning**|Jan Müller, Adrian Pigors|[2410.08769v1](http://arxiv.org/abs/2410.08769v1)|null|
-|**2024-10-11**|**VOVTrack: Exploring the Potentiality in Videos for Open-Vocabulary Object Tracking**|Zekun Qian, Ruize Han, Junhui Hou, Linqi Song, Wei Feng|[2410.08529v1](http://arxiv.org/abs/2410.08529v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -173,7 +173,7 @@
 |**2024-10-12**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu, Sheng Zhong, Xiuyuan Lu, Shaojie Shen, Guillermo Gallego, Yi Zhou|[2410.09374v1](http://arxiv.org/abs/2410.09374v1)|**[link](https://github.com/nail-hnu/esvo2)**|
 |**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang, Chengrui Dong, Peidong Liu|[2410.08107v2](http://arxiv.org/abs/2410.08107v2)|**[link](https://github.com/wu-cvgl/inceventgs)**|
 |**2024-09-20**|**Learning Visual Information Utility with PIXER**|Yash Turkar, Timothy Chase Jr, Christo Aluckal, Karthik Dantu|[2409.13151v1](http://arxiv.org/abs/2409.13151v1)|null|
-|**2024-09-18**|**ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation**|Yanlin Jin, Rui-Yang Ju, Haojun Liu, Yuzhong Zhong|[2409.11692v1](http://arxiv.org/abs/2409.11692v1)|null|
+|**2024-09-18**|**ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation**|Yanlin Jin, Rui-Yang Ju, Haojun Liu, Yuzhong Zhong|[2409.11692v2](http://arxiv.org/abs/2409.11692v2)|null|
 |**2024-09-14**|**MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry**|Yuheng Qiu, Yutian Chen, Zihao Zhang, Wenshan Wang, Sebastian Scherer|[2409.09479v1](http://arxiv.org/abs/2409.09479v1)|null|
 |**2024-09-14**|**GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians**|Dasong Gao, Peter Zhi Xuan Li, Vivienne Sze, Sertac Karaman|[2409.09295v1](http://arxiv.org/abs/2409.09295v1)|null|
 |**2024-09-14**|**Panoramic Direct LiDAR-assisted Visual Odometry**|Zikang Yuan, Tianle Xu, Xiaoxiang Wang, Jinni Geng, Xin Yang|[2409.09287v1](http://arxiv.org/abs/2409.09287v1)|**[link](https://github.com/ZikangYuan/panoramic_lidar_dso)**|
@@ -183,6 +183,9 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**DRACO-DehazeNet: An Efficient Image Dehazing Network Combining Detail Recovery and a Novel Contrastive Learning Paradigm**|Gao Yu Lee, Tanmoy Dam, Md Meftahul Ferdaus, Daniel Puiu Poenar, Vu Duong|[2410.14595v1](http://arxiv.org/abs/2410.14595v1)|null|
+|**2024-10-18**|**On the Influence of Parallax Effects in Thick Silicon Sensors in Coherent Diffraction Imaging**|Markus Kuster, Robert Hartmann, Steffen Hauf, Peter Holl, Tonn Rüter, Lothar Strüder|[2410.14474v1](http://arxiv.org/abs/2410.14474v1)|null|
+|**2024-10-18**|**E3D-GPT: Enhanced 3D Visual Foundation for Medical Vision-Language Model**|Haoran Lai, Zihang Jiang, Qingsong Yao, Rongsheng Wang, Zhiyang He, Xiaodong Tao, Wei Wei, Weifu Lv, S. Kevin Zhou|[2410.14200v1](http://arxiv.org/abs/2410.14200v1)|null|
 |**2024-10-17**|**Material Fingerprinting: Identifying and Predicting Perceptual Attributes of Material Appearance**|Jiri Filip, Filip Dechterenko, Filipp Schmidt, Jiri Lukavsky, Veronika Vilimovska, Jan Kotera, Roland W. Fleming|[2410.13615v1](http://arxiv.org/abs/2410.13615v1)|null|
 |**2024-10-16**|**DaDiff: Domain-aware Diffusion Model for Nighttime UAV Tracking**|Haobo Zuo, Changhong Fu, Guangze Zheng, Liangliang Yao, Kunhan Lu, Jia Pan|[2410.12270v1](http://arxiv.org/abs/2410.12270v1)|**[link](https://github.com/vision4robotics/DaDiff)**|
 |**2024-10-16**|**Order-aware Interactive Segmentation**|Bin Wang, Anwesa Choudhuri, Meng Zheng, Zhongpai Gao, Benjamin Planche, Andong Deng, Qin Liu, Terrence Chen, Ulas Bagci, Ziyan Wu|[2410.12214v2](http://arxiv.org/abs/2410.12214v2)|null|
@@ -190,12 +193,10 @@
 |**2024-10-14**|**Embodied Active Learning of Generative Sensor-Object Models**|Allison Pinosky, Todd D. Murphey|[2410.11130v1](http://arxiv.org/abs/2410.11130v1)|null|
 |**2024-10-14**|**Performance Evaluation of Deep Learning and Transformer Models Using Multimodal Data for Breast Cancer Classification**|Sadam Hussain, Mansoor Ali, Usman Naseem, Beatriz Alejandra Bosques Palomo, Mario Alexis Monsivais Molina, Jorge Alberto Garza Abdala, Daly Betzabeth Avendano Avalos, Servando Cardona-Huerta, T. Aaron Gulliver, Jose Gerardo Tamez Pena|[2410.10146v1](http://arxiv.org/abs/2410.10146v1)|null|
 |**2024-10-13**|**Improving Colorectal Cancer Screening and Risk Assessment through Predictive Modeling on Medical Images and Records**|Shuai Jiang, Christina Robinson, Joseph Anderson, William Hisey, Lynn Butterly, Arief Suriawinata, Saeed Hassanpour|[2410.09880v1](http://arxiv.org/abs/2410.09880v1)|null|
-|**2024-10-13**|**Tomographic Model Based Iterative Reconstruction of Symmetric Objects**|Kyle M. Champley, Ibrahim Oksuz, Matthew G. Bisbee, Joseph W. Tringe, Brian Maddox|[2410.09837v1](http://arxiv.org/abs/2410.09837v1)|null|
-|**2024-10-12**|**A Novel Approach to Malicious Code Detection Using CNN-BiLSTM and Feature Fusion**|Lixia Zhang, Tianxu Liu, Kaihui Shen, Cheng Chen|[2410.09401v1](http://arxiv.org/abs/2410.09401v1)|null|
-|**2024-10-12**|**Thermal Comfort in Sight: Thermal Affordance and its Visual Assessment for Sustainable Streetscape Design**|Sijie Yang, Adrian Chong, Pengyuan Liu, Filip Biljecki|[2410.11887v1](http://arxiv.org/abs/2410.11887v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Graph Optimality-Aware Stochastic LiDAR Bundle Adjustment with Progressive Spatial Smoothing**|Jianping Li, Thien-Minh Nguyen, Muqing Cao, Shenghai Yuan, Tzu-Yi Hung, Lihua Xie|[2410.14565v1](http://arxiv.org/abs/2410.14565v1)|null|
 |**2024-10-16**|**Gravity-aligned Rotation Averaging with Circular Regression**|Linfei Pan, Marc Pollefeys, Dániel Baráth|[2410.12763v1](http://arxiv.org/abs/2410.12763v1)|**[link](https://github.com/colmap/glomap)**|
 |**2024-10-11**|**Optimal Allocation with Peer Information**|Axel Niemeyer, Justus Preusser|[2410.08954v1](http://arxiv.org/abs/2410.08954v1)|null|
 |**2024-10-11**|**Interdependency Matters: Graph Alignment for Multivariate Time Series Anomaly Detection**|Yuanyi Wang, Haifeng Sun, Chengsen Wang, Mengde Zhu, Jingyu Wang, Wei Tang, Qi Qi, Zirui Zhuang, Jianxin Liao|[2410.08877v1](http://arxiv.org/abs/2410.08877v1)|**[link](https://github.com/wyy-code/MADGA)**|
@@ -205,7 +206,6 @@
 |**2024-09-26**|**Swarm-LIO2: Decentralized, Efficient LiDAR-inertial Odometry for UAV Swarms**|Fangcheng Zhu, Yunfan Ren, Longji Yin, Fanze Kong, Qingbo Liu, Ruize Xue, Wenyi Liu, Yixi Cai, Guozheng Lu, Haotian Li, Fu Zhang|[2409.17798v1](http://arxiv.org/abs/2409.17798v1)|null|
 |**2024-09-25**|**Walker: Self-supervised Multiple Object Tracking by Walking on Temporal Appearance Graphs**|Mattia Segu, Luigi Piccinelli, Siyuan Li, Luc Van Gool, Fisher Yu, Bernt Schiele|[2409.17221v1](http://arxiv.org/abs/2409.17221v1)|null|
 |**2024-09-24**|**Initialization of Monocular Visual Navigation for Autonomous Agents Using Modified Structure from Small Motion**|Juan-Diego Florez, Mehregan Dor, Panagiotis Tsiotras|[2409.16465v2](http://arxiv.org/abs/2409.16465v2)|null|
-|**2024-09-19**|**CF-GO-Net: A Universal Distribution Learner via Characteristic Function Networks with Graph Optimizers**|Zeyang Yu, Shengxi Li, Danilo Mandic|[2409.12610v1](http://arxiv.org/abs/2409.12610v1)|null|
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
