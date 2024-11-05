@@ -98,7 +98,7 @@
 |**2024-10-30**|**Geometry Cloak: Preventing TGS-based 3D Reconstruction from Copyrighted Images**|Qi Song, Ziyuan Luo, Ka Chun Cheung, Simon See, Renjie Wan|[2410.22705v1](http://arxiv.org/abs/2410.22705v1)|null|
 |**2024-10-29**|**Guide3D: A Bi-planar X-ray Dataset for 3D Shape Reconstruction**|Tudor Jianu, Baoru Huang, Hoan Nguyen, Binod Bhattarai, Tuong Do, Erman Tjiputra, Quang Tran, Pierre Berthet-Rayne, Ngan Le, Sebastiano Fichera, Anh Nguyen|[2410.22224v1](http://arxiv.org/abs/2410.22224v1)|null|
 |**2024-10-29**|**PF3plat: Pose-Free Feed-Forward 3D Gaussian Splatting**|Sunghwan Hong, Jaewoo Jung, Heeseong Shin, Jisang Han, Jiaolong Yang, Chong Luo, Seungryong Kim|[2410.22128v1](http://arxiv.org/abs/2410.22128v1)|**[link](https://github.com/cvlab-kaist/PF3plat)**|
-|**2024-10-29**|**PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference**|Kendong Liu, Zhiyu Zhu, Chuanhao Li, Hui Liu, Huanqiang Zeng, Junhui Hou|[2410.21966v1](http://arxiv.org/abs/2410.21966v1)|null|
+|**2024-10-29**|**PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference**|Kendong Liu, Zhiyu Zhu, Chuanhao Li, Hui Liu, Huanqiang Zeng, Junhui Hou|[2410.21966v2](http://arxiv.org/abs/2410.21966v2)|null|
 |**2024-10-29**|**SS3DM: Benchmarking Street-View Surface Reconstruction with a Synthetic 3D Mesh Dataset**|Yubin Hu, Kairui Wen, Heng Zhou, Xiaoyang Guo, Yongjin Liu|[2410.21739v1](http://arxiv.org/abs/2410.21739v1)|null|
 |**2024-10-28**|**ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings**|Suyoung Lee, Jaeyoung Chung, Jaeyoo Huh, Kyoung Mu Lee|[2410.20686v1](http://arxiv.org/abs/2410.20686v1)|null|
 |**2024-10-27**|**Neural rendering enables dynamic tomography**|Ivan Grega, William F. Whitney, Vikram S. Deshpande|[2410.20558v1](http://arxiv.org/abs/2410.20558v1)|null|
@@ -187,7 +187,7 @@
 |**2024-10-31**|**Phrase Decoupling Cross-Modal Hierarchical Matching and Progressive Position Correction for Visual Grounding**|Minghong Xie, Mengzhao Wang, Huafeng Li, Yafei Zhang, Dapeng Tao, Zhengtao Yu|[2410.23570v1](http://arxiv.org/abs/2410.23570v1)|**[link](https://github.com/X7J92/VGNet)**|
 |**2024-10-30**|**PIP-MM: Pre-Integrating Prompt Information into Visual Encoding via Existing MLLM Structures**|Tianxiang Wu, Minxin Nie, Ziqiang Cao|[2410.23089v1](http://arxiv.org/abs/2410.23089v1)|null|
 |**2024-10-29**|**Emotion-Guided Image to Music Generation**|Souraja Kundu, Saket Singh, Yuji Iwahori|[2410.22299v1](http://arxiv.org/abs/2410.22299v1)|null|
-|**2024-10-29**|**From Explicit Rules to Implicit Reasoning in an Interpretable Violence Monitoring System**|Wen-Dong Jiang, Chih-Yung Chang, Hsiang-Chuan Chang, Diptendu Sinha Roy|[2410.21991v2](http://arxiv.org/abs/2410.21991v2)|null|
+|**2024-10-29**|**From Explicit Rules to Implicit Reasoning in an Interpretable Violence Monitoring System**|Wen-Dong Jiang, Chih-Yung Chang, Hsiang-Chuan Chang, Diptendu Sinha Roy|[2410.21991v3](http://arxiv.org/abs/2410.21991v3)|null|
 |**2024-10-28**|**Novel Object Synthesis via Adaptive Text-Image Harmony**|Zeren Xiong, Zedong Zhang, Zikun Chen, Shuo Chen, Xiang Li, Gan Sun, Jian Yang, Jun Li|[2410.20823v1](http://arxiv.org/abs/2410.20823v1)|null|
 |**2024-10-25**|**Image-Based Visual Servoing for Enhanced Cooperation of Dual-Arm Manipulation**|Zizhe Zhang, Yuan Yang, Wenqiang Zuo, Guangming Song, Aiguo Song, Yang Shi|[2410.19432v2](http://arxiv.org/abs/2410.19432v2)|null|
 |**2024-10-25**|**A Stock Price Prediction Approach Based on Time Series Decomposition and Multi-Scale CNN using OHLCT Images**|Zhiyuan Pei, Jianqi Yan, Jin Yan, Bailing Yang, Ziyuan Li, Lin Zhang, Xin Liu, Yang Zhang|[2410.19291v2](http://arxiv.org/abs/2410.19291v2)|null|
@@ -197,7 +197,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-30**|**IM-GIV: an effective integrity monitoring scheme for tightly-coupled GNSS/INS/Vision integration based on factor graph optimization**|Yunong Tian, Tuan Li, Haitao Jiang, Zhipeng Wang, Chuang Shi|[2410.22672v1](http://arxiv.org/abs/2410.22672v1)|null|
-|**2024-10-29**|**Automorphism-Assisted Quantum Approximate Optimization Algorithm for efficient graph optimization**|V. N Prakash|[2410.22247v1](http://arxiv.org/abs/2410.22247v1)|null|
+|**2024-10-29**|**Automorphism-Assisted Quantum Approximate Optimization Algorithm for efficient graph optimization**|Vaibhav. N Prakash|[2410.22247v2](http://arxiv.org/abs/2410.22247v2)|null|
 |**2024-10-18**|**Graph Optimality-Aware Stochastic LiDAR Bundle Adjustment with Progressive Spatial Smoothing**|Jianping Li, Thien-Minh Nguyen, Muqing Cao, Shenghai Yuan, Tzu-Yi Hung, Lihua Xie|[2410.14565v1](http://arxiv.org/abs/2410.14565v1)|null|
 |**2024-10-16**|**Gravity-aligned Rotation Averaging with Circular Regression**|Linfei Pan, Marc Pollefeys, Dániel Baráth|[2410.12763v1](http://arxiv.org/abs/2410.12763v1)|**[link](https://github.com/colmap/glomap)**|
 |**2024-10-11**|**Optimal Allocation with Peer Information**|Axel Niemeyer, Justus Preusser|[2410.08954v1](http://arxiv.org/abs/2410.08954v1)|null|
