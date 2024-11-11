@@ -2,7 +2,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-11-07**|**Development of a Service Robot for Hospital Environments in Rehabilitation Medicine with LiDAR Based Simultaneous Localization and Mapping**|Sayat Ibrayev, Arman Ibrayeva, Bekzat Amanov, Serik Tolenov|[2411.04797v1](http://arxiv.org/abs/2411.04797v1)|null|
-|**2024-11-06**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan, Fuling Lin, Peiyu Chen, Peng Lu|[2411.03928v1](http://arxiv.org/abs/2411.03928v1)|null|
+|**2024-11-06**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan, Fuling Lin, Peiyu Chen, Peng Lu|[2411.03928v1](http://arxiv.org/abs/2411.03928v1)|**[link](https://github.com/arclab-hku/deio)**|
 |**2024-11-06**|**Performance evaluation of SLAM-ASR: The Good, the Bad, the Ugly, and the Way Forward**|Shashi Kumar, Iuliia Thorbecke, Sergio Burdisso, Esaú Villatoro-Tello, Manjunath K E, Kadri Hacioğlu, Pradeep Rangappa, Petr Motlicek, Aravind Ganapathiraju, Andreas Stolcke|[2411.03866v1](http://arxiv.org/abs/2411.03866v1)|null|
 |**2024-11-06**|**LCP-Fusion: A Neural Implicit SLAM with Enhanced Local Constraints and Computable Prior**|Jiahui Wang, Yinan Deng, Yi Yang, Yufeng Yue|[2411.03610v1](http://arxiv.org/abs/2411.03610v1)|**[link](https://github.com/laliwang/lcp-fusion)**|
 |**2024-11-05**|**LVI-GS: Tightly-coupled LiDAR-Visual-Inertial SLAM using 3D Gaussian Splatting**|Huibin Zhao, Weipeng Guan, Peng Lu|[2411.02703v1](http://arxiv.org/abs/2411.02703v1)|null|
