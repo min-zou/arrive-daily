@@ -1,8 +1,9 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Development of an indoor localization and navigation system based on monocular SLAM for mobile robots**|Thanh Nguyen Canh, Duc Manh Do, Xiem HoangVan|[2411.05337v1](http://arxiv.org/abs/2411.05337v1)|null|
 |**2024-11-07**|**Development of a Service Robot for Hospital Environments in Rehabilitation Medicine with LiDAR Based Simultaneous Localization and Mapping**|Sayat Ibrayev, Arman Ibrayeva, Bekzat Amanov, Serik Tolenov|[2411.04797v1](http://arxiv.org/abs/2411.04797v1)|null|
-|**2024-11-06**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan, Fuling Lin, Peiyu Chen, Peng Lu|[2411.03928v1](http://arxiv.org/abs/2411.03928v1)|**[link](https://github.com/arclab-hku/deio)**|
+|**2024-11-06**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan, Fuling Lin, Peiyu Chen, Peng Lu|[2411.03928v2](http://arxiv.org/abs/2411.03928v2)|**[link](https://github.com/arclab-hku/deio)**|
 |**2024-11-06**|**Performance evaluation of SLAM-ASR: The Good, the Bad, the Ugly, and the Way Forward**|Shashi Kumar, Iuliia Thorbecke, Sergio Burdisso, Esaú Villatoro-Tello, Manjunath K E, Kadri Hacioğlu, Pradeep Rangappa, Petr Motlicek, Aravind Ganapathiraju, Andreas Stolcke|[2411.03866v1](http://arxiv.org/abs/2411.03866v1)|null|
 |**2024-11-06**|**LCP-Fusion: A Neural Implicit SLAM with Enhanced Local Constraints and Computable Prior**|Jiahui Wang, Yinan Deng, Yi Yang, Yufeng Yue|[2411.03610v1](http://arxiv.org/abs/2411.03610v1)|**[link](https://github.com/laliwang/lcp-fusion)**|
 |**2024-11-05**|**LVI-GS: Tightly-coupled LiDAR-Visual-Inertial SLAM using 3D Gaussian Splatting**|Huibin Zhao, Weipeng Guan, Peng Lu|[2411.02703v1](http://arxiv.org/abs/2411.02703v1)|null|
@@ -10,7 +11,6 @@
 |**2024-11-04**|**Semantic Masking and Visual Feature Matching for Robust Localization**|Luisa Mao, Ryan Soussan, Brian Coltin, Trey Smith, Joydeep Biswas|[2411.01804v1](http://arxiv.org/abs/2411.01804v1)|null|
 |**2024-10-31**|**XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**|Xiaomeng Wang, Nan Wang, Guofeng Zhang|[2410.23690v1](http://arxiv.org/abs/2410.23690v1)|**[link](https://github.com/openxrlab/xrdslam)**|
 |**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang, Luping Ji, Hudong Liu, Mao Ye|[2410.23231v1](http://arxiv.org/abs/2410.23231v1)|**[link](https://github.com/uestc-nnlab/lgu-slam)**|
-|**2024-10-30**|**ISAC Prototype System for Multi-Domain Cooperative Communication Networks**|Jie Yang, Hang Que, Tao Du, Le Liang, Xiao Li, Chao-Kai Wen, Shi Jin|[2410.22956v1](http://arxiv.org/abs/2410.22956v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -79,6 +79,7 @@
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**From Transparent to Opaque: Rethinking Neural Implicit Surfaces with $α$-NeuS**|Haoran Zhang, Junkai Deng, Xuhui Chen, Fei Hou, Wencheng Wang, Hong Qin, Chen Qian, Ying He|[2411.05362v1](http://arxiv.org/abs/2411.05362v1)|null|
 |**2024-10-29**|**LiVisSfM: Accurate and Robust Structure-from-Motion with LiDAR and Visual Cues**|Hanqing Jiang, Liyang Zhou, Zhuang Zhang, Yihao Yu, Guofeng Zhang|[2410.22213v1](http://arxiv.org/abs/2410.22213v1)|null|
 |**2024-10-25**|**A Robust and Efficient Visual-Inertial Initialization with Probabilistic Normal Epipolar Constraint**|Changshi Mu, Daquan Feng, Qi Zheng, Yuan Zhuang|[2410.19473v1](http://arxiv.org/abs/2410.19473v1)|null|
 |**2024-10-24**|**Large Spatial Model: End-to-end Unposed Images to Semantic 3D**|Zhiwen Fan, Jian Zhang, Wenyan Cong, Peihao Wang, Renjie Li, Kairun Wen, Shijie Zhou, Achuta Kadambi, Zhangyang Wang, Danfei Xu, Boris Ivanovic, Marco Pavone, Yue Wang|[2410.18956v2](http://arxiv.org/abs/2410.18956v2)|null|
@@ -88,7 +89,6 @@
 |**2024-10-15**|**SplatPose+: Real-time Image-Based Pose-Agnostic 3D Anomaly Detection**|Yizhe Liu, Yan Song Hu, Yuhao Chen, John Zelek|[2410.12080v1](http://arxiv.org/abs/2410.12080v1)|**[link](https://github.com/Yizhe-Liu/SplatPosePlus)**|
 |**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng, Jianhao Jiao, Yue Wang, Dimitrios Kanoulas|[2410.11505v1](http://arxiv.org/abs/2410.11505v1)|null|
 |**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar, Guilherme Potje, Renato Martins, Cédric Demonceaux, Erickson R. Nascimento|[2410.09533v1](http://arxiv.org/abs/2410.09533v1)|**[link](https://github.com/verlab/DescriptorReasoning_ACCV_2024)**|
-|**2024-10-09**|**Surgical Depth Anything: Depth Estimation for Surgical Scenes using Foundation Models**|Ange Lou, Yamin Li, Yike Zhang, Jack Noble|[2410.07434v1](http://arxiv.org/abs/2410.07434v1)|null|
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -105,6 +105,8 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Enhancing Depth Image Estimation for Underwater Robots by Combining Image Processing and Machine Learning**|Quang Truong Nguyen, Thanh Nguyen Canh, Xiem HoangVan|[2411.05344v1](http://arxiv.org/abs/2411.05344v1)|null|
+|**2024-11-08**|**SimpleBEV: Improved LiDAR-Camera Fusion Architecture for 3D Object Detection**|Yun Zhao, Zhan Gong, Peiru Zheng, Hong Zhu, Shaohua Wu|[2411.05292v1](http://arxiv.org/abs/2411.05292v1)|null|
 |**2024-11-07**|**D$^3$epth: Self-Supervised Depth Estimation with Dynamic Mask in Dynamic Scenes**|Siyu Chen, Hong Liu, Wenhao Li, Ying Zhu, Guoquan Wang, Jianbing Wu|[2411.04826v1](http://arxiv.org/abs/2411.04826v1)|null|
 |**2024-11-07**|**Enhancing Bronchoscopy Depth Estimation through Synthetic-to-Real Domain Adaptation**|Qingyao Tian, Huai Liao, Xinyan Huang, Lujie Li, Hongbin Liu|[2411.04404v1](http://arxiv.org/abs/2411.04404v1)|null|
 |**2024-11-06**|**Revisiting Disparity from Dual-Pixel Images: Physics-Informed Lightweight Depth Estimation**|Teppei Kurita, Yuhi Kondo, Legong Sun, Takayuki Sasaki, Sho Nitta, Yasuhiro Hashimoto, Yoshinori Muramatsu, Yusuke Moriuchi|[2411.04714v1](http://arxiv.org/abs/2411.04714v1)|null|
@@ -113,8 +115,6 @@
 |**2024-11-05**|**Correlation of Object Detection Performance with Visual Saliency and Depth Estimation**|Matthias Bartolo, Dylan Seychell|[2411.02844v1](http://arxiv.org/abs/2411.02844v1)|**[link](https://github.com/mbar0075/object-detection-correlation-saliency-vs-depth)**|
 |**2024-11-04**|**FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training**|Ruihong Yin, Vladimir Yugay, Yue Li, Sezer Karaoglu, Theo Gevers|[2411.02229v2](http://arxiv.org/abs/2411.02229v2)|null|
 |**2024-11-04**|**Improving Domain Generalization in Self-supervised Monocular Depth Estimation via Stabilized Adversarial Training**|Yuanqi Yao, Gang Wu, Kui Jiang, Siao Liu, Jian Kuai, Xianming Liu, Junjun Jiang|[2411.02149v2](http://arxiv.org/abs/2411.02149v2)|null|
-|**2024-11-04**|**PMPNet: Pixel Movement Prediction Network for Monocular Depth Estimation in Dynamic Scenes**|Kebin Peng, John Quarles, Kevin Desai|[2411.04227v1](http://arxiv.org/abs/2411.04227v1)|null|
-|**2024-11-01**|**MultiDepth: Multi-Sample Priors for Refining Monocular Metric Depth Estimations in Indoor Scenes**|Sanghyun Byun, Jacob Song, Woo Seong Chung|[2411.01048v1](http://arxiv.org/abs/2411.01048v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,8 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**A Nerf-Based Color Consistency Method for Remote Sensing Images**|Zongcheng Zuo, Yuanxiang Li, Tongtong Zhang|[2411.05557v1](http://arxiv.org/abs/2411.05557v1)|null|
+|**2024-11-08**|**Decoding Report Generators: A Cyclic Vision-Language Adapter for Counterfactual Explanations**|Yingying Fang, Zihao Jin, Shaojie Guo, Jinda Liu, Yijian Gao, Junzhi Ning, Zhiling Yue, Zhi Li, Simon LF Walsh, Guang Yang|[2411.05261v1](http://arxiv.org/abs/2411.05261v1)|null|
 |**2024-11-07**|**Raising Body Ownership in End-to-End Visuomotor Policy Learning via Robot-Centric Pooling**|Zheyu Zhuang, Ville Kyrki, Danica Kragic|[2411.04331v1](http://arxiv.org/abs/2411.04331v1)|null|
 |**2024-11-06**|**RaVL: Discovering and Mitigating Spurious Correlations in Fine-Tuned Vision-Language Models**|Maya Varma, Jean-Benoit Delbrouck, Zhihong Chen, Akshay Chaudhari, Curtis Langlotz|[2411.04097v1](http://arxiv.org/abs/2411.04097v1)|**[link](https://github.com/stanford-aimi/ravl)**|
 |**2024-11-06**|**OccLoff: Learning Optimized Feature Fusion for 3D Occupancy Prediction**|Ji Zhang, Yiran Ding, Zixin Liu|[2411.03696v1](http://arxiv.org/abs/2411.03696v1)|null|
@@ -191,8 +193,6 @@
 |**2024-11-04**|**Semantic-Aligned Adversarial Evolution Triangle for High-Transferability Vision-Language Attack**|Xiaojun Jia, Sensen Gao, Qing Guo, Ke Ma, Yihao Huang, Simeng Qin, Yang Liu, Ivor Tsang Fellow, Xiaochun Cao|[2411.02669v1](http://arxiv.org/abs/2411.02669v1)|**[link](https://github.com/jiaxiaojunqaq/sa-aet)**|
 |**2024-11-03**|**VQ-Map: Bird's-Eye-View Map Layout Estimation in Tokenized Discrete Space via Vector Quantization**|Yiwei Zhang, Jin Gao, Fudong Ge, Guan Luo, Bing Li, Zhaoxiang Zhang, Haibin Ling, Weiming Hu|[2411.01618v1](http://arxiv.org/abs/2411.01618v1)|**[link](https://github.com/z1zyw/vq-map)**|
 |**2024-11-03**|**Meta-Exploiting Frequency Prior for Cross-Domain Few-Shot Learning**|Fei Zhou, Peng Wang, Lei Zhang, Zhenghua Chen, Wei Wei, Chen Ding, Guosheng Lin, Yanning Zhang|[2411.01432v1](http://arxiv.org/abs/2411.01432v1)|null|
-|**2024-11-03**|**HeightMapNet: Explicit Height Modeling for End-to-End HD Map Learning**|Wenzhao Qiu, Shanmin Pang, Hao zhang, Jianwu Fang, Jianru Xue|[2411.01408v1](http://arxiv.org/abs/2411.01408v1)|null|
-|**2024-11-01**|**PathoGen-X: A Cross-Modal Genomic Feature Trans-Align Network for Enhanced Survival Prediction from Histopathology Images**|Akhila Krishna, Nikhil Cherian Kurian, Abhijeet Patil, Amruta Parulekar, Amit Sethi|[2411.00749v1](http://arxiv.org/abs/2411.00749v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
