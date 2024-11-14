@@ -1,16 +1,16 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**NL-SLAM for OC-VLN: Natural Language Grounded SLAM for Object-Centric VLN**|Sonia Raychaudhuri, Duy Ta, Katrina Ashton, Angel X. Chang, Jiuguang Wang, Bernadette Bucher|[2411.07848v1](http://arxiv.org/abs/2411.07848v1)|null|
 |**2024-11-11**|**Lost in Tracking Translation: A Comprehensive Analysis of Visual SLAM in Human-Centered XR and IoT Ecosystems**|Yasra Chandio, Khotso Selialia, Joseph DeGol, Luis Garcia, Fatima M. Anwar|[2411.07146v1](http://arxiv.org/abs/2411.07146v1)|null|
 |**2024-11-11**|**Learning from Feedback: Semantic Enhancement for Object SLAM Using Foundation Models**|Jungseok Hong, Ran Choi, John J. Leonard|[2411.06752v1](http://arxiv.org/abs/2411.06752v1)|null|
 |**2024-11-11**|**HomoMatcher: Dense Feature Matching Results with Semi-Dense Efficiency by Homography Estimation**|Xiaolong Wang, Lei Yu, Yingying Zhang, Jiangwei Lao, Lixiang Ru, Liheng Zhong, Jingdong Chen, Yu Zhang, Ming Yang|[2411.06700v1](http://arxiv.org/abs/2411.06700v1)|null|
 |**2024-11-08**|**Development of an indoor localization and navigation system based on monocular SLAM for mobile robots**|Thanh Nguyen Canh, Duc Manh Do, Xiem HoangVan|[2411.05337v1](http://arxiv.org/abs/2411.05337v1)|null|
 |**2024-11-07**|**Development of a Service Robot for Hospital Environments in Rehabilitation Medicine with LiDAR Based Simultaneous Localization and Mapping**|Sayat Ibrayev, Arman Ibrayeva, Bekzat Amanov, Serik Tolenov|[2411.04797v1](http://arxiv.org/abs/2411.04797v1)|null|
-|**2024-11-06**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan, Fuling Lin, Peiyu Chen, Peng Lu|[2411.03928v2](http://arxiv.org/abs/2411.03928v2)|**[link](https://github.com/arclab-hku/deio)**|
+|**2024-11-06**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan, Fuling Lin, Peiyu Chen, Peng Lu|[2411.03928v3](http://arxiv.org/abs/2411.03928v3)|**[link](https://github.com/arclab-hku/deio)**|
 |**2024-11-06**|**Performance evaluation of SLAM-ASR: The Good, the Bad, the Ugly, and the Way Forward**|Shashi Kumar, Iuliia Thorbecke, Sergio Burdisso, Esaú Villatoro-Tello, Manjunath K E, Kadri Hacioğlu, Pradeep Rangappa, Petr Motlicek, Aravind Ganapathiraju, Andreas Stolcke|[2411.03866v1](http://arxiv.org/abs/2411.03866v1)|null|
 |**2024-11-06**|**LCP-Fusion: A Neural Implicit SLAM with Enhanced Local Constraints and Computable Prior**|Jiahui Wang, Yinan Deng, Yi Yang, Yufeng Yue|[2411.03610v1](http://arxiv.org/abs/2411.03610v1)|**[link](https://github.com/laliwang/lcp-fusion)**|
 |**2024-11-05**|**LVI-GS: Tightly-coupled LiDAR-Visual-Inertial SLAM using 3D Gaussian Splatting**|Huibin Zhao, Weipeng Guan, Peng Lu|[2411.02703v1](http://arxiv.org/abs/2411.02703v1)|null|
-|**2024-11-04**|**Map++: Towards User-Participatory Visual SLAM Systems with Efficient Map Expansion and Sharing**|Xinran Zhang, Hanqi Zhu, Yifan Duan, Wuyang Zhang, Longfei Shangguan, Yu Zhang, Jianmin Ji, Yanyong Zhang|[2411.02553v1](http://arxiv.org/abs/2411.02553v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -53,6 +53,7 @@
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**|Ismail Can Yagmur, Hasan F. Ates, Bahadir K. Gunturk|[2411.07430v1](http://arxiv.org/abs/2411.07430v1)|**[link](https://github.com/canyagmur/xpoint)**|
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang|[2411.01851v1](http://arxiv.org/abs/2411.01851v1)|null|
 |**2024-10-30**|**Variable Resolution Sampling and Deep Learning Image Recovery for Accelerated Multi-Spectral MRI Near Metal Implants**|Azadeh Sharafi, Nikolai J. Mickevicius, Mehran Baboli, Andrew S. Nencka, Kevin M. Koch|[2410.23329v1](http://arxiv.org/abs/2410.23329v1)|null|
 |**2024-10-30**|**LoFLAT: Local Feature Matching using Focused Linear Attention Transformer**|Naijian Cao, Renjie He, Yuchao Dai, Mingyi He|[2410.22710v1](http://arxiv.org/abs/2410.22710v1)|null|
@@ -62,7 +63,6 @@
 |**2024-09-25**|**Game4Loc: A UAV Geo-Localization Benchmark from Game Data**|Yuxiang Ji, Boyong He, Zhuoyue Tan, Liaoni Wu|[2409.16925v1](http://arxiv.org/abs/2409.16925v1)|**[link](https://github.com/Yux1angJi/GTA-UAV)**|
 |**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi, Hongdong Li, Akhil Perincherry, Ankit Vora|[2409.06471v1](http://arxiv.org/abs/2409.06471v1)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
 |**2024-09-05**|**Enabling Practical and Privacy-Preserving Image Processing**|Chao Wang, Shubing Yang, Xiaoyan Sun, Jun Dai, Dongfang Zhao|[2409.03568v1](http://arxiv.org/abs/2409.03568v1)|null|
-|**2024-09-04**|**A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**|Shuang Song, Rongjun Qin|[2409.03032v2](http://arxiv.org/abs/2409.03032v2)|**[link](https://github.com/gdaosu/albedo_aerial_photogrammetry)**|
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**SP-VIO: Robust and Efficient Filter-Based Visual Inertial Odometry with State Transformation Model and Pose-Only Visual Description**|Xueyu Du, Chengjun Ji, Lilian Zhang, Xinchan Luo, Huaiyi Zhang, Maosong Wang, Wenqi Wu, Jun Mao|[2411.07551v1](http://arxiv.org/abs/2411.07551v1)|null|
 |**2024-11-11**|**Extreme Rotation Estimation in the Wild**|Hana Bezalel, Dotan Ankri, Ruojin Cai, Hadar Averbuch-Elor|[2411.07096v2](http://arxiv.org/abs/2411.07096v2)|null|
 |**2024-11-10**|**Real-time Deformation-aware Control for Autonomous Robotic Subretinal Injection under iOCT Guidance**|Demir Arikan, Peiyao Zhang, Michael Sommersperger, Shervin Dehghani, Mojtaba Esfandiari, Russel H. Taylor, M. Ali Nasseri, Peter Gehlbach, Nassir Navab, Iulian Iordachita|[2411.06557v1](http://arxiv.org/abs/2411.06557v1)|null|
 |**2024-11-10**|**A novel algorithm for optimizing bundle adjustment in image sequence alignment**|Hailin Xu, Hongxia Wang, Huanshui Zhang|[2411.06343v1](http://arxiv.org/abs/2411.06343v1)|null|
@@ -101,10 +102,11 @@
 |**2024-11-07**|**Enhancing Bronchoscopy Depth Estimation through Synthetic-to-Real Domain Adaptation**|Qingyao Tian, Huai Liao, Xinyan Huang, Lujie Li, Hongbin Liu|[2411.04404v1](http://arxiv.org/abs/2411.04404v1)|null|
 |**2024-11-06**|**These Maps Are Made by Propagation: Adapting Deep Stereo Networks to Road Scenarios with Decisive Disparity Diffusion**|Chuang-Wei Liu, Yikang Zhang, Qijun Chen, Ioannis Pitas, Rui Fan|[2411.03717v1](http://arxiv.org/abs/2411.03717v1)|null|
 |**2024-11-05**|**Exploring Seasonal Variability in the Context of Neural Radiance Fields for 3D Reconstruction on Satellite Imagery**|Liv Kåreborn, Erica Ingerstad, Amanda Berg, Justus Karlsson, Leif Haglund|[2411.02972v1](http://arxiv.org/abs/2411.02972v1)|null|
-|**2024-11-05**|**LVI-GS: Tightly-coupled LiDAR-Visual-Inertial SLAM using 3D Gaussian Splatting**|Huibin Zhao, Weipeng Guan, Peng Lu|[2411.02703v1](http://arxiv.org/abs/2411.02703v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Scaling Properties of Diffusion Models for Perceptual Tasks**|Rahul Ravishankar, Zeeshan Patel, Jathushan Rajasegaran, Jitendra Malik|[2411.08034v1](http://arxiv.org/abs/2411.08034v1)|null|
+|**2024-11-11**|**$SE(3)$ Equivariant Ray Embeddings for Implicit Multi-View Depth Estimation**|Yinshuang Xu, Dian Chen, Katherine Liu, Sergey Zakharov, Rares Ambrus, Kostas Daniilidis, Vitor Guizilini|[2411.07326v1](http://arxiv.org/abs/2411.07326v1)|null|
 |**2024-11-08**|**Enhancing Depth Image Estimation for Underwater Robots by Combining Image Processing and Machine Learning**|Quang Truong Nguyen, Thanh Nguyen Canh, Xiem HoangVan|[2411.05344v1](http://arxiv.org/abs/2411.05344v1)|null|
 |**2024-11-08**|**SimpleBEV: Improved LiDAR-Camera Fusion Architecture for 3D Object Detection**|Yun Zhao, Zhan Gong, Peiru Zheng, Hong Zhu, Shaohua Wu|[2411.05292v1](http://arxiv.org/abs/2411.05292v1)|null|
 |**2024-11-07**|**D$^3$epth: Self-Supervised Depth Estimation with Dynamic Mask in Dynamic Scenes**|Siyu Chen, Hong Liu, Wenhao Li, Ying Zhu, Guoquan Wang, Jianbing Wu|[2411.04826v1](http://arxiv.org/abs/2411.04826v1)|null|
@@ -113,8 +115,6 @@
 |**2024-11-06**|**Adaptive Stereo Depth Estimation with Multi-Spectral Images Across All Lighting Conditions**|Zihan Qin, Jialei Xu, Wenbo Zhao, Junjun Jiang, Xianming Liu|[2411.03638v1](http://arxiv.org/abs/2411.03638v1)|null|
 |**2024-11-05**|**Monocular Event-Based Vision for Obstacle Avoidance with a Quadrotor**|Anish Bhattacharya, Marco Cannici, Nishanth Rao, Yuezhan Tao, Vijay Kumar, Nikolai Matni, Davide Scaramuzza|[2411.03303v1](http://arxiv.org/abs/2411.03303v1)|null|
 |**2024-11-05**|**Correlation of Object Detection Performance with Visual Saliency and Depth Estimation**|Matthias Bartolo, Dylan Seychell|[2411.02844v1](http://arxiv.org/abs/2411.02844v1)|**[link](https://github.com/mbar0075/object-detection-correlation-saliency-vs-depth)**|
-|**2024-11-04**|**FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training**|Ruihong Yin, Vladimir Yugay, Yue Li, Sezer Karaoglu, Theo Gevers|[2411.02229v2](http://arxiv.org/abs/2411.02229v2)|null|
-|**2024-11-04**|**Improving Domain Generalization in Self-supervised Monocular Depth Estimation via Stabilized Adversarial Training**|Yuanqi Yao, Gang Wu, Kui Jiang, Siao Liu, Jian Kuai, Xianming Liu, Junjun Jiang|[2411.02149v2](http://arxiv.org/abs/2411.02149v2)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
