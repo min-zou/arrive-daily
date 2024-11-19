@@ -105,16 +105,16 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Efficient Depth Estimation for Unstable Stereo Camera Systems on AR Glasses**|Yongfan Liu, Hyoukjun Kwon|[2411.10013v1](http://arxiv.org/abs/2411.10013v1)|null|
+|**2024-11-14**|**Architect: Generating Vivid and Interactive 3D Scenes with Hierarchical 2D Inpainting**|Yian Wang, Xiaowen Qiu, Jiageng Liu, Zhehuan Chen, Jiting Cai, Yufei Wang, Tsun-Hsuan Wang, Zhou Xian, Chuang Gan|[2411.09823v1](http://arxiv.org/abs/2411.09823v1)|null|
+|**2024-11-14**|**Adversarial Attacks Using Differentiable Rendering: A Survey**|Matthew Hull, Chao Zhang, Zsolt Kira, Duen Horng Chau|[2411.09749v1](http://arxiv.org/abs/2411.09749v1)|null|
 |**2024-11-14**|**Mono2Stereo: Monocular Knowledge Transfer for Enhanced Stereo Matching**|Yuran Wang, Yingping Liang, Hesong Li, Ying Fu|[2411.09151v1](http://arxiv.org/abs/2411.09151v1)|null|
 |**2024-11-13**|**OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Geometric and Semantic Guidances**|Youqi Liao, Xieyuanli Chen, Shuhao Kang, Jianping Li, Zhen Dong, Hongchao Fan, Bisheng Yang|[2411.08665v1](http://arxiv.org/abs/2411.08665v1)|null|
-|**2024-11-12**|**Scaling Properties of Diffusion Models for Perceptual Tasks**|Rahul Ravishankar, Zeeshan Patel, Jathushan Rajasegaran, Jitendra Malik|[2411.08034v2](http://arxiv.org/abs/2411.08034v2)|null|
+|**2024-11-12**|**Scaling Properties of Diffusion Models for Perceptual Tasks**|Rahul Ravishankar, Zeeshan Patel, Jathushan Rajasegaran, Jitendra Malik|[2411.08034v3](http://arxiv.org/abs/2411.08034v3)|null|
 |**2024-11-11**|**$SE(3)$ Equivariant Ray Embeddings for Implicit Multi-View Depth Estimation**|Yinshuang Xu, Dian Chen, Katherine Liu, Sergey Zakharov, Rares Ambrus, Kostas Daniilidis, Vitor Guizilini|[2411.07326v1](http://arxiv.org/abs/2411.07326v1)|null|
 |**2024-11-08**|**Enhancing Depth Image Estimation for Underwater Robots by Combining Image Processing and Machine Learning**|Quang Truong Nguyen, Thanh Nguyen Canh, Xiem HoangVan|[2411.05344v1](http://arxiv.org/abs/2411.05344v1)|null|
 |**2024-11-08**|**SimpleBEV: Improved LiDAR-Camera Fusion Architecture for 3D Object Detection**|Yun Zhao, Zhan Gong, Peiru Zheng, Hong Zhu, Shaohua Wu|[2411.05292v1](http://arxiv.org/abs/2411.05292v1)|null|
 |**2024-11-07**|**D$^3$epth: Self-Supervised Depth Estimation with Dynamic Mask in Dynamic Scenes**|Siyu Chen, Hong Liu, Wenhao Li, Ying Zhu, Guoquan Wang, Jianbing Wu|[2411.04826v1](http://arxiv.org/abs/2411.04826v1)|null|
-|**2024-11-07**|**Enhancing Bronchoscopy Depth Estimation through Synthetic-to-Real Domain Adaptation**|Qingyao Tian, Huai Liao, Xinyan Huang, Lujie Li, Hongbin Liu|[2411.04404v1](http://arxiv.org/abs/2411.04404v1)|null|
-|**2024-11-06**|**Revisiting Disparity from Dual-Pixel Images: Physics-Informed Lightweight Depth Estimation**|Teppei Kurita, Yuhi Kondo, Legong Sun, Takayuki Sasaki, Sho Nitta, Yasuhiro Hashimoto, Yoshinori Muramatsu, Yusuke Moriuchi|[2411.04714v1](http://arxiv.org/abs/2411.04714v1)|null|
-|**2024-11-06**|**Adaptive Stereo Depth Estimation with Multi-Spectral Images Across All Lighting Conditions**|Zihan Qin, Jialei Xu, Wenbo Zhao, Junjun Jiang, Xianming Liu|[2411.03638v1](http://arxiv.org/abs/2411.03638v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,8 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Real-Time AI-Driven People Tracking and Counting Using Overhead Cameras**|Ishrath Ahamed, Chamith Dilshan Ranathunga, Dinuka Sandun Udayantha, Benny Kai Kiat Ng, Chau Yuen|[2411.10072v1](http://arxiv.org/abs/2411.10072v1)|null|
+|**2024-11-15**|**MOT\_FCG++: Enhanced Representation of Motion and Appearance Features**|Yanzhao Fang|[2411.10028v1](http://arxiv.org/abs/2411.10028v1)|null|
 |**2024-11-13**|**Predictive Visuo-Tactile Interactive Perception Framework for Object Properties Inference**|Anirvan Dutta, Etienne Burdet, Mohsen Kaboli|[2411.09020v1](http://arxiv.org/abs/2411.09020v1)|null|
 |**2024-11-13**|**3D Multi-Object Tracking with Semi-Supervised GRU-Kalman Filter**|Xiaoxiang Wang, Jiaxin Liu, Miaojie Feng, Zhaoxing Zhang, Xin Yang|[2411.08433v1](http://arxiv.org/abs/2411.08433v1)|null|
 |**2024-11-13**|**DEEGITS: Deep Learning based Framework for Measuring Heterogenous Traffic State in Challenging Traffic Scenarios**|Muttahirul Islam, Nazmul Haque, Md. Hadiuzzaman|[2411.08335v1](http://arxiv.org/abs/2411.08335v1)|null|
@@ -139,8 +141,6 @@
 |**2024-11-11**|**HSTrack: Bootstrap End-to-End Multi-Camera 3D Multi-object Tracking with Hybrid Supervision**|Shubo Lin, Yutong Kou, Bing Li, Weiming Hu, Jin Gao|[2411.06780v1](http://arxiv.org/abs/2411.06780v1)|null|
 |**2024-11-11**|**Track Any Peppers: Weakly Supervised Sweet Pepper Tracking Using VLMs**|Jia Syuen Lim, Yadan Luo, Zhi Chen, Tianqi Wei, Scott Chapman, Zi Huang|[2411.06702v1](http://arxiv.org/abs/2411.06702v1)|null|
 |**2024-11-10**|**PKF: Probabilistic Data Association Kalman Filter for Multi-Object Tracking**|Hanwen Cao, George J. Pappas, Nikolay Atanasov|[2411.06378v1](http://arxiv.org/abs/2411.06378v1)|**[link](https://github.com/hwcao17/pkf)**|
-|**2024-11-09**|**Multi-object Tracking by Detection and Query: an efficient end-to-end manner**|Shukun Jia, Yichao Cao, Feng Yang, Xin Lu, Xiaobo Lu|[2411.06197v1](http://arxiv.org/abs/2411.06197v1)|null|
-|**2024-11-06**|**Graph-Based Multi-Modal Sensor Fusion for Autonomous Driving**|Depanshu Sani, Saket Anand|[2411.03702v1](http://arxiv.org/abs/2411.03702v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -170,6 +170,7 @@
 ## Visual Odometry
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**BEV-ODOM: Reducing Scale Drift in Monocular Visual Odometry with BEV Representation**|Yufei Wei, Sha Lu, Fuzhang Han, Rong Xiong, Yue Wang|[2411.10195v1](http://arxiv.org/abs/2411.10195v1)|null|
 |**2024-11-12**|**Enhanced Monocular Visual Odometry with AR Poses and Integrated INS-GPS for Robust Localization in Urban Environments**|Ankit Shaw|[2411.08231v1](http://arxiv.org/abs/2411.08231v1)|null|
 |**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul, Ruddra dev Roychoudhury, Brojeshwar Bhowmick|[2411.04796v1](http://arxiv.org/abs/2411.04796v1)|null|
 |**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang, Luping Ji, Hudong Liu, Mao Ye|[2410.23231v1](http://arxiv.org/abs/2410.23231v1)|**[link](https://github.com/uestc-nnlab/lgu-slam)**|
@@ -179,10 +180,11 @@
 |**2024-09-20**|**Learning Visual Information Utility with PIXER**|Yash Turkar, Timothy Chase Jr, Christo Aluckal, Karthik Dantu|[2409.13151v1](http://arxiv.org/abs/2409.13151v1)|null|
 |**2024-09-18**|**ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation**|Yanlin Jin, Rui-Yang Ju, Haojun Liu, Yuzhong Zhong|[2409.11692v2](http://arxiv.org/abs/2409.11692v2)|null|
 |**2024-09-14**|**MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry**|Yuheng Qiu, Yutian Chen, Zihao Zhang, Wenshan Wang, Sebastian Scherer|[2409.09479v1](http://arxiv.org/abs/2409.09479v1)|null|
-|**2024-09-14**|**GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians**|Dasong Gao, Peter Zhi Xuan Li, Vivienne Sze, Sertac Karaman|[2409.09295v1](http://arxiv.org/abs/2409.09295v1)|null|
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Channel-Adaptive Wireless Image Semantic Transmission with Learnable Prompts**|Liang Zhang, Danlan Huang, Xinyi Zhou, Feng Ding, Sheng Wu, Zhiqing Wei|[2411.10178v1](http://arxiv.org/abs/2411.10178v1)|null|
+|**2024-11-15**|**Free Lunch in Pathology Foundation Model: Task-specific Model Adaptation with Concept-Guided Feature Enhancement**|Yanyan Huang, Weiqin Zhao, Yihang Chen, Yu Fu, Lequan Yu|[2411.09894v1](http://arxiv.org/abs/2411.09894v1)|null|
 |**2024-11-13**|**OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Geometric and Semantic Guidances**|Youqi Liao, Xieyuanli Chen, Shuhao Kang, Jianping Li, Zhen Dong, Hongchao Fan, Bisheng Yang|[2411.08665v1](http://arxiv.org/abs/2411.08665v1)|null|
 |**2024-11-13**|**Saliency Map-based Image Retrieval using Invariant Krawtchouk Moments**|Ashkan Nejad, Mohammad Reza Faraji, Xiaojun Qi|[2411.08567v1](http://arxiv.org/abs/2411.08567v1)|**[link](https://github.com/arnejad/smikm)**|
 |**2024-11-12**|**Latent Space Disentanglement in Diffusion Transformers Enables Precise Zero-shot Semantic Editing**|Zitao Shuai, Chenwei Wu, Zhengxu Tang, Bowen Song, Liyue Shen|[2411.08196v1](http://arxiv.org/abs/2411.08196v1)|null|
@@ -191,8 +193,6 @@
 |**2024-11-08**|**A Nerf-Based Color Consistency Method for Remote Sensing Images**|Zongcheng Zuo, Yuanxiang Li, Tongtong Zhang|[2411.05557v1](http://arxiv.org/abs/2411.05557v1)|null|
 |**2024-11-08**|**Cascaded Dual Vision Transformer for Accurate Facial Landmark Detection**|Ziqiang Dang, Jianfang Li, Lin Liu|[2411.07167v1](http://arxiv.org/abs/2411.07167v1)|null|
 |**2024-11-08**|**Decoding Report Generators: A Cyclic Vision-Language Adapter for Counterfactual Explanations**|Yingying Fang, Zihao Jin, Shaojie Guo, Jinda Liu, Yijian Gao, Junzhi Ning, Zhiling Yue, Zhi Li, Simon LF Walsh, Guang Yang|[2411.05261v1](http://arxiv.org/abs/2411.05261v1)|null|
-|**2024-11-07**|**Raising Body Ownership in End-to-End Visuomotor Policy Learning via Robot-Centric Pooling**|Zheyu Zhuang, Ville Kyrki, Danica Kragic|[2411.04331v1](http://arxiv.org/abs/2411.04331v1)|null|
-|**2024-11-06**|**RaVL: Discovering and Mitigating Spurious Correlations in Fine-Tuned Vision-Language Models**|Maya Varma, Jean-Benoit Delbrouck, Zhihong Chen, Akshay Chaudhari, Curtis Langlotz|[2411.04097v1](http://arxiv.org/abs/2411.04097v1)|**[link](https://github.com/stanford-aimi/ravl)**|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
