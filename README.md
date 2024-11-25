@@ -36,7 +36,7 @@
 |**2024-10-08**|**RNR-Nav: A Real-World Visual Navigation System Using Renderable Neural Radiance Maps**|Minsoo Kim, Obin Kwon, Howoong Jun, Songhwai Oh|[2410.05621v1](http://arxiv.org/abs/2410.05621v1)|null|
 |**2024-10-06**|**LiteVLoc: Map-Lite Visual Localization for Image Goal Navigation**|Jianhao Jiao, Jinhao He, Changkun Liu, Sebastian Aegidius, Xiangcheng Hu, Tristan Braud, Dimitrios Kanoulas|[2410.04419v2](http://arxiv.org/abs/2410.04419v2)|null|
 |**2024-10-05**|**Semantic Environment Atlas for Object-Goal Navigation**|Nuri Kim, Jeongho Park, Mineui Hong, Songhwai Oh|[2410.09081v1](http://arxiv.org/abs/2410.09081v1)|null|
-|**2024-10-02**|**Boosting Weakly-Supervised Referring Image Segmentation via Progressive Comprehension**|Zaiquan Yang, Yuhao Liu, Jiaying Lin, Gerhard Hancke, Rynson W. H. Lau|[2410.01544v1](http://arxiv.org/abs/2410.01544v1)|null|
+|**2024-10-02**|**Boosting Weakly-Supervised Referring Image Segmentation via Progressive Comprehension**|Zaiquan Yang, Yuhao Liu, Jiaying Lin, Gerhard Hancke, Rynson W. H. Lau|[2410.01544v2](http://arxiv.org/abs/2410.01544v2)|null|
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -184,7 +184,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-11-21**|**Dehazing-aided Multi-Rate Multi-Modal Pose Estimation Framework for Mitigating Visual Disturbances in Extreme Underwater Domain**|Vidya Sudevan, Fakhreddine Zayer, Taimur Hassan, Sajid Javed, Hamad Karki, Giulia De Masi, Jorge Dias|[2411.13988v1](http://arxiv.org/abs/2411.13988v1)|null|
-|**2024-11-20**|**GraphCL: Graph-based Clustering for Semi-Supervised Medical Image Segmentation**|Mengzhu Wang, Jiao Li, Houcheng Su, Nan Yin, Shen Li|[2411.13147v1](http://arxiv.org/abs/2411.13147v1)|null|
+|**2024-11-20**|**GraphCL: Graph-based Clustering for Semi-Supervised Medical Image Segmentation**|Mengzhu Wang, Jiao Li, Houcheng Su, Nan Yin, Liang Yang, Shen Li|[2411.13147v2](http://arxiv.org/abs/2411.13147v2)|null|
 |**2024-11-19**|**A Multimodal Approach Combining Structural and Cross-domain Textual Guidance for Weakly Supervised OCT Segmentation**|Jiaqi Yang, Nitish Mehta, Xiaoling Hu, Chao Chen, Chia-Ling Tsai|[2411.12615v1](http://arxiv.org/abs/2411.12615v1)|**[link](https://github.com/yangjiaqidig/WSSS-AGM)**|
 |**2024-11-19**|**Contourlet Refinement Gate Framework for Thermal Spectrum Distribution Regularized Infrared Image Super-Resolution**|Yang Zou, Zhixin Chen, Zhipeng Zhang, Xingyuan Li, Long Ma, Jinyuan Liu, Peng Wang, Yanning Zhang|[2411.12530v1](http://arxiv.org/abs/2411.12530v1)|**[link](https://github.com/hey-it-s-me/corple)**|
 |**2024-11-19**|**FGP: Feature-Gradient-Prune for Efficient Convolutional Layer Pruning**|Qingsong Lv, Jiasheng Sun, Sheng Zhou, Xu Zhang, Liangcheng Li, Yun Gao, Sun Qiao, Jie Song, Jiajun Bu|[2411.12781v1](http://arxiv.org/abs/2411.12781v1)|**[link](https://github.com/fgp-code/fgp)**|
