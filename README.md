@@ -96,7 +96,7 @@
 |**2024-11-29**|**Gaussian Splashing: Direct Volumetric Rendering Underwater**|Nir Mualem, Roy Amoyal, Oren Freifeld, Derya Akkaynak|[2411.19588v1](http://arxiv.org/abs/2411.19588v1)|null|
 |**2024-11-28**|**SADG: Segment Any Dynamic Gaussian Without Object Trackers**|Yun-Jin Li, Mariia Gladkova, Yan Xia, Daniel Cremers|[2411.19290v1](http://arxiv.org/abs/2411.19290v1)|**[link](https://github.com/yunjinli/SADG-SegmentAnyDynamicGaussian)**|
 |**2024-11-28**|**AGS-Mesh: Adaptive Gaussian Splatting and Meshing with Geometric Priors for Indoor Room Reconstruction Using Smartphones**|Xuqian Ren, Matias Turkulainen, Jiepeng Wang, Otto Seiskari, Iaroslav Melekhov, Juho Kannala, Esa Rahtu|[2411.19271v1](http://arxiv.org/abs/2411.19271v1)|null|
-|**2024-11-28**|**Differentiable Voxel-based X-ray Rendering Improves Sparse-View 3D CBCT Reconstruction**|Mohammadhossein Momeni, Vivek Gopalakrishnan, Neel Dey, Polina Golland, Sarah Frisken|[2411.19224v2](http://arxiv.org/abs/2411.19224v2)|null|
+|**2024-11-28**|**Differentiable Voxel-based X-ray Rendering Improves Sparse-View 3D CBCT Reconstruction**|Mohammadhossein Momeni, Vivek Gopalakrishnan, Neel Dey, Polina Golland, Sarah Frisken|[2411.19224v2](http://arxiv.org/abs/2411.19224v2)|**[link](https://github.com/hossein-momeni/diffvox)**|
 |**2024-11-28**|**Track Anything Behind Everything: Zero-Shot Amodal Video Object Segmentation**|Finlay G. C. Hudson, William A. P. Smith|[2411.19210v1](http://arxiv.org/abs/2411.19210v1)|null|
 |**2024-11-28**|**360Recon: An Accurate Reconstruction Method Based on Depth Fusion from 360 Images**|Zhongmiao Yan, Qi Wu, Songpengcheng Xia, Junyuan Deng, Xiang Mu, Renbiao Jin, Ling Pei|[2411.19102v1](http://arxiv.org/abs/2411.19102v1)|null|
 |**2024-11-28**|**RIGI: Rectifying Image-to-3D Generation Inconsistency via Uncertainty-aware Learning**|Jiacheng Wang, Zhedong Zheng, Wei Xu, Ping Liu|[2411.18866v1](http://arxiv.org/abs/2411.18866v1)|null|
@@ -184,7 +184,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-11-29**|**SAT-HMR: Real-Time Multi-Person 3D Mesh Estimation via Scale-Adaptive Tokens**|Chi Su, Xiaoxuan Ma, Jiajun Su, Yizhou Wang|[2411.19824v1](http://arxiv.org/abs/2411.19824v1)|null|
-|**2024-11-29**|**Learning Visual Abstract Reasoning through Dual-Stream Networks**|Kai Zhao, Chang Xu, Bailu Si|[2411.19451v1](http://arxiv.org/abs/2411.19451v1)|null|
+|**2024-11-29**|**Learning Visual Abstract Reasoning through Dual-Stream Networks**|Kai Zhao, Chang Xu, Bailu Si|[2411.19451v1](http://arxiv.org/abs/2411.19451v1)|**[link](https://github.com/VecchioID/DRNet)**|
 |**2024-11-27**|**Leveraging Semi-Supervised Learning to Enhance Data Mining for Image Classification under Limited Labeled Data**|Aoran Shen, Minghao Dai, Jiacheng Hu, Yingbin Liang, Shiru Wang, Junliang Du|[2411.18622v1](http://arxiv.org/abs/2411.18622v1)|null|
 |**2024-11-27**|**TAPTRv3: Spatial and Temporal Context Foster Robust Tracking of Any Point in Long Video**|Jinyuan Qu, Hongyang Li, Shilong Liu, Tianhe Ren, Zhaoyang Zeng, Lei Zhang|[2411.18671v1](http://arxiv.org/abs/2411.18671v1)|null|
 |**2024-11-26**|**RoboPEPP: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training**|Raktim Gautam Goswami, Prashanth Krishnamurthy, Yann LeCun, Farshad Khorrami|[2411.17662v1](http://arxiv.org/abs/2411.17662v1)|null|
