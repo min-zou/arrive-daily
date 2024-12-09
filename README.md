@@ -183,7 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-05**|**Magnetic Resonance Imaging Feature-Based Subtyping and Model Ensemble for Enhanced Brain Tumor Segmentation**|Zhifan Jiang, Daniel Capellán-Martín, Abhijeet Parida, Austin Tapp, Xinyang Liu, María J. Ledesma-Carbayo, Syed Muhammad Anwar, Marius George Linguraru|[2412.04094v1](http://arxiv.org/abs/2412.04094v1)|null|
+|**2024-12-05**|**Magnetic Resonance Imaging Feature-Based Subtyping and Model Ensemble for Enhanced Brain Tumor Segmentation**|Zhifan Jiang, Daniel Capellán-Martín, Abhijeet Parida, Austin Tapp, Xinyang Liu, María J. Ledesma-Carbayo, Syed Muhammad Anwar, Marius George Linguraru|[2412.04094v1](http://arxiv.org/abs/2412.04094v1)|**[link](https://github.com/Precision-Medical-Imaging-Group/HOPE-Segmenter-Kids)**|
 |**2024-12-05**|**Pinco: Position-induced Consistent Adapter for Diffusion Transformer in Foreground-conditioned Inpainting**|Guangben Lu, Yuzhen Du, Zhimin Sun, Ran Yi, Yifan Qi, Yizhe Tang, Tianyi Wang, Lizhuang Ma, Fangyuan Zou|[2412.03812v1](http://arxiv.org/abs/2412.03812v1)|null|
 |**2024-12-04**|**Gesture Classification in Artworks Using Contextual Image Features**|Azhar Hussian, Mathias Zinnen, Thi My Hang Tran, Andreas Maier, Vincent Christlein|[2412.03456v1](http://arxiv.org/abs/2412.03456v1)|null|
 |**2024-12-04**|**Multimodal Sentiment Analysis Based on BERT and ResNet**|JiaLe Ren|[2412.03625v1](http://arxiv.org/abs/2412.03625v1)|null|
