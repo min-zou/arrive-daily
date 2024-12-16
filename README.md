@@ -109,7 +109,7 @@
 |**2024-12-12**|**T-SVG: Text-Driven Stereoscopic Video Generation**|Qiao Jin, Xiaodong Chen, Wu Liu, Tao Mei, Yongdong Zhang|[2412.09323v1](http://arxiv.org/abs/2412.09323v1)|null|
 |**2024-12-12**|**Cross-View Completion Models are Zero-shot Correspondence Estimators**|Honggyu An, Jinhyeon Kim, Seonghoon Park, Jaewoo Jung, Jisang Han, Sunghwan Hong, Seungryong Kim|[2412.09072v1](http://arxiv.org/abs/2412.09072v1)|null|
 |**2024-12-11**|**BLADE: Single-view Body Mesh Learning through Accurate Depth Estimation**|Shengze Wang, Jiefeng Li, Tianye Li, Ye Yuan, Henry Fuchs, Koki Nagano, Shalini De Mello, Michael Stengel|[2412.08640v1](http://arxiv.org/abs/2412.08640v1)|null|
-|**2024-12-11**|**Utilizing Multi-step Loss for Single Image Reflection Removal**|Abdelrahman Elnenaey, Marwan Torki|[2412.08582v1](http://arxiv.org/abs/2412.08582v1)|**[link](https://github.com/AbdelrhmanElnenaey/SIRR_MSloss_RefGAN_RDM)**|
+|**2024-12-11**|**Utilizing Multi-step Loss for Single Image Reflection Removal**|Abdelrahman Elnenaey, Marwan Torki|[2412.08582v2](http://arxiv.org/abs/2412.08582v2)|**[link](https://github.com/AbdelrhmanElnenaey/SIRR_MSloss_RefGAN_RDM)**|
 |**2024-12-11**|**Dense Depth from Event Focal Stack**|Kenta Horikawa, Mariko Isogawa, Hideo Saito, Shohei Mori|[2412.08120v1](http://arxiv.org/abs/2412.08120v1)|null|
 |**2024-12-10**|**Diffusion-Based Attention Warping for Consistent 3D Scene Editing**|Eyal Gomel, Lior Wolf|[2412.07984v1](http://arxiv.org/abs/2412.07984v1)|null|
 |**2024-12-10**|**Balancing Shared and Task-Specific Representations: A Hybrid Approach to Depth-Aware Video Panoptic Segmentation**|Kurt H. W. Stolle|[2412.07966v1](http://arxiv.org/abs/2412.07966v1)|null|
@@ -174,7 +174,7 @@
 |**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu, Junhao Wang, Yao He, Wen Yang, Gui-Song Xia|[2412.03146v1](http://arxiv.org/abs/2412.03146v1)|**[link](https://github.com/junhaowang615/mcvo)**|
 |**2024-12-04**|**An indoor DSO-based ceiling-vision odometry system for indoor industrial environments**|Abdelhak Bougouffa, Emmanuel Seignez, Samir Bouaziz, Florian Gardes|[2412.02950v1](http://arxiv.org/abs/2412.02950v1)|null|
 |**2024-11-21**|**InCrowd-VI: A Realistic Visual-Inertial Dataset for Evaluating SLAM in Indoor Pedestrian-Rich Spaces for Human Navigation**|Marziyeh Bamdad, Hans-Peter Hutter, Alireza Darvishy|[2411.14358v1](http://arxiv.org/abs/2411.14358v1)|null|
-|**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany, Oren Gal|[2411.13438v1](http://arxiv.org/abs/2411.13438v1)|null|
+|**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany, Oren Gal|[2411.13438v2](http://arxiv.org/abs/2411.13438v2)|null|
 |**2024-11-15**|**BEV-ODOM: Reducing Scale Drift in Monocular Visual Odometry with BEV Representation**|Yufei Wei, Sha Lu, Fuzhang Han, Rong Xiong, Yue Wang|[2411.10195v1](http://arxiv.org/abs/2411.10195v1)|null|
 |**2024-11-12**|**Enhanced Monocular Visual Odometry with AR Poses and Integrated INS-GPS for Robust Localization in Urban Environments**|Ankit Shaw|[2411.08231v2](http://arxiv.org/abs/2411.08231v2)|null|
 |**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul, Ruddra dev Roychoudhury, Brojeshwar Bhowmick|[2411.04796v1](http://arxiv.org/abs/2411.04796v1)|null|
