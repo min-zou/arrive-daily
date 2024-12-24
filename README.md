@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**|Wenxi Chen, Ziyang Ma, Ruiqi Yan, Yuzhe Liang, Xiquan Li, Ruiyang Xu, Zhikang Niu, Yanqiao Zhu, Yifan Yang, Zhanxun Liu, Kai Yu, Yuxuan Hu, Jinyu Li, Yan Lu, Shujie Liu, Xie Chen|[2412.15649v1](http://arxiv.org/abs/2412.15649v1)|null|
 |**2024-12-18**|**Energy-Efficient SLAM via Joint Design of Sensing, Communication, and Exploration Speed**|Zidong Han, Ruibo Jin, Xiaoyang Li, Bingpeng Zhou, Qinyu Zhang, Yi Gong|[2412.13912v1](http://arxiv.org/abs/2412.13912v1)|null|
 |**2024-12-18**|**Immersive Human-in-the-Loop Control: Real-Time 3D Surface Meshing and Physics Simulation**|Sait Akturk, Justin Valentine, Junaid Ahmad, Martin Jagersand|[2412.13752v1](http://arxiv.org/abs/2412.13752v1)|null|
 |**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo, Luis Merino, Fernando Caballero|[2412.13639v1](http://arxiv.org/abs/2412.13639v1)|**[link](https://github.com/robotics-upo/gaussian-rio)**|
@@ -10,7 +11,6 @@
 |**2024-12-16**|**MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors**|Riku Murai, Eric Dexheimer, Andrew J. Davison|[2412.12392v1](http://arxiv.org/abs/2412.12392v1)|null|
 |**2024-12-16**|**Sonar-based Deep Learning in Underwater Robotics: Overview, Robustness and Challenges**|Martin Aubard, Ana Madureira, Luís Teixeira, José Pinto|[2412.11840v1](http://arxiv.org/abs/2412.11840v1)|null|
 |**2024-12-16**|**RoMeO: Robust Metric Visual Odometry**|Junda Cheng, Zhipeng Cai, Zhaoxing Zhang, Wei Yin, Matthias Muller, Michael Paulitsch, Xin Yang|[2412.11530v2](http://arxiv.org/abs/2412.11530v2)|null|
-|**2024-12-14**|**Affine EKF: Exploring and Utilizing Sufficient and Necessary Conditions for Observability Maintenance to Improve EKF Consistency**|Yang Song, Liang Zhao, Shoudong Huang|[2412.10809v1](http://arxiv.org/abs/2412.10809v1)|**[link](https://github.com/yangsong-slam/affine-ekf)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Exploiting Multimodal Spatial-temporal Patterns for Video Object Tracking**|Xiantao Hu, Ying Tai, Xu Zhao, Chen Zhao, Zhenyu Zhang, Jun Li, Bineng Zhong, Jian Yang|[2412.15691v1](http://arxiv.org/abs/2412.15691v1)|null|
 |**2024-12-19**|**Scaling 4D Representations**|João Carreira, Dilara Gokay, Michael King, Chuhan Zhang, Ignacio Rocco, Aravindh Mahendran, Thomas Albert Keck, Joseph Heyward, Skanda Koppula, Etienne Pot, Goker Erdogan, Yana Hasson, Yi Yang, Klaus Greff, Guillaume Le Moing, Sjoerd van Steenkiste, Daniel Zoran, Drew A. Hudson, Pedro Vélez, Luisa Polanía, Luke Friedman, Chris Duvarney, Ross Goroshin, Kelsey Allen, Jacob Walker, Rishabh Kabra, Eric Aboussouan, Jennifer Sun, Thomas Kipf, Carl Doersch, Viorica Pătrăucean, Dima Damen, Pauline Luc, Mehdi S. M. Sajjadi, Andrew Zisserman|[2412.15212v1](http://arxiv.org/abs/2412.15212v1)|null|
 |**2024-12-18**|**Joint Perception and Prediction for Autonomous Driving: A Survey**|Lucas Dal'Col, Miguel Oliveira, Vítor Santos|[2412.14088v1](http://arxiv.org/abs/2412.14088v1)|**[link](https://github.com/pxiangwu/MotionNet)**|
 |**2024-12-18**|**MambaLCT: Boosting Tracking via Long-term Context State Space Model**|Xiaohai Li, Bineng Zhong, Qihua Liang, Guorong Li, Zhiyi Mo, Shuxiang Song|[2412.13615v1](http://arxiv.org/abs/2412.13615v1)|**[link](https://github.com/gxnu-zhonglab/mambalct)**|
@@ -140,7 +141,6 @@
 |**2024-12-14**|**Heterogeneous Graph Transformer for Multiple Tiny Object Tracking in RGB-T Videos**|Qingyu Xu, Longguang Wang, Weidong Sheng, Yingqian Wang, Chao Xiao, Chao Ma, Wei An|[2412.10861v1](http://arxiv.org/abs/2412.10861v1)|**[link](https://github.com/xuqingyu26/hgtmt)**|
 |**2024-12-14**|**Patch-level Sounding Object Tracking for Audio-Visual Question Answering**|Zhangbin Li, Jinxing Zhou, Jing Zhang, Shengeng Tang, Kun Li, Dan Guo|[2412.10749v1](http://arxiv.org/abs/2412.10749v1)|null|
 |**2024-12-13**|**Visual Object Tracking across Diverse Data Modalities: A Review**|Mengmeng Wang, Teli Ma, Shuo Xin, Xiaojun Hou, Jiazheng Xing, Guang Dai, Jingdong Wang, Yong Liu|[2412.09991v1](http://arxiv.org/abs/2412.09991v1)|null|
-|**2024-12-12**|**NormalFlow: Fast, Robust, and Accurate Contact-based Object 6DoF Pose Tracking with Vision-based Tactile Sensors**|Hung-Jui Huang, Michael Kaess, Wenzhen Yuan|[2412.09617v1](http://arxiv.org/abs/2412.09617v1)|**[link](https://github.com/rpl-cmu/normalflow)**|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -196,6 +196,7 @@
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Speedup Techniques for Switchable Temporal Plan Graph Optimization**|He Jiang, Muhan Lin, Jiaoyang Li|[2412.15908v1](http://arxiv.org/abs/2412.15908v1)|null|
 |**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu, Junhao Wang, Yao He, Wen Yang, Gui-Song Xia|[2412.03146v1](http://arxiv.org/abs/2412.03146v1)|**[link](https://github.com/junhaowang615/mcvo)**|
 |**2024-12-03**|**LiDAR-based Registration against Georeferenced Models for Globally Consistent Allocentric Maps**|Jan Quenzel, Linus T. Mallwitz, Benedikt T. Arnold, Sven Behnke|[2412.02533v1](http://arxiv.org/abs/2412.02533v1)|null|
 |**2024-12-02**|**LiDAR SLAMMOT based on Confidence-guided Data Association**|Susu Fang, Hao Li|[2412.01041v1](http://arxiv.org/abs/2412.01041v1)|null|
@@ -205,7 +206,6 @@
 |**2024-10-29**|**Automorphism-Assisted Quantum Approximate Optimization Algorithm for efficient graph optimization**|Vaibhav. N Prakash|[2410.22247v2](http://arxiv.org/abs/2410.22247v2)|null|
 |**2024-10-18**|**Graph Optimality-Aware Stochastic LiDAR Bundle Adjustment with Progressive Spatial Smoothing**|Jianping Li, Thien-Minh Nguyen, Muqing Cao, Shenghai Yuan, Tzu-Yi Hung, Lihua Xie|[2410.14565v1](http://arxiv.org/abs/2410.14565v1)|null|
 |**2024-10-16**|**Gravity-aligned Rotation Averaging with Circular Regression**|Linfei Pan, Marc Pollefeys, Dániel Baráth|[2410.12763v1](http://arxiv.org/abs/2410.12763v1)|**[link](https://github.com/colmap/glomap)**|
-|**2024-10-11**|**Optimal Allocation with Peer Information**|Axel Niemeyer, Justus Preusser|[2410.08954v1](http://arxiv.org/abs/2410.08954v1)|null|
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
