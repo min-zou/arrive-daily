@@ -3,7 +3,7 @@
 |---|---|---|---|---|
 |**2025-01-07**|**SLAM: Towards Efficient Multilingual Reasoning via Selective Language Alignment**|Yuchun Fan, Yongyu Mu, Yilin Wang, Lei Huang, Junhao Ruan, Bei Li, Tong Xiao, Shujian Huang, Xiaocheng Feng, Jingbo Zhu|[2501.03681v1](http://arxiv.org/abs/2501.03681v1)|null|
 |**2025-01-06**|**HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos**|Jinglei Zhang, Jiankang Deng, Chao Ma, Rolandos Alexandros Potamias|[2501.02973v1](http://arxiv.org/abs/2501.02973v1)|null|
-|**2025-01-05**|**LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments**|Haosong Yue, Qingyuan Xu, Fei Chen, Jia Pan, Weihai Chen|[2501.02580v1](http://arxiv.org/abs/2501.02580v1)|null|
+|**2025-01-05**|**LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments**|Haosong Yue, Qingyuan Xu, Fei Chen, Jia Pan, Weihai Chen|[2501.02580v2](http://arxiv.org/abs/2501.02580v2)|null|
 |**2025-01-04**|**ROLO-SLAM: Rotation-Optimized LiDAR-Only SLAM in Uneven Terrain with Ground Vehicle**|Yinchuan Wang, Bin Ren, Xiang Zhang, Pengyu Wang, Chaoqun Wang, Rui Song, Yibin Li, Max Q. -H. Meng|[2501.02166v1](http://arxiv.org/abs/2501.02166v1)|**[link](https://github.com/sdwyc/rolo)**|
 |**2024-12-31**|**PanoSLAM: Panoptic 3D Scene Reconstruction via Gaussian SLAM**|Runnan Chen, Zhaoqing Wang, Jiepeng Wang, Yuexin Ma, Mingming Gong, Wenping Wang, Tongliang Liu|[2501.00352v1](http://arxiv.org/abs/2501.00352v1)|null|
 |**2024-12-30**|**Hierarchical Pose Estimation and Mapping with Multi-Scale Neural Feature Fields**|Evgenii Kruzhkov, Alena Savinykh, Sven Behnke|[2412.20976v1](http://arxiv.org/abs/2412.20976v1)|null|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs for Effective Long Video Analysis with LLMs**|Zeyi Huang, Yuyang Ji, Xiaofang Wang, Nikhil Mehta, Tong Xiao, Donghyun Lee, Sigmund Vanvalkenburgh, Shengxin Zha, Bolin Lai, Licheng Yu, Ning Zhang, Yong Jae Lee, Miao Liu|[2501.04336v1](http://arxiv.org/abs/2501.04336v1)|null|
 |**2025-01-07**|**Neuromorphic Optical Tracking and Imaging of Randomly Moving Targets through Strongly Scattering Media**|Ning Zhang, Timothy Shea, Arto Nurmikko|[2501.03874v1](http://arxiv.org/abs/2501.03874v1)|null|
 |**2025-01-05**|**DeTrack: In-model Latent Denoising Learning for Visual Object Tracking**|Xinyu Zhou, Jinglun Li, Lingyi Hong, Kaixun Jiang, Pinxue Guo, Weifeng Ge, Wenqiang Zhang|[2501.02467v1](http://arxiv.org/abs/2501.02467v1)|null|
 |**2025-01-02**|**HybridTrack: A Hybrid Approach for Robust Multi-Object Tracking**|Leandro Di Bella, Yangxintong Lyu, Bruno Cornelis, Adrian Munteanu|[2501.01275v1](http://arxiv.org/abs/2501.01275v1)|**[link](https://github.com/leandro-svg/hybridtrack)**|
@@ -140,7 +141,6 @@
 |**2024-12-23**|**Cross-View Referring Multi-Object Tracking**|Sijia Chen, En Yu, Wenbing Tao|[2412.17807v1](http://arxiv.org/abs/2412.17807v1)|**[link](https://github.com/chen-si-jia/crmot)**|
 |**2024-12-20**|**Exploiting Multimodal Spatial-temporal Patterns for Video Object Tracking**|Xiantao Hu, Ying Tai, Xu Zhao, Chen Zhao, Zhenyu Zhang, Jun Li, Bineng Zhong, Jian Yang|[2412.15691v1](http://arxiv.org/abs/2412.15691v1)|**[link](https://github.com/nju-pcalab/sttrack)**|
 |**2024-12-19**|**Scaling 4D Representations**|João Carreira, Dilara Gokay, Michael King, Chuhan Zhang, Ignacio Rocco, Aravindh Mahendran, Thomas Albert Keck, Joseph Heyward, Skanda Koppula, Etienne Pot, Goker Erdogan, Yana Hasson, Yi Yang, Klaus Greff, Guillaume Le Moing, Sjoerd van Steenkiste, Daniel Zoran, Drew A. Hudson, Pedro Vélez, Luisa Polanía, Luke Friedman, Chris Duvarney, Ross Goroshin, Kelsey Allen, Jacob Walker, Rishabh Kabra, Eric Aboussouan, Jennifer Sun, Thomas Kipf, Carl Doersch, Viorica Pătrăucean, Dima Damen, Pauline Luc, Mehdi S. M. Sajjadi, Andrew Zisserman|[2412.15212v1](http://arxiv.org/abs/2412.15212v1)|null|
-|**2024-12-18**|**Joint Perception and Prediction for Autonomous Driving: A Survey**|Lucas Dal'Col, Miguel Oliveira, Vítor Santos|[2412.14088v1](http://arxiv.org/abs/2412.14088v1)|**[link](https://github.com/pxiangwu/MotionNet)**|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,8 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Boosting Salient Object Detection with Knowledge Distillated from Large Foundation Models**|Miaoyang He, Shuyong Gao, Tsui Qin Mok, Weifeng Ge, Wengqiang Zhang|[2501.04582v1](http://arxiv.org/abs/2501.04582v1)|null|
+|**2025-01-08**|**Recognition-Oriented Low-Light Image Enhancement based on Global and Pixelwise Optimization**|Seitaro Ono, Yuka Ogino, Takahiro Toizumi, Atsushi Ito, Masato Tsukada|[2501.04210v1](http://arxiv.org/abs/2501.04210v1)|null|
 |**2025-01-07**|**SCC-YOLO: An Improved Object Detector for Assisting in Brain Tumor Diagnosis**|Runci Bai|[2501.03836v1](http://arxiv.org/abs/2501.03836v1)|null|
 |**2025-01-07**|**Image Segmentation: Inducing graph-based learning**|Aryan Singh, Pepijn Van de Ven, Ciarán Eising, Patrick Denny|[2501.03765v1](http://arxiv.org/abs/2501.03765v1)|**[link](https://github.com/aryan-at-ul/electronic-imaging-2025-paper-4492)**|
 |**2025-01-07**|**What Does a Software Engineer Look Like? Exploring Societal Stereotypes in LLMs**|Muneera Bano, Hashini Gunatilake, Rashina Hoda|[2501.03569v1](http://arxiv.org/abs/2501.03569v1)|null|
@@ -191,8 +193,6 @@
 |**2025-01-05**|**DeTrack: In-model Latent Denoising Learning for Visual Object Tracking**|Xinyu Zhou, Jinglun Li, Lingyi Hong, Kaixun Jiang, Pinxue Guo, Weifeng Ge, Wenqiang Zhang|[2501.02467v1](http://arxiv.org/abs/2501.02467v1)|null|
 |**2025-01-04**|**Generating Multimodal Images with GAN: Integrating Text, Image, and Style**|Chaoyi Tan, Wenqing Zhang, Zhen Qi, Kowei Shih, Xinshi Li, Ao Xiang|[2501.02167v1](http://arxiv.org/abs/2501.02167v1)|null|
 |**2025-01-02**|**RealDiffFusionNet: Neural Controlled Differential Equation Informed Multi-Head Attention Fusion Networks for Disease Progression Modeling Using Real-World Data**|Aashish Cheruvu, Nathaniel Rigoni|[2501.02025v1](http://arxiv.org/abs/2501.02025v1)|null|
-|**2025-01-02**|**ProjectedEx: Enhancing Generation in Explainable AI for Prostate Cancer**|Xuyin Qi, Zeyu Zhang, Aaron Berliano Handoko, Huazhan Zheng, Mingxi Chen, Ta Duc Huy, Vu Minh Hieu Phan, Lei Zhang, Linqi Cheng, Shiyu Jiang, Zhiwei Zhang, Zhibin Liao, Yang Zhao, Minh-Son To|[2501.01392v1](http://arxiv.org/abs/2501.01392v1)|**[link](https://github.com/richardqiyi/projectedex)**|
-|**2025-01-02**|**Generalized Task-Driven Medical Image Quality Enhancement with Gradient Promotion**|Dong Zhang, Kwang-Ting Cheng|[2501.01114v1](http://arxiv.org/abs/2501.01114v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
