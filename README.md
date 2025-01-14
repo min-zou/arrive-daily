@@ -183,7 +183,9 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**MRI Patterns of the Hippocampus and Amygdala for Predicting Stages of Alzheimer's Progression: A Minimal Feature Machine Learning Framework**|Aswini Kumar Patra, Soraisham Elizabeth Devi, Tejashwini Gajurel|[2501.05852v1](http://arxiv.org/abs/2501.05852v1)|null|
 |**2025-01-09**|**FOCUS: Towards Universal Foreground Segmentation**|Zuyao You, Lingyu Kong, Lingchen Meng, Zuxuan Wu|[2501.05238v1](http://arxiv.org/abs/2501.05238v1)|**[link](https://github.com/geshang777/FOCUS)**|
+|**2025-01-09**|**Interpretable deep learning illuminates multiple structures fluorescence imaging: a path toward trustworthy artificial intelligence in microscopy**|Mingyang Chen, Luhong Jin, Xuwei Xuan, Defu Yang, Yun Cheng, Ju Zhang|[2501.05490v1](http://arxiv.org/abs/2501.05490v1)|null|
 |**2025-01-09**|**V2C-CBM: Building Concept Bottlenecks with Vision-to-Concept Tokenizer**|Hangzhou He, Lei Zhu, Xinliang Zhang, Shuang Zeng, Qian Chen, Yanye Lu|[2501.04975v1](http://arxiv.org/abs/2501.04975v1)|**[link](https://github.com/riverback/v2c-cbm)**|
 |**2025-01-08**|**Boosting Salient Object Detection with Knowledge Distillated from Large Foundation Models**|Miaoyang He, Shuyong Gao, Tsui Qin Mok, Weifeng Ge, Wengqiang Zhang|[2501.04582v1](http://arxiv.org/abs/2501.04582v1)|null|
 |**2025-01-08**|**Recognition-Oriented Low-Light Image Enhancement based on Global and Pixelwise Optimization**|Seitaro Ono, Yuka Ogino, Takahiro Toizumi, Atsushi Ito, Masato Tsukada|[2501.04210v1](http://arxiv.org/abs/2501.04210v1)|null|
@@ -191,15 +193,13 @@
 |**2025-01-07**|**Image Segmentation: Inducing graph-based learning**|Aryan Singh, Pepijn Van de Ven, Ciarán Eising, Patrick Denny|[2501.03765v1](http://arxiv.org/abs/2501.03765v1)|**[link](https://github.com/aryan-at-ul/electronic-imaging-2025-paper-4492)**|
 |**2025-01-07**|**What Does a Software Engineer Look Like? Exploring Societal Stereotypes in LLMs**|Muneera Bano, Hashini Gunatilake, Rashina Hoda|[2501.03569v1](http://arxiv.org/abs/2501.03569v1)|null|
 |**2025-01-06**|**Label-free Concept Based Multiple Instance Learning for Gigapixel Histopathology**|Susu Sun, Leslie Tessier, Frédérique Meeuwsen, Clément Grisi, Dominique van Midden, Geert Litjens, Christian F. Baumgartner|[2501.02922v1](http://arxiv.org/abs/2501.02922v1)|null|
-|**2025-01-06**|**Integrating Language-Image Prior into EEG Decoding for Cross-Task Zero-Calibration RSVP-BCI**|Xujin Li, Wei Wei, Shuang Qiu, Xinyi Zhang, Fu Li, Huiguang He|[2501.02841v1](http://arxiv.org/abs/2501.02841v1)|null|
-|**2025-01-05**|**DeTrack: In-model Latent Denoising Learning for Visual Object Tracking**|Xinyu Zhou, Jinglun Li, Lingyi Hong, Kaixun Jiang, Pinxue Guo, Weifeng Ge, Wenqiang Zhang|[2501.02467v1](http://arxiv.org/abs/2501.02467v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-07**|**Sharp bounds for product and sum throttling numbers**|Ryan Blair, Gabriel Elvin, Veronika Furst, Leslie Hogben, Nandita Sahajpal, Tony W. H. Wong|[2501.03472v1](http://arxiv.org/abs/2501.03472v1)|null|
 |**2025-01-03**|**TRG-planner: Traversal Risk Graph-Based Path Planning in Unstructured Environments for Safe and Efficient Navigation**|Dongkyu Lee, I Made Aswin Nahrendra, Minho Oh, Byeongho Yu, Hyun Myung|[2501.01806v1](http://arxiv.org/abs/2501.01806v1)|null|
 |**2025-01-03**|**A Minimal Subset Approach for Efficient and Scalable Loop Closure**|Nikolaos Stathoulopoulos, Christoforos Kanellakis, George Nikolakopoulos|[2501.01791v1](http://arxiv.org/abs/2501.01791v1)|**[link](https://github.com/ltu-rai/opt-key)**|
-|**2024-12-20**|**Speedup Techniques for Switchable Temporal Plan Graph Optimization**|He Jiang, Muhan Lin, Jiaoyang Li|[2412.15908v1](http://arxiv.org/abs/2412.15908v1)|null|
+|**2024-12-20**|**Speedup Techniques for Switchable Temporal Plan Graph Optimization**|He Jiang, Muhan Lin, Jiaoyang Li|[2412.15908v2](http://arxiv.org/abs/2412.15908v2)|null|
 |**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu, Junhao Wang, Yao He, Wen Yang, Gui-Song Xia|[2412.03146v1](http://arxiv.org/abs/2412.03146v1)|**[link](https://github.com/junhaowang615/mcvo)**|
 |**2024-12-03**|**LiDAR-based Registration against Georeferenced Models for Globally Consistent Allocentric Maps**|Jan Quenzel, Linus T. Mallwitz, Benedikt T. Arnold, Sven Behnke|[2412.02533v1](http://arxiv.org/abs/2412.02533v1)|null|
 |**2024-12-02**|**LiDAR SLAMMOT based on Confidence-guided Data Association**|Susu Fang, Hao Li|[2412.01041v1](http://arxiv.org/abs/2412.01041v1)|null|
