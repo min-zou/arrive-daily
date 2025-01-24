@@ -1,16 +1,16 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Grid-based Submap Joining: An Efficient Algorithm for Simultaneously Optimizing Global Occupancy Map and Local Submap Frames**|Yingyu Wang, Liang Zhao, Shoudong Huang|[2501.12764v1](http://arxiv.org/abs/2501.12764v1)|null|
 |**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris, Yiduo Wang, Mikolaj Kliniewski, Viorela Ila|[2501.11893v1](http://arxiv.org/abs/2501.11893v1)|null|
 |**2025-01-21**|**Survey on Monocular Metric Depth Estimation**|Jiuling Zhang|[2501.11841v1](http://arxiv.org/abs/2501.11841v1)|null|
 |**2025-01-19**|**OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**|Dominik Kulmer, Maximilian Leitenstern, Marcel Weinmann, Markus Lienkamp|[2501.11111v1](http://arxiv.org/abs/2501.11111v1)|null|
 |**2025-01-19**|**Factor Graph-Based Active SLAM for Spacecraft Proximity Operations**|Lorenzo Ticozzi, Panagiotis Tsiotras|[2501.10950v1](http://arxiv.org/abs/2501.10950v1)|null|
-|**2025-01-16**|**Mesh2SLAM in VR: A Fast Geometry-Based SLAM Framework for Rapid Prototyping in Virtual Reality Applications**|Carlos Augusto Pinheiro de Sousa, Heiko Hamann, Oliver Deussen|[2501.09600v3](http://arxiv.org/abs/2501.09600v3)|null|
+|**2025-01-16**|**Mesh2SLAM in VR: A Fast Geometry-Based SLAM Framework for Rapid Prototyping in Virtual Reality Applications**|Carlos Augusto Pinheiro de Sousa, Heiko Hamann, Oliver Deussen|[2501.09600v4](http://arxiv.org/abs/2501.09600v4)|null|
 |**2025-01-16**|**Comparison of Various SLAM Systems for Mobile Robot in an Indoor Environment**|Maksim Filipenko, Ilya Afanasyev|[2501.09490v1](http://arxiv.org/abs/2501.09490v1)|null|
 |**2025-01-15**|**Unified Few-shot Crack Segmentation and its Precise 3D Automatic Measurement in Concrete Structures**|Pengru Deng, Jiapeng Yao, Chun Li, Su Wang, Xinrun Li, Varun Ojha, Xuhui He, Takashi Matsumoto|[2501.09203v1](http://arxiv.org/abs/2501.09203v1)|null|
 |**2025-01-15**|**AutoLoop: Fast Visual SLAM Fine-tuning through Agentic Curriculum Learning**|Assaf Lahiany, Oren Gal|[2501.09160v1](http://arxiv.org/abs/2501.09160v1)|null|
 |**2025-01-15**|**SLC$^2$-SLAM: Semantic-guided Loop Closure with Shared Latent Code for NeRF SLAM**|Yuhang Ming, Di Ma, Weichen Dai, Han Yang, Rui Fan, Guofeng Zhang, Wanzeng Kong|[2501.08880v1](http://arxiv.org/abs/2501.08880v1)|null|
-|**2025-01-15**|**GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping**|Sheng Hong, Chunran Zheng, Yishu Shen, Changze Li, Fu Zhang, Tong Qin, Shaojie Shen|[2501.08672v1](http://arxiv.org/abs/2501.08672v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -105,6 +105,7 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Enhancing Monocular Depth Estimation with Multi-Source Auxiliary Tasks**|Alessio Quercia, Erenus Yildiz, Zhuo Cao, Kai Krajsek, Abigail Morrison, Ira Assent, Hanno Scharr|[2501.12824v1](http://arxiv.org/abs/2501.12824v1)|null|
 |**2025-01-21**|**Video Depth Anything: Consistent Depth Estimation for Super-Long Videos**|Sili Chen, Hengkai Guo, Shengnan Zhu, Feihu Zhang, Zilong Huang, Jiashi Feng, Bingyi Kang|[2501.12375v2](http://arxiv.org/abs/2501.12375v2)|null|
 |**2025-01-21**|**Fast Underwater Scene Reconstruction using Multi-View Stereo and Physical Imaging**|Shuyi Hu, Qi Liu|[2501.11884v1](http://arxiv.org/abs/2501.11884v1)|null|
 |**2025-01-21**|**Survey on Monocular Metric Depth Estimation**|Jiuling Zhang|[2501.11841v1](http://arxiv.org/abs/2501.11841v1)|null|
@@ -114,7 +115,6 @@
 |**2025-01-17**|**Multi-Modal Attention Networks for Enhanced Segmentation and Depth Estimation of Subsurface Defects in Pulse Thermography**|Mohammed Salah, Naoufel Werghi, Davor Svetinovic, Yusra Abdulrahman|[2501.09994v1](http://arxiv.org/abs/2501.09994v1)|**[link](https://github.com/mohammedsalah98/pt_fusion)**|
 |**2025-01-17**|**FoundationStereo: Zero-Shot Stereo Matching**|Bowen Wen, Matthew Trepte, Joseph Aribido, Jan Kautz, Orazio Gallo, Stan Birchfield|[2501.09898v2](http://arxiv.org/abs/2501.09898v2)|null|
 |**2025-01-16**|**DEFOM-Stereo: Depth Foundation Model Based Stereo Matching**|Hualie Jiang, Zhiqiang Lou, Laiyan Ding, Rui Xu, Minglang Tan, Wenjie Jiang, Rui Huang|[2501.09466v1](http://arxiv.org/abs/2501.09466v1)|**[link](https://github.com/insta360-research-team/defom-stereo)**|
-|**2025-01-15**|**BloomScene: Lightweight Structured 3D Gaussian Splatting for Crossmodal Scene Generation**|Xiaolu Hou, Mingcheng Li, Dingkang Yang, Jiawei Chen, Ziyun Qian, Xiao Zhao, Yue Jiang, Jinjie Wei, Qingyao Xu, Lihua Zhang|[2501.10462v1](http://arxiv.org/abs/2501.10462v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Machine Learning Modeling for Multi-order Human Visual Motion Processing**|Zitang Sun, Yen-Ju Chen, Yung-Hao Yang, Yuan Li, Shin'ya Nishida|[2501.12810v1](http://arxiv.org/abs/2501.12810v1)|**[link](https://github.com/anoymized/multi-order-motion-model)**|
 |**2025-01-18**|**MedFILIP: Medical Fine-grained Language-Image Pre-training**|Xinjie Liang, Xiangyu Li, Fanding Li, Jie Jiang, Qing Dong, Wei Wang, Kuanquan Wang, Suyu Dong, Gongning Luo, Shuo Li|[2501.10775v1](http://arxiv.org/abs/2501.10775v1)|**[link](https://github.com/perceptioncomputinglab/medfilip)**|
 |**2025-01-18**|**Speech Emotion Detection Based on MFCC and CNN-LSTM Architecture**|Qianhe Ouyang|[2501.10666v1](http://arxiv.org/abs/2501.10666v1)|null|
 |**2025-01-16**|**HydraMix: Multi-Image Feature Mixing for Small Data Image Classification**|Christoph Reinders, Frederik Schubert, Bodo Rosenhahn|[2501.09504v1](http://arxiv.org/abs/2501.09504v1)|null|
@@ -192,7 +193,6 @@
 |**2025-01-12**|**Improved joint modelling of breast cancer radiomics features and hazard by image registration aided longitudinal CT data**|Subrata Mukherjee|[2501.06814v2](http://arxiv.org/abs/2501.06814v2)|null|
 |**2025-01-10**|**MRI Patterns of the Hippocampus and Amygdala for Predicting Stages of Alzheimer's Progression: A Minimal Feature Machine Learning Framework**|Aswini Kumar Patra, Soraisham Elizabeth Devi, Tejashwini Gajurel|[2501.05852v1](http://arxiv.org/abs/2501.05852v1)|null|
 |**2025-01-09**|**FOCUS: Towards Universal Foreground Segmentation**|Zuyao You, Lingyu Kong, Lingchen Meng, Zuxuan Wu|[2501.05238v1](http://arxiv.org/abs/2501.05238v1)|**[link](https://github.com/geshang777/FOCUS)**|
-|**2025-01-09**|**Interpretable deep learning illuminates multiple structures fluorescence imaging: a path toward trustworthy artificial intelligence in microscopy**|Mingyang Chen, Luhong Jin, Xuwei Xuan, Defu Yang, Yun Cheng, Ju Zhang|[2501.05490v1](http://arxiv.org/abs/2501.05490v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
