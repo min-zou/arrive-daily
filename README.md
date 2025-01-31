@@ -66,6 +66,7 @@
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Segmentation-Aware Generative Reinforcement Network (GRN) for Tissue Layer Segmentation in 3-D Ultrasound Images for Chronic Low-back Pain (cLBP) Assessment**|Zixue Zeng, Xiaoyan Zhao, Matthew Cartier, Tong Yu, Jing Wang, Xin Meng, Zhiyu Sheng, Maryam Satarpour, John M Cormack, Allison Bean, Ryan Nussbaum, Maya Maurer, Emily Landis-Walkenhorst, Dinesh Kumbhare, Kang Kim, Ajay Wasan, Jiantao Pu|[2501.17690v1](http://arxiv.org/abs/2501.17690v1)|null|
 |**2025-01-27**|**Automatic Calibration of a Multi-Camera System with Limited Overlapping Fields of View for 3D Surgical Scene Reconstruction**|Tim Flückiger, Jonas Hein, Valery Fischer, Philipp Fürnstahl, Lilian Calvet|[2501.16221v2](http://arxiv.org/abs/2501.16221v2)|null|
 |**2025-01-25**|**Towards Better Robustness: Progressively Joint Pose-3DGS Learning for Arbitrarily Long Videos**|Zhen-Hui Dong, Sheng Ye, Yu-Hui Wen, Nannan Li, Yong-Jin Liu|[2501.15096v1](http://arxiv.org/abs/2501.15096v1)|null|
 |**2025-01-24**|**Light3R-SfM: Towards Feed-forward Structure-from-Motion**|Sven Elflein, Qunjie Zhou, Sérgio Agostinho, Laura Leal-Taixé|[2501.14914v1](http://arxiv.org/abs/2501.14914v1)|null|
@@ -75,7 +76,6 @@
 |**2025-01-13**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu, Rong Liu, Meida Chen, Peter Beerel, Andrew Feng|[2501.07015v2](http://arxiv.org/abs/2501.07015v2)|null|
 |**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng, Steve Zhang, Weizhe Lin, Aaron Zhang, Walterio W. Mayol-Cuevas, Junxiao Shen|[2501.06927v1](http://arxiv.org/abs/2501.06927v1)|null|
 |**2025-01-11**|**Aug3D: Augmenting large scale outdoor datasets for Generalizable Novel View Synthesis**|Aditya Rauniyar, Omar Alama, Silong Yong, Katia Sycara, Sebastian Scherer|[2501.06431v1](http://arxiv.org/abs/2501.06431v1)|null|
-|**2025-01-09**|**Existence of dynamical fluctuation in AMPT generated data for Au+Au collisions at 10 AGeV**|Somen Gope, Supriya Das, Saikat Biswas|[2501.05175v1](http://arxiv.org/abs/2501.05175v1)|null|
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,7 +183,8 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-28**|**Vision-based autonomous structural damage detection using data-driven methods**|Seyyed Taghi Ataei, Parviz Mohammad Zadeh, Saeid Ataei|[2501.16662v1](http://arxiv.org/abs/2501.16662v1)|null|
+|**2025-01-29**|**Trustworthy image-to-image translation: evaluating uncertainty calibration in unpaired training scenarios**|Ciaran Bench, Emir Ahmed, Spencer A. Thomas|[2501.17570v1](http://arxiv.org/abs/2501.17570v1)|null|
+|**2025-01-28**|**Vision-based autonomous structural damage detection using data-driven methods**|Seyyed Taghi Ataei, Parviz Mohammad Zadeh, Saeid Ataei|[2501.16662v2](http://arxiv.org/abs/2501.16662v2)|null|
 |**2025-01-27**|**CILP-FGDI: Exploiting Vision-Language Model for Generalizable Person Re-Identification**|Huazhong Zhao, Lei Qi, Xin Geng|[2501.16065v1](http://arxiv.org/abs/2501.16065v1)|**[link](https://github.com/Qi5Lei/CLIP-FGDI)**|
 |**2025-01-26**|**IPVTON: Image-based 3D Virtual Try-on with Image Prompt Adapter**|Xiaojing Zhong, Zhonghua Wu, Xiaofeng Yang, Guosheng Lin, Qingyao Wu|[2501.15616v1](http://arxiv.org/abs/2501.15616v1)|null|
 |**2025-01-26**|**Universal Image Restoration Pre-training via Degradation Classification**|JiaKui Hu, Lujia Jin, Zhengjian Yao, Yanye Lu|[2501.15510v1](http://arxiv.org/abs/2501.15510v1)|**[link](https://github.com/milab-pku/dcpt)**|
@@ -192,7 +193,6 @@
 |**2025-01-23**|**Meta-Feature Adapter: Integrating Environmental Metadata for Enhanced Animal Re-identification**|Yuzhuo Li, Di Zhao, Yihao Wu, Yun Sing Koh|[2501.13368v1](http://arxiv.org/abs/2501.13368v1)|null|
 |**2025-01-22**|**Scaling for Fairness? Analyzing Model Size, Data Composition, and Multilinguality in Vision-Language Bias**|Zahraa Al Sahili, Ioannis Patras, Matthew Purver|[2501.13223v2](http://arxiv.org/abs/2501.13223v2)|null|
 |**2025-01-22**|**Machine Learning Modeling for Multi-order Human Visual Motion Processing**|Zitang Sun, Yen-Ju Chen, Yung-Hao Yang, Yuan Li, Shin'ya Nishida|[2501.12810v1](http://arxiv.org/abs/2501.12810v1)|**[link](https://github.com/anoymized/multi-order-motion-model)**|
-|**2025-01-18**|**MedFILIP: Medical Fine-grained Language-Image Pre-training**|Xinjie Liang, Xiangyu Li, Fanding Li, Jie Jiang, Qing Dong, Wei Wang, Kuanquan Wang, Suyu Dong, Gongning Luo, Shuo Li|[2501.10775v1](http://arxiv.org/abs/2501.10775v1)|**[link](https://github.com/perceptioncomputinglab/medfilip)**|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
