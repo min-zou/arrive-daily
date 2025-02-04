@@ -1,6 +1,9 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang, Ruben Mascaro, Ignacio Alzugaray, Sai Manoj Prakhya, Marco Karrer, Ziyuan Liu, Margarita Chli|[2501.19382v1](http://arxiv.org/abs/2501.19382v1)|**[link](https://github.com/crepuscularlight/semanticloopclosure)**|
+|**2025-01-31**|**Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping**|Yiming Huang, Beilei Cui, Long Bai, Zhen Chen, Jinlin Wu, Zhen Li, Hongbin Liu, Hongliang Ren|[2501.19319v1](http://arxiv.org/abs/2501.19319v1)|**[link](https://github.com/lastbasket/endo-2dtam)**|
+|**2025-01-31**|**GO: The Great Outdoors Multimodal Dataset**|Peng Jiang, Kasi Viswanath, Akhil Nagariya, George Chustz, Maggie Wigness, Philip Osteen, Timothy Overbye, Christian Ellis, Long Quang, Srikanth Saripalli|[2501.19274v1](http://arxiv.org/abs/2501.19274v1)|null|
 |**2025-01-30**|**Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems**|Liudi Yang, Sai Manoj Prakhya, Senhua Zhu, Ziyuan Liu|[2501.18110v1](http://arxiv.org/abs/2501.18110v1)|null|
 |**2025-01-28**|**SSF-PAN: Semantic Scene Flow-Based Perception for Autonomous Navigation in Traffic Scenarios**|Yinqi Chen, Meiying Zhang, Qi Hao, Guang Zhou|[2501.16754v1](http://arxiv.org/abs/2501.16754v1)|null|
 |**2025-01-24**|**Visual-Lidar Map Alignment for Infrastructure Inspections**|Jake McLaughlin, Nicholas Charron, Sriram Narasimhan|[2501.14486v2](http://arxiv.org/abs/2501.14486v2)|**[link](https://github.com/jakemclaughlin6/vlma)**|
@@ -8,9 +11,6 @@
 |**2025-01-24**|**HAMMER: Heterogeneous, Multi-Robot Semantic Gaussian Splatting**|Javier Yu, Timothy Chen, Mac Schwager|[2501.14147v1](http://arxiv.org/abs/2501.14147v1)|null|
 |**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak, Euntai Kim|[2501.13402v1](http://arxiv.org/abs/2501.13402v1)|null|
 |**2025-01-22**|**Grid-based Submap Joining: An Efficient Algorithm for Simultaneously Optimizing Global Occupancy Map and Local Submap Frames**|Yingyu Wang, Liang Zhao, Shoudong Huang|[2501.12764v1](http://arxiv.org/abs/2501.12764v1)|null|
-|**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris, Yiduo Wang, Mikolaj Kliniewski, Viorela Ila|[2501.11893v1](http://arxiv.org/abs/2501.11893v1)|**[link](https://github.com/acfr-rpg/dynosam)**|
-|**2025-01-21**|**Survey on Monocular Metric Depth Estimation**|Jiuling Zhang|[2501.11841v1](http://arxiv.org/abs/2501.11841v1)|null|
-|**2025-01-19**|**OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**|Dominik Kulmer, Maximilian Leitenstern, Marcel Weinmann, Markus Lienkamp|[2501.11111v1](http://arxiv.org/abs/2501.11111v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -74,7 +74,7 @@
 |**2025-01-21**|**Theory of quantum-geometric charge and spin Josephson diode effects in strongly spin-polarized hybrid structures with noncoplanar spin textures**|Niklas L. Schulz, Danilo Nikolić, Matthias Eschrig|[2501.12232v1](http://arxiv.org/abs/2501.12232v1)|null|
 |**2025-01-14**|**Selective Attention Merging for low resource tasks: A case study of Child ASR**|Natarajan Balaji Shankar, Zilai Wang, Eray Eren, Abeer Alwan|[2501.08468v1](http://arxiv.org/abs/2501.08468v1)|**[link](https://github.com/balaji1312/sa_merging)**|
 |**2025-01-13**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu, Rong Liu, Meida Chen, Peter Beerel, Andrew Feng|[2501.07015v2](http://arxiv.org/abs/2501.07015v2)|null|
-|**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng, Steve Zhang, Weizhe Lin, Aaron Zhang, Walterio W. Mayol-Cuevas, Junxiao Shen|[2501.06927v1](http://arxiv.org/abs/2501.06927v1)|null|
+|**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng, Steve Zhang, Weizhe Lin, Aaron Zhang, Walterio W. Mayol-Cuevas, Junxiao Shen|[2501.06927v2](http://arxiv.org/abs/2501.06927v2)|null|
 |**2025-01-11**|**Aug3D: Augmenting large scale outdoor datasets for Generalizable Novel View Synthesis**|Aditya Rauniyar, Omar Alama, Silong Yong, Katia Sycara, Sebastian Scherer|[2501.06431v1](http://arxiv.org/abs/2501.06431v1)|null|
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
@@ -85,13 +85,14 @@
 |**2025-01-24**|**Light3R-SfM: Towards Feed-forward Structure-from-Motion**|Sven Elflein, Qunjie Zhou, Sérgio Agostinho, Laura Leal-Taixé|[2501.14914v1](http://arxiv.org/abs/2501.14914v1)|null|
 |**2025-01-24**|**Dense-SfM: Structure from Motion with Dense Consistent Matching**|JongMin Lee, Sungjoo Yoo|[2501.14277v1](http://arxiv.org/abs/2501.14277v1)|null|
 |**2025-01-13**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu, Rong Liu, Meida Chen, Peter Beerel, Andrew Feng|[2501.07015v2](http://arxiv.org/abs/2501.07015v2)|null|
-|**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng, Steve Zhang, Weizhe Lin, Aaron Zhang, Walterio W. Mayol-Cuevas, Junxiao Shen|[2501.06927v1](http://arxiv.org/abs/2501.06927v1)|null|
+|**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng, Steve Zhang, Weizhe Lin, Aaron Zhang, Walterio W. Mayol-Cuevas, Junxiao Shen|[2501.06927v2](http://arxiv.org/abs/2501.06927v2)|null|
 |**2025-01-11**|**Aug3D: Augmenting large scale outdoor datasets for Generalizable Novel View Synthesis**|Aditya Rauniyar, Omar Alama, Silong Yong, Katia Sycara, Sebastian Scherer|[2501.06431v1](http://arxiv.org/abs/2501.06431v1)|null|
 |**2025-01-06**|**Targetless Intrinsics and Extrinsic Calibration of Multiple LiDARs and Cameras with IMU using Continuous-Time Estimation**|Yuezhang Lv, Yunzhou Zhang, Chao Lu, Jiajun Zhu, Song Wu|[2501.02821v1](http://arxiv.org/abs/2501.02821v1)|null|
 |**2025-01-02**|**On Unifying Video Generation and Camera Pose Estimation**|Chun-Hao Paul Huang, Jae Shin Yoon, Hyeonho Jeong, Niloy Mitra, Duygu Ceylan|[2501.01409v1](http://arxiv.org/abs/2501.01409v1)|null|
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**3D Reconstruction of Shoes for Augmented Reality**|Pratik Shrestha, Sujan Kapali, Swikar Gautam, Vishal Pokharel, Santosh Giri|[2501.18643v1](http://arxiv.org/abs/2501.18643v1)|null|
 |**2025-01-28**|**Consistency Diffusion Models for Single-Image 3D Reconstruction with Priors**|Chenru Jiang, Chengrui Zhang, Xi Yang, Jie Sun, Yifei Zhang, Bin Dong, Kaizhu Huang|[2501.16737v2](http://arxiv.org/abs/2501.16737v2)|null|
 |**2025-01-27**|**3D Reconstruction of non-visible surfaces of objects from a Single Depth View -- Comparative Study**|Rafał Staszak, Piotr Michałek, Jakub Chudziński, Marek Kopicki, Dominik Belter|[2501.16101v1](http://arxiv.org/abs/2501.16101v1)|null|
 |**2025-01-26**|**Dfilled: Repurposing Edge-Enhancing Diffusion for Guided DSM Void Filling**|Daniel Panangian, Ksenia Bittner|[2501.15440v2](http://arxiv.org/abs/2501.15440v2)|null|
@@ -101,10 +102,10 @@
 |**2025-01-24**|**Towards Unified Structured Light Optimization**|Tinglei Wan, Tonghua Su, Zhongjie Wang|[2501.14659v1](http://arxiv.org/abs/2501.14659v1)|null|
 |**2025-01-24**|**Trick-GS: A Balanced Bag of Tricks for Efficient Gaussian Splatting**|Anil Armagan, Albert Saà-Garriga, Bruno Manganelli, Mateusz Nowak, Mehmet Kerim Yucel|[2501.14534v1](http://arxiv.org/abs/2501.14534v1)|null|
 |**2025-01-24**|**Scalable Benchmarking and Robust Learning for Noise-Free Ego-Motion and 3D Reconstruction from Noisy Video**|Xiaohao Xu, Tianyi Zhang, Shibo Zhao, Xiang Li, Sibo Wang, Yongqi Chen, Ye Li, Bhiksha Raj, Matthew Johnson-Roberson, Sebastian Scherer, Xiaonan Huang|[2501.14319v1](http://arxiv.org/abs/2501.14319v1)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
-|**2025-01-24**|**Comparative analysis of two episodes of strongly geoeffective CME events in November and December 2023**|M. Temmer, M. Dumbovic, K. Martinic, G. M. Cappello, A. K. Remeshan, F. Matkovic, D. Milosic, F. Koller, J. Calogovic, R. Susino, M. Romoli|[2501.14295v1](http://arxiv.org/abs/2501.14295v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-30**|**Zero-Shot Novel View and Depth Synthesis with Multi-View Geometric Diffusion**|Vitor Guizilini, Muhammad Zubair Irshad, Dian Chen, Greg Shakhnarovich, Rares Ambrus|[2501.18804v1](http://arxiv.org/abs/2501.18804v1)|null|
 |**2025-01-25**|**Snapshot Compressed Imaging Based Single-Measurement Computer Vision for Videos**|Fengpu Pan, Jiangtao Wen, Yuxing Han|[2501.15122v1](http://arxiv.org/abs/2501.15122v1)|null|
 |**2025-01-24**|**Rethinking Encoder-Decoder Flow Through Shared Structures**|Frederik Laboyrie, Mehmet Kerim Yucel, Albert Saa-Garriga|[2501.14535v1](http://arxiv.org/abs/2501.14535v1)|null|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei, Renrui Zhang, Xiangfei Hu, Weifeng Lin, Zhen Li, Wenjian Sun, Ruoyi Du, Le Zhuo, Zhongyu Li, Xinyue Li, Shitian Zhao, Ziyu Guo, Yiting Lu, Peng Gao, Hongsheng Li|[2501.13920v1](http://arxiv.org/abs/2501.13920v1)|null|
@@ -114,7 +115,6 @@
 |**2025-01-21**|**Fast Underwater Scene Reconstruction using Multi-View Stereo and Physical Imaging**|Shuyi Hu, Qi Liu|[2501.11884v1](http://arxiv.org/abs/2501.11884v1)|null|
 |**2025-01-21**|**Survey on Monocular Metric Depth Estimation**|Jiuling Zhang|[2501.11841v1](http://arxiv.org/abs/2501.11841v1)|null|
 |**2025-01-19**|**RDG-GS: Relative Depth Guidance with Gaussian Splatting for Real-time Sparse-View 3D Rendering**|Chenlu Zhan, Yufei Zhang, Yu Lin, Gaoang Wang, Hongwei Wang|[2501.11102v1](http://arxiv.org/abs/2501.11102v1)|null|
-|**2025-01-17**|**Zero-Shot Monocular Scene Flow Estimation in the Wild**|Yiqing Liang, Abhishek Badki, Hang Su, James Tompkin, Orazio Gallo|[2501.10357v2](http://arxiv.org/abs/2501.10357v2)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Self-Supervised Cross-Modal Text-Image Time Series Retrieval in Remote Sensing**|Genc Hoxha, Olivér Angyal, Begüm Demir|[2501.19043v1](http://arxiv.org/abs/2501.19043v1)|null|
 |**2025-01-29**|**Trustworthy image-to-image translation: evaluating uncertainty calibration in unpaired training scenarios**|Ciaran Bench, Emir Ahmed, Spencer A. Thomas|[2501.17570v1](http://arxiv.org/abs/2501.17570v1)|null|
 |**2025-01-28**|**Vision-based autonomous structural damage detection using data-driven methods**|Seyyed Taghi Ataei, Parviz Mohammad Zadeh, Saeid Ataei|[2501.16662v2](http://arxiv.org/abs/2501.16662v2)|null|
 |**2025-01-27**|**CILP-FGDI: Exploiting Vision-Language Model for Generalizable Person Re-Identification**|Huazhong Zhao, Lei Qi, Xin Geng|[2501.16065v1](http://arxiv.org/abs/2501.16065v1)|**[link](https://github.com/Qi5Lei/CLIP-FGDI)**|
@@ -192,7 +193,6 @@
 |**2025-01-24**|**Fully Guided Neural Schrödinger bridge for Brain MR image synthesis**|Hanyeol Yang, Sunggyu Kim, Yongseon Yoo, Jong-min Lee|[2501.14171v1](http://arxiv.org/abs/2501.14171v1)|null|
 |**2025-01-23**|**Meta-Feature Adapter: Integrating Environmental Metadata for Enhanced Animal Re-identification**|Yuzhuo Li, Di Zhao, Yihao Wu, Yun Sing Koh|[2501.13368v1](http://arxiv.org/abs/2501.13368v1)|null|
 |**2025-01-22**|**Scaling for Fairness? Analyzing Model Size, Data Composition, and Multilinguality in Vision-Language Bias**|Zahraa Al Sahili, Ioannis Patras, Matthew Purver|[2501.13223v2](http://arxiv.org/abs/2501.13223v2)|null|
-|**2025-01-22**|**Machine Learning Modeling for Multi-order Human Visual Motion Processing**|Zitang Sun, Yen-Ju Chen, Yung-Hao Yang, Yuan Li, Shin'ya Nishida|[2501.12810v1](http://arxiv.org/abs/2501.12810v1)|**[link](https://github.com/anoymized/multi-order-motion-model)**|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
