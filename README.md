@@ -2,7 +2,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-02-13**|**DenseSplat: Densifying Gaussian Splatting SLAM with Neural Radiance Prior**|Mingrui Li, Shuhong Liu, Tianchen Deng, Hongyu Wang|[2502.09111v1](http://arxiv.org/abs/2502.09111v1)|null|
-|**2025-02-10**|**Occupancy-SLAM: An Efficient and Robust Algorithm for Simultaneously Optimizing Robot Poses and Occupancy Map**|Yingyu Wang, Liang Zhao, Shoudong Huang|[2502.06292v1](http://arxiv.org/abs/2502.06292v1)|null|
+|**2025-02-10**|**Occupancy-SLAM: An Efficient and Robust Algorithm for Simultaneously Optimizing Robot Poses and Occupancy Map**|Yingyu Wang, Liang Zhao, Shoudong Huang|[2502.06292v2](http://arxiv.org/abs/2502.06292v2)|null|
 |**2025-02-09**|**PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map**|Yue Pan, Xingguang Zhong, Liren Jin, Louis Wiesmann, Marija Popović, Jens Behley, Cyrill Stachniss|[2502.05752v1](http://arxiv.org/abs/2502.05752v1)|**[link](https://github.com/PRBonn/PINGS)**|
 |**2025-02-07**|**Joint State and Noise Covariance Estimation**|Kasra Khosoussi, Iman Shames|[2502.04584v1](http://arxiv.org/abs/2502.04584v1)|null|
 |**2025-02-05**|**GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM**|Mingrui Li, Weijian Chen, Na Cheng, Jingyuan Xu, Dong Li, Hongyu Wang|[2502.03228v1](http://arxiv.org/abs/2502.03228v1)|null|
@@ -172,7 +172,7 @@
 |---|---|---|---|---|
 |**2025-02-12**|**LIR-LIVO: A Lightweight,Robust LiDAR/Vision/Inertial Odometry with Illumination-Resilient Deep Features**|Shujie Zhou, Zihao Wang, Xinye Dai, Weiwei Song, Shengfeng Gu|[2502.08676v1](http://arxiv.org/abs/2502.08676v1)|null|
 |**2025-01-23**|**FAST-LIVO2 on Resource-Constrained Platforms: LiDAR-Inertial-Visual Odometry with Efficient Memory and Computation**|Bingyang Zhou, Chunran Zheng, Ziming Wang, Fangcheng Zhu, Yixi Cai, Fu Zhang|[2501.13876v1](http://arxiv.org/abs/2501.13876v1)|null|
-|**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris, Yiduo Wang, Mikolaj Kliniewski, Viorela Ila|[2501.11893v1](http://arxiv.org/abs/2501.11893v1)|**[link](https://github.com/acfr-rpg/dynosam)**|
+|**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris, Yiduo Wang, Mikolaj Kliniewski, Viorela Ila|[2501.11893v2](http://arxiv.org/abs/2501.11893v2)|**[link](https://github.com/acfr-rpg/dynosam)**|
 |**2025-01-15**|**BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**|Dongzhihan Wang, Yang Yang, Liang Xu|[2501.08659v2](http://arxiv.org/abs/2501.08659v2)|null|
 |**2024-12-28**|**MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement and Training Smoothing**|Shuo Wang, Wanting Li, Yongcai Wang, Zhaoxin Fan, Zhe Huang, Xudong Cai, Jian Zhao, Deying Li|[2412.20082v1](http://arxiv.org/abs/2412.20082v1)|null|
 |**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang, Junda Cheng, Gangwei Xu, Xiaoxiang Wang, Can Zhang, Xin Yang|[2412.16923v3](http://arxiv.org/abs/2412.16923v3)|null|
@@ -190,7 +190,7 @@
 |**2025-02-11**|**PDV: Prompt Directional Vectors for Zero-shot Composed Image Retrieval**|Osman Tursun, Sinan Kalkan, Simon Denman, Clinton Fookes|[2502.07215v1](http://arxiv.org/abs/2502.07215v1)|null|
 |**2025-02-10**|**CustomVideoX: 3D Reference Attention Driven Dynamic Adaptation for Zero-Shot Customized Video Diffusion Transformers**|D. She, Mushui Liu, Jingxuan Pang, Jin Wang, Zhen Yang, Wanggui He, Guanghao Zhang, Yi Wang, Qihan Huang, Haobin Tang, Yunlong Yu, Siming Fu|[2502.06527v1](http://arxiv.org/abs/2502.06527v1)|null|
 |**2025-02-07**|**Chest X-ray Foundation Model with Global and Local Representations Integration**|Zefan Yang, Xuanang Xu, Jiajin Zhang, Ge Wang, Mannudeep K. Kalra, Pingkun Yan|[2502.05142v1](http://arxiv.org/abs/2502.05142v1)|**[link](https://github.com/rpidial/chexfound)**|
-|**2025-02-07**|**MedMimic: Physician-Inspired Multimodal Fusion for Early Diagnosis of Fever of Unknown Origin**|Minrui Chen, Yi Zhou, Huidong Jiang, Yuhan Zhu, Guanjie Zou, Minqi Chen, Rong Tian, Hiroto Saigo|[2502.04794v1](http://arxiv.org/abs/2502.04794v1)|null|
+|**2025-02-07**|**MedMimic: Physician-Inspired Multimodal Fusion for Early Diagnosis of Fever of Unknown Origin**|Minrui Chen, Yi Zhou, Huidong Jiang, Yuhan Zhu, Guanjie Zou, Minqi Chen, Rong Tian, Hiroto Saigo|[2502.04794v2](http://arxiv.org/abs/2502.04794v2)|null|
 |**2025-02-07**|**Can Diffusion Models Learn Hidden Inter-Feature Rules Behind Images?**|Yujin Han, Andi Han, Wei Huang, Chaochao Lu, Difan Zou|[2502.04725v1](http://arxiv.org/abs/2502.04725v1)|null|
 |**2025-02-07**|**Multiscale style transfer based on a Laplacian pyramid for traditional Chinese painting**|Kunxiao Liu, Guowu Yuan, Hongyu Liu, Hao Wu|[2502.04597v1](http://arxiv.org/abs/2502.04597v1)|**[link](https://github.com/toby-katakuri/lp_styletransfernet)**|
 ## graph optimization
