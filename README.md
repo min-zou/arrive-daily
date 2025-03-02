@@ -73,7 +73,7 @@
 |**2025-02-09**|**Audio-Visual Representation Learning via Knowledge Distillation from Speech Foundation Models**|Jing-Xuan Zhang, Genshun Wan, Jianqing Gao, Zhen-Hua Ling|[2502.05766v1](http://arxiv.org/abs/2502.05766v1)|**[link](https://github.com/jxzhanggg/DistillAV)**|
 |**2025-02-07**|**Building Rome with Convex Optimization**|Haoyu Han, Heng Yang|[2502.04640v2](http://arxiv.org/abs/2502.04640v2)|null|
 |**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao, Maurice Fallon|[2502.02657v1](http://arxiv.org/abs/2502.02657v1)|null|
-|**2025-02-04**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo, Jingxuan Su, Shenglin Wang, Jinlong Fan, Jing Zhang, Liangxiu Han, Peng Wang|[2502.02283v2](http://arxiv.org/abs/2502.02283v2)|null|
+|**2025-02-04**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo, Jingxuan Su, Shenglin Wang, Jinlong Fan, Jing Zhang, Liangxiu Han, Peng Wang|[2502.02283v2](http://arxiv.org/abs/2502.02283v2)|**[link](https://github.com/zhihaohaoran/GPGS)**|
 |**2025-02-03**|**XR-VIO: High-precision Visual Inertial Odometry with Fast Initialization for XR Applications**|Shangjin Zhai, Nan Wang, Xiaomeng Wang, Danpeng Chen, Weijian Xie, Hujun Bao, Guofeng Zhang|[2502.01297v1](http://arxiv.org/abs/2502.01297v1)|null|
 |**2025-01-29**|**Segmentation-Aware Generative Reinforcement Network (GRN) for Tissue Layer Segmentation in 3-D Ultrasound Images for Chronic Low-back Pain (cLBP) Assessment**|Zixue Zeng, Xiaoyan Zhao, Matthew Cartier, Tong Yu, Jing Wang, Xin Meng, Zhiyu Sheng, Maryam Satarpour, John M Cormack, Allison Bean, Ryan Nussbaum, Maya Maurer, Emily Landis-Walkenhorst, Dinesh Kumbhare, Kang Kim, Ajay Wasan, Jiantao Pu|[2501.17690v1](http://arxiv.org/abs/2501.17690v1)|null|
 ## Structure from Motion
@@ -86,7 +86,7 @@
 |**2025-02-10**|**FOCUS -- Multi-View Foot Reconstruction From Synthetically Trained Dense Correspondences**|Oliver Boyne, Roberto Cipolla|[2502.06367v1](http://arxiv.org/abs/2502.06367v1)|**[link](https://github.com/OllieBoyne/FOCUS)**|
 |**2025-02-07**|**Building Rome with Convex Optimization**|Haoyu Han, Heng Yang|[2502.04640v2](http://arxiv.org/abs/2502.04640v2)|null|
 |**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao, Maurice Fallon|[2502.02657v1](http://arxiv.org/abs/2502.02657v1)|null|
-|**2025-02-04**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo, Jingxuan Su, Shenglin Wang, Jinlong Fan, Jing Zhang, Liangxiu Han, Peng Wang|[2502.02283v2](http://arxiv.org/abs/2502.02283v2)|null|
+|**2025-02-04**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo, Jingxuan Su, Shenglin Wang, Jinlong Fan, Jing Zhang, Liangxiu Han, Peng Wang|[2502.02283v2](http://arxiv.org/abs/2502.02283v2)|**[link](https://github.com/zhihaohaoran/GPGS)**|
 |**2025-02-03**|**XR-VIO: High-precision Visual Inertial Odometry with Fast Initialization for XR Applications**|Shangjin Zhai, Nan Wang, Xiaomeng Wang, Danpeng Chen, Weijian Xie, Hujun Bao, Guofeng Zhang|[2502.01297v1](http://arxiv.org/abs/2502.01297v1)|null|
 |**2025-01-27**|**Automatic Calibration of a Multi-Camera System with Limited Overlapping Fields of View for 3D Surgical Scene Reconstruction**|Tim Flückiger, Jonas Hein, Valery Fischer, Philipp Fürnstahl, Lilian Calvet|[2501.16221v2](http://arxiv.org/abs/2501.16221v2)|null|
 ## 3D Reconstruction
@@ -136,7 +136,7 @@
 |**2025-02-25**|**UASTrack: A Unified Adaptive Selection Framework with Modality-Customization in Single Object Tracking**|He Wang, Tianyang Xu, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler|[2502.18220v1](http://arxiv.org/abs/2502.18220v1)|null|
 |**2025-02-25**|**Easy-Poly: A Easy Polyhedral Framework For 3D Multi-Object Tracking**|Peng Zhang, Xin Li, Xin Lin, Liang He|[2502.17822v2](http://arxiv.org/abs/2502.17822v2)|null|
 |**2025-02-24**|**V-HOP: Visuo-Haptic 6D Object Pose Tracking**|Hongyu Li, Mingxi Jia, Tuluhan Akbulut, Yu Xiang, George Konidaris, Srinath Sridhar|[2502.17434v1](http://arxiv.org/abs/2502.17434v1)|null|
-|**2025-02-24**|**Enriching Physical-Virtual Interaction in AR Gaming by Tracking Identical Real Objects**|Liuchuan Yu, Ching-I Huang, Hsueh-Cheng Wang, Lap-Fai Yu|[2502.17399v1](http://arxiv.org/abs/2502.17399v1)|null|
+|**2025-02-24**|**Enriching Physical-Virtual Interaction in AR Gaming by Tracking Identical Real Objects**|Liuchuan Yu, Ching-I Huang, Hsueh-Cheng Wang, Lap-Fai Yu|[2502.17399v1](http://arxiv.org/abs/2502.17399v1)|**[link](https://github.com/gmudcxr/EnrichingARInteraction)**|
 |**2025-02-24**|**CRTrack: Low-Light Semi-Supervised Multi-object Tracking Based on Consistency Regularization**|Zijing Zhao, Jianlong Yu, Lin Zhang, Shunli Zhang|[2502.16809v1](http://arxiv.org/abs/2502.16809v1)|null|
 |**2025-02-23**|**Benchmarking Online Object Trackers for Underwater Robot Position Locking Applications**|Ali Safa, Waqas Aman, Ali Al-Zawqari, Saif Al-Kuwari|[2502.16569v1](http://arxiv.org/abs/2502.16569v1)|null|
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran, Phuoc-Sang Pham, Thai-Son Tran, Khoa Luu|[2502.13875v1](http://arxiv.org/abs/2502.13875v1)|null|
