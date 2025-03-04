@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**A2DO: Adaptive Anti-Degradation Odometry with Deep Multi-Sensor Fusion for Autonomous Navigation**|Hui Lai, Qi Chen, Junping Zhang, Jian Pu|[2502.20767v1](http://arxiv.org/abs/2502.20767v1)|null|
 |**2025-02-26**|**Increasing the Task Flexibility of Heavy-Duty Manipulators Using Visual 6D Pose Estimation of Objects**|Petri Mäkinen, Pauli Mustalahti, Tuomo Kivelä, Jouni Mattila|[2502.19169v1](http://arxiv.org/abs/2502.19169v1)|null|
 |**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu, Qu Hao, Lilian Zhang, Jun Mao, Xiaofeng He, Wenqi Wu, Changhao Chen|[2502.18932v1](http://arxiv.org/abs/2502.18932v1)|null|
 |**2025-02-25**|**S-Graphs 2.0 -- A Hierarchical-Semantic Optimization and Loop Closure for SLAM**|Hriday Bavle, Jose Luis Sanchez-Lopez, Muhammad Shaheer, Javier Civera, Holger Voos|[2502.18044v2](http://arxiv.org/abs/2502.18044v2)|**[link](https://github.com/snt-arg/lidar_situational_graphs)**|
@@ -10,7 +11,6 @@
 |**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu, Chong Cheng, Yifan Zhou, Xiaojun Yang, Hao Wang|[2502.15633v1](http://arxiv.org/abs/2502.15633v1)|null|
 |**2025-02-20**|**Hier-SLAM++: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li, Vuong Chi Hao, Peter J. Stuckey, Ian Reid, Hamid Rezatofighi|[2502.14931v1](http://arxiv.org/abs/2502.14931v1)|null|
 |**2025-02-19**|**Slamming: Training a Speech Language Model on One GPU in a Day**|Gallil Maimon, Avishai Elmakies, Yossi Adi|[2502.15814v1](http://arxiv.org/abs/2502.15814v1)|**[link](https://github.com/slp-rl/slamkit)**|
-|**2025-02-19**|**3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments**|Vincent Ress, Jonas Meyer, Wei Zhang, David Skuddis, Uwe Soergel, Norbert Haala|[2502.13803v1](http://arxiv.org/abs/2502.13803v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -27,7 +27,7 @@
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-27**|**A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**|Yejun Zhang, Shuzhe Wang, Juho Kannala|[2502.20036v1](http://arxiv.org/abs/2502.20036v1)|null|
+|**2025-02-27**|**A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**|Yejun Zhang, Shuzhe Wang, Juho Kannala|[2502.20036v1](http://arxiv.org/abs/2502.20036v1)|**[link](https://github.com/yejunzhang/a2-gnn)**|
 |**2025-02-24**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton, Carlo Masone|[2502.17237v2](http://arxiv.org/abs/2502.17237v2)|**[link](https://github.com/gmberton/megaloc)**|
 |**2025-02-19**|**3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments**|Vincent Ress, Jonas Meyer, Wei Zhang, David Skuddis, Uwe Soergel, Norbert Haala|[2502.13803v1](http://arxiv.org/abs/2502.13803v1)|null|
 |**2025-02-12**|**SpeechCompass: Enhancing Mobile Captioning with Diarization and Directional Guidance via Multi-Microphone Localization**|Artem Dementyev, Dimitri Kavensky, Samuel J. Yang, Mathieu Parvaix, Chiong Lai, Alex Olwal|[2502.08848v1](http://arxiv.org/abs/2502.08848v1)|null|
@@ -66,6 +66,7 @@
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Best Foot Forward: Robust Foot Reconstruction in-the-wild**|Kyle Fogarty, Jing Yang, Chayan Kumar Patodi, Aadi Bhanti, Steven Chacko, Cengiz Oztireli, Ujwal Bonde|[2502.20511v1](http://arxiv.org/abs/2502.20511v1)|null|
 |**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu, Qu Hao, Lilian Zhang, Jun Mao, Xiaofeng He, Wenqi Wu, Changhao Chen|[2502.18932v1](http://arxiv.org/abs/2502.18932v1)|null|
 |**2025-02-19**|**Structure-from-Sherds++: Robust Incremental 3D Reassembly of Axially Symmetric Pots from Unordered and Mixed Fragment Collections**|Seong Jong Yoo, Sisung Liu, Muhammad Zeeshan Arshad, Jinhyeok Kim, Young Min Kim, Yiannis Aloimonos, Cornelia Fermuller, Kyungdon Joo, Jinwook Kim, Je Hyeong Hong|[2502.13986v1](http://arxiv.org/abs/2502.13986v1)|null|
 |**2025-02-18**|**IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360$^\circ$ Cameras**|Dongki Jung, Jaehoon Choi, Yonghan Lee, Dinesh Manocha|[2502.12545v2](http://arxiv.org/abs/2502.12545v2)|null|
@@ -73,12 +74,12 @@
 |**2025-02-09**|**Audio-Visual Representation Learning via Knowledge Distillation from Speech Foundation Models**|Jing-Xuan Zhang, Genshun Wan, Jianqing Gao, Zhen-Hua Ling|[2502.05766v1](http://arxiv.org/abs/2502.05766v1)|**[link](https://github.com/jxzhanggg/DistillAV)**|
 |**2025-02-07**|**Building Rome with Convex Optimization**|Haoyu Han, Heng Yang|[2502.04640v2](http://arxiv.org/abs/2502.04640v2)|null|
 |**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao, Maurice Fallon|[2502.02657v1](http://arxiv.org/abs/2502.02657v1)|null|
-|**2025-02-04**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo, Jingxuan Su, Shenglin Wang, Jinlong Fan, Jing Zhang, Liangxiu Han, Peng Wang|[2502.02283v2](http://arxiv.org/abs/2502.02283v2)|**[link](https://github.com/zhihaohaoran/GPGS)**|
+|**2025-02-04**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo, Jingxuan Su, Shenglin Wang, Jinlong Fan, Jing Zhang, Liangxiu Han, Peng Wang|[2502.02283v3](http://arxiv.org/abs/2502.02283v3)|**[link](https://github.com/zhihaohaoran/GPGS)**|
 |**2025-02-03**|**XR-VIO: High-precision Visual Inertial Odometry with Fast Initialization for XR Applications**|Shangjin Zhai, Nan Wang, Xiaomeng Wang, Danpeng Chen, Weijian Xie, Hujun Bao, Guofeng Zhang|[2502.01297v1](http://arxiv.org/abs/2502.01297v1)|null|
-|**2025-01-29**|**Segmentation-Aware Generative Reinforcement Network (GRN) for Tissue Layer Segmentation in 3-D Ultrasound Images for Chronic Low-back Pain (cLBP) Assessment**|Zixue Zeng, Xiaoyan Zhao, Matthew Cartier, Tong Yu, Jing Wang, Xin Meng, Zhiyu Sheng, Maryam Satarpour, John M Cormack, Allison Bean, Ryan Nussbaum, Maya Maurer, Emily Landis-Walkenhorst, Dinesh Kumbhare, Kang Kim, Ajay Wasan, Jiantao Pu|[2501.17690v1](http://arxiv.org/abs/2501.17690v1)|null|
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Best Foot Forward: Robust Foot Reconstruction in-the-wild**|Kyle Fogarty, Jing Yang, Chayan Kumar Patodi, Aadi Bhanti, Steven Chacko, Cengiz Oztireli, Ujwal Bonde|[2502.20511v1](http://arxiv.org/abs/2502.20511v1)|null|
 |**2025-02-24**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang, Xili Dai, Jianan Wang, Xianbiao Qi, Yixing Yuan, Xiangyu Yue|[2502.16779v2](http://arxiv.org/abs/2502.16779v2)|null|
 |**2025-02-20**|**CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting**|Qilin Zhang, Olaf Wysocki, Steffen Urban, Boris Jutzi|[2502.14684v1](http://arxiv.org/abs/2502.14684v1)|**[link](https://github.com/zqlin0521/cdgs-release)**|
 |**2025-02-19**|**Structure-from-Sherds++: Robust Incremental 3D Reassembly of Axially Symmetric Pots from Unordered and Mixed Fragment Collections**|Seong Jong Yoo, Sisung Liu, Muhammad Zeeshan Arshad, Jinhyeok Kim, Young Min Kim, Yiannis Aloimonos, Cornelia Fermuller, Kyungdon Joo, Jinwook Kim, Je Hyeong Hong|[2502.13986v1](http://arxiv.org/abs/2502.13986v1)|null|
@@ -86,25 +87,25 @@
 |**2025-02-10**|**FOCUS -- Multi-View Foot Reconstruction From Synthetically Trained Dense Correspondences**|Oliver Boyne, Roberto Cipolla|[2502.06367v1](http://arxiv.org/abs/2502.06367v1)|**[link](https://github.com/OllieBoyne/FOCUS)**|
 |**2025-02-07**|**Building Rome with Convex Optimization**|Haoyu Han, Heng Yang|[2502.04640v2](http://arxiv.org/abs/2502.04640v2)|null|
 |**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao, Maurice Fallon|[2502.02657v1](http://arxiv.org/abs/2502.02657v1)|null|
-|**2025-02-04**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo, Jingxuan Su, Shenglin Wang, Jinlong Fan, Jing Zhang, Liangxiu Han, Peng Wang|[2502.02283v2](http://arxiv.org/abs/2502.02283v2)|**[link](https://github.com/zhihaohaoran/GPGS)**|
+|**2025-02-04**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo, Jingxuan Su, Shenglin Wang, Jinlong Fan, Jing Zhang, Liangxiu Han, Peng Wang|[2502.02283v3](http://arxiv.org/abs/2502.02283v3)|**[link](https://github.com/zhihaohaoran/GPGS)**|
 |**2025-02-03**|**XR-VIO: High-precision Visual Inertial Odometry with Fast Initialization for XR Applications**|Shangjin Zhai, Nan Wang, Xiaomeng Wang, Danpeng Chen, Weijian Xie, Hujun Bao, Guofeng Zhang|[2502.01297v1](http://arxiv.org/abs/2502.01297v1)|null|
-|**2025-01-27**|**Automatic Calibration of a Multi-Camera System with Limited Overlapping Fields of View for 3D Surgical Scene Reconstruction**|Tim Flückiger, Jonas Hein, Valery Fischer, Philipp Fürnstahl, Lilian Calvet|[2501.16221v2](http://arxiv.org/abs/2501.16221v2)|null|
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**MESC-3D:Mining Effective Semantic Cues for 3D Reconstruction from a Single Image**|Shaoming Li, Qing Cai, Songqi Kong, Runqing Tan, Heng Tong, Shiji Qiu, Yongguo Jiang, Zhi Liu|[2502.20861v1](http://arxiv.org/abs/2502.20861v1)|null|
+|**2025-02-28**|**EndoPBR: Material and Lighting Estimation for Photorealistic Surgical Simulations via Physically-based Rendering**|John J. Han, Jie Ying Wu|[2502.20669v1](http://arxiv.org/abs/2502.20669v1)|null|
 |**2025-02-27**|**Cutting-edge 3D reconstruction solutions for underwater coral reef images: A review and comparison**|Jiageng Zhong, Ming Li, Armin Gruen, Konrad Schindler, Xuan Liao, Qinghua Guo|[2502.20154v1](http://arxiv.org/abs/2502.20154v1)|null|
 |**2025-02-26**|**Flexible Foil Mesh Generation for Spatial Focal-Body Modeling of a Spherical Mirror**|Netzer Moriya|[2502.19092v1](http://arxiv.org/abs/2502.19092v1)|null|
 |**2025-02-26**|**Compression in 3D Gaussian Splatting: A Survey of Methods, Trends, and Future Directions**|Muhammad Salman Ali, Chaoning Zhang, Marco Cagnazzo, Giuseppe Valenzise, Enzo Tartaglione, Sung-Ho Bae|[2502.19457v1](http://arxiv.org/abs/2502.19457v1)|null|
-|**2025-02-25**|**Spatial Analysis of Neuromuscular Junctions Activation in Three-Dimensional Histology-based Muscle Reconstructions**|Alessandro Ascani Orsini, Manan Bhatt, Pierce L. Perkins, Siyu Wang, Kiara N. Quinn, Kenzi Griffith, Fausto Kang, Nitish V. Thakor|[2502.18646v1](http://arxiv.org/abs/2502.18646v1)|null|
-|**2025-02-25**|**Table-top three-dimensional photoemission orbital tomography with a femtosecond extreme ultraviolet light source**|Wiebke Bennecke, Thi Lan Dinh, Jan Philipp Bange, David Schmitt, Marco Merboldt, Lennart Weinhagen, Bent van Wingerden, Fabio Frassetto, Luca Poletto, Marcel Reutzel, Daniel Steil, D. Russell Luke, Stefan Mathias, G. S. Matthijs Jansen|[2502.18269v2](http://arxiv.org/abs/2502.18269v2)|null|
+|**2025-02-25**|**Spatial Analysis of Neuromuscular Junctions Activation in Three-Dimensional Histology-based Muscle Reconstructions**|Alessandro Ascani Orsini, Manan Bhatt, Pierce L. Perkins, Siyu Wang, Kiara N. Quinn, Kenzi Griffith, Fausto Kang, Nitish V. Thakor|[2502.18646v1](http://arxiv.org/abs/2502.18646v1)|**[link](https://github.com/aleasca/histology-nmj-and-muscle-activity-toolbox)**|
+|**2025-02-25**|**Table-top three-dimensional photoemission orbital tomography with a femtosecond extreme ultraviolet light source**|Wiebke Bennecke, Thi Lan Dinh, Jan Philipp Bange, David Schmitt, Marco Merboldt, Lennart Weinhagen, Bent van Wingerden, Fabio Frassetto, Luca Poletto, Marcel Reutzel, Daniel Steil, D. Russell Luke, Stefan Mathias, G. S. Matthijs Jansen|[2502.18269v3](http://arxiv.org/abs/2502.18269v3)|null|
 |**2025-02-25**|**Synthesizing Consistent Novel Views via 3D Epipolar Attention without Re-Training**|Botao Ye, Sifei Liu, Xueting Li, Marc Pollefeys, Ming-Hsuan Yang|[2502.18219v1](http://arxiv.org/abs/2502.18219v1)|null|
 |**2025-02-24**|**Graph-Guided Scene Reconstruction from Images with 3D Gaussian Splatting**|Chong Cheng, Gaochao Song, Yiyang Yao, Qinzheng Zhou, Gangjian Zhang, Hao Wang|[2502.17377v1](http://arxiv.org/abs/2502.17377v1)|null|
 |**2025-02-24**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton, Carlo Masone|[2502.17237v2](http://arxiv.org/abs/2502.17237v2)|**[link](https://github.com/gmberton/megaloc)**|
-|**2025-02-24**|**Laplace-Beltrami Operator for Gaussian Splatting**|Hongyu Zhou, Zorah Lähner|[2502.17531v1](http://arxiv.org/abs/2502.17531v1)|null|
-|**2025-02-24**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang, Xili Dai, Jianan Wang, Xianbiao Qi, Yixing Yuan, Xiangyu Yue|[2502.16779v2](http://arxiv.org/abs/2502.16779v2)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**EndoPBR: Material and Lighting Estimation for Photorealistic Surgical Simulations via Physically-based Rendering**|John J. Han, Jie Ying Wu|[2502.20669v1](http://arxiv.org/abs/2502.20669v1)|null|
 |**2025-02-27**|**UniDepthV2: Universal Monocular Metric Depth Estimation Made Simpler**|Luigi Piccinelli, Christos Sakaridis, Yung-Hsu Yang, Mattia Segu, Siyuan Li, Wim Abbeloos, Luc Van Gool|[2502.20110v1](http://arxiv.org/abs/2502.20110v1)|**[link](https://github.com/lpiccinelli-eth/unidepth)**|
 |**2025-02-26**|**Stellar Models Also Limit Exoplanet Atmosphere Studies in Emission**|Thomas J. Fauchez, Benjamin V. Rackham, Elsa Ducrot, Kevin B. Stevenson, Julien de Wit|[2502.19585v1](http://arxiv.org/abs/2502.19585v1)|null|
 |**2025-02-26**|**Distill Any Depth: Distillation Creates a Stronger Monocular Depth Estimator**|Xiankang He, Dongyan Guo, Hongji Li, Ruibo Li, Ying Cui, Chi Zhang|[2502.19204v1](http://arxiv.org/abs/2502.19204v1)|**[link](https://github.com/Westlake-AGI-Lab/Distill-Any-Depth)**|
@@ -114,7 +115,6 @@
 |**2025-02-20**|**Monocular Depth Estimation and Segmentation for Transparent Object with Iterative Semantic and Geometric Fusion**|Jiangyuan Liu, Hongxuan Ma, Yuxin Guo, Yuhao Zhao, Chi Zhang, Wei Sui, Wei Zou|[2502.14616v1](http://arxiv.org/abs/2502.14616v1)|**[link](https://github.com/l-j-yuan/modest)**|
 |**2025-02-20**|**Self-supervised Monocular Depth Estimation Robust to Reflective Surface Leveraged by Triplet Mining**|Wonhyeok Choi, Kyumin Hwang, Wei Peng, Minwoo Choi, Sunghoon Im|[2502.14573v1](http://arxiv.org/abs/2502.14573v1)|null|
 |**2025-02-20**|**OrchardDepth: Precise Metric Depth Estimation of Orchard Scene from Monocular Camera Images**|Zhichao Zheng, Henry Williams, Bruce A MacDonald|[2502.14279v1](http://arxiv.org/abs/2502.14279v1)|null|
-|**2025-02-18**|**Pre-training Auto-regressive Robotic Models with 4D Representations**|Dantong Niu, Yuvan Sharma, Haoru Xue, Giscard Biamby, Junyi Zhang, Ziteng Ji, Trevor Darrell, Roei Herzig|[2502.13142v1](http://arxiv.org/abs/2502.13142v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -151,7 +151,7 @@
 |**2024-11-11**|**DP and QP Based Decision-making and Planning for Autonomous Vehicle**|Zhicheng Zhang|[2411.06751v1](http://arxiv.org/abs/2411.06751v1)|null|
 |**2024-11-03**|**Wallbounce : Push wall to navigate with Contact-Implicit MPC**|Xiaohan Liu, Cunxi Dai, John Z. Zhang, Arun Bishop, Zachary Manchester, Ralph Hollis|[2411.01387v1](http://arxiv.org/abs/2411.01387v1)|null|
 |**2024-10-30**|**An Efficient Representation of Whole-body Model Predictive Control for Online Compliant Dual-arm Mobile Manipulation**|Wenqian Du, Ran Long, João Moura, Jiayi Wang, Saeid Samadi, Sethu Vijayakumar|[2410.22910v1](http://arxiv.org/abs/2410.22910v1)|null|
-|**2024-10-24**|**Multi-UAV Behavior-based Formation with Static and Dynamic Obstacles Avoidance via Reinforcement Learning**|Yuqing Xie, Chao Yu, Hongzhi Zang, Feng Gao, Wenhao Tang, Jingyi Huang, Jiayu Chen, Botian Xu, Yi Wu, Yu Wang|[2410.18495v1](http://arxiv.org/abs/2410.18495v1)|null|
+|**2024-10-24**|**Multi-UAV Formation Control with Static and Dynamic Obstacle Avoidance via Reinforcement Learning**|Yuqing Xie, Chao Yu, Hongzhi Zang, Feng Gao, Wenhao Tang, Jingyi Huang, Jiayu Chen, Botian Xu, Yi Wu, Yu Wang|[2410.18495v2](http://arxiv.org/abs/2410.18495v2)|null|
 |**2024-10-22**|**Deep-Sea A*+: An Advanced Path Planning Method Integrating Enhanced A* and Dynamic Window Approach for Autonomous Underwater Vehicles**|Yinyi Lai, Jiaqi Shang, Zenghui Liu, Zheyu Jiang, Yuyang Li, Longchao Chen|[2410.16762v1](http://arxiv.org/abs/2410.16762v1)|null|
 |**2024-10-17**|**Automatic Navigation and Voice Cloning Technology Deployment on a Humanoid Robot**|Dongkun Han, Boyuan Shao|[2410.13612v1](http://arxiv.org/abs/2410.13612v1)|null|
 ## PointCloud
@@ -183,8 +183,9 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting**|Yifei Qian, Zhongliang Guo, Bowen Deng, Chun Tong Lei, Shuai Zhao, Chun Pong Lau, Xiaopeng Hong, Michael P. Pound|[2502.20625v1](http://arxiv.org/abs/2502.20625v1)|null|
 |**2025-02-27**|**MITracker: Multi-View Integration for Visual Object Tracking**|Mengjie Xu, Yitao Zhu, Haotian Jiang, Jiaming Li, Zhenrong Shen, Sheng Wang, Haolin Huang, Xinyu Wang, Qing Yang, Han Zhang, Qian Wang|[2502.20111v1](http://arxiv.org/abs/2502.20111v1)|null|
-|**2025-02-27**|**One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion**|Chunyang Cheng, Tianyang Xu, Zhenhua Feng, Xiaojun Wu, ZhangyongTang, Hui Li, Zeyang Zhang, Sara Atito, Muhammad Awais, Josef Kittler|[2502.19854v1](http://arxiv.org/abs/2502.19854v1)|null|
+|**2025-02-27**|**One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion**|Chunyang Cheng, Tianyang Xu, Zhenhua Feng, Xiaojun Wu, ZhangyongTang, Hui Li, Zeyang Zhang, Sara Atito, Muhammad Awais, Josef Kittler|[2502.19854v1](http://arxiv.org/abs/2502.19854v1)|**[link](https://github.com/awcxv/gifnet)**|
 |**2025-02-26**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai, Shenghai Yuan, Xinyi Li, Junfeng Guo, Jianqi Liu|[2502.19242v1](http://arxiv.org/abs/2502.19242v1)|null|
 |**2025-02-26**|**Dynamic Degradation Decomposition Network for All-in-One Image Restoration**|Huiqiang Wang, Mingchen Song, Guoqiang Zhong|[2502.19068v1](http://arxiv.org/abs/2502.19068v1)|null|
 |**2025-02-26**|**Beyond RNNs: Benchmarking Attention-Based Image Captioning Models**|Hemanth Teja Yanambakkam, Rahul Chinthala|[2502.18734v1](http://arxiv.org/abs/2502.18734v1)|null|
@@ -192,7 +193,6 @@
 |**2025-02-25**|**LAM: Large Avatar Model for One-shot Animatable Gaussian Head**|Yisheng He, Xiaodong Gu, Xiaodan Ye, Chao Xu, Zhengyi Zhao, Yuan Dong, Weihao Yuan, Zilong Dong, Liefeng Bo|[2502.17796v1](http://arxiv.org/abs/2502.17796v1)|null|
 |**2025-02-23**|**Optical appearance of a boson star with soliton potential**|Ke-Jian He, Guo-Ping Li, Chen-Yu Yang, Xiao-Xiong Zeng|[2502.16623v1](http://arxiv.org/abs/2502.16623v1)|null|
 |**2025-02-17**|**Towards Fusing Point Cloud and Visual Representations for Imitation Learning**|Atalay Donat, Xiaogang Jia, Xi Huang, Aleksandar Taranovic, Denis Blessing, Ge Li, Hongyi Zhou, Hanyi Zhang, Rudolf Lioutikov, Gerhard Neumann|[2502.12320v2](http://arxiv.org/abs/2502.12320v2)|null|
-|**2025-02-17**|**Descriminative-Generative Custom Tokens for Vision-Language Models**|Pramuditha Perera, Matthew Trager, Luca Zancato, Alessandro Achille, Stefano Soatto|[2502.12095v1](http://arxiv.org/abs/2502.12095v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -203,7 +203,7 @@
 |**2025-01-15**|**BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**|Dongzhihan Wang, Yang Yang, Liang Xu|[2501.08659v2](http://arxiv.org/abs/2501.08659v2)|null|
 |**2025-01-07**|**Sharp bounds for product and sum throttling numbers**|Ryan Blair, Gabriel Elvin, Veronika Furst, Leslie Hogben, Nandita Sahajpal, Tony W. H. Wong|[2501.03472v2](http://arxiv.org/abs/2501.03472v2)|null|
 |**2025-01-03**|**TRG-planner: Traversal Risk Graph-Based Path Planning in Unstructured Environments for Safe and Efficient Navigation**|Dongkyu Lee, I Made Aswin Nahrendra, Minho Oh, Byeongho Yu, Hyun Myung|[2501.01806v1](http://arxiv.org/abs/2501.01806v1)|null|
-|**2025-01-03**|**A Minimal Subset Approach for Efficient and Scalable Loop Closure**|Nikolaos Stathoulopoulos, Christoforos Kanellakis, George Nikolakopoulos|[2501.01791v1](http://arxiv.org/abs/2501.01791v1)|**[link](https://github.com/ltu-rai/opt-key)**|
+|**2025-01-03**|**Balancing Accuracy and Efficiency for Large-Scale SLAM: A Minimal Subset Approach for Scalable Loop Closures**|Nikolaos Stathoulopoulos, Christoforos Kanellakis, George Nikolakopoulos|[2501.01791v2](http://arxiv.org/abs/2501.01791v2)|**[link](https://github.com/ltu-rai/opt-key)**|
 |**2024-12-20**|**Speedup Techniques for Switchable Temporal Plan Graph Optimization**|He Jiang, Muhan Lin, Jiaoyang Li|[2412.15908v2](http://arxiv.org/abs/2412.15908v2)|null|
 |**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu, Junhao Wang, Yao He, Wen Yang, Gui-Song Xia|[2412.03146v1](http://arxiv.org/abs/2412.03146v1)|**[link](https://github.com/junhaowang615/mcvo)**|
 ## motion aware
