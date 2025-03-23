@@ -191,7 +191,7 @@
 |**2025-03-18**|**Concat-ID: Towards Universal Identity-Preserving Video Synthesis**|Yong Zhong, Zhuoyi Yang, Jiayan Teng, Xiaotao Gu, Chongxuan Li|[2503.14151v1](http://arxiv.org/abs/2503.14151v1)|null|
 |**2025-03-18**|**FrustumFusionNets: A Three-Dimensional Object Detection Network Based on Tractor Road Scene**|Lili Yang, Mengshuai Chang, Xiao Guo, Yuxin Feng, Yiwen Mei, Caicong Wu|[2503.13951v1](http://arxiv.org/abs/2503.13951v1)|null|
 |**2025-03-18**|**Is Discretization Fusion All You Need for Collaborative Perception?**|Kang Yang, Tianci Bu, Lantao Li, Chunxu Li, Yongcai Wang, Deying Li|[2503.13946v1](http://arxiv.org/abs/2503.13946v1)|**[link](https://github.com/sidiangongyuan/acco)**|
-|**2025-03-18**|**MamBEV: Enabling State Space Models to Learn Birds-Eye-View Representations**|Hongyu Ke, Jack Morris, Kentaro Oguchi, Xiaofei Cao, Yongkang Liu, Haoxin Wang, Yi Ding|[2503.13858v1](http://arxiv.org/abs/2503.13858v1)|null|
+|**2025-03-18**|**MamBEV: Enabling State Space Models to Learn Birds-Eye-View Representations**|Hongyu Ke, Jack Morris, Kentaro Oguchi, Xiaofei Cao, Yongkang Liu, Haoxin Wang, Yi Ding|[2503.13858v1](http://arxiv.org/abs/2503.13858v1)|**[link](https://github.com/amai-gsu/mambev)**|
 |**2025-03-18**|**Organ-aware Multi-scale Medical Image Segmentation Using Text Prompt Engineering**|Wenjie Zhang, Ziyang Zhang, Mengnan He, Jiancheng Ye|[2503.13806v1](http://arxiv.org/abs/2503.13806v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
