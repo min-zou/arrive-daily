@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**Thin-Shell-SfT: Fine-Grained Monocular Non-rigid 3D Surface Tracking with Neural Deformation Fields**|Navami Kairanda, Marc Habermann, Shanthika Naik, Christian Theobalt, Vladislav Golyanik|[2503.19976v1](http://arxiv.org/abs/2503.19976v1)|null|
 |**2025-03-25**|**A Survey on Event-driven 3D Reconstruction: Development under Different Categories**|Chuanzhi Xu, Haoxian Zhou, Haodong Chen, Vera Chung, Qiang Qu|[2503.19753v2](http://arxiv.org/abs/2503.19753v2)|null|
 |**2025-03-24**|**MonoInstance: Enhancing Monocular Priors via Multi-view Instance Alignment for Neural Rendering and Reconstruction**|Wenyuan Zhang, Yixiao Yang, Han Huang, Liang Han, Kanle Shi, Yu-Shen Liu|[2503.18363v1](http://arxiv.org/abs/2503.18363v1)|null|
 |**2025-03-24**|**Surface-Aware Distilled 3D Semantic Features**|Lukas Uzolas, Elmar Eisemann, Petr Kellnhofer|[2503.18254v1](http://arxiv.org/abs/2503.18254v1)|null|
@@ -101,10 +102,10 @@
 |**2025-03-21**|**Ex vivo experiment on vertebral body with defect representing bone metastasis**|W. Lokbani, V. Allard, T. Broussolle, CY. Barrey, C. B. Confavreux, K. Bruyere, JP. Roux, F. Bermond, H. Follet, D. Mitton|[2503.17047v1](http://arxiv.org/abs/2503.17047v1)|null|
 |**2025-03-21**|**DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery**|Jiadong Tang, Yu Gao, Dianyi Yang, Liqi Yan, Yufeng Yue, Yi Yang|[2503.16964v1](http://arxiv.org/abs/2503.16964v1)|null|
 |**2025-03-21**|**OpenCity3D: What do Vision-Language Models know about Urban Environments?**|Valentin Bieri, Marco Zamboni, Nicolas S. Blumer, Qingxuan Chen, Francis Engelmann|[2503.16776v1](http://arxiv.org/abs/2503.16776v1)|null|
-|**2025-03-20**|**DreamTexture: Shape from Virtual Texture with Analysis by Augmentation**|Ananta R. Bhattarai, Xingzhe He, Alla Sheffer, Helge Rhodin|[2503.16412v1](http://arxiv.org/abs/2503.16412v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**Synthetic-to-Real Self-supervised Robust Depth Estimation via Learning with Motion and Structure Priors**|Weilong Yan, Ming Li, Haipeng Li, Shuwei Shao, Robby T. Tan|[2503.20211v1](http://arxiv.org/abs/2503.20211v1)|null|
 |**2025-03-25**|**FUSE: Label-Free Image-Event Joint Monocular Depth Estimation via Frequency-Decoupled Alignment and Degradation-Robust Fusion**|Pihai Sun, Junjun Jiang, Yuanqi Yao, Youyu Chen, Wenbo Zhao, Kui Jiang, Xianming Liu|[2503.19739v2](http://arxiv.org/abs/2503.19739v2)|null|
 |**2025-03-25**|**Semi-SD: Semi-Supervised Metric Depth Estimation via Surrounding Cameras for Autonomous Driving**|Yusen Xie, Zhengmin Huang, Shaojie Shen, Jun Ma|[2503.19713v1](http://arxiv.org/abs/2503.19713v1)|null|
 |**2025-03-24**|**StableGS: A Floater-Free Framework for 3D Gaussian Splatting**|Luchao Wang, Qian Ren, Kaimin Liao, Hua Wang, Zhi Chen, Yaohua Tang|[2503.18458v2](http://arxiv.org/abs/2503.18458v2)|null|
@@ -114,7 +115,6 @@
 |**2025-03-21**|**AnimatePainter: A Self-Supervised Rendering Framework for Reconstructing Painting Process**|Junjie Hu, Shuyong Gao, Qianyu Guo, Yan Wang, Qishan Wang, Yuang Feng, Wenqiang Zhang|[2503.17029v1](http://arxiv.org/abs/2503.17029v1)|null|
 |**2025-03-21**|**Distilling Monocular Foundation Model for Fine-grained Depth Completion**|Yingping Liang, Yutao Hu, Wenqi Shao, Ying Fu|[2503.16970v1](http://arxiv.org/abs/2503.16970v1)|null|
 |**2025-03-20**|**QuartDepth: Post-Training Quantization for Real-Time Depth Estimation on the Edge**|Xuan Shen, Weize Ma, Jing Liu, Changdi Yang, Rui Ding, Quanyi Wang, Henghui Ding, Wei Niu, Yanzhi Wang, Pu Zhao, Jun Lin, Jiuxiang Gu|[2503.16709v1](http://arxiv.org/abs/2503.16709v1)|null|
-|**2025-03-20**|**A Recipe for Generating 3D Worlds From a Single Image**|Katja Schwarz, Denys Rozumnyi, Samuel Rota Bulò, Lorenzo Porzi, Peter Kontschieder|[2503.16611v1](http://arxiv.org/abs/2503.16611v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,16 +183,16 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**Mitigating Low-Level Visual Hallucinations Requires Self-Awareness: Database, Model and Training Strategy**|Yinan Sun, Xiongkuo Min, Zicheng Zhang, Yixuan Gao, Yuqin Cao, Guangtao Zhai|[2503.20673v2](http://arxiv.org/abs/2503.20673v2)|null|
+|**2025-03-26**|**SaViD: Spectravista Aesthetic Vision Integration for Robust and Discerning 3D Object Detection in Challenging Environments**|Tanmoy Dam, Sanjay Bhargav Dharavath, Sameer Alam, Nimrod Lilith, Aniruddha Maiti, Supriyo Chakraborty, Mir Feroskhan|[2503.20614v1](http://arxiv.org/abs/2503.20614v1)|null|
+|**2025-03-25**|**Med3DVLM: An Efficient Vision-Language Model for 3D Medical Image Analysis**|Yu Xin, Gorkem Can Ates, Kuang Gong, Wei Shao|[2503.20047v1](http://arxiv.org/abs/2503.20047v1)|null|
+|**2025-03-25**|**SLIP: Spoof-Aware One-Class Face Anti-Spoofing with Language Image Pretraining**|Pei-Kai Huang, Jun-Xiong Chong, Cheng-Hsuan Chiang, Tzu-Hsien Chen, Tyng-Luh Liu, Chiou-Ting Hsu|[2503.19982v1](http://arxiv.org/abs/2503.19982v1)|null|
 |**2025-03-25**|**Attention IoU: Examining Biases in CelebA using Attention Maps**|Aaron Serianni, Tyler Zhu, Olga Russakovsky, Vikram V. Ramaswamy|[2503.19846v2](http://arxiv.org/abs/2503.19846v2)|**[link](https://github.com/aaronserianni/attention-iou)**|
 |**2025-03-25**|**High-Quality Spatial Reconstruction and Orthoimage Generation Using Efficient 2D Gaussian Splatting**|Qian Wang, Zhihao Zhan, Jialei He, Zhituo Tu, Xiang Zhu, Jie Yuan|[2503.19703v1](http://arxiv.org/abs/2503.19703v1)|null|
 |**2025-03-25**|**fine-CLIP: Enhancing Zero-Shot Fine-Grained Surgical Action Recognition with Vision-Language Models**|Saurav Sharma, Didier Mutter, Nicolas Padoy|[2503.19670v1](http://arxiv.org/abs/2503.19670v1)|null|
 |**2025-03-25**|**Exploring Textual Semantics Diversity for Image Transmission in Semantic Communication Systems using Visual Language Model**|Peishan Huang, Dong Li|[2503.19386v1](http://arxiv.org/abs/2503.19386v1)|null|
 |**2025-03-24**|**Change3D: Revisiting Change Detection and Captioning from A Video Modeling Perspective**|Duowang Zhu, Xiaohu Huang, Haiyan Huang, Hao Zhou, Zhenfeng Shao|[2503.18803v1](http://arxiv.org/abs/2503.18803v1)|null|
 |**2025-03-24**|**FG$^2$: Fine-Grained Cross-View Localization by Fine-Grained Feature Matching**|Zimin Xia, Alexandre Alahi|[2503.18725v1](http://arxiv.org/abs/2503.18725v1)|null|
-|**2025-03-24**|**NullSwap: Proactive Identity Cloaking Against Deepfake Face Swapping**|Tianyi Wang, Harry Cheng, Xiao Zhang, Yinglong Wang|[2503.18678v1](http://arxiv.org/abs/2503.18678v1)|null|
-|**2025-03-23**|**DualCP: Rehearsal-Free Domain-Incremental Learning via Dual-Level Concept Prototype**|Qiang Wang, Yuhang He, SongLin Dong, Xiang Song, Jizhou Han, Haoyu Luo, Yihong Gong|[2503.18042v1](http://arxiv.org/abs/2503.18042v1)|null|
-|**2025-03-21**|**D2C: Unlocking the Potential of Continuous Autoregressive Image Generation with Discrete Tokens**|Panpan Wang, Liqiang Niu, Fandong Meng, Jinan Xu, Yufeng Chen, Jie Zhou|[2503.17155v1](http://arxiv.org/abs/2503.17155v1)|null|
-|**2025-03-21**|**Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks**|Haijin Zeng, Xiangming Wang, Yongyong Chen, Jingyong Su, Jie Liu|[2503.16930v1](http://arxiv.org/abs/2503.16930v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
