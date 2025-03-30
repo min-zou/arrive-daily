@@ -105,7 +105,7 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-27**|**A Unified Image-Dense Annotation Generation Model for Underwater Scenes**|Hongkai Lin, Dingkang Liang, Zhenghao Qi, Xiang Bai|[2503.21771v1](http://arxiv.org/abs/2503.21771v1)|null|
+|**2025-03-27**|**A Unified Image-Dense Annotation Generation Model for Underwater Scenes**|Hongkai Lin, Dingkang Liang, Zhenghao Qi, Xiang Bai|[2503.21771v1](http://arxiv.org/abs/2503.21771v1)|**[link](https://github.com/hongklin/tide)**|
 |**2025-03-27**|**ICG-MVSNet: Learning Intra-view and Cross-view Relationships for Guidance in Multi-View Stereo**|Yuxi Hu, Jun Zhang, Zhe Zhang, Rafael Weilharter, Yuchen Rao, Kuangyi Chen, Runze Yuan, Friedrich Fraundorfer|[2503.21525v1](http://arxiv.org/abs/2503.21525v1)|null|
 |**2025-03-26**|**Synthetic-to-Real Self-supervised Robust Depth Estimation via Learning with Motion and Structure Priors**|Weilong Yan, Ming Li, Haipeng Li, Shuwei Shao, Robby T. Tan|[2503.20211v1](http://arxiv.org/abs/2503.20211v1)|**[link](https://github.com/davidyan2001/synthetic2real-depth)**|
 |**2025-03-25**|**FUSE: Label-Free Image-Event Joint Monocular Depth Estimation via Frequency-Decoupled Alignment and Degradation-Robust Fusion**|Pihai Sun, Junjun Jiang, Yuanqi Yao, Youyu Chen, Wenbo Zhao, Kui Jiang, Xianming Liu|[2503.19739v2](http://arxiv.org/abs/2503.19739v2)|**[link](https://github.com/sunpihai-up/fuse)**|
