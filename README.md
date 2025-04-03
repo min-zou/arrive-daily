@@ -189,10 +189,10 @@
 |**2025-03-31**|**Detail-aware multi-view stereo network for depth estimation**|Haitao Tian, Junyang Li, Chenxing Wang, Helong Jiang|[2503.23684v1](http://arxiv.org/abs/2503.23684v1)|null|
 |**2025-03-30**|**Multiview Image-Based Localization**|Cameron Fiore, Hongyi Fan, Benjamin Kimia|[2503.23577v1](http://arxiv.org/abs/2503.23577v1)|null|
 |**2025-03-30**|**Improving underwater semantic segmentation with underwater image quality attention and muti-scale aggregation attention**|Xin Zuo, Jiaran Jiang, Jifeng Shen, Wankou Yang|[2503.23422v1](http://arxiv.org/abs/2503.23422v1)|null|
-|**2025-03-28**|**DIFFER: Disentangling Identity Features via Semantic Cues for Clothes-Changing Person Re-ID**|Xin Liang, Yogesh S Rawat|[2503.22912v1](http://arxiv.org/abs/2503.22912v1)|null|
+|**2025-03-28**|**DIFFER: Disentangling Identity Features via Semantic Cues for Clothes-Changing Person Re-ID**|Xin Liang, Yogesh S Rawat|[2503.22912v1](http://arxiv.org/abs/2503.22912v1)|**[link](https://github.com/xliangp/DIFFER)**|
 |**2025-03-28**|**VITAL: More Understandable Feature Visualization through Distribution Alignment and Relevant Information Flow**|Ada Gorgun, Bernt Schiele, Jonas Fischer|[2503.22399v1](http://arxiv.org/abs/2503.22399v1)|**[link](https://github.com/adagorgun/vital)**|
 |**2025-03-28**|**Mitigating Knowledge Discrepancies among Multiple Datasets for Task-agnostic Unified Face Alignment**|Jiahao Xia, Min Xu, Wenjian Huang, Jianguo Zhang, Haimin Zhang, Chunxia Xiao|[2503.22359v1](http://arxiv.org/abs/2503.22359v1)|null|
-|**2025-03-28**|**ArchCAD-400K: An Open Large-Scale Architectural CAD Dataset and New Baseline for Panoptic Symbol Spotting**|Ruifeng Luo, Zhengjie Liu, Tianxiao Cheng, Jie Wang, Tongjie Wang, Xingguang Wei, Haomin Wang, YanPeng Li, Fu Chai, Fei Cheng, Shenglong Ye, Wenhai Wang, Yanting Zhang, Yu Qiao, Hongjie Zhang, Xianzhong Zhao|[2503.22346v1](http://arxiv.org/abs/2503.22346v1)|null|
+|**2025-03-28**|**ArchCAD-400K: An Open Large-Scale Architectural CAD Dataset and New Baseline for Panoptic Symbol Spotting**|Ruifeng Luo, Zhengjie Liu, Tianxiao Cheng, Jie Wang, Tongjie Wang, Xingguang Wei, Haomin Wang, YanPeng Li, Fu Chai, Fei Cheng, Shenglong Ye, Wenhai Wang, Yanting Zhang, Yu Qiao, Hongjie Zhang, Xianzhong Zhao|[2503.22346v2](http://arxiv.org/abs/2503.22346v2)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
