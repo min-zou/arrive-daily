@@ -3,7 +3,7 @@
 |---|---|---|---|---|
 |**2025-04-10**|**UWB Anchor Based Localization of a Planetary Rover**|Andreas Nüchter, Lennart Werner, Martin Hesse, Dorit Borrmann, Thomas Walter, Sergio Montenegro, Gernot Grömer|[2504.07658v1](http://arxiv.org/abs/2504.07658v1)|null|
 |**2025-04-10**|**Event Signal Filtering via Probability Flux Estimation**|Jinze Chen, Wei Zhai, Yang Cao, Bin Li, Zheng-Jun Zha|[2504.07503v1](http://arxiv.org/abs/2504.07503v1)|null|
-|**2025-04-07**|**Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM**|Zhicong Sun, Jacqueline Lo, Jinxing Hu|[2504.04844v1](http://arxiv.org/abs/2504.04844v1)|null|
+|**2025-04-07**|**Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM**|Zhicong Sun, Jacqueline Lo, Jinxing Hu|[2504.04844v1](http://arxiv.org/abs/2504.04844v1)|**[link](https://github.com/zhicongsun/d4dgs-slam)**|
 |**2025-04-06**|**SELC: Self-Supervised Efficient Local Correspondence Learning for Low Quality Images**|Yuqing Wang, Yan Wang, Hailiang Tang, Xiaoji Niu|[2504.04497v1](http://arxiv.org/abs/2504.04497v1)|null|
 |**2025-04-06**|**VSLAM-LAB: A Comprehensive Framework for Visual SLAM Methods and Datasets**|Alejandro Fontan, Tobias Fischer, Javier Civera, Michael Milford|[2504.04457v1](http://arxiv.org/abs/2504.04457v1)|null|
 |**2025-04-05**|**Nonlinear Observer Design for Landmark-Inertial Simultaneous Localization and Mapping**|Mouaad Boughellaba, Soulaimane Berkane, Abdelhamid Tayebi|[2504.04239v1](http://arxiv.org/abs/2504.04239v1)|null|
@@ -53,9 +53,9 @@
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-09**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung, Wei Cai, Tapan Mukerji|[2504.06604v1](http://arxiv.org/abs/2504.06604v1)|null|
+|**2025-04-09**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung, Wei Cai, Tapan Mukerji|[2504.06604v2](http://arxiv.org/abs/2504.06604v2)|null|
 |**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza, Gabriele Berton, Gabriele Trivigno, Carlo Masone|[2504.06116v1](http://arxiv.org/abs/2504.06116v1)|null|
-|**2025-04-07**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun, Banglei Guan, Zhenbao Yu, Yang Shang, Qifeng Yu, Daniel Barath|[2504.04834v2](http://arxiv.org/abs/2504.04834v2)|null|
+|**2025-04-07**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun, Banglei Guan, Zhenbao Yu, Yang Shang, Qifeng Yu, Daniel Barath|[2504.04834v2](http://arxiv.org/abs/2504.04834v2)|**[link](https://github.com/stilcrad/denseaffine)**|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan, Sameera Ramasinghe, Stephen Gould, Ajanthan Thalaiyasingam|[2504.00812v1](http://arxiv.org/abs/2504.00812v1)|null|
 |**2025-03-31**|**CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching**|Zizhuo Li, Yifan Lu, Linfeng Tang, Shihua Zhang, Jiayi Ma|[2503.23925v1](http://arxiv.org/abs/2503.23925v1)|null|
 |**2025-03-28**|**Pairwise Matching of Intermediate Representations for Fine-grained Explainability**|Lauren Shrack, Timm Haucke, Antoine Salaün, Arjun Subramonian, Sara Beery|[2503.22881v1](http://arxiv.org/abs/2503.22881v1)|**[link](https://github.com/pairx-explains/pairx)**|
@@ -107,7 +107,7 @@
 |---|---|---|---|---|
 |**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang, Chuanxia Zheng, Iro Laina, Diane Larlus, Andrea Vedaldi|[2504.07961v1](http://arxiv.org/abs/2504.07961v1)|null|
 |**2025-04-09**|**FlashDepth: Real-time Streaming Video Depth Estimation at 2K Resolution**|Gene Chou, Wenqi Xian, Guandao Yang, Mohamed Abdelfattah, Bharath Hariharan, Noah Snavely, Ning Yu, Paul Debevec|[2504.07093v1](http://arxiv.org/abs/2504.07093v1)|null|
-|**2025-04-08**|**POMATO: Marrying Pointmap Matching with Temporal Motion for Dynamic 3D Reconstruction**|Songyan Zhang, Yongtao Ge, Jinyuan Tian, Guangkai Xu, Hao Chen, Chen Lv, Chunhua Shen|[2504.05692v1](http://arxiv.org/abs/2504.05692v1)|null|
+|**2025-04-08**|**POMATO: Marrying Pointmap Matching with Temporal Motion for Dynamic 3D Reconstruction**|Songyan Zhang, Yongtao Ge, Jinyuan Tian, Guangkai Xu, Hao Chen, Chen Lv, Chunhua Shen|[2504.05692v1](http://arxiv.org/abs/2504.05692v1)|**[link](https://github.com/wyddmw/pomato)**|
 |**2025-04-07**|**Stereo-LiDAR Fusion by Semi-Global Matching With Discrete Disparity-Matching Cost and Semidensification**|Yasuhiro Yao, Ryoichi Ishikawa, Takeshi Oishi|[2504.05148v1](http://arxiv.org/abs/2504.05148v1)|**[link](https://github.com/yshry/libSGM_lidar)**|
 |**2025-04-04**|**3D Scene Understanding Through Local Random Access Sequence Modeling**|Wanhee Lee, Klemen Kotar, Rahul Mysore Venkatesh, Jared Watrous, Honglin Chen, Khai Loong Aw, Daniel L. K. Yamins|[2504.03875v1](http://arxiv.org/abs/2504.03875v1)|null|
 |**2025-04-04**|**RingMoE: Mixture-of-Modality-Experts Multi-Modal Foundation Models for Universal Remote Sensing Image Interpretation**|Hanbo Bi, Yingchao Feng, Boyuan Tong, Mengyu Wang, Haichen Yu, Yongqiang Mao, Hao Chang, Wenhui Diao, Peijin Wang, Yue Yu, Hanyang Peng, Yehong Zhang, Kun Fu, Xian Sun|[2504.03166v1](http://arxiv.org/abs/2504.03166v1)|null|
