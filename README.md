@@ -2,7 +2,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-16**|**An Online Adaptation Method for Robust Depth Estimation and Visual Odometry in the Open World**|Xingwu Ji, Haochen Niu, Dexin Duan, Rendong Ying, Fei Wen, Peilin Liu|[2504.11698v1](http://arxiv.org/abs/2504.11698v1)|**[link](https://github.com/jixingwu/sol-slam)**|
-|**2025-04-15**|**Doppler-SLAM: Doppler-Aided Radar-Inertial and LiDAR-Inertial Simultaneous Localization and Mapping**|Dong Wang, Hannes Haag, Daniel Casado Herraez, Stefan May, Cyrill Stachniss, Andreas Nuechter|[2504.11634v1](http://arxiv.org/abs/2504.11634v1)|**[link](https://github.com/wayne-dwa/doppler-slam)**|
+|**2025-04-15**|**Doppler-SLAM: Doppler-Aided Radar-Inertial and LiDAR-Inertial Simultaneous Localization and Mapping**|Dong Wang, Hannes Haag, Daniel Casado Herraez, Stefan May, Cyrill Stachniss, Andreas Nuechter|[2504.11634v2](http://arxiv.org/abs/2504.11634v2)|**[link](https://github.com/wayne-dwa/doppler-slam)**|
 |**2025-04-14**|**Region Based SLAM-Aware Exploration: Efficient and Robust Autonomous Mapping Strategy That Can Scale**|Megha Maheshwari, Sadeigh Rabiee, He Yin, Martin Labrie, Hang Liu|[2504.10416v1](http://arxiv.org/abs/2504.10416v1)|null|
 |**2025-04-14**|**RoboCup Rescue 2025 Team Description Paper UruBots**|Kevin Farias, Pablo Moraes, Igor Nunes, Juan Deniz, Sebastian Barcelona, Hiago Sodre, William Moraes, Monica Rodriguez, Ahilen Mazondo, Vincent Sandin, Gabriel da Silva, Victoria Saravia, Vinicio Melgar, Santiago Fernandez, Ricardo Grando|[2504.09778v1](http://arxiv.org/abs/2504.09778v1)|null|
 |**2025-04-11**|**FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment**|Sebastián Barbas Laina, Simon Boche, Sotiris Papatheodorou, Simon Schaefer, Jaehyung Jung, Stefan Leutenegger|[2504.08603v1](http://arxiv.org/abs/2504.08603v1)|null|
@@ -92,13 +92,13 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-17**|**ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**|Zetong Zhang, Manuel kaufmann, Lixin Xue, Jie Song, Martin R. Oswald|[2504.13167v1](http://arxiv.org/abs/2504.13167v1)|null|
+|**2025-04-17**|**ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**|Zetong Zhang, Manuel Kaufmann, Lixin Xue, Jie Song, Martin R. Oswald|[2504.13167v2](http://arxiv.org/abs/2504.13167v2)|null|
 |**2025-04-17**|**St4RTrack: Simultaneous 4D Reconstruction and Tracking in the World**|Haiwen Feng, Junyi Zhang, Qianqian Wang, Yufei Ye, Pengcheng Yu, Michael J. Black, Trevor Darrell, Angjoo Kanazawa|[2504.13152v1](http://arxiv.org/abs/2504.13152v1)|null|
 |**2025-04-17**|**AAA-Gaussians: Anti-Aliased and Artifact-Free 3D Gaussian Rendering**|Michael Steiner, Thomas Köhler, Lukas Radl, Felix Windisch, Dieter Schmalstieg, Markus Steinberger|[2504.12811v1](http://arxiv.org/abs/2504.12811v1)|null|
 |**2025-04-17**|**TSGS: Improving Gaussian Splatting for Transparent Surface Reconstruction via Normal and De-lighting Priors**|Mingwei Li, Pu Pang, Hehe Fan, Hua Huang, Yi Yang|[2504.12799v1](http://arxiv.org/abs/2504.12799v1)|null|
 |**2025-04-16**|**A theoretical framework for flow-compatible reconstruction of heart motion**|Francesco Capuano, Yue-Hin Loke, Ibrahim Yildiran, Laura Olivieri, Elias Balaras|[2504.12531v1](http://arxiv.org/abs/2504.12531v1)|null|
 |**2025-04-16**|**SHeaP: Self-Supervised Head Geometry Predictor Learned via 2D Gaussians**|Liam Schoneveld, Zhe Chen, Davide Davoli, Jiapeng Tang, Saimon Terazawa, Ko Nishino, Matthias Nießner|[2504.12292v1](http://arxiv.org/abs/2504.12292v1)|null|
-|**2025-04-16**|**Mind2Matter: Creating 3D Models from EEG Signals**|Xia Deng, Shen Chen, Jiale Zhou, Lei Li|[2504.11936v1](http://arxiv.org/abs/2504.11936v1)|**[link](https://github.com/sddwwww/mind2matter)**|
+|**2025-04-16**|**Mind2Matter: Creating 3D Models from EEG Signals**|Xia Deng, Shen Chen, Jiale Zhou, Lei Li|[2504.11936v2](http://arxiv.org/abs/2504.11936v2)|**[link](https://github.com/sddwwww/mind2matter)**|
 |**2025-04-16**|**Regist3R: Incremental Registration with Stereo Foundation Model**|Sidun Liu, Wenyu Li, Peng Qiao, Yong Dou|[2504.12356v1](http://arxiv.org/abs/2504.12356v1)|null|
 |**2025-04-15**|**Deep Learning-based Bathymetry Retrieval without In-situ Depths using Remote Sensing Imagery and SfM-MVS DSMs with Data Gaps**|Panagiotis Agrafiotis, Begüm Demir|[2504.11416v1](http://arxiv.org/abs/2504.11416v1)|**[link](https://github.com/pagraf/swin-bathyunet)**|
 |**2025-04-15**|**Explicit and Implicit Representations in AI-based 3D Reconstruction for Radiology: A systematic literature review**|Yuezhe Yang, Boyu Yang, Yaqian Wang, Yang He, Xingbo Dong, Zhe Jin|[2504.11349v1](http://arxiv.org/abs/2504.11349v1)|**[link](https://github.com/bean-young/ai4med)**|
@@ -185,7 +185,7 @@
 |---|---|---|---|---|
 |**2025-04-17**|**Personalized Text-to-Image Generation with Auto-Regressive Models**|Kaiyue Sun, Xian Liu, Yao Teng, Xihui Liu|[2504.13162v1](http://arxiv.org/abs/2504.13162v1)|**[link](https://github.com/kaiyuesun98/t2i-personalization-with-ar)**|
 |**2025-04-17**|**Expert Kernel Generation Network Driven by Contextual Mapping for Hyperspectral Image Classification**|Guandong Li, Mengxia Ye|[2504.13045v1](http://arxiv.org/abs/2504.13045v1)|null|
-|**2025-04-17**|**Towards Cardiac MRI Foundation Models: Comprehensive Visual-Tabular Representations for Whole-Heart Assessment and Beyond**|Yundi Zhang, Paul Hager, Che Liu, Suprosanna Shit, Chen Chen, Daniel Rueckert, Jiazhen Pan|[2504.13037v1](http://arxiv.org/abs/2504.13037v1)|null|
+|**2025-04-17**|**Towards Cardiac MRI Foundation Models: Comprehensive Visual-Tabular Representations for Whole-Heart Assessment and Beyond**|Yundi Zhang, Paul Hager, Che Liu, Suprosanna Shit, Chen Chen, Daniel Rueckert, Jiazhen Pan|[2504.13037v2](http://arxiv.org/abs/2504.13037v2)|null|
 |**2025-04-17**|**Vision and Language Integration for Domain Generalization**|Yanmei Wang, Xiyao Liu, Fupeng Chu, Zhi Han|[2504.12966v1](http://arxiv.org/abs/2504.12966v1)|null|
 |**2025-04-17**|**Saliency-Aware Diffusion Reconstruction for Effective Invisible Watermark Removal**|Inzamamul Alam, Md Tanvir Islam, Simon S. Woo|[2504.12809v1](http://arxiv.org/abs/2504.12809v1)|**[link](https://github.com/inzamamuldu/sadre)**|
 |**2025-04-17**|**Contour Field based Elliptical Shape Prior for the Segment Anything Model**|Xinyu Zhao, Jun Liu, Faqiang Wang, Li Cui, Yuping Duan|[2504.12556v1](http://arxiv.org/abs/2504.12556v1)|null|
@@ -196,7 +196,7 @@
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-15**|**Doppler-SLAM: Doppler-Aided Radar-Inertial and LiDAR-Inertial Simultaneous Localization and Mapping**|Dong Wang, Hannes Haag, Daniel Casado Herraez, Stefan May, Cyrill Stachniss, Andreas Nuechter|[2504.11634v1](http://arxiv.org/abs/2504.11634v1)|**[link](https://github.com/wayne-dwa/doppler-slam)**|
+|**2025-04-15**|**Doppler-SLAM: Doppler-Aided Radar-Inertial and LiDAR-Inertial Simultaneous Localization and Mapping**|Dong Wang, Hannes Haag, Daniel Casado Herraez, Stefan May, Cyrill Stachniss, Andreas Nuechter|[2504.11634v2](http://arxiv.org/abs/2504.11634v2)|**[link](https://github.com/wayne-dwa/doppler-slam)**|
 |**2025-04-14**|**Region Based SLAM-Aware Exploration: Efficient and Robust Autonomous Mapping Strategy That Can Scale**|Megha Maheshwari, Sadeigh Rabiee, He Yin, Martin Labrie, Hang Liu|[2504.10416v1](http://arxiv.org/abs/2504.10416v1)|null|
 |**2025-04-10**|**Experimental Analysis of Quadcopter Drone Hover Constraints for Localization Improvements**|Uthman Olawoye, David Akhihiero, Jason N. Gross|[2504.07843v1](http://arxiv.org/abs/2504.07843v1)|null|
 |**2025-04-01**|**Semantic SLAM with Rolling-Shutter Cameras and Low-Precision INS in Outdoor Environments**|Yuchen Zhang, Miao Fan, Shengtong Xu, Xiangzeng Liu, Haoyi Xiong|[2504.01997v1](http://arxiv.org/abs/2504.01997v1)|null|
