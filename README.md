@@ -92,6 +92,8 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**Pixel3DMM: Versatile Screen-Space Priors for Single-Image 3D Face Reconstruction**|Simon Giebenhain, Tobias Kirschstein, Martin Rünz, Lourdes Agapito, Matthias Nießner|[2505.00615v1](http://arxiv.org/abs/2505.00615v1)|null|
+|**2025-05-01**|**Dietary Intake Estimation via Continuous 3D Reconstruction of Food**|Wallace Lee, YuHao Chen|[2505.00606v1](http://arxiv.org/abs/2505.00606v1)|null|
 |**2025-04-30**|**Kolmogorov Cascade as the Governing Mechanism for Intervortex Spacing in Quantum Turbulence**|Clément Bret, Pantxo Diribarne, Jérôme Duplat, Bernard Rousset|[2504.21416v1](http://arxiv.org/abs/2504.21416v1)|null|
 |**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie, Yixi Cai, Yinqiang Zhang, Lei Yang, Jia Pan|[2504.21067v1](http://arxiv.org/abs/2504.21067v1)|null|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun, Torsten Sattler, Malcolm Mielle, Achim J. Lilienthal, Martin Magnusson|[2504.20496v1](http://arxiv.org/abs/2504.20496v1)|null|
@@ -100,11 +102,10 @@
 |**2025-04-28**|**Modeling of Parallel Single-Pixel Imaging for 3D Reconstruction: New Insights and Opportunities**|Feifei Chen, Yunan Shen, Chengmin Liu, Zhaosheng Chen, Xi Tang, Zhengdong Chen, Qican Zhang, Zhoujie Wu|[2504.19923v1](http://arxiv.org/abs/2504.19923v1)|null|
 |**2025-04-28**|**Boosting 3D Liver Shape Datasets with Diffusion Models and Implicit Neural Representations**|Khoa Tuan Nguyen, Francesca Tozzi, Wouter Willaert, Joris Vankerschaver, Nikdokht Rashidian, Wesley De Neve|[2504.19402v1](http://arxiv.org/abs/2504.19402v1)|null|
 |**2025-04-27**|**Beyond Physical Reach: Comparing Head- and Cane-Mounted Cameras for Last-Mile Navigation by Blind Users**|Apurv Varshney, Lucas Nadolskis, Tobias Höllerer, Michael Beyeler|[2504.19345v1](http://arxiv.org/abs/2504.19345v1)|null|
-|**2025-04-27**|**IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos**|Yuan Li, Ziqian Bai, Feitong Tan, Zhaopeng Cui, Sean Fanello, Yinda Zhang|[2504.19165v2](http://arxiv.org/abs/2504.19165v2)|null|
-|**2025-04-25**|**PerfCam: Digital Twinning for Production Lines Using 3D Gaussian Splatting and Vision Models**|Michel Gokan Khan, Renan Guarese, Fabian Johnson, Xi Vincent Wang, Anders Bergman, Benjamin Edvinsson, Mario Romero, Jérémy Vachier, Jan Kronqvist|[2504.18165v1](http://arxiv.org/abs/2504.18165v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers**|Kwon Byung-Ki, Qi Dai, Lee Hyoseok, Chong Luo, Tae-Hyun Oh|[2505.00482v1](http://arxiv.org/abs/2505.00482v1)|null|
 |**2025-04-30**|**HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation**|Haiyang Zhou, Wangbo Yu, Jiawen Guan, Xinhua Cheng, Yonghong Tian, Li Yuan|[2504.21650v1](http://arxiv.org/abs/2504.21650v1)|null|
 |**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb, Anirban Mukhopadhyay|[2504.21562v1](http://arxiv.org/abs/2504.21562v1)|null|
 |**2025-04-29**|**Real-Time Wayfinding Assistant for Blind and Low-Vision Users**|Dabbrata Das, Argho Deb Das, Farhan Sadaf|[2504.20976v1](http://arxiv.org/abs/2504.20976v1)|null|
@@ -114,7 +115,6 @@
 |**2025-04-26**|**Depth as Points: Center Point-based Depth Estimation**|Zhiheng Tu, Xinjian Huang, Yong He, Ruiyang Zhou, Bo Du, Weitao Wu|[2504.18773v1](http://arxiv.org/abs/2504.18773v1)|null|
 |**2025-04-25**|**LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning**|Rui Li, Biao Zhang, Zhenyu Li, Federico Tombari, Peter Wonka|[2504.18424v1](http://arxiv.org/abs/2504.18424v1)|null|
 |**2025-04-25**|**Dense Geometry Supervision for Underwater Depth Estimation**|Wenxiang Gua, Lin Qia|[2504.18233v1](http://arxiv.org/abs/2504.18233v1)|null|
-|**2025-04-25**|**LiDAR-Guided Monocular 3D Object Detection for Long-Range Railway Monitoring**|Raul David Dominguez Sanchez, Xavier Diaz Ortiz, Xingcheng Zhou, Max Peter Ronecker, Michael Karner, Daniel Watzenig, Alois Knoll|[2504.18203v1](http://arxiv.org/abs/2504.18203v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,8 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**A Robust Deep Networks based Multi-Object MultiCamera Tracking System for City Scale Traffic**|Muhammad Imran Zaman, Usama Ijaz Bajwa, Gulshan Saleem, Rana Hammad Raza|[2505.00534v1](http://arxiv.org/abs/2505.00534v1)|null|
+|**2025-04-30**|**Stereo X-ray tomography on deformed object tracking**|Zhenduo Shang, Thomas Blumensath|[2505.00122v1](http://arxiv.org/abs/2505.00122v1)|null|
 |**2025-04-30**|**LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics**|Marc Glocker, Peter Hönig, Matthias Hirschmanner, Markus Vincze|[2504.21716v1](http://arxiv.org/abs/2504.21716v1)|null|
 |**2025-04-30**|**Enhancing Self-Supervised Fine-Grained Video Object Tracking with Dynamic Memory Prediction**|Zihan Zhou, Changrui Dai, Aibo Song, Xiaolin Fang|[2504.21692v1](http://arxiv.org/abs/2504.21692v1)|null|
 |**2025-04-29**|**The Mean of Multi-Object Trajectories**|Tran Thien Dat Nguyen, Ba Tuong Vo, Ba-Ngu Vo, Hoa Van Nguyen, Changbeom Shim|[2504.20391v1](http://arxiv.org/abs/2504.20391v1)|null|
@@ -139,11 +141,10 @@
 |**2025-04-25**|**Decentralized Fusion of 3D Extended Object Tracking based on a B-Spline Shape Model**|Longfei Han, Klaus Kefferpütz, Jürgen Beyerer|[2504.18708v1](http://arxiv.org/abs/2504.18708v1)|null|
 |**2025-04-25**|**Multi-Sensor Fusion of Active and Passive Measurements for Extended Object Tracking**|Hong Zhu, Alexander Venus, Erik Leitinger, Klaus Witrisal|[2504.18301v1](http://arxiv.org/abs/2504.18301v1)|null|
 |**2025-04-25**|**PerfCam: Digital Twinning for Production Lines Using 3D Gaussian Splatting and Vision Models**|Michel Gokan Khan, Renan Guarese, Fabian Johnson, Xi Vincent Wang, Anders Bergman, Benjamin Edvinsson, Mario Romero, Jérémy Vachier, Jan Kronqvist|[2504.18165v1](http://arxiv.org/abs/2504.18165v1)|null|
-|**2025-04-25**|**S3MOT: Monocular 3D Object Tracking with Selective State Space Model**|Zhuohao Yan, Shaoquan Feng, Xingxing Li, Yuxuan Zhou, Chunxi Xia, Shengyu Li|[2504.18068v1](http://arxiv.org/abs/2504.18068v1)|null|
-|**2025-04-22**|**SonarT165: A Large-scale Benchmark and STFTrack Framework for Acoustic Object Tracking**|Yunfeng Li, Bo Wang, Jiahao Wan, Xueyi Wu, Ye Li|[2504.15609v1](http://arxiv.org/abs/2504.15609v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**Future-Oriented Navigation: Dynamic Obstacle Avoidance with One-Shot Energy-Based Multimodal Motion Prediction**|Ze Zhang, Georg Hess, Junjie Hu, Emmanuel Dean, Lennart Svensson, Knut Åkesson|[2505.00237v1](http://arxiv.org/abs/2505.00237v1)|null|
 |**2025-04-27**|**Trajectory Planning with Model Predictive Control for Obstacle Avoidance Considering Prediction Uncertainty**|Eric Schöneberg, Michael Schröder, Daniel Görges, Hans D. Schotten|[2504.19193v1](http://arxiv.org/abs/2504.19193v1)|null|
 |**2025-04-21**|**A General Infrastructure and Workflow for Quadrotor Deep Reinforcement Learning and Reality Deployment**|Kangyao Huang, Hao Wang, Yu Luo, Jingyu Chen, Jintao Chen, Xiangkui Zhang, Xiangyang Ji, Huaping Liu|[2504.15129v1](http://arxiv.org/abs/2504.15129v1)|null|
 |**2025-04-17**|**Graph-based Path Planning with Dynamic Obstacle Avoidance for Autonomous Parking**|Farhad Nawaz, Minjun Sung, Darshan Gadginmath, Jovin D'sa, Sangjae Bae, David Isele, Nadia Figueroa, Nikolai Matni, Faizan M. Tariq|[2504.12616v1](http://arxiv.org/abs/2504.12616v1)|null|
@@ -153,7 +154,6 @@
 |**2025-03-08**|**InfoFusion Controller: Informed TRRT Star with Mutual Information based on Fusion of Pure Pursuit and MPC for Enhanced Path Planning**|Seongjun Choi, Youngbum Kim, Nam Woo Kim, Mansun Shin, Byunggi Chae, Sungjin Lee|[2503.06010v1](http://arxiv.org/abs/2503.06010v1)|**[link](https://github.com/drawingprocess/infofusioncontroller)**|
 |**2025-03-03**|**CorrA: Leveraging Large Language Models for Dynamic Obstacle Avoidance of Autonomous Vehicles**|Shanting Wang, Panagiotis Typaldos, Andreas A. Malikopoulos|[2503.02076v1](http://arxiv.org/abs/2503.02076v1)|null|
 |**2025-03-01**|**Dynamic Collision Avoidance Using Velocity Obstacle-Based Control Barrier Functions**|Jihao Huang, Jun Zeng, Xuemin Chi, Koushil Sreenath, Zhitao Liu, Hongye Su|[2503.00606v2](http://arxiv.org/abs/2503.00606v2)|null|
-|**2025-02-21**|**Estimating Control Barriers from Offline Data**|Hongzhan Yu, Seth Farrell, Ryo Yoshimitsu, Zhizhen Qin, Henrik I. Christensen, Sicun Gao|[2503.10641v1](http://arxiv.org/abs/2503.10641v1)|null|
 ## PointCloud
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
