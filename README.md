@@ -92,20 +92,21 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**VIN-NBV: A View Introspection Network for Next-Best-View Selection for Resource-Efficient 3D Reconstruction**|Noah Frahm, Dongxu Zhao, Andrea Dunn Beltran, Ron Alterovitz, Jan-Michael Frahm, Junier Oliva, Roni Sengupta|[2505.06219v1](http://arxiv.org/abs/2505.06219v1)|null|
+|**2025-05-09**|**RefRef: A Synthetic Dataset and Benchmark for Reconstructing Refractive and Reflective Objects**|Yue Yin, Enze Tao, Weijian Deng, Dylan Campbell|[2505.05848v1](http://arxiv.org/abs/2505.05848v1)|null|
+|**2025-05-08**|**The Moon's Many Faces: A Single Unified Transformer for Multimodal Lunar Reconstruction**|Tom Sander, Moritz Tenthoff, Kay Wohlfarth, Christian Wöhler|[2505.05644v1](http://arxiv.org/abs/2505.05644v1)|null|
+|**2025-05-08**|**UltraGauss: Ultrafast Gaussian Reconstruction of 3D Ultrasound Volumes**|Mark C. Eid, Ana I. L. Namburete, João F. Henriques|[2505.05643v1](http://arxiv.org/abs/2505.05643v1)|null|
 |**2025-05-08**|**Time of the Flight of the Gaussians: Optimizing Depth Indirectly in Dynamic Radiance Fields**|Runfeng Li, Mikhail Okunev, Zixuan Guo, Anh Ha Duong, Christian Richardt, Matthew O'Toole, James Tompkin|[2505.05356v1](http://arxiv.org/abs/2505.05356v1)|null|
 |**2025-05-08**|**Advanced 3D Imaging Approach to TSV/TGV Metrology and Inspection Using Only Optical Microscopy**|Gugeong Sung|[2505.04913v1](http://arxiv.org/abs/2505.04913v1)|null|
 |**2025-05-07**|**TetWeave: Isosurface Extraction using On-The-Fly Delaunay Tetrahedral Grids for Gradient-Based Mesh Optimization**|Alexandre Binninger, Ruben Wiersma, Philipp Herholz, Olga Sorkine-Hornung|[2505.04590v2](http://arxiv.org/abs/2505.04590v2)|**[link](https://github.com/AlexandreBinninger/TetWeave)**|
 |**2025-05-07**|**Registration of 3D Point Sets Using Exponential-based Similarity Matrix**|Ashutosh Singandhupe, Sanket Lokhande, Hung Manh La|[2505.04540v1](http://arxiv.org/abs/2505.04540v1)|**[link](https://github.com/aralab-unr/esm_icp)**|
 |**2025-05-07**|**Low Resolution Next Best View for Robot Packing**|Giuseppe Fabio Preziosa, Chiara Castellano, Andrea Maria Zanchettin, Marco Faroni, Paolo Rocco|[2505.04228v1](http://arxiv.org/abs/2505.04228v1)|null|
 |**2025-05-07**|**SGCR: Spherical Gaussians for Efficient 3D Curve Reconstruction**|Xinran Yang, Donghao Ji, Yuanqi Li, Jie Guo, Yanwen Guo, Junyuan Xie|[2505.04668v1](http://arxiv.org/abs/2505.04668v1)|null|
-|**2025-05-06**|**AquaticVision: Benchmarking Visual SLAM in Underwater Environment with Events and Frames**|Yifan Peng, Yuze Hong, Ziyang Hong, Apple Pui-Yi Chui, Junfeng Wu|[2505.03448v1](http://arxiv.org/abs/2505.03448v1)|null|
-|**2025-05-06**|**3D Surface Reconstruction with Enhanced High-Frequency Details**|Shikun Zhang, Yiqun Wang, Cunjian Chen, Yong Li, Qiuhong Ke|[2505.03362v1](http://arxiv.org/abs/2505.03362v1)|null|
-|**2025-05-05**|**Marker-Based Extrinsic Calibration Method for Accurate Multi-Camera 3D Reconstruction**|Nahuel Garcia-D'Urso, Bernabe Sanchez-Sos, Jorge Azorin-Lopez, Andres Fuster-Guillo, Antonio Macia-Lillo, Higinio Mora-Mora|[2505.02539v2](http://arxiv.org/abs/2505.02539v2)|**[link](https://github.com/Tech4DLab/CalibMarker)**|
-|**2025-05-04**|**SparSplat: Fast Multi-View Reconstruction with Generalizable 2D Gaussian Splatting**|Shubhendu Jena, Shishir Reddy Vutukur, Adnane Boukhayma|[2505.02175v1](http://arxiv.org/abs/2505.02175v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-07**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang, Abhinav Kumar, Girish Chandar Ganesan, Xiaoming Liu|[2505.04594v2](http://arxiv.org/abs/2505.04594v2)|null|
+|**2025-05-09**|**Camera-Only Bird's Eye View Perception: A Neural Approach to LiDAR-Free Environmental Mapping for Autonomous Vehicles**|Anupkumar Bochare|[2505.06113v1](http://arxiv.org/abs/2505.06113v1)|null|
+|**2025-05-07**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang, Abhinav Kumar, Girish Chandar Ganesan, Xiaoming Liu|[2505.04594v3](http://arxiv.org/abs/2505.04594v3)|null|
 |**2025-05-06**|**Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach**|Srecharan Selvam, Abhishesh Silwal, George Kanter|[2505.03702v1](http://arxiv.org/abs/2505.03702v1)|null|
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu, Wenpeng Lai, Zhou Zhao, Yuxuan Xiong, Jinchi Zhu, Jun Cheng, Yongchao Xu|[2505.03422v1](http://arxiv.org/abs/2505.03422v1)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
 |**2025-05-05**|**VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu, Jing Chen|[2505.02704v2](http://arxiv.org/abs/2505.02704v2)|**[link](https://github.com/pakinwu/vgld)**|
@@ -114,7 +115,6 @@
 |**2025-05-02**|**LMDepth: Lightweight Mamba-based Monocular Depth Estimation for Real-World Deployment**|Jiahuan Long, Xin Zhou|[2505.00980v1](http://arxiv.org/abs/2505.00980v1)|null|
 |**2025-05-01**|**JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers**|Kwon Byung-Ki, Qi Dai, Lee Hyoseok, Chong Luo, Tae-Hyun Oh|[2505.00482v1](http://arxiv.org/abs/2505.00482v1)|null|
 |**2025-04-30**|**HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation**|Haiyang Zhou, Wangbo Yu, Jiawen Guan, Xinhua Cheng, Yonghong Tian, Li Yuan|[2504.21650v1](http://arxiv.org/abs/2504.21650v1)|null|
-|**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb, Anirban Mukhopadhyay|[2504.21562v1](http://arxiv.org/abs/2504.21562v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,8 +131,9 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**CGTrack: Cascade Gating Network with Hierarchical Feature Aggregation for UAV Tracking**|Weihong Li, Xiaoqiong Liu, Heng Fan, Libo Zhang|[2505.05936v1](http://arxiv.org/abs/2505.05936v1)|**[link](https://github.com/nightwatch-fox11/cgtrack)**|
 |**2025-05-08**|**A Simple Detector with Frame Dynamics is a Strong Tracker**|Chenxu Peng, Chenxu Wang, Minrui Zou, Danyang Li, Zhengpeng Yang, Yimian Dai, Ming-Ming Cheng, Xiang Li|[2505.04917v1](http://arxiv.org/abs/2505.04917v1)|null|
-|**2025-05-07**|**SMMT: Siamese Motion Mamba with Self-attention for Thermal Infrared Target Tracking**|Shang Zhang, Huanbin Zhang, Dali Feng, Yujie Cui, Ruoyan Xiong, Cen He|[2505.04088v1](http://arxiv.org/abs/2505.04088v1)|null|
+|**2025-05-07**|**SMMT: Siamese Motion Mamba with Self-attention for Thermal Infrared Target Tracking**|Shang Zhang, Huanbin Zhang, Dali Feng, Yujie Cui, Ruoyan Xiong, Cen He|[2505.04088v2](http://arxiv.org/abs/2505.04088v2)|null|
 |**2025-05-06**|**Interactive Instance Annotation with Siamese Networks**|Xiang Xu, Ruotong Li, Mengjun Yi, Baile XU, Furao Shen, Jian Zhao|[2505.03184v1](http://arxiv.org/abs/2505.03184v1)|null|
 |**2025-05-02**|**CAMELTrack: Context-Aware Multi-cue ExpLoitation for Online Multi-Object Tracking**|Vladimir Somers, Baptiste Standaert, Victor Joos, Alexandre Alahi, Christophe De Vleeschouwer|[2505.01257v1](http://arxiv.org/abs/2505.01257v1)|**[link](https://github.com/TrackingLaboratory/CAMELTrack)**|
 |**2025-05-02**|**Optimizing Indoor Farm Monitoring Efficiency Using UAV: Yield Estimation in a GNSS-Denied Cherry Tomato Greenhouse**|Taewook Park, Jinwoo Lee, Hyondong Oh, Won-Jae Yun, Kyu-Wha Lee|[2505.00995v1](http://arxiv.org/abs/2505.00995v1)|null|
@@ -140,7 +141,6 @@
 |**2025-04-30**|**Stereo X-ray tomography on deformed object tracking**|Zhenduo Shang, Thomas Blumensath|[2505.00122v1](http://arxiv.org/abs/2505.00122v1)|null|
 |**2025-04-30**|**LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics**|Marc Glocker, Peter Hönig, Matthias Hirschmanner, Markus Vincze|[2504.21716v1](http://arxiv.org/abs/2504.21716v1)|**[link](https://github.com/marc1198/chat-hsr)**|
 |**2025-04-30**|**Enhancing Self-Supervised Fine-Grained Video Object Tracking with Dynamic Memory Prediction**|Zihan Zhou, Changrui Dai, Aibo Song, Xiaolin Fang|[2504.21692v1](http://arxiv.org/abs/2504.21692v1)|null|
-|**2025-04-30**|**MoSAM: Motion-Guided Segment Anything Model with Spatial-Temporal Memory Selection**|Qiushi Yang, Yuan Yao, Miaomiao Cui, Liefeng Bo|[2505.00739v1](http://arxiv.org/abs/2505.00739v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,6 +183,7 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**Register and CLS tokens yield a decoupling of local and global features in large ViTs**|Alexander Lappe, Martin A. Giese|[2505.05892v1](http://arxiv.org/abs/2505.05892v1)|null|
 |**2025-05-08**|**Aesthetics Without Semantics**|C. Alejandro Parraga, Olivier Penacchio, Marcos Muňoz Gonzalez, Bogdan Raducanu, Xavier Otazu|[2505.05331v1](http://arxiv.org/abs/2505.05331v1)|null|
 |**2025-05-08**|**SSH-Net: A Self-Supervised and Hybrid Network for Noisy Image Watermark Removal**|Wenyang Liu, Jianjun Gao, Kim-Hui Yap|[2505.05088v1](http://arxiv.org/abs/2505.05088v1)|null|
 |**2025-05-06**|**A Vision-Language Model for Focal Liver Lesion Classification**|Song Jian, Hu Yuchang, Wang Hui, Chen Yen-Wei|[2505.03350v1](http://arxiv.org/abs/2505.03350v1)|null|
@@ -192,7 +193,6 @@
 |**2025-05-05**|**Uncertainty-Weighted Image-Event Multimodal Fusion for Video Anomaly Detection**|Sungheon Jeong, Jihong Park, Mohsen Imani|[2505.02393v2](http://arxiv.org/abs/2505.02393v2)|**[link](https://github.com/eavnjeong/ief-vad)**|
 |**2025-05-04**|**Hybrid Image Resolution Quality Metric (HIRQM):A Comprehensive Perceptual Image Quality Assessment Framework**|Vineesh Kumar Reddy Mondem|[2505.02001v1](http://arxiv.org/abs/2505.02001v1)|null|
 |**2025-05-02**|**CostFilter-AD: Enhancing Anomaly Detection through Matching Cost Filtering**|Zhe Zhang, Mingxiu Cai, Hanxiao Wang, Gaochang Wu, Tianyou Chai, Xiatian Zhu|[2505.01476v1](http://arxiv.org/abs/2505.01476v1)|**[link](https://github.com/zhe-sapi/costfilter-ad)**|
-|**2025-05-02**|**T-Graph: Enhancing Sparse-view Camera Pose Estimation by Pairwise Translation Graph**|Qingyu Xian, Weiqin Jiao, Hao Cheng, Berend Jan van der Zwaag, Yanqiu Huang|[2505.01207v1](http://arxiv.org/abs/2505.01207v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
