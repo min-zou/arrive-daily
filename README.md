@@ -107,7 +107,7 @@
 |---|---|---|---|---|
 |**2025-05-15**|**Depth Anything with Any Prior**|Zehan Wang, Siyu Chen, Lihe Yang, Jialei Wang, Ziang Zhang, Hengshuang Zhao, Zhou Zhao|[2505.10565v1](http://arxiv.org/abs/2505.10565v1)|null|
 |**2025-05-15**|**JointDistill: Adaptive Multi-Task Distillation for Joint Depth Estimation and Scene Segmentation**|Tiancong Cheng, Ying Zhang, Yuxuan Liang, Roger Zimmermann, Zhiwen Yu, Bin Guo|[2505.10057v1](http://arxiv.org/abs/2505.10057v1)|null|
-|**2025-05-14**|**Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis**|Bingxin Ke, Kevin Qu, Tianfu Wang, Nando Metzger, Shengyu Huang, Bo Li, Anton Obukhov, Konrad Schindler|[2505.09358v1](http://arxiv.org/abs/2505.09358v1)|null|
+|**2025-05-14**|**Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis**|Bingxin Ke, Kevin Qu, Tianfu Wang, Nando Metzger, Shengyu Huang, Bo Li, Anton Obukhov, Konrad Schindler|[2505.09358v1](http://arxiv.org/abs/2505.09358v1)|**[link](https://github.com/prs-eth/marigold)**|
 |**2025-05-13**|**Boosting Zero-shot Stereo Matching using Large-scale Mixed Images Sources in the Real World**|Yuran Wang, Yingping Liang, Ying Fu|[2505.08607v1](http://arxiv.org/abs/2505.08607v1)|null|
 |**2025-05-12**|**Some insights into depth estimators for location and scatter in the multivariate setting**|Jorge G. Adrover, Marcelo Ruiz|[2505.07383v1](http://arxiv.org/abs/2505.07383v1)|null|
 |**2025-05-11**|**Reinforcement Learning-Based Monocular Vision Approach for Autonomous UAV Landing**|Tarik Houichime, Younes EL Amrani|[2505.06963v1](http://arxiv.org/abs/2505.06963v1)|null|
