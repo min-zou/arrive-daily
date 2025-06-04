@@ -66,7 +66,7 @@
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-30**|**Improving Multilingual Speech Models on ML-SUPERB 2.0: Fine-tuning with Data Augmentation and LID-Aware CTC**|Qingzheng Wang, Jiancheng Sun, Yifan Peng, Shinji Watanabe|[2505.24200v1](http://arxiv.org/abs/2505.24200v1)|null|
+|**2025-05-30**|**Improving Multilingual Speech Models on ML-SUPERB 2.0: Fine-tuning with Data Augmentation and LID-Aware CTC**|Qingzheng Wang, Jiancheng Sun, Yifan Peng, Shinji Watanabe|[2505.24200v2](http://arxiv.org/abs/2505.24200v2)|null|
 |**2025-05-28**|**FAMA: The First Large-Scale Open-Science Speech Foundation Model for English and Italian**|Sara Papi, Marco Gaido, Luisa Bentivogli, Alessio Brutti, Mauro Cettolo, Roberto Gretter, Marco Matassoni, Mohamed Nabih, Matteo Negri|[2505.22759v2](http://arxiv.org/abs/2505.22759v2)|null|
 |**2025-05-28**|**UAVPairs: A Challenging Benchmark for Match Pair Retrieval of Large-scale UAV Images**|Junhuan Liu, San Jiang, Wei Ge, Wei Huang, Bingxuan Guo, Qingquan Li|[2505.22098v1](http://arxiv.org/abs/2505.22098v1)|null|
 |**2025-05-28**|**Fast Feature Matching of UAV Images via Matrix Band Reduction-based GPU Data Schedule**|San Jiang, Kan You, Wanshou Jiang, Qingquan Li|[2505.22089v1](http://arxiv.org/abs/2505.22089v1)|null|
