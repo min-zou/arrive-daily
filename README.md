@@ -92,7 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-11**|**SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields**|Qijing Li, Jingxiang Sun, Liang An, Zhaoqi Su, Hongwen Zhang, Yebin Liu|[2506.09565v1](http://arxiv.org/abs/2506.09565v1)|null|
+|**2025-06-11**|**SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields**|Qijing Li, Jingxiang Sun, Liang An, Zhaoqi Su, Hongwen Zhang, Yebin Liu|[2506.09565v2](http://arxiv.org/abs/2506.09565v2)|null|
 |**2025-06-10**|**UFM: A Simple Path towards Unified Dense Correspondence with Flow**|Yuchen Zhang, Nikhil Keetha, Chenwei Lyu, Bhuvan Jhamb, Yutian Chen, Yuheng Qiu, Jay Karhade, Shreyas Jha, Yaoyu Hu, Deva Ramanan, Sebastian Scherer, Wenshan Wang|[2506.09278v1](http://arxiv.org/abs/2506.09278v1)|null|
 |**2025-06-10**|**StreamSplat: Towards Online Dynamic 3D Reconstruction from Uncalibrated Video Streams**|Zike Wu, Qi Yan, Xuanyu Yi, Lele Wang, Renjie Liao|[2506.08862v1](http://arxiv.org/abs/2506.08862v1)|null|
 |**2025-06-10**|**A Probability-guided Sampler for Neural Implicit Surface Rendering**|Gonçalo Dias Pais, Valter Piedade, Moitreya Chatterjee, Marcus Greiff, Pedro Miraldo|[2506.08619v1](http://arxiv.org/abs/2506.08619v1)|null|
@@ -183,19 +183,20 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**Cross-Modal Clustering-Guided Negative Sampling for Self-Supervised Joint Learning from Medical Images and Reports**|Libin Lan, Hongxing Li, Zunhui Xia, Juan Zhou, Xiaofei Zhu, Yongmei Li, Yudong Zhang, Xin Luo|[2506.11674v1](http://arxiv.org/abs/2506.11674v1)|null|
+|**2025-06-13**|**Machine Learning-Based Quantification of Vesicoureteral Reflux with Enhancing Accuracy and Efficiency**|Muhyeeddin Alqaraleh, Mowafaq Salem Alzboon, Mohammad Subhi Al-Batah, Lana Yasin Al Aesa, Mohammed Hasan Abu-Arqoub, Rashiq Rafiq Marie, Firas Hussein Alsmad|[2506.11508v1](http://arxiv.org/abs/2506.11508v1)|null|
 |**2025-06-12**|**Text to Image for Multi-Label Image Recognition with Joint Prompt-Adapter Learning**|Chun-Mei Feng, Kai Yu, Xinxing Xu, Salman Khan, Rick Siow Mong Goh, Wangmeng Zuo, Yong Liu|[2506.10575v1](http://arxiv.org/abs/2506.10575v1)|null|
 |**2025-06-12**|**FSATFusion: Frequency-Spatial Attention Transformer for Infrared and Visible Image Fusion**|Tianpei Zhang, Jufeng Zhao, Yiming Zhu, Guangmang Cui, Yuhan Lyu|[2506.10366v1](http://arxiv.org/abs/2506.10366v1)|null|
 |**2025-06-11**|**Unsupervised Deep Clustering of MNIST with Triplet-Enhanced Convolutional Autoencoders**|Md. Faizul Islam Ansari|[2506.10094v1](http://arxiv.org/abs/2506.10094v1)|null|
+|**2025-06-11**|**HQFNN: A Compact Quantum-Fuzzy Neural Network for Accurate Image Classification**|Jianhong Yao, Yangming Guo|[2506.11146v1](http://arxiv.org/abs/2506.11146v1)|null|
+|**2025-06-10**|**JAFAR: Jack up Any Feature at Any Resolution**|Paul Couairon, Loick Chambon, Louis Serrano, Jean-Emmanuel Haugeard, Matthieu Cord, Nicolas Thome|[2506.11136v1](http://arxiv.org/abs/2506.11136v1)|null|
 |**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Dianyi Wang, Wei Song, Yikun Wang, Siyuan Wang, Kaicheng Yu, Zhongyu Wei, Jiaqi Wang|[2506.09040v1](http://arxiv.org/abs/2506.09040v1)|null|
 |**2025-06-10**|**ORIDa: Object-centric Real-world Image Composition Dataset**|Jinwoo Kim, Sangmin Han, Jinho Jeong, Jiwoo Choi, Dongyoung Kim, Seon Joo Kim|[2506.08964v1](http://arxiv.org/abs/2506.08964v1)|null|
 |**2025-06-10**|**MedMoE: Modality-Specialized Mixture of Experts for Medical Vision-Language Understanding**|Shivang Chopra, Gabriela Sanchez-Rodriguez, Lingchao Mao, Andrew J Feola, Jing Li, Zsolt Kira|[2506.08356v2](http://arxiv.org/abs/2506.08356v2)|null|
-|**2025-06-09**|**Incorporating Uncertainty-Guided and Top-k Codebook Matching for Real-World Blind Image Super-Resolution**|Weilei Wen, Tianyi Zhang, Qianqian Zhao, Zhaohui Zheng, Chunle Guo, Xiuli Shao, Chongyi Li|[2506.07809v1](http://arxiv.org/abs/2506.07809v1)|null|
-|**2025-06-09**|**Segment Any Architectural Facades (SAAF):An automatic segmentation model for building facades, walls and windows based on multimodal semantics guidance**|Peilin Li, Jun Yin, Jing Zhong, Ran Luo, Pengyu Zeng, Miao Zhang|[2506.09071v1](http://arxiv.org/abs/2506.09071v1)|null|
-|**2025-06-09**|**Adaptive Blind Super-Resolution Network for Spatial-Specific and Spatial-Agnostic Degradations**|Weilei Wen, Chunle Guo, Wenqi Ren, Hongpeng Wang, Xiuli Shao|[2506.07705v1](http://arxiv.org/abs/2506.07705v1)|null|
-|**2025-06-07**|**Meta-Adaptive Prompt Distillation for Few-Shot Visual Question Answering**|Akash Gupta, Amos Storkey, Mirella Lapata|[2506.06905v2](http://arxiv.org/abs/2506.06905v2)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**Robust Filtering -- Novel Statistical Learning and Inference Algorithms with Applications**|Aamir Hussain Chughtai|[2506.11530v1](http://arxiv.org/abs/2506.11530v1)|null|
 |**2025-06-03**|**Automatic Operation of an Articulated Dump Truck: State Estimation by Combined QZSS CLAS and Moving-Base RTK Using Multiple GNSS Receivers**|Taro Suzuki, Shotaro Kojima, Kazunori Ohno, Naoto Miyamoto, Takahiro Suzuki, Kimitaka Asano, Tomohiro Komatsu, Hiroto Kakizaki|[2506.02877v1](http://arxiv.org/abs/2506.02877v1)|null|
 |**2025-06-01**|**A Dynamic Stiefel Graph Neural Network for Efficient Spatio-Temporal Time Series Forecasting**|Jiankai Zheng, Liang Xie|[2506.00798v1](http://arxiv.org/abs/2506.00798v1)|null|
 |**2025-05-29**|**How Animals Dance (When You're Not Looking)**|Xiaojuan Wang, Aleksander Holynski, Brian Curless, Ira Kemelmacher, Steve Seitz|[2505.23738v1](http://arxiv.org/abs/2505.23738v1)|null|
@@ -205,7 +206,6 @@
 |**2025-05-13**|**Constrained Factor Graph Optimization for Robust Networked Pedestrian Inertial Navigation**|Yingjie Hu, Wang Hu|[2505.08229v1](http://arxiv.org/abs/2505.08229v1)|**[link](https://github.com/azurehappen/constrained-zupt-fgo)**|
 |**2025-05-12**|**Integrated Localization and Path Planning for an Ocean Exploring Team of Autonomous Underwater Vehicles with Consensus Graph Model Predictive Control**|Mohsen Eskandari, Andrey V. Savkin, Mohammad Deghat|[2505.07484v1](http://arxiv.org/abs/2505.07484v1)|null|
 |**2025-04-30**|**Message Optimality and Message-Time Trade-offs for APSP and Beyond**|Fabien Dufoulon, Shreyas Pai, Gopal Pandurangan, Sriram Pemmaraju, Peter Robinson|[2504.21781v1](http://arxiv.org/abs/2504.21781v1)|null|
-|**2025-04-29**|**LPVIMO-SAM: Tightly-coupled LiDAR/Polarization Vision/Inertial/Magnetometer/Optical Flow Odometry via Smoothing and Mapping**|Derui Shan, Peng Guo, Wenshuo Li, Du Tao|[2504.20380v1](http://arxiv.org/abs/2504.20380v1)|null|
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
