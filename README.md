@@ -94,7 +94,7 @@
 |---|---|---|---|---|
 |**2025-06-11**|**SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields**|Qijing Li, Jingxiang Sun, Liang An, Zhaoqi Su, Hongwen Zhang, Yebin Liu|[2506.09565v2](http://arxiv.org/abs/2506.09565v2)|null|
 |**2025-06-10**|**UFM: A Simple Path towards Unified Dense Correspondence with Flow**|Yuchen Zhang, Nikhil Keetha, Chenwei Lyu, Bhuvan Jhamb, Yutian Chen, Yuheng Qiu, Jay Karhade, Shreyas Jha, Yaoyu Hu, Deva Ramanan, Sebastian Scherer, Wenshan Wang|[2506.09278v1](http://arxiv.org/abs/2506.09278v1)|null|
-|**2025-06-10**|**StreamSplat: Towards Online Dynamic 3D Reconstruction from Uncalibrated Video Streams**|Zike Wu, Qi Yan, Xuanyu Yi, Lele Wang, Renjie Liao|[2506.08862v1](http://arxiv.org/abs/2506.08862v1)|null|
+|**2025-06-10**|**StreamSplat: Towards Online Dynamic 3D Reconstruction from Uncalibrated Video Streams**|Zike Wu, Qi Yan, Xuanyu Yi, Lele Wang, Renjie Liao|[2506.08862v1](http://arxiv.org/abs/2506.08862v1)|**[link](https://github.com/nickwzk/streamsplat)**|
 |**2025-06-10**|**A Probability-guided Sampler for Neural Implicit Surface Rendering**|Gonçalo Dias Pais, Valter Piedade, Moitreya Chatterjee, Marcus Greiff, Pedro Miraldo|[2506.08619v1](http://arxiv.org/abs/2506.08619v1)|null|
 |**2025-06-09**|**High-density three-dimensional holography using rapid modulation of light**|Jorge-Alberto Peralta-Ángeles, Mingyuan Hong, Mario A. Quiroz-Juárez, Omar S. Magaña-Loaiza, Roberto de J. León-Montiel|[2506.08253v1](http://arxiv.org/abs/2506.08253v1)|null|
 |**2025-06-09**|**GIQ: Benchmarking 3D Geometric Reasoning of Vision Foundation Models with Simulated and Real Polyhedra**|Mateusz Michalkiewicz, Anekha Sokhal, Tadeusz Michalkiewicz, Piotr Pawlikowski, Mahsa Baktashmotlagh, Varun Jampani, Guha Balakrishnan|[2506.08194v2](http://arxiv.org/abs/2506.08194v2)|null|
@@ -105,7 +105,7 @@
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-12**|**Leveraging 6DoF Pose Foundation Models For Mapping Marine Sediment Burial**|Jerry Yan, Chinmay Talegaonkar, Nicholas Antipa, Eric Terrill, Sophia Merrifield|[2506.10386v1](http://arxiv.org/abs/2506.10386v1)|null|
+|**2025-06-12**|**Leveraging 6DoF Pose Foundation Models For Mapping Marine Sediment Burial**|Jerry Yan, Chinmay Talegaonkar, Nicholas Antipa, Eric Terrill, Sophia Merrifield|[2506.10386v1](http://arxiv.org/abs/2506.10386v1)|**[link](https://github.com/jerukan/barrels)**|
 |**2025-06-11**|**DCIRNet: Depth Completion with Iterative Refinement for Dexterous Grasping of Transparent and Reflective Objects**|Guanghu Xie, Zhiduo Jiang, Yonglong Zhang, Yang Liu, Zongwu Xie, Baoshi Cao, Hong Liu|[2506.09491v1](http://arxiv.org/abs/2506.09491v1)|null|
 |**2025-06-11**|**MSSDF: Modality-Shared Self-supervised Distillation for High-Resolution Multi-modal Remote Sensing Image Learning**|Tong Wang, Guanzhou Chen, Xiaodong Zhang, Chenxi Liu, Jiaqi Wang, Xiaoliang Tan, Wenchao Guo, Qingyuan Yang, Kaiqi Zhang|[2506.09327v1](http://arxiv.org/abs/2506.09327v1)|null|
 |**2025-06-10**|**One Patch to Rule Them All: Transforming Static Patches into Dynamic Attacks in the Physical World**|Xingshuo Han, Chen Ling, Shiyi Yao, Haozhao Wang, Hangcheng Liu, Yutong Wu, Shengmin Xu, Changhai Ou, Xinyi Huang, Tianwei Zhang|[2506.08482v1](http://arxiv.org/abs/2506.08482v1)|null|
@@ -175,7 +175,7 @@
 |**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao, Yihe Niu, Yanbo Wang, Tianchen Deng, Shenghai Yuan, Zhenli Wang, Rui Guo, Jingchuan Wang|[2506.07013v1](http://arxiv.org/abs/2506.07013v1)|null|
 |**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko, Dmitry Slepichev, Alexander Efitorov, Aigul Dzhumamuratova, Viktor Kuznetsov, Hesam Rabeti, Joydeep Biswas|[2506.04359v1](http://arxiv.org/abs/2506.04359v1)|null|
 |**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour, Sebastian Realpe, Hayat Rajani, Michele Grimaldi, Rafael Garcia, Nuno Gracias|[2505.13309v1](http://arxiv.org/abs/2505.13309v1)|null|
-|**2025-05-18**|**Structureless VIO**|Junlin Song, Miguel Olivares-Mendez|[2505.12337v1](http://arxiv.org/abs/2505.12337v1)|null|
+|**2025-05-18**|**Structureless VIO**|Junlin Song, Miguel Olivares-Mendez|[2505.12337v2](http://arxiv.org/abs/2505.12337v2)|null|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler, Karin Festl, Selim Solmaz, Daniel Watzenig|[2505.03565v1](http://arxiv.org/abs/2505.03565v1)|null|
 |**2025-05-04**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota, Sanjay Madria|[2505.01956v2](http://arxiv.org/abs/2505.01956v2)|null|
 |**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb, Anirban Mukhopadhyay|[2504.21562v1](http://arxiv.org/abs/2504.21562v1)|null|
@@ -186,11 +186,11 @@
 |**2025-06-13**|**Cross-Modal Clustering-Guided Negative Sampling for Self-Supervised Joint Learning from Medical Images and Reports**|Libin Lan, Hongxing Li, Zunhui Xia, Juan Zhou, Xiaofei Zhu, Yongmei Li, Yudong Zhang, Xin Luo|[2506.11674v1](http://arxiv.org/abs/2506.11674v1)|null|
 |**2025-06-13**|**Machine Learning-Based Quantification of Vesicoureteral Reflux with Enhancing Accuracy and Efficiency**|Muhyeeddin Alqaraleh, Mowafaq Salem Alzboon, Mohammad Subhi Al-Batah, Lana Yasin Al Aesa, Mohammed Hasan Abu-Arqoub, Rashiq Rafiq Marie, Firas Hussein Alsmad|[2506.11508v1](http://arxiv.org/abs/2506.11508v1)|null|
 |**2025-06-12**|**Text to Image for Multi-Label Image Recognition with Joint Prompt-Adapter Learning**|Chun-Mei Feng, Kai Yu, Xinxing Xu, Salman Khan, Rick Siow Mong Goh, Wangmeng Zuo, Yong Liu|[2506.10575v1](http://arxiv.org/abs/2506.10575v1)|null|
-|**2025-06-12**|**FSATFusion: Frequency-Spatial Attention Transformer for Infrared and Visible Image Fusion**|Tianpei Zhang, Jufeng Zhao, Yiming Zhu, Guangmang Cui, Yuhan Lyu|[2506.10366v1](http://arxiv.org/abs/2506.10366v1)|null|
+|**2025-06-12**|**FSATFusion: Frequency-Spatial Attention Transformer for Infrared and Visible Image Fusion**|Tianpei Zhang, Jufeng Zhao, Yiming Zhu, Guangmang Cui, Yuhan Lyu|[2506.10366v1](http://arxiv.org/abs/2506.10366v1)|**[link](https://github.com/lmmh058/fsatfusion)**|
 |**2025-06-11**|**Unsupervised Deep Clustering of MNIST with Triplet-Enhanced Convolutional Autoencoders**|Md. Faizul Islam Ansari|[2506.10094v1](http://arxiv.org/abs/2506.10094v1)|null|
 |**2025-06-11**|**HQFNN: A Compact Quantum-Fuzzy Neural Network for Accurate Image Classification**|Jianhong Yao, Yangming Guo|[2506.11146v1](http://arxiv.org/abs/2506.11146v1)|null|
 |**2025-06-10**|**JAFAR: Jack up Any Feature at Any Resolution**|Paul Couairon, Loick Chambon, Louis Serrano, Jean-Emmanuel Haugeard, Matthieu Cord, Nicolas Thome|[2506.11136v1](http://arxiv.org/abs/2506.11136v1)|null|
-|**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Dianyi Wang, Wei Song, Yikun Wang, Siyuan Wang, Kaicheng Yu, Zhongyu Wei, Jiaqi Wang|[2506.09040v1](http://arxiv.org/abs/2506.09040v1)|null|
+|**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Dianyi Wang, Wei Song, Yikun Wang, Siyuan Wang, Kaicheng Yu, Zhongyu Wei, Jiaqi Wang|[2506.09040v1](http://arxiv.org/abs/2506.09040v1)|**[link](https://github.com/alenjandrowang/asvr)**|
 |**2025-06-10**|**ORIDa: Object-centric Real-world Image Composition Dataset**|Jinwoo Kim, Sangmin Han, Jinho Jeong, Jiwoo Choi, Dongyoung Kim, Seon Joo Kim|[2506.08964v1](http://arxiv.org/abs/2506.08964v1)|null|
 |**2025-06-10**|**MedMoE: Modality-Specialized Mixture of Experts for Medical Vision-Language Understanding**|Shivang Chopra, Gabriela Sanchez-Rodriguez, Lingchao Mao, Andrew J Feola, Jing Li, Zsolt Kira|[2506.08356v2](http://arxiv.org/abs/2506.08356v2)|null|
 ## graph optimization
