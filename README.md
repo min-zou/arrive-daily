@@ -1,16 +1,16 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**MCOO-SLAM: A Multi-Camera Omnidirectional Object SLAM System**|Miaoxin Pan, Jinnan Li, Yaowen Zhang, Yi Yang, Yufeng Yue|[2506.15402v1](http://arxiv.org/abs/2506.15402v1)|null|
+|**2025-06-18**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan, Qiang Wang, Kaiyong Zhao, Jie Chen, Bo Li, Xiaowen Chu, Fei Deng|[2506.15242v1](http://arxiv.org/abs/2506.15242v1)|null|
+|**2025-06-18**|**SHeRLoc: Synchronized Heterogeneous Radar Place Recognition for Cross-Modal Localization**|Hanjun Kim, Minwoo Jung, Wooseong Yang, Ayoung Kim|[2506.15175v1](http://arxiv.org/abs/2506.15175v1)|null|
+|**2025-06-18**|**VIMS: A Visual-Inertial-Magnetic-Sonar SLAM System in Underwater Environments**|Bingbing Zhang, Huan Yin, Shuo Liu, Fumin Zhang, Wen Xu|[2506.15126v1](http://arxiv.org/abs/2506.15126v1)|null|
 |**2025-06-16**|**Slanted light-sheet array microscopy for large volume imaging at rates exceeding 100 Hz**|Kai Long, Wenkai Chen, Junming Zhou, Junyi Li, Shuhao Shen, Zhipeng Tai, Shifeng Xue, Anqi Qiu, Nanguang Chen|[2506.13664v1](http://arxiv.org/abs/2506.13664v1)|null|
 |**2025-06-16**|**Cognitive Synergy Architecture: SEGO for Human-Centric Collaborative Robots**|Jaehong Oh|[2506.13149v1](http://arxiv.org/abs/2506.13149v1)|null|
 |**2025-06-16**|**A Novel ViDAR Device With Visual Inertial Encoder Odometry and Reinforcement Learning-Based Active SLAM Method**|Zhanhua Xin, Zhihao Wang, Shenghao Zhang, Wanchao Chi, Yan Meng, Shihan Kong, Yan Xiong, Chong Zhang, Yuzhen Liu, Junzhi Yu|[2506.13100v1](http://arxiv.org/abs/2506.13100v1)|null|
-|**2025-06-16**|**SuperPoint-SLAM3: Augmenting ORB-SLAM3 with Deep Features, Adaptive NMS, and Learning-Based Loop Closure**|Shahram Najam Syed, Ishir Roongta, Kavin Ravie, Gangadhar Nageswar|[2506.13089v1](http://arxiv.org/abs/2506.13089v1)|null|
+|**2025-06-16**|**SuperPoint-SLAM3: Augmenting ORB-SLAM3 with Deep Features, Adaptive NMS, and Learning-Based Loop Closure**|Shahram Najam Syed, Ishir Roongta, Kavin Ravie, Gangadhar Nageswar|[2506.13089v1](http://arxiv.org/abs/2506.13089v1)|**[link](https://github.com/shahram95/superpointslam3)**|
 |**2025-06-12**|**LRSLAM: Low-rank Representation of Signed Distance Fields in Dense Visual SLAM System**|Hongbeen Park, Minjeong Park, Giljoo Nam, Jinkyu Kim|[2506.10567v1](http://arxiv.org/abs/2506.10567v1)|null|
 |**2025-06-11**|**VAULT: A Mobile Mapping System for ROS 2-based Autonomous Robots**|Miguel Á. González-Santamarta, Francisco J. Rodríguez-Lera, Vicente Matellán-Olivera|[2506.09583v1](http://arxiv.org/abs/2506.09583v1)|null|
-|**2025-06-10**|**Princeton365: A Diverse Dataset with Accurate Camera Pose**|Karhan Kayan, Stamatis Alexandropoulos, Rishabh Jain, Yiming Zuo, Erich Liang, Jia Deng|[2506.09035v1](http://arxiv.org/abs/2506.09035v1)|null|
-|**2025-06-10**|**Planar Collisionless Shock Simulations with Semi-Implicit Particle-in-Cell Model FLEKS**|Hongyang Zhou, Yuxi Chen, Chuanfei Dong, Liang Wang, Ying Zou, Brian Walsh, Gábor Tóth|[2506.08384v1](http://arxiv.org/abs/2506.08384v1)|null|
-|**2025-06-08**|**Faster than Fast: Accelerating Oriented FAST Feature Detection on Low-end Embedded GPUs**|Qiong Chang, Xinyuan Chen, Xiang Li, Weimin Wang, Jun Miyazaki|[2506.07164v1](http://arxiv.org/abs/2506.07164v1)|null|
-|**2025-06-06**|**GS4: Generalizable Sparse Splatting Semantic SLAM**|Mingqi Jiang, Chanho Kim, Chen Ziwen, Li Fuxin|[2506.06517v1](http://arxiv.org/abs/2506.06517v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -32,7 +32,7 @@
 |**2025-06-08**|**Interpretable and Reliable Detection of AI-Generated Images via Grounded Reasoning in MLLMs**|Yikun Ji, Hong Yan, Jun Lan, Huijia Zhu, Weiqiang Wang, Qi Fan, Liqing Zhang, Jianfu Zhang|[2506.07045v1](http://arxiv.org/abs/2506.07045v1)|null|
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang, Zizhuo Li, Kaining Zhang, Yifan Lu, Yuxin Deng, Linfeng Tang, Xingyu Jiang, Jiayi Ma|[2506.04619v1](http://arxiv.org/abs/2506.04619v1)|null|
 |**2025-05-24**|**Why Not Replace? Sustaining Long-Term Visual Localization via Handcrafted-Learned Feature Collaboration on CPU**|Yicheng Lin, Yunlong Jiang, Xujia Jiao, Bin Han|[2505.18652v1](http://arxiv.org/abs/2505.18652v1)|**[link](https://github.com/linyicheng1/orb_slam3_localization)**|
-|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer, Prabin Gyawali, Qilin Zhang, Olaf Wysocki, Boris Jutzi|[2505.17973v1](http://arxiv.org/abs/2505.17973v1)|null|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer, Prabin Gyawali, Qilin Zhang, Olaf Wysocki, Boris Jutzi|[2505.17973v1](http://arxiv.org/abs/2505.17973v1)|**[link](https://github.com/simbauer/to_glue_or_not_to_glue)**|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler, Karin Festl, Selim Solmaz, Daniel Watzenig|[2505.03565v1](http://arxiv.org/abs/2505.03565v1)|null|
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu, Wenpeng Lai, Zhou Zhao, Yuxuan Xiong, Jinchi Zhu, Jun Cheng, Yongchao Xu|[2505.03422v1](http://arxiv.org/abs/2505.03422v1)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
 |**2025-05-04**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota, Sanjay Madria|[2505.01956v2](http://arxiv.org/abs/2505.01956v2)|null|
@@ -44,7 +44,7 @@
 |**2025-05-24**|**Why Not Replace? Sustaining Long-Term Visual Localization via Handcrafted-Learned Feature Collaboration on CPU**|Yicheng Lin, Yunlong Jiang, Xujia Jiao, Bin Han|[2505.18652v1](http://arxiv.org/abs/2505.18652v1)|**[link](https://github.com/linyicheng1/orb_slam3_localization)**|
 |**2025-05-18**|**SEPT: Standard-Definition Map Enhanced Scene Perception and Topology Reasoning for Autonomous Driving**|Muleilan Pei, Jiayao Shan, Peiliang Li, Jieqi Shi, Jing Huo, Yang Gao, Shaojie Shen|[2505.12246v1](http://arxiv.org/abs/2505.12246v1)|null|
 |**2025-05-17**|**Keypoints as Dynamic Centroids for Unified Human Pose and Segmentation**|Niaz Ahmad, Jawad Khan, Kang G. Shin, Youngmoon Lee, Guanghui Wang|[2505.12130v1](http://arxiv.org/abs/2505.12130v1)|null|
-|**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen, Tianwen Fu, Haiwei Chen, Wenbin Teng, Hanyuan Xiao, Yajie Zhao|[2505.08013v1](http://arxiv.org/abs/2505.08013v1)|null|
+|**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen, Tianwen Fu, Haiwei Chen, Wenbin Teng, Hanyuan Xiao, Yajie Zhao|[2505.08013v2](http://arxiv.org/abs/2505.08013v2)|null|
 |**2025-05-12**|**Enabling Privacy-Aware AI-Based Ergonomic Analysis**|Sander De Coninck, Emilio Gamba, Bart Van Doninck, Abdellatif Bey-Temsamani, Sam Leroux, Pieter Simoens|[2505.07306v1](http://arxiv.org/abs/2505.07306v1)|null|
 |**2025-05-09**|**My Emotion on your face: The use of Facial Keypoint Detection to preserve Emotions in Latent Space Editing**|Jingrui He, Andrew Stephen McGough|[2505.06436v1](http://arxiv.org/abs/2505.06436v1)|null|
 |**2025-05-05**|**Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**|David Rivas-Villar, Álvaro S. Hervella, José Rouco, Jorge Novo|[2505.02787v1](http://arxiv.org/abs/2505.02787v1)|null|
@@ -53,16 +53,16 @@
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang, Yidan Zhang, Shin'ichi Satoh|[2506.15180v1](http://arxiv.org/abs/2506.15180v1)|null|
 |**2025-06-11**|**Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**|Xiangkai Zhang, Xiang Zhou, Mao Chen, Yuchen Lu, Xu Yang, Zhiyong Liu|[2506.09748v1](http://arxiv.org/abs/2506.09748v1)|null|
 |**2025-06-05**|**Vanishing arcs for isolated plane curve singularities**|Hanwool Bae, Cheol-Hyun Cho, Dongwook Choa, Wonbo Jeong, Pablo Portilla Cuadrado|[2506.04917v1](http://arxiv.org/abs/2506.04917v1)|null|
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang, Zizhuo Li, Kaining Zhang, Yifan Lu, Yuxin Deng, Linfeng Tang, Xingyu Jiang, Jiayi Ma|[2506.04619v1](http://arxiv.org/abs/2506.04619v1)|null|
 |**2025-05-28**|**Universal Domain Adaptation for Semantic Segmentation**|Seun-An Choe, Keon-Hee Park, Jinwoo Choi, Gyeong-Moon Park|[2505.22458v2](http://arxiv.org/abs/2505.22458v2)|null|
-|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer, Prabin Gyawali, Qilin Zhang, Olaf Wysocki, Boris Jutzi|[2505.17973v1](http://arxiv.org/abs/2505.17973v1)|null|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer, Prabin Gyawali, Qilin Zhang, Olaf Wysocki, Boris Jutzi|[2505.17973v1](http://arxiv.org/abs/2505.17973v1)|**[link](https://github.com/simbauer/to_glue_or_not_to_glue)**|
 |**2025-05-16**|**Multi-view dense image matching with similarity learning and geometry priors**|Mohamed Ali Chebbi, Ewelina Rupnik, Paul Lopes, Marc Pierrot-Deseilligny|[2505.11264v1](http://arxiv.org/abs/2505.11264v1)|null|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang, Shuwen Wu, Yingqi Chen, Matthias Aßenmacher, Christian Heumann, Yi Men, Gaojuan Fan, João Gama|[2505.03836v1](http://arxiv.org/abs/2505.03836v1)|**[link](https://github.com/cszhanglmu/obd-finder)**|
 |**2025-04-28**|**Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**|Taoyu Su, Jiawei Sheng, Duohe Ma, Xiaodong Li, Juwei Yue, Mengxiao Song, Yingkai Tang, Tingwen Liu|[2504.19458v3](http://arxiv.org/abs/2504.19458v3)|**[link](https://github.com/sutaoyu/CDMEA)**|
 |**2025-04-28**|**Dynamic Arthroscopic Navigation System for Anterior Cruciate Ligament Reconstruction Based on Multi-level Memory Architecture**|Shuo Wang, Weili Shi, Shuai Yang, Jiahao Cui, Qinwei Guo|[2504.19398v1](http://arxiv.org/abs/2504.19398v1)|null|
-|**2025-04-23**|**Road Similarity-Based BEV-Satellite Image Matching for UGV Localization**|Zhenping Sun, Chuang Yang, Yafeng Bu, Bokai Liu, Jun Zeng, Xiaohui Li|[2504.16346v1](http://arxiv.org/abs/2504.16346v1)|null|
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,19 +92,22 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan, Qiang Wang, Kaiyong Zhao, Jie Chen, Bo Li, Xiaowen Chu, Fei Deng|[2506.15242v1](http://arxiv.org/abs/2506.15242v1)|null|
+|**2025-06-17**|**Plug-and-Play with 2.5D Artifact Reduction Prior for Fast and Accurate Industrial Computed Tomography Reconstruction**|Haley Duba-Sullivan, Aniket Pramanik, Venkatakrishnan Singanallur, Amirkoushyar Ziabari|[2506.14719v1](http://arxiv.org/abs/2506.14719v1)|null|
+|**2025-06-17**|**Peering into the Unknown: Active View Selection with Neural Uncertainty Maps for 3D Reconstruction**|Zhengquan Zhang, Feng Xu, Mengmi Zhang|[2506.14856v1](http://arxiv.org/abs/2506.14856v1)|null|
+|**2025-06-17**|**HRGS: Hierarchical Gaussian Splatting for Memory-Efficient High-Resolution 3D Reconstruction**|Changbai Li, Haodong Zhu, Hanlin Chen, Juan Zhang, Tongfei Chen, Shuo Yang, Shuwei Shao, Wenhao Dong, Baochang Zhang|[2506.14229v1](http://arxiv.org/abs/2506.14229v1)|null|
+|**2025-06-16**|**A Point Cloud Completion Approach for the Grasping of Partially Occluded Objects and Its Applications in Robotic Strawberry Harvesting**|Ali Abouzeid, Malak Mansour, Chengsong Hu, Dezhen Song|[2506.14066v1](http://arxiv.org/abs/2506.14066v1)|**[link](https://github.com/malak-mansour/pointcloud_completion_for_grasping)**|
 |**2025-06-16**|**Test3R: Learning to Reconstruct 3D at Test Time**|Yuheng Yuan, Qiuhong Shen, Shizun Wang, Xingyi Yang, Xinchao Wang|[2506.13750v1](http://arxiv.org/abs/2506.13750v1)|null|
 |**2025-06-16**|**Integrated Pipeline for Monocular 3D Reconstruction and Finite Element Simulation in Industrial Applications**|Bowen Zheng|[2506.13573v1](http://arxiv.org/abs/2506.13573v1)|null|
 |**2025-06-16**|**Micro-macro Gaussian Splatting with Enhanced Scalability for Unconstrained Scene Reconstruction**|Yihui Li, Chengxin Lv, Hongyu Yang, Di Huang|[2506.13516v1](http://arxiv.org/abs/2506.13516v1)|null|
 |**2025-06-16**|**UAV Object Detection and Positioning in a Mining Industrial Metaverse with Custom Geo-Referenced Data**|Vasiliki Balaska, Ioannis Tsampikos Papapetros, Katerina Maria Oikonomou, Loukas Bampis, Antonios Gasteratos|[2506.13505v1](http://arxiv.org/abs/2506.13505v1)|null|
 |**2025-06-16**|**ViT-NeBLa: A Hybrid Vision Transformer and Neural Beer-Lambert Framework for Single-View 3D Reconstruction of Oral Anatomy from Panoramic Radiographs**|Bikram Keshari Parida, Anusree P. Sunilkumar, Abhijit Sen, Wonsang You|[2506.13195v1](http://arxiv.org/abs/2506.13195v1)|null|
-|**2025-06-15**|**SMPL Normal Map Is All You Need for Single-view Textured Human Reconstruction**|Wenhao Shen, Gangjian Zhang, Jianfeng Zhang, Yu Feng, Nanjie Yao, Xuanmeng Zhang, Hao Wang|[2506.12793v1](http://arxiv.org/abs/2506.12793v1)|null|
-|**2025-06-11**|**SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields**|Qijing Li, Jingxiang Sun, Liang An, Zhaoqi Su, Hongwen Zhang, Yebin Liu|[2506.09565v2](http://arxiv.org/abs/2506.09565v2)|null|
-|**2025-06-10**|**UFM: A Simple Path towards Unified Dense Correspondence with Flow**|Yuchen Zhang, Nikhil Keetha, Chenwei Lyu, Bhuvan Jhamb, Yutian Chen, Yuheng Qiu, Jay Karhade, Shreyas Jha, Yaoyu Hu, Deva Ramanan, Sebastian Scherer, Wenshan Wang|[2506.09278v1](http://arxiv.org/abs/2506.09278v1)|null|
-|**2025-06-10**|**StreamSplat: Towards Online Dynamic 3D Reconstruction from Uncalibrated Video Streams**|Zike Wu, Qi Yan, Xuanyu Yi, Lele Wang, Renjie Liao|[2506.08862v1](http://arxiv.org/abs/2506.08862v1)|**[link](https://github.com/nickwzk/streamsplat)**|
-|**2025-06-10**|**A Probability-guided Sampler for Neural Implicit Surface Rendering**|Gonçalo Dias Pais, Valter Piedade, Moitreya Chatterjee, Marcus Greiff, Pedro Miraldo|[2506.08619v1](http://arxiv.org/abs/2506.08619v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**RaCalNet: Radar Calibration Network for Sparse-Supervised Metric Depth Estimation**|Xingrui Qin, Wentao Zhao, Chuan Cao, Yihe Niu, Houcheng Jiang, Jingchuan Wang|[2506.15560v1](http://arxiv.org/abs/2506.15560v1)|null|
+|**2025-06-17**|**Time-Optimized Safe Navigation in Unstructured Environments through Learning Based Depth Completion**|Jeffrey Mao, Raghuram Cauligi Srinivas, Steven Nogar, Giuseppe Loianno|[2506.14975v1](http://arxiv.org/abs/2506.14975v1)|null|
+|**2025-06-17**|**DiFuse-Net: RGB and Dual-Pixel Depth Estimation using Window Bi-directional Parallax Attention and Cross-modal Transfer Learning**|Kunal Swami, Debtanu Gupta, Amrit Kumar Muduli, Chirag Jaiswal, Pankaj Kumar Bajpai|[2506.14709v1](http://arxiv.org/abs/2506.14709v1)|null|
 |**2025-06-16**|**Test3R: Learning to Reconstruct 3D at Test Time**|Yuheng Yuan, Qiuhong Shen, Shizun Wang, Xingyi Yang, Xinchao Wang|[2506.13750v1](http://arxiv.org/abs/2506.13750v1)|null|
 |**2025-06-16**|**Multiview Geometric Regularization of Gaussian Splatting for Accurate Radiance Fields**|Jungeon Kim, Geonsoo Park, Seungyong Lee|[2506.13508v1](http://arxiv.org/abs/2506.13508v1)|null|
 |**2025-06-16**|**Self-Supervised Enhancement for Depth from a Lightweight ToF Sensor with Monocular Images**|Laiyan Ding, Hualie Jiang, Jiwei Chen, Rui Huang|[2506.13444v2](http://arxiv.org/abs/2506.13444v2)|null|
@@ -112,9 +115,6 @@
 |**2025-06-15**|**3D Hand Mesh-Guided AI-Generated Malformed Hand Refinement with Hand Pose Transformation via Diffusion Model**|Chen-Bin Feng, Kangdao Liu, Jian Sun, Jiping Jin, Yiguo Jiang, Chi-Man Vong|[2506.12680v2](http://arxiv.org/abs/2506.12680v2)|null|
 |**2025-06-12**|**Leveraging 6DoF Pose Foundation Models For Mapping Marine Sediment Burial**|Jerry Yan, Chinmay Talegaonkar, Nicholas Antipa, Eric Terrill, Sophia Merrifield|[2506.10386v1](http://arxiv.org/abs/2506.10386v1)|**[link](https://github.com/jerukan/barrels)**|
 |**2025-06-11**|**DCIRNet: Depth Completion with Iterative Refinement for Dexterous Grasping of Transparent and Reflective Objects**|Guanghu Xie, Zhiduo Jiang, Yonglong Zhang, Yang Liu, Zongwu Xie, Baoshi Cao, Hong Liu|[2506.09491v1](http://arxiv.org/abs/2506.09491v1)|null|
-|**2025-06-11**|**MSSDF: Modality-Shared Self-supervised Distillation for High-Resolution Multi-modal Remote Sensing Image Learning**|Tong Wang, Guanzhou Chen, Xiaodong Zhang, Chenxi Liu, Jiaqi Wang, Xiaoliang Tan, Wenchao Guo, Qingyuan Yang, Kaiqi Zhang|[2506.09327v1](http://arxiv.org/abs/2506.09327v1)|null|
-|**2025-06-10**|**One Patch to Rule Them All: Transforming Static Patches into Dynamic Attacks in the Physical World**|Xingshuo Han, Chen Ling, Shiyi Yao, Haozhao Wang, Hangcheng Liu, Yutong Wu, Shengmin Xu, Changhai Ou, Xinyi Huang, Tianwei Zhang|[2506.08482v1](http://arxiv.org/abs/2506.08482v1)|null|
-|**2025-06-10**|**AVA-Bench: Atomic Visual Ability Benchmark for Vision Foundation Models**|Zheda Mai, Arpita Chowdhury, Zihe Wang, Sooyoung Jeon, Lemeng Wang, Jiacheng Hou, Jihyung Kil, Wei-Lun Chao|[2506.09082v1](http://arxiv.org/abs/2506.09082v1)|null|
 ## Long Term Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -131,6 +131,7 @@
 ## Object Track
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**Probabilistic Trajectory GOSPA: A Metric for Uncertainty-Aware Multi-Object Tracking Performance Evaluation**|Yuxuan Xia, Ángel F. García-Fernández, Johan Karlsson, Yu Ge, Lennart Svensson, Ting Yuan|[2506.15148v1](http://arxiv.org/abs/2506.15148v1)|null|
 |**2025-06-16**|**Deep Learning-Based Multi-Object Tracking: A Comprehensive Survey from Foundations to State-of-the-Art**|Momir Adžemović|[2506.13457v1](http://arxiv.org/abs/2506.13457v1)|null|
 |**2025-06-13**|**Multiple Object Tracking in Video SAR: A Benchmark and Tracking Baseline**|Haoxiang Chen, Wei Zhao, Rufei Zhang, Nannan Li, Dongjin Li|[2506.12105v1](http://arxiv.org/abs/2506.12105v1)|null|
 |**2025-06-11**|**Optimizing Cooperative Multi-Object Tracking using Graph Signal Processing**|Maria Damanaki, Nikos Piperigkos, Alexandros Gkillas, Aris S. Lalos|[2506.09469v1](http://arxiv.org/abs/2506.09469v1)|null|
@@ -140,7 +141,6 @@
 |**2025-06-04**|**Contour Errors: An Ego-Centric Metric for Reliable 3D Multi-Object Tracking**|Sharang Kaul, Mario Berk, Thiemo Gerbich, Abhinav Valada|[2506.04122v1](http://arxiv.org/abs/2506.04122v1)|null|
 |**2025-06-03**|**SportMamba: Adaptive Non-Linear Multi-Object Tracking with State Space Models for Team Sports**|Dheeraj Khanna, Jerrin Bright, Yuhao Chen, John S. Zelek|[2506.03335v1](http://arxiv.org/abs/2506.03335v1)|null|
 |**2025-06-03**|**MVTD: A Benchmark Dataset for Maritime Visual Object Tracking**|Ahsan Baidar Bakht, Muhayy Ud Din, Sajid Javed, Irfan Hussain|[2506.02866v1](http://arxiv.org/abs/2506.02866v1)|null|
-|**2025-06-02**|**No Train Yet Gain: Towards Generic Multi-Object Tracking in Sports and Beyond**|Tomasz Stanczyk, Seongro Yoon, Francois Bremond|[2506.01373v1](http://arxiv.org/abs/2506.01373v1)|null|
 ## Dynamic Obstacle Avoid
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -157,6 +157,7 @@
 ## PointCloud
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**DeSPITE: Exploring Contrastive Deep Skeleton-Pointcloud-IMU-Text Embeddings for Advanced Point Cloud Human Activity Understanding**|Thomas Kreutz, Max Mühlhäuser, Alejandro Sanchez Guinea|[2506.13897v1](http://arxiv.org/abs/2506.13897v1)|null|
 |**2025-06-04**|**Object-centric 3D Motion Field for Robot Learning from Human Videos**|Zhao-Heng Yin, Sherry Yang, Pieter Abbeel|[2506.04227v1](http://arxiv.org/abs/2506.04227v1)|null|
 |**2025-05-28**|**Semantic Exploration and Dense Mapping of Complex Environments using Ground Robots Equipped with LiDAR and Panoramic Camera**|Xiaoyang Zhan, Shixin Zhou, Qianqian Yang, Yixuan Zhao, Hao Liu, Srinivas Chowdary Ramineni, Kenji Shimada|[2505.22880v1](http://arxiv.org/abs/2505.22880v1)|null|
 |**2025-04-19**|**Locate 3D: Real-World Object Localization via Self-Supervised Learning in 3D**|Sergio Arnaud, Paul McVay, Ada Martin, Arjun Majumdar, Krishna Murthy Jatavallabhula, Phillip Thomas, Ruslan Partsey, Daniel Dugas, Abha Gejji, Alexander Sax, Vincent-Pierre Berges, Mikael Henaff, Ayush Jain, Ang Cao, Ishita Prasad, Mrinal Kalakrishnan, Michael Rabbat, Nicolas Ballas, Mido Assran, Oleksandr Maksymets, Aravind Rajeswaran, Franziska Meier|[2504.14151v1](http://arxiv.org/abs/2504.14151v1)|null|
@@ -166,7 +167,6 @@
 |**2025-03-20**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim, Boyang Sun, Marc Pollefeys, Hermann Blum|[2503.16275v1](http://arxiv.org/abs/2503.16275v1)|null|
 |**2025-03-15**|**DynaGSLAM: Real-Time Gaussian-Splatting SLAM for Online Rendering, Tracking, Motion Predictions of Moving Objects in Dynamic Scenes**|Runfa Blark Li, Mahdi Shaghaghi, Keito Suzuki, Xinshuang Liu, Varun Moparthi, Bang Du, Walker Curtis, Martin Renschler, Ki Myung Brian Lee, Nikolay Atanasov, Truong Nguyen|[2503.11979v1](http://arxiv.org/abs/2503.11979v1)|null|
 |**2025-03-04**|**CMMLoc: Advancing Text-to-PointCloud Localization with Cauchy-Mixture-Model Based Framework**|Yanlong Xu, Haoxuan Qu, Jun Liu, Wenxiao Zhang, Xun Yang|[2503.02593v3](http://arxiv.org/abs/2503.02593v3)|**[link](https://github.com/kevin301342/cmmloc)**|
-|**2025-02-20**|**Watch Less, Feel More: Sim-to-Real RL for Generalizable Articulated Object Manipulation via Motion Adaptation and Impedance Control**|Tan-Dzung Do, Nandiraju Gireesh, Jilong Wang, He Wang|[2502.14457v1](http://arxiv.org/abs/2502.14457v1)|null|
 ## Visual Odometry
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -183,8 +183,9 @@
 ## image feature
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**Hyper-Local Deformable Transformers for Text Spotting on Historical Maps**|Yijun Lin, Yao-Yi Chiang|[2506.15010v1](http://arxiv.org/abs/2506.15010v1)|null|
 |**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu, Peihao Li, Qi Zuo, Xiaodong Gu, Yuan Dong, Weihao Yuan, Siyu Zhu, Xiaoguang Han, Guanying Chen, Zilong Dong|[2506.13766v1](http://arxiv.org/abs/2506.13766v1)|null|
-|**2025-06-16**|**Pro-AD: Learning Comprehensive Prototypes with Prototype-based Constraint for Multi-class Unsupervised Anomaly Detection**|Ziqing Zhou, Binbin Gao, Yuri Pan, Lidong Wang, Wenbing Zhu, Yong Liu, Jun Liu, MIngmin Chi, Dong Wu, Bo Peng, Chengjie Wang|[2506.13097v1](http://arxiv.org/abs/2506.13097v1)|null|
+|**2025-06-16**|**Pro-AD: Learning Comprehensive Prototypes with Prototype-based Constraint for Multi-class Unsupervised Anomaly Detection**|Ziqing Zhou, Bin-Bin Gao, Yurui Pan, Lidong Wang, Wenbing Zhu, Yong Liu, Jun Liu, Mingmin Chi, Dong Wu, Bo Peng, Chengjie Wang|[2506.13097v2](http://arxiv.org/abs/2506.13097v2)|null|
 |**2025-06-13**|**CLIP the Landscape: Automated Tagging of Crowdsourced Landscape Images**|Ilya Ilyankou, Natchapon Jongwiriyanurak, Tao Cheng, James Haworth|[2506.12214v1](http://arxiv.org/abs/2506.12214v1)|**[link](https://github.com/SpaceTimeLab/ClipTheLandscape)**|
 |**2025-06-13**|**Cross-Modal Clustering-Guided Negative Sampling for Self-Supervised Joint Learning from Medical Images and Reports**|Libin Lan, Hongxing Li, Zunhui Xia, Juan Zhou, Xiaofei Zhu, Yongmei Li, Yudong Zhang, Xin Luo|[2506.11674v1](http://arxiv.org/abs/2506.11674v1)|null|
 |**2025-06-13**|**Machine Learning-Based Quantification of Vesicoureteral Reflux with Enhancing Accuracy and Efficiency**|Muhyeeddin Alqaraleh, Mowafaq Salem Alzboon, Mohammad Subhi Al-Batah, Lana Yasin Al Aesa, Mohammed Hasan Abu-Arqoub, Rashiq Rafiq Marie, Firas Hussein Alsmad|[2506.11508v1](http://arxiv.org/abs/2506.11508v1)|null|
@@ -192,10 +193,11 @@
 |**2025-06-12**|**FSATFusion: Frequency-Spatial Attention Transformer for Infrared and Visible Image Fusion**|Tianpei Zhang, Jufeng Zhao, Yiming Zhu, Guangmang Cui, Yuhan Lyu|[2506.10366v1](http://arxiv.org/abs/2506.10366v1)|**[link](https://github.com/lmmh058/fsatfusion)**|
 |**2025-06-11**|**Unsupervised Deep Clustering of MNIST with Triplet-Enhanced Convolutional Autoencoders**|Md. Faizul Islam Ansari|[2506.10094v1](http://arxiv.org/abs/2506.10094v1)|null|
 |**2025-06-11**|**HQFNN: A Compact Quantum-Fuzzy Neural Network for Accurate Image Classification**|Jianhong Yao, Yangming Guo|[2506.11146v1](http://arxiv.org/abs/2506.11146v1)|null|
-|**2025-06-10**|**JAFAR: Jack up Any Feature at Any Resolution**|Paul Couairon, Loick Chambon, Louis Serrano, Jean-Emmanuel Haugeard, Matthieu Cord, Nicolas Thome|[2506.11136v1](http://arxiv.org/abs/2506.11136v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**Barrier Method for Inequality Constrained Factor Graph Optimization with Application to Model Predictive Control**|Anas Abdelkarim, Holger Voos, Daniel Görges|[2506.14341v1](http://arxiv.org/abs/2506.14341v1)|**[link](https://github.com/snt-arg/bipm_g2o)**|
+|**2025-06-17**|**TACS-Graphs: Traversability-Aware Consistent Scene Graphs for Ground Robot Indoor Localization and Mapping**|Jeewon Kim, Minho Oh, Hyun Myung|[2506.14178v1](http://arxiv.org/abs/2506.14178v1)|null|
 |**2025-06-13**|**Robust Filtering -- Novel Statistical Learning and Inference Algorithms with Applications**|Aamir Hussain Chughtai|[2506.11530v1](http://arxiv.org/abs/2506.11530v1)|null|
 |**2025-06-03**|**Automatic Operation of an Articulated Dump Truck: State Estimation by Combined QZSS CLAS and Moving-Base RTK Using Multiple GNSS Receivers**|Taro Suzuki, Shotaro Kojima, Kazunori Ohno, Naoto Miyamoto, Takahiro Suzuki, Kimitaka Asano, Tomohiro Komatsu, Hiroto Kakizaki|[2506.02877v1](http://arxiv.org/abs/2506.02877v1)|null|
 |**2025-06-01**|**A Dynamic Stiefel Graph Neural Network for Efficient Spatio-Temporal Time Series Forecasting**|Jiankai Zheng, Liang Xie|[2506.00798v1](http://arxiv.org/abs/2506.00798v1)|null|
@@ -204,12 +206,11 @@
 |**2025-05-17**|**A Reduction-based Algorithm for the Clique Interdiction Problem**|Chenghao Zhu, Yi Zhou, Haoyu Jiang|[2505.12022v2](http://arxiv.org/abs/2505.12022v2)|**[link](https://github.com/axs7385/recip)**|
 |**2025-05-15**|**LEMON-Mapping: Loop-Enhanced Large-Scale Multi-Session Point Cloud Merging and Optimization for Globally Consistent Mapping**|Lijie Wang, Xiaoyi Zhong, Ziyi Xu, Kaixin Chai, Anke Zhao, Tianyu Zhao, Changjian Jiang, Qianhao Wang, Fei Gao|[2505.10018v2](http://arxiv.org/abs/2505.10018v2)|null|
 |**2025-05-13**|**Constrained Factor Graph Optimization for Robust Networked Pedestrian Inertial Navigation**|Yingjie Hu, Wang Hu|[2505.08229v1](http://arxiv.org/abs/2505.08229v1)|**[link](https://github.com/azurehappen/constrained-zupt-fgo)**|
-|**2025-05-12**|**Integrated Localization and Path Planning for an Ocean Exploring Team of Autonomous Underwater Vehicles with Consensus Graph Model Predictive Control**|Mohsen Eskandari, Andrey V. Savkin, Mohammad Deghat|[2505.07484v1](http://arxiv.org/abs/2505.07484v1)|null|
-|**2025-04-30**|**Message Optimality and Message-Time Trade-offs for APSP and Beyond**|Fabien Dufoulon, Shreyas Pai, Gopal Pandurangan, Sriram Pemmaraju, Peter Robinson|[2504.21781v1](http://arxiv.org/abs/2504.21781v1)|null|
 ## motion aware
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-14**|**Inference-Time Gaze Refinement for Micro-Expression Recognition: Enhancing Event-Based Eye Tracking with Motion-Aware Post-Processing**|Nuwan Bandara, Thivya Kandappu, Archan Misra|[2506.12524v1](http://arxiv.org/abs/2506.12524v1)|null|
+|**2025-06-17**|**GAF: Gaussian Action Field as a Dvnamic World Model for Robotic Mlanipulation**|Ying Chai, Litao Deng, Ruizhi Shao, Jiajun Zhang, Liangjun Xing, Hongwen Zhang, Yebin Liu|[2506.14135v1](http://arxiv.org/abs/2506.14135v1)|null|
+|**2025-06-14**|**Inference-Time Gaze Refinement for Micro-Expression Recognition: Enhancing Event-Based Eye Tracking with Motion-Aware Post-Processing**|Nuwan Bandara, Thivya Kandappu, Archan Misra|[2506.12524v1](http://arxiv.org/abs/2506.12524v1)|**[link](https://github.com/eye-tracking-for-physiological-sensing/eyelorin)**|
 |**2025-06-13**|**Multiple Object Tracking in Video SAR: A Benchmark and Tracking Baseline**|Haoxiang Chen, Wei Zhao, Rufei Zhang, Nannan Li, Dongjin Li|[2506.12105v1](http://arxiv.org/abs/2506.12105v1)|null|
 |**2025-06-02**|**Motion aware video generative model**|Bowen Xue, Giuseppe Claudio Guarnera, Shuang Zhao, Zahra Montazeri|[2506.02244v1](http://arxiv.org/abs/2506.02244v1)|null|
 |**2025-06-01**|**Motion-Aware Concept Alignment for Consistent Video Editing**|Tong Zhang, Juan C Leon Alcazar, Bernard Ghanem|[2506.01004v1](http://arxiv.org/abs/2506.01004v1)|null|
@@ -218,4 +219,3 @@
 |**2025-05-20**|**MGStream: Motion-aware 3D Gaussian for Streamable Dynamic Scene Reconstruction**|Zhenyu Bao, Qing Li, Guibiao Liao, Zhongyuan Zhao, Kanglin Liu|[2505.13839v1](http://arxiv.org/abs/2505.13839v1)|**[link](https://github.com/pcl3dv/mgstream)**|
 |**2025-05-19**|**Event-Driven Dynamic Scene Depth Completion**|Zhiqiang Yan, Jianhao Jiao, Zhengxue Wang, Gim Hee Lee|[2505.13279v2](http://arxiv.org/abs/2505.13279v2)|null|
 |**2025-05-16**|**MoCLIP: Motion-Aware Fine-Tuning and Distillation of CLIP for Human Motion Generation**|Gabriel Maldonado, Armin Danesh Pazho, Ghazal Alinezhad Noghre, Vinit Katariya, Hamed Tabkhi|[2505.10810v1](http://arxiv.org/abs/2505.10810v1)|null|
-|**2025-05-15**|**MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation**|Yanbo Ding, Xirui Hu, Zhizhi Guo, Chi Zhang, Yali Wang|[2505.10238v4](http://arxiv.org/abs/2505.10238v4)|**[link](https://github.com/dingyanb/mtvcrafter)**|
