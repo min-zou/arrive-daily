@@ -1,6 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting**|Taoyu Wu, Yiyi Miao, Zhuoxiao Li, Haocheng Zhao, Kang Dang, Jionglong Su, Limin Yu, Haoang Li|[2506.21420v1](http://arxiv.org/abs/2506.21420v1)|null|
+|**2025-06-26**|**CURL-SLAM: Continuous and Compact LiDAR Mapping**|Kaicheng Zhang, Shida Xu, Yining Ding, Xianwen Kong, Sen Wang|[2506.21077v1](http://arxiv.org/abs/2506.21077v1)|null|
 |**2025-06-25**|**SPARK: Graph-Based Online Semantic Integration System for Robot Task Planning**|Mimo Shirasaka, Yuya Ikeda, Tatsuya Matsushima, Yutaka Matsuo, Yusuke Iwasawa|[2506.20394v1](http://arxiv.org/abs/2506.20394v1)|null|
 |**2025-06-25**|**Real-Time Obstacle Avoidance Algorithms for Unmanned Aerial and Ground Vehicles**|Jingwen Wei|[2506.20311v1](http://arxiv.org/abs/2506.20311v1)|null|
 |**2025-06-24**|**Posterior Cramér-Rao Bounds on Localization and Mapping Errors in Distributed MIMO SLAM**|Benjamin J. B. Deutschmann, Xuhong Li, Florian Meyer, Erik Leitinger|[2506.19957v1](http://arxiv.org/abs/2506.19957v1)|null|
@@ -9,8 +11,6 @@
 |**2025-06-22**|**Multimodal Fusion SLAM with Fourier Attention**|Youjie Zhou, Guofeng Mei, Yiming Wang, Yi Wan, Fabio Poiesi|[2506.18204v2](http://arxiv.org/abs/2506.18204v2)|null|
 |**2025-06-22**|**ADA-DPM: A Neural Descriptors-based Adaptive Noise Point Filtering Strategy for SLAM**|Yongxin Shao, Binrui Wang, Aihong Tan|[2506.18016v1](http://arxiv.org/abs/2506.18016v1)|null|
 |**2025-06-21**|**Optimizing Exploration with a New Uncertainty Framework for Active SLAM Systems**|Sebastian Sansoni, Javier Gimenez, Gastón Castro, Santiago Tosetti, Flavio Craparo|[2506.17775v1](http://arxiv.org/abs/2506.17775v1)|null|
-|**2025-06-18**|**MCOO-SLAM: A Multi-Camera Omnidirectional Object SLAM System**|Miaoxin Pan, Jinnan Li, Yaowen Zhang, Yi Yang, Yufeng Yue|[2506.15402v1](http://arxiv.org/abs/2506.15402v1)|null|
-|**2025-06-18**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan, Qiang Wang, Kaiyong Zhao, Jie Chen, Bo Li, Xiaowen Chu, Fei Deng|[2506.15242v2](http://arxiv.org/abs/2506.15242v2)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,16 +92,16 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**DeOcc-1-to-3: 3D De-Occlusion from a Single Image via Self-Supervised Multi-View Diffusion**|Yansong Qu, Shaohui Dai, Xinyang Li, Yuze Wang, You Shen, Liujuan Cao, Rongrong Ji|[2506.21544v1](http://arxiv.org/abs/2506.21544v1)|null|
+|**2025-06-26**|**EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting**|Taoyu Wu, Yiyi Miao, Zhuoxiao Li, Haocheng Zhao, Kang Dang, Jionglong Su, Limin Yu, Haoang Li|[2506.21420v1](http://arxiv.org/abs/2506.21420v1)|null|
+|**2025-06-26**|**PanSt3R: Multi-view Consistent Panoptic Segmentation**|Lojze Zust, Yohann Cabon, Juliette Marrie, Leonid Antsfeld, Boris Chidlovskii, Jerome Revaud, Gabriela Csurka|[2506.21348v1](http://arxiv.org/abs/2506.21348v1)|null|
+|**2025-06-26**|**Geometry and Perception Guided Gaussians for Multiview-consistent 3D Generation from a Single Image**|Pufan Li, Bi'an Du, Wei Hu|[2506.21152v1](http://arxiv.org/abs/2506.21152v1)|null|
+|**2025-06-26**|**PoseMaster: Generating 3D Characters in Arbitrary Poses from a Single Image**|Hongyu Yan, Kunming Luo, Weiyu Li, Yixun Liang, Shengming Li, Jingwei Huang, Chunchao Guo, Ping Tan|[2506.21076v1](http://arxiv.org/abs/2506.21076v1)|null|
 |**2025-06-25**|**Joint attitude estimation and 3D neural reconstruction of non-cooperative space objects**|Clément Forray, Pauline Delporte, Nicolas Delaygue, Florence Genin, Dawa Derksen|[2506.20638v1](http://arxiv.org/abs/2506.20638v1)|null|
 |**2025-06-25**|**Video Perception Models for 3D Scene Synthesis**|Rui Huang, Guangyao Zhai, Zuria Bauer, Marc Pollefeys, Federico Tombari, Leonidas Guibas, Gao Huang, Francis Engelmann|[2506.20601v1](http://arxiv.org/abs/2506.20601v1)|null|
 |**2025-06-25**|**Fast entropy-regularized SDP relaxations for permutation synchronization**|Michael Lindsey, Yunpeng Shi|[2506.20191v1](http://arxiv.org/abs/2506.20191v1)|null|
 |**2025-06-24**|**Active View Selector: Fast and Accurate Active View Selection with Cross Reference Image Quality Assessment**|Zirui Wang, Yash Bhalgat, Ruining Li, Victor Adrian Prisacariu|[2506.19844v1](http://arxiv.org/abs/2506.19844v1)|null|
 |**2025-06-24**|**Experimental Assessment of Neural 3D Reconstruction for Small UAV-based Applications**|Genís Castillo Gómez-Raya, Álmos Veres-Vitályos, Filip Lemic, Pablo Royo, Mario Montagud, Sergi Fernández, Sergi Abadal, Xavier Costa-Pérez|[2506.19491v1](http://arxiv.org/abs/2506.19491v1)|null|
-|**2025-06-24**|**Online camera-pose-free stereo endoscopic tissue deformation recovery with tissue-invariant vision-biomechanics consistency**|Jiahe Chen, Naoki Tomii, Ichiro Sakuma, Etsuko Kobayashi|[2506.19388v1](http://arxiv.org/abs/2506.19388v1)|null|
-|**2025-06-24**|**The MOTIF Hand: A Robotic Hand for Multimodal Observations with Thermal, Inertial, and Force Sensors**|Hanyang Zhou, Haozhe Lou, Wenhao Liu, Enyu Zhao, Yue Wang, Daniel Seita|[2506.19201v1](http://arxiv.org/abs/2506.19201v1)|null|
-|**2025-06-23**|**MCN-SLAM: Multi-Agent Collaborative Neural SLAM with Hybrid Implicit Neural Scene Representation**|Tianchen Deng, Guole Shen, Xun Chen, Shenghai Yuan, Hongming Shen, Guohao Peng, Zhenyu Wu, Jingchuan Wang, Lihua Xie, Danwei Wang, Hesheng Wang, Weidong Chen|[2506.18678v1](http://arxiv.org/abs/2506.18678v1)|null|
-|**2025-06-23**|**Rapeseed population point cloud completion network (RP-PCN) with dynamic graph convolution for 3D reconstruction of crop canopy occlusion architecture**|Ziyue Guo, Xin Yang, Yutao Shen, Yang Zhu, Lixi Jiang, Haiyan Cen|[2506.18292v1](http://arxiv.org/abs/2506.18292v1)|null|
-|**2025-06-22**|**Limitations of NERF with pre-trained Vision Features for Few-Shot 3D Reconstruction**|Ankit Sanjyal|[2506.18208v1](http://arxiv.org/abs/2506.18208v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
