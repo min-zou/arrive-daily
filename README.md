@@ -5,7 +5,7 @@
 |**2025-07-01**|**Generation of Indoor Open Street Maps for Robot Navigation from CAD Files**|Jiajie Zhang, Shenrui Wu, Xu Ma, Sören Schwertfeger|[2507.00552v1](http://arxiv.org/abs/2507.00552v1)|null|
 |**2025-06-29**|**TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints**|Zhen Tan, Xieyuanli Chen, Lei Feng, Yangbing Ge, Shuaifeng Zhi, Jiaxiong Liu, Dewen Hu|[2506.23207v1](http://arxiv.org/abs/2506.23207v1)|null|
 |**2025-06-26**|**Adaptive Multipath-Based SLAM for Distributed MIMO Systems**|Xuhong Li, Benjamin J. B. Deutschmann, Erik Leitinger, Florian Meyer|[2506.21798v1](http://arxiv.org/abs/2506.21798v1)|null|
-|**2025-06-26**|**EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting**|Taoyu Wu, Yiyi Miao, Zhuoxiao Li, Haocheng Zhao, Kang Dang, Jionglong Su, Limin Yu, Haoang Li|[2506.21420v1](http://arxiv.org/abs/2506.21420v1)|null|
+|**2025-06-26**|**EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting**|Taoyu Wu, Yiyi Miao, Zhuoxiao Li, Haocheng Zhao, Kang Dang, Jionglong Su, Limin Yu, Haoang Li|[2506.21420v2](http://arxiv.org/abs/2506.21420v2)|null|
 |**2025-06-26**|**CURL-SLAM: Continuous and Compact LiDAR Mapping**|Kaicheng Zhang, Shida Xu, Yining Ding, Xianwen Kong, Sen Wang|[2506.21077v1](http://arxiv.org/abs/2506.21077v1)|null|
 |**2025-06-25**|**SPARK: Graph-Based Online Semantic Integration System for Robot Task Planning**|Mimo Shirasaka, Yuya Ikeda, Tatsuya Matsushima, Yutaka Matsuo, Yusuke Iwasawa|[2506.20394v1](http://arxiv.org/abs/2506.20394v1)|null|
 |**2025-06-25**|**Real-Time Obstacle Avoidance Algorithms for Unmanned Aerial and Ground Vehicles**|Jingwen Wei|[2506.20311v1](http://arxiv.org/abs/2506.20311v1)|null|
@@ -188,10 +188,10 @@
 |**2025-07-03**|**ViRefSAM: Visual Reference-Guided Segment Anything Model for Remote Sensing Segmentation**|Hanbo Bi, Yulong Xu, Ya Li, Yongqiang Mao, Boyuan Tong, Chongyang Li, Chunbo Lang, Wenhui Diao, Hongqi Wang, Yingchao Feng, Xian Sun|[2507.02294v1](http://arxiv.org/abs/2507.02294v1)|null|
 |**2025-07-02**|**DiffMark: Diffusion-based Robust Watermark Against Deepfakes**|Chen Sun, Haiyang Sun, Zhiqing Guo, Yunfeng Diao, Liejun Wang, Dan Ma, Gaobo Yang, Keqin Li|[2507.01428v1](http://arxiv.org/abs/2507.01428v1)|null|
 |**2025-07-02**|**Medical-Knowledge Driven Multiple Instance Learning for Classifying Severe Abdominal Anomalies on Prenatal Ultrasound**|Huanwen Liang, Jingxian Xu, Yuanji Zhang, Yuhao Huang, Yuhan Zhang, Xin Yang, Ran Li, Xuedong Deng, Yanjun Liu, Guowei Tao, Yun Wu, Sheng Zhao, Xinru Gao, Dong Ni|[2507.01401v1](http://arxiv.org/abs/2507.01401v1)|null|
-|**2025-07-01**|**LLaVA-SP: Enhancing Visual Representation with Visual Spatial Tokens for MLLMs**|Haoran Lou, Chunxiao Fan, Ziyan Liu, Yuexin Wu, Xinliang Wang|[2507.00505v2](http://arxiv.org/abs/2507.00505v2)|null|
+|**2025-07-01**|**LLaVA-SP: Enhancing Visual Representation with Visual Spatial Tokens for MLLMs**|Haoran Lou, Chunxiao Fan, Ziyan Liu, Yuexin Wu, Xinliang Wang|[2507.00505v3](http://arxiv.org/abs/2507.00505v3)|null|
 |**2025-07-01**|**Laplace-Mamba: Laplace Frequency Prior-Guided Mamba-CNN Fusion Network for Image Dehazing**|Yongzhen Wang, Liangliang Chen, Bingwen Hu, Heng Liu, Xiao-Ping Zhang, Mingqiang Wei|[2507.00501v1](http://arxiv.org/abs/2507.00501v1)|null|
 |**2025-06-30**|**Diffusion Model-based Data Augmentation Method for Fetal Head Ultrasound Segmentation**|Fangyijie Wang, Kevin Whelan, Félix Balado, Guénolé Silvestre, Kathleen M. Curran|[2506.23664v1](http://arxiv.org/abs/2506.23664v1)|null|
-|**2025-06-30**|**StackCLIP: Clustering-Driven Stacked Prompt in Zero-Shot Industrial Anomaly Detection**|Yanning Hou, Yanran Ruan, Junfa Li, Shanshan Wang, Jianfeng Qiu, Ke Xu|[2506.23577v1](http://arxiv.org/abs/2506.23577v1)|null|
+|**2025-06-30**|**StackCLIP: Clustering-Driven Stacked Prompt in Zero-Shot Industrial Anomaly Detection**|Yanning Hou, Yanran Ruan, Junfa Li, Shanshan Wang, Jianfeng Qiu, Ke Xu|[2506.23577v2](http://arxiv.org/abs/2506.23577v2)|null|
 |**2025-06-28**|**Unleashing the Multi-View Fusion Potential: Noise Correction in VLM for Open-Vocabulary 3D Scene Understanding**|Xingyilang Yin, Jiale Wang, Xi Yang, Mutian Xu, Xu Gu, Nannan Wang|[2506.22817v1](http://arxiv.org/abs/2506.22817v1)|null|
 ## graph optimization
 |Publish Date|Title|Authors|PDF|Code|
