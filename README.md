@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework**|Deteng Zhang, Junjie Zhang, Yan Sun, Tao Li, Hao Yin, Hongzhao Xie, Jie Yin|[2507.08364v1](http://arxiv.org/abs/2507.08364v1)|null|
 |**2025-07-10**|**IRAF-SLAM: An Illumination-Robust and Adaptive Feature-Culling Front-End for Visual SLAM in Challenging Environments**|Thanh Nguyen Canh, Bao Nguyen Quoc, Haolan Zhang, Bupesh Rethinam Veeraiah, Xiem HoangVan, Nak Young Chong|[2507.07752v1](http://arxiv.org/abs/2507.07752v1)|null|
 |**2025-07-09**|**g2o vs. Ceres: Optimizing Scan Matching in Cartographer SLAM**|Quanjie Qiu, MengCheng Lau|[2507.07142v1](http://arxiv.org/abs/2507.07142v1)|null|
 |**2025-07-08**|**Mapping the Catacombs: An Underwater Cave Segment of the Devil's Eye System**|Michalis Chatzispyrou, Luke Horgan, Hyunkil Hwang, Harish Sathishchandra, Monika Roznere, Alberto Quattrini Li, Philippos Mordohai, Ioannis Rekleitis|[2507.06397v1](http://arxiv.org/abs/2507.06397v1)|null|
@@ -10,7 +11,6 @@
 |**2025-07-05**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang, Jiajun Lv, Kai Tang, Laijian Li, Jianxin Huang, Lina Liu, Yong Liu, Xingxing Zuo|[2507.04004v2](http://arxiv.org/abs/2507.04004v2)|null|
 |**2025-07-04**|**Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps**|Chong Cheng, Sicheng Yu, Zijian Wang, Yifan Zhou, Hao Wang|[2507.03737v1](http://arxiv.org/abs/2507.03737v1)|null|
 |**2025-07-01**|**RaGNNarok: A Light-Weight Graph Neural Network for Enhancing Radar Point Clouds on Unmanned Ground Vehicles**|David Hunt, Shaocheng Luo, Spencer Hallyburton, Shafii Nillongo, Yi Li, Tingjun Chen, Miroslav Pajic|[2507.00937v1](http://arxiv.org/abs/2507.00937v1)|null|
-|**2025-07-01**|**Generation of Indoor Open Street Maps for Robot Navigation from CAD Files**|Jiajie Zhang, Shenrui Wu, Xu Ma, Sören Schwertfeger|[2507.00552v1](http://arxiv.org/abs/2507.00552v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,16 +92,16 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**An Efficient Approach for Muscle Segmentation and 3D Reconstruction Using Keypoint Tracking in MRI Scan**|Mengyuan Liu, Jeongkyu Lee|[2507.08690v1](http://arxiv.org/abs/2507.08690v1)|null|
+|**2025-07-11**|**Adaptive Framework for Ambient Intelligence in Rehabilitation Assistance**|Gábor Baranyi, Zsolt Csibi, Kristian Fenech, Áron Fóthi, Zsófia Gaál, Joul Skaf, András Lőrincz|[2507.08624v1](http://arxiv.org/abs/2507.08624v1)|null|
+|**2025-07-11**|**Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT**|Wei Zhang, Yihang Wu, Songhua Li, Wenjie Ma, Xin Ma, Qiang Li, Qi Wang|[2507.08448v1](http://arxiv.org/abs/2507.08448v1)|null|
+|**2025-07-11**|**CL3R: 3D Reconstruction and Contrastive Learning for Enhanced Robotic Manipulation Representations**|Wenbo Cui, Chengyang Zhao, Yuhui Chen, Haoran Li, Zhizheng Zhang, Dongbin Zhao, He Wang|[2507.08262v1](http://arxiv.org/abs/2507.08262v1)|null|
+|**2025-07-10**|**Temporally Consistent Amodal Completion for 3D Human-Object Interaction Reconstruction**|Hyungjun Doh, Dong In Lee, Seunggeun Chi, Pin-Hao Huang, Kwonjoon Lee, Sangpil Kim, Karthik Ramani|[2507.08137v1](http://arxiv.org/abs/2507.08137v1)|null|
 |**2025-07-10**|**Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions**|Longfei Li, Zhiwen Fan, Wenyan Cong, Xinhang Liu, Yuyang Yin, Matt Foutter, Panwang Pan, Chenyu You, Yue Wang, Zhangyang Wang, Yao Zhao, Marco Pavone, Yunchao Wei|[2507.07978v1](http://arxiv.org/abs/2507.07978v1)|null|
 |**2025-07-10**|**EscherNet++: Simultaneous Amodal Completion and Scalable View Synthesis through Masked Fine-Tuning and Enhanced Feed-Forward 3D Reconstruction**|Xinan Zhang, Muhammad Zubair Irshad, Anthony Yezzi, Yi-Chang Tsai, Zsolt Kira|[2507.07410v1](http://arxiv.org/abs/2507.07410v1)|null|
 |**2025-07-08**|**DreamGrasp: Zero-Shot 3D Multi-Object Reconstruction from Partial-View Images for Robotic Manipulation**|Young Hun Kim, Seungyeon Kim, Yonghyeon Lee, Frank Chongwoo Park|[2507.05627v1](http://arxiv.org/abs/2507.05627v1)|null|
 |**2025-07-06**|**Lidar Variability: A Novel Dataset and Comparative Study of Solid-State and Spinning Lidars**|Doumegna Mawuto Koudjo Felix, Xianjia Yu, Jiaqiang Zhang, Sier Ha, Zhuo Zou, Tomi Westerlund|[2507.04321v1](http://arxiv.org/abs/2507.04321v1)|null|
 |**2025-07-06**|**MoReMouse: Monocular Reconstruction of Laboratory Mouse**|Yuan Zhong, Jingxiang Sun, Liang An, Yebin Liu|[2507.04258v1](http://arxiv.org/abs/2507.04258v1)|null|
-|**2025-07-05**|**Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation**|Ziyu Zhu, Xilin Wang, Yixuan Li, Zhuofan Zhang, Xiaojian Ma, Yixin Chen, Baoxiong Jia, Wei Liang, Qian Yu, Zhidong Deng, Siyuan Huang, Qing Li|[2507.04047v1](http://arxiv.org/abs/2507.04047v1)|null|
-|**2025-07-03**|**Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory**|Yuqi Wu, Wenzhao Zheng, Jie Zhou, Jiwen Lu|[2507.02863v1](http://arxiv.org/abs/2507.02863v1)|null|
-|**2025-07-03**|**SIU3R: Simultaneous Scene Understanding and 3D Reconstruction Beyond Feature Alignment**|Qi Xu, Dongxu Wei, Lingzhe Zhao, Wenpu Li, Zhangchi Huang, Shunping Ji, Peidong Liu|[2507.02705v1](http://arxiv.org/abs/2507.02705v1)|null|
-|**2025-07-03**|**3D Heart Reconstruction from Sparse Pose-agnostic 2D Echocardiographic Slices**|Zhurong Chen, Jinhua Chen, Wei Zhuo, Wufeng Xue, Dong Ni|[2507.02411v1](http://arxiv.org/abs/2507.02411v1)|null|
-|**2025-07-02**|**3D Reconstruction and Information Fusion between Dormant and Canopy Seasons in Commercial Orchards Using Deep Learning and Fast GICP**|Ranjan Sapkota, Zhichao Meng, Martin Churuvija, Xiaoqiang Du, Zenghong Ma, Manoj Karkee|[2507.01912v1](http://arxiv.org/abs/2507.01912v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -110,7 +110,7 @@
 |**2025-07-10**|**Tree-Mamba: A Tree-Aware Mamba for Underwater Monocular Depth Estimation**|Peixian Zhuang, Yijian Wang, Zhenqi Fu, Hongliang Zhang, Sam Kwong, Chongyi Li|[2507.07687v1](http://arxiv.org/abs/2507.07687v1)|null|
 |**2025-07-10**|**HOTA: Hierarchical Overlap-Tiling Aggregation for Large-Area 3D Flood Mapping**|Wenfeng Jia, Bin Liang, Yuxi Lu, Attavit Wilaiwongsakul, Muhammad Arif Khan, Lihong Zheng|[2507.07585v1](http://arxiv.org/abs/2507.07585v1)|null|
 |**2025-07-08**|**LighthouseGS: Indoor Structure-aware 3D Gaussian Splatting for Panorama-Style Mobile Captures**|Seungoh Han, Jaehoon Jang, Hyunsu Kim, Jaeheung Surh, Junhyung Kwak, Hyowon Ha, Kyungdon Joo|[2507.06109v1](http://arxiv.org/abs/2507.06109v1)|null|
-|**2025-07-08**|**Beyond Appearance: Geometric Cues for Robust Video Instance Segmentation**|Quanzhu Niu, Yikang Zhou, Shihao Chen, Tao Zhang, Shunping Ji|[2507.05948v1](http://arxiv.org/abs/2507.05948v1)|null|
+|**2025-07-08**|**Beyond Appearance: Geometric Cues for Robust Video Instance Segmentation**|Quanzhu Niu, Yikang Zhou, Shihao Chen, Tao Zhang, Shunping Ji|[2507.05948v2](http://arxiv.org/abs/2507.05948v2)|null|
 |**2025-07-07**|**The Generalization Ridge: Information Flow in Natural Language Generation**|Ruidi Chang, Chunyuan Deng, Hanjie Chen|[2507.05387v1](http://arxiv.org/abs/2507.05387v1)|null|
 |**2025-07-07**|**VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting**|Juyi Lin, Amir Taherin, Arash Akbari, Arman Akbari, Lei Lu, Guangyu Chen, Taskin Padir, Xiaomeng Yang, Weiwei Chen, Yiqian Li, Xue Lin, David Kaeli, Pu Zhao, Yanzhi Wang|[2507.05116v2](http://arxiv.org/abs/2507.05116v2)|null|
 |**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso, Plinio Moreno|[2507.05029v1](http://arxiv.org/abs/2507.05029v1)|null|
@@ -184,7 +184,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-07-11**|**Visual Semantic Description Generation with MLLMs for Image-Text Matching**|Junyu Chen, Yihua Gao, Mingyong Li|[2507.08590v1](http://arxiv.org/abs/2507.08590v1)|null|
-|**2025-07-11**|**Efficient Deployment of Vision-Language Models on Mobile Devices: A Case Study on OnePlus 13R**|Pablo Robin Guerrero, Yueyang Pan, Sanidhya Kashyap|[2507.08505v1](http://arxiv.org/abs/2507.08505v1)|null|
+|**2025-07-11**|**Efficient Deployment of Vision-Language Models on Mobile Devices: A Case Study on OnePlus 13R**|Pablo Robin Guerrero, Yueyang Pan, Sanidhya Kashyap|[2507.08505v2](http://arxiv.org/abs/2507.08505v2)|null|
 |**2025-07-10**|**Rethinking Query-based Transformer for Continual Image Segmentation**|Yuchen Zhu, Cheng Shi, Dingyou Wang, Jiajin Tang, Zhengxuan Wei, Yu Wu, Guanbin Li, Sibei Yang|[2507.07831v1](http://arxiv.org/abs/2507.07831v1)|null|
 |**2025-07-10**|**Attend-and-Refine: Interactive keypoint estimation and quantitative cervical vertebrae analysis for bone age assessment**|Jinhee Kim, Taesung Kim, Taewoo Kim, Dong-Wook Kim, Byungduk Ahn, Yoon-Ji Kim, In-Seok Song, Jaegul Choo|[2507.07670v1](http://arxiv.org/abs/2507.07670v1)|null|
 |**2025-07-07**|**Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations**|Xiang Xu, Lingdong Kong, Song Wang, Chuanwei Zhou, Qingshan Liu|[2507.05260v1](http://arxiv.org/abs/2507.05260v1)|null|
