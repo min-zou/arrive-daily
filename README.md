@@ -1,6 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari, David Hyunchul Shim|[2507.13145v1](http://arxiv.org/abs/2507.13145v1)|null|
+|**2025-07-17**|**MoCap2GT: A High-Precision Ground Truth Estimator for SLAM Benchmarking Based on Motion Capture and IMU Fusion**|Zichao Shu, Shitao Bei, Jicheng Dai, Lijun Li, Zetao Chen|[2507.12920v1](http://arxiv.org/abs/2507.12920v1)|null|
 |**2025-07-16**|**Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot**|Luca Garello, Francesca Cocchella, Alessandra Sciutti, Manuel Catalano, Francesco Rea|[2507.12273v2](http://arxiv.org/abs/2507.12273v2)|null|
 |**2025-07-16**|**Tree-SLAM: semantic object SLAM for efficient mapping of individual trees in orchards**|David Rapado-Rincon, Gert Kootstra|[2507.12093v1](http://arxiv.org/abs/2507.12093v1)|null|
 |**2025-07-11**|**Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework**|Deteng Zhang, Junjie Zhang, Yan Sun, Tao Li, Hao Yin, Hongzhao Xie, Jie Yin|[2507.08364v1](http://arxiv.org/abs/2507.08364v1)|null|
@@ -9,8 +11,6 @@
 |**2025-07-08**|**Mapping the Catacombs: An Underwater Cave Segment of the Devil's Eye System**|Michalis Chatzispyrou, Luke Horgan, Hyunkil Hwang, Harish Sathishchandra, Monika Roznere, Alberto Quattrini Li, Philippos Mordohai, Ioannis Rekleitis|[2507.06397v1](http://arxiv.org/abs/2507.06397v1)|null|
 |**2025-07-08**|**Cooperative Mapping, Localization, and Beam Management via Multi-Modal SLAM in ISAC Systems**|Hang Que, Jie Yang, Tao Du, Shuqiang Xia, Chao-Kai Wen, Shi Jin|[2507.05718v1](http://arxiv.org/abs/2507.05718v1)|null|
 |**2025-07-07**|**Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**|Tao Du, Jie Yang, Fan Liu, Jiaxiang Guo, Shuqiang Xia, Chao-Kai Wen, Shi Jin|[2507.04662v1](http://arxiv.org/abs/2507.04662v1)|null|
-|**2025-07-06**|**Lidar Variability: A Novel Dataset and Comparative Study of Solid-State and Spinning Lidars**|Doumegna Mawuto Koudjo Felix, Xianjia Yu, Jiaqiang Zhang, Sier Ha, Zhuo Zou, Tomi Westerlund|[2507.04321v1](http://arxiv.org/abs/2507.04321v1)|null|
-|**2025-07-05**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang, Jiajun Lv, Kai Tang, Laijian Li, Jianxin Huang, Lina Liu, Yong Liu, Xingxing Zuo|[2507.04004v2](http://arxiv.org/abs/2507.04004v2)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**AutoPartGen: Autogressive 3D Part Generation and Discovery**|Minghao Chen, Jianyuan Wang, Roman Shapovalov, Tom Monnier, Hyunyoung Jung, Dilin Wang, Rakesh Ranjan, Iro Laina, Andrea Vedaldi|[2507.13346v1](http://arxiv.org/abs/2507.13346v1)|null|
 |**2025-07-16**|**SpatialTrackerV2: 3D Point Tracking Made Easy**|Yuxi Xiao, Jianyuan Wang, Nan Xue, Nikita Karaev, Yuri Makarov, Bingyi Kang, Xing Zhu, Hujun Bao, Yujun Shen, Xiaowei Zhou|[2507.12462v1](http://arxiv.org/abs/2507.12462v1)|null|
 |**2025-07-16**|**Revealing the Ancient Beauty: Digital Reconstruction of Temple Tiles using Computer Vision**|Arkaprabha Basu|[2507.12195v1](http://arxiv.org/abs/2507.12195v1)|null|
 |**2025-07-16**|**BRUM: Robust 3D Vehicle Reconstruction from 360 Sparse Images**|Davide Di Nucci, Matteo Tomei, Guido Borghi, Luca Ciuffreda, Roberto Vezzani, Rita Cucchiara|[2507.12095v1](http://arxiv.org/abs/2507.12095v1)|null|
@@ -101,7 +102,6 @@
 |**2025-07-14**|**Binomial Self-Compensation: Mechanism and Suppression of Motion Error in Phase-Shifting Profilometry**|Geyou Zhang, Kai Liu, Ce Zhu|[2507.10009v1](http://arxiv.org/abs/2507.10009v1)|null|
 |**2025-07-11**|**An Efficient Approach for Muscle Segmentation and 3D Reconstruction Using Keypoint Tracking in MRI Scan**|Mengyuan Liu, Jeongkyu Lee|[2507.08690v1](http://arxiv.org/abs/2507.08690v1)|null|
 |**2025-07-11**|**Adaptive Framework for Ambient Intelligence in Rehabilitation Assistance**|Gábor Baranyi, Zsolt Csibi, Kristian Fenech, Áron Fóthi, Zsófia Gaál, Joul Skaf, András Lőrincz|[2507.08624v1](http://arxiv.org/abs/2507.08624v1)|null|
-|**2025-07-11**|**Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT**|Wei Zhang, Yihang Wu, Songhua Li, Wenjie Ma, Xin Ma, Qiang Li, Qi Wang|[2507.08448v1](http://arxiv.org/abs/2507.08448v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
