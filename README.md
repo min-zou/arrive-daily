@@ -69,7 +69,7 @@
 |**2025-07-17**|**Uncertainty Quantification Framework for Aerial and UAV Photogrammetry through Error Propagation**|Debao Huang, Rongjun Qin|[2507.13486v1](http://arxiv.org/abs/2507.13486v1)|null|
 |**2025-07-16**|**Enhancing In-Domain and Out-Domain EmoFake Detection via Cooperative Multilingual Speech Foundation Models**|Orchid Chetia Phukan, Mohd Mujtaba Akhtar, Girish, Arun Balaji Buduru|[2507.12595v1](http://arxiv.org/abs/2507.12595v1)|null|
 |**2025-07-16**|**Spatial Frequency Modulation for Semantic Segmentation**|Linwei Chen, Ying Fu, Lin Gu, Dezhi Zheng, Jifeng Dai|[2507.11893v1](http://arxiv.org/abs/2507.11893v1)|null|
-|**2025-07-14**|**Supporting SENĆOTEN Language Documentation Efforts with Automatic Speech Recognition**|Mengzhe Geng, Patrick Littell, Aidan Pine, PENÁĆ, Marc Tessier, Roland Kuhn|[2507.10827v1](http://arxiv.org/abs/2507.10827v1)|null|
+|**2025-07-14**|**Supporting SENCOTEN Language Documentation Efforts with Automatic Speech Recognition**|Mengzhe Geng, Patrick Littell, Aidan Pine, PENÁĆ, Marc Tessier, Roland Kuhn|[2507.10827v2](http://arxiv.org/abs/2507.10827v2)|null|
 |**2025-07-11**|**Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT**|Wei Zhang, Yihang Wu, Songhua Li, Wenjie Ma, Xin Ma, Qiang Li, Qi Wang|[2507.08448v1](http://arxiv.org/abs/2507.08448v1)|null|
 |**2025-07-04**|**MGSfM: Multi-Camera Geometry Driven Global Structure-from-Motion**|Peilin Tao, Hainan Cui, Diantao Tu, Shuhan Shen|[2507.03306v1](http://arxiv.org/abs/2507.03306v1)|null|
 |**2025-06-30**|**Towards Initialization-free Calibrated Bundle Adjustment**|Carl Olsson, Amanda Nilsson|[2506.23808v1](http://arxiv.org/abs/2506.23808v1)|null|
@@ -92,16 +92,16 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-17**|**AutoPartGen: Autogressive 3D Part Generation and Discovery**|Minghao Chen, Jianyuan Wang, Roman Shapovalov, Tom Monnier, Hyunyoung Jung, Dilin Wang, Rakesh Ranjan, Iro Laina, Andrea Vedaldi|[2507.13346v1](http://arxiv.org/abs/2507.13346v1)|null|
-|**2025-07-16**|**SpatialTrackerV2: 3D Point Tracking Made Easy**|Yuxi Xiao, Jianyuan Wang, Nan Xue, Nikita Karaev, Yuri Makarov, Bingyi Kang, Xing Zhu, Hujun Bao, Yujun Shen, Xiaowei Zhou|[2507.12462v1](http://arxiv.org/abs/2507.12462v1)|null|
+|**2025-07-18**|**C-DOG: Training-Free Multi-View Multi-Object Association in Dense Scenes Without Visual Feature via Connected δ-Overlap Graphs**|Yung-Hong Sun, Ting-Hung Lin, Jiangang Chen, Hongrui Jiang, Yu Hen Hu|[2507.14095v1](http://arxiv.org/abs/2507.14095v1)|null|
+|**2025-07-18**|**Moving Object Detection from Moving Camera Using Focus of Expansion Likelihood and Segmentation**|Masahiro Ogawa, Qi An, Atsushi Yamashita|[2507.13628v1](http://arxiv.org/abs/2507.13628v1)|null|
+|**2025-07-17**|**AutoPartGen: Autogressive 3D Part Generation and Discovery**|Minghao Chen, Jianyuan Wang, Roman Shapovalov, Tom Monnier, Hyunyoung Jung, Dilin Wang, Rakesh Ranjan, Iro Laina, Andrea Vedaldi|[2507.13346v2](http://arxiv.org/abs/2507.13346v2)|null|
+|**2025-07-16**|**SpatialTrackerV2: 3D Point Tracking Made Easy**|Yuxi Xiao, Jianyuan Wang, Nan Xue, Nikita Karaev, Yuri Makarov, Bingyi Kang, Xing Zhu, Hujun Bao, Yujun Shen, Xiaowei Zhou|[2507.12462v2](http://arxiv.org/abs/2507.12462v2)|null|
 |**2025-07-16**|**Revealing the Ancient Beauty: Digital Reconstruction of Temple Tiles using Computer Vision**|Arkaprabha Basu|[2507.12195v1](http://arxiv.org/abs/2507.12195v1)|null|
 |**2025-07-16**|**BRUM: Robust 3D Vehicle Reconstruction from 360 Sparse Images**|Davide Di Nucci, Matteo Tomei, Guido Borghi, Luca Ciuffreda, Roberto Vezzani, Rita Cucchiara|[2507.12095v1](http://arxiv.org/abs/2507.12095v1)|null|
 |**2025-07-16**|**HPR3D: Hierarchical Proxy Representation for High-Fidelity 3D Reconstruction and Controllable Editing**|Tielong Wang, Yuxuan Xiong, Jinfan Liu, Zhifan Zhang, Ye Chen, Yue Shi, Bingbing Ni|[2507.11971v1](http://arxiv.org/abs/2507.11971v1)|null|
 |**2025-07-16**|**CorrMoE: Mixture of Experts with De-stylization Learning for Cross-Scene and Cross-Domain Correspondence Pruning**|Peiwen Xia, Tangfei Liao, Wei Zhu, Danhuai Zhao, Jianjun Ke, Kaihao Zhang, Tong Lu, Tao Wang|[2507.11834v1](http://arxiv.org/abs/2507.11834v1)|null|
 |**2025-07-15**|**Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**|Zhen Xu, Hongyu Zhou, Sida Peng, Haotong Lin, Haoyu Guo, Jiahao Shao, Peishan Yang, Qinglin Yang, Sheng Miao, Xingyi He, Yifan Wang, Yue Wang, Ruizhen Hu, Yiyi Liao, Xiaowei Zhou, Hujun Bao|[2507.11540v1](http://arxiv.org/abs/2507.11540v1)|null|
 |**2025-07-14**|**Binomial Self-Compensation: Mechanism and Suppression of Motion Error in Phase-Shifting Profilometry**|Geyou Zhang, Kai Liu, Ce Zhu|[2507.10009v1](http://arxiv.org/abs/2507.10009v1)|null|
-|**2025-07-11**|**An Efficient Approach for Muscle Segmentation and 3D Reconstruction Using Keypoint Tracking in MRI Scan**|Mengyuan Liu, Jeongkyu Lee|[2507.08690v1](http://arxiv.org/abs/2507.08690v1)|null|
-|**2025-07-11**|**Adaptive Framework for Ambient Intelligence in Rehabilitation Assistance**|Gábor Baranyi, Zsolt Csibi, Kristian Fenech, Áron Fóthi, Zsófia Gaál, Joul Skaf, András Lőrincz|[2507.08624v1](http://arxiv.org/abs/2507.08624v1)|null|
 ## Depth Estimation
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -133,7 +133,7 @@
 |---|---|---|---|---|
 |**2025-07-18**|**GOSPA and T-GOSPA quasi-metrics for evaluation of multi-object tracking algorithms**|Ángel F. García-Fernández, Jinhao Gu, Lennart Svensson, Yuxuan Xia, Jan Krejčí, Oliver Kost, Ondřej Straka|[2507.13706v1](http://arxiv.org/abs/2507.13706v1)|null|
 |**2025-07-17**|**MVA 2025 Small Multi-Object Tracking for Spotting Birds Challenge: Dataset, Methods, and Results**|Yuki Kondo, Norimichi Ukita, Riku Kanayama, Yuki Yoshida, Takayuki Yamaguchi, Xiang Yu, Guang Liang, Xinyao Liu, Guan-Zhang Wang, Wei-Ta Chu, Bing-Cheng Chuang, Jia-Hua Lee, Pin-Tseng Kuo, I-Hsuan Chu, Yi-Shein Hsiao, Cheng-Han Wu, Po-Yi Wu, Jui-Chien Tsou, Hsuan-Chi Liu, Chun-Yi Lee, Yuan-Fu Yang, Kosuke Shigematsu, Asuka Shin, Ba Tran|[2507.12832v1](http://arxiv.org/abs/2507.12832v1)|null|
-|**2025-07-16**|**YOLOv8-SMOT: An Efficient and Robust Framework for Real-Time Small Object Tracking via Slice-Assisted Training and Adaptive Association**|Xiang Yu, Xinyao Liu, Guang Liang|[2507.12087v1](http://arxiv.org/abs/2507.12087v1)|null|
+|**2025-07-16**|**YOLOv8-SMOT: An Efficient and Robust Framework for Real-Time Small Object Tracking via Slice-Assisted Training and Adaptive Association**|Xiang Yu, Xinyao Liu, Guang Liang|[2507.12087v2](http://arxiv.org/abs/2507.12087v2)|null|
 |**2025-07-14**|**OpenHuman4D: Open-Vocabulary 4D Human Parsing**|Keito Suzuki, Bang Du, Runfa Blark Li, Kunyao Chen, Lei Wang, Peng Liu, Ning Bi, Truong Nguyen|[2507.09880v1](http://arxiv.org/abs/2507.09880v1)|null|
 |**2025-07-12**|**On the Fragility of Multimodal Perception to Temporal Misalignment in Autonomous Driving**|Md Hasan Shahriar, Md Mohaimin Al Barat, Harshavardhan Sundar, Naren Ramakrishnan, Y. Thomas Hou, Wenjing Lou|[2507.09095v1](http://arxiv.org/abs/2507.09095v1)|null|
 |**2025-07-11**|**SAM2RL: Towards Reinforcement Learning Memory Control in Segment Anything Model 2**|Alen Adamyan, Tomáš Čížek, Matej Straka, Klara Janouskova, Martin Schmid|[2507.08548v1](http://arxiv.org/abs/2507.08548v1)|null|
